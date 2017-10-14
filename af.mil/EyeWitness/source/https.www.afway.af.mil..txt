@@ -1,0 +1,635 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="k-safari k-safari538"><head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=10;chrome=1"><meta charset="utf-8"><title>
+	Home Page
+</title><link href="Content/CSS/Site.Master.css" rel="stylesheet" type="text/css"><link href="Content/CSS/NavigationMenu.css" rel="stylesheet" type="text/css"><link href="Content/CSS/jquery.validity.css" rel="stylesheet" type="text/css"><link href="Content/CSS/jquery-ui.css" rel="stylesheet" type="text/css">
+    <link href="Content/css/default.css" rel="stylesheet" type="text/css">
+<link href="Content/CSS/Site.css" rel="stylesheet" type="text/css">
+        <script type="text/javascript">            
+            
+
+            var site = {
+                user: {
+            
+                    isAuthenticated: 'False'
+                },
+                // html element client side id's
+                id: {
+                    wndAlias: 'ctl00_wndAlias'
+                },
+                config: {
+                    url: 'https://www.afway.af.mil/',
+                    page: 'Default.aspx'
+                }
+            };
+        </script>
+    <link href="/Telerik.Web.UI.WebResource.axd?compress=1&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2014.1.225.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3afe3df733-ee56-4563-8789-bc399360084a%3a3e0dfe6c%3ae7750fd8" type="text/css" rel="stylesheet"></head>
+<body>
+    <div id="cover" class="loading-overlay" style="visibility: hidden; display: none;">
+        <h2 style="">
+            <span>L</span>
+            <span>o</span>
+            <span>a</span>
+            <span>d</span>
+            <span>i</span>
+            <span>n</span>
+            <span>g</span>
+            <span>.</span>
+            <span>.</span>
+            <span>.</span>
+        </h2>
+    </div>
+    
+    <script src="Content/JS/jquery.js"></script>
+    <div id="ctl00_windowMgr" style="display:none;">
+	<!-- 2014.1.225.40 --><div id="ctl00_wndAlias" style="display:none;">
+		<div id="ctl00_wndAlias_C" style="display:none;">
+			
+                    <div id="divAlias">
+                    </div>
+                
+		</div><input id="ctl00_wndAlias_ClientState" name="ctl00_wndAlias_ClientState" type="hidden" autocomplete="off">
+	</div><div id="ctl00_windowMgr_alerttemplate" style="display:none;">
+		<div class="rwDialog rwAlertDialog">
+			<div class="rwDialogContent">
+				<div class="rwDialogMessage">{1}</div>
+			</div>
+			<div class="rwDialogButtons">
+				<input type="button" value="OK" class="rwOkBtn" onclick="$find('{0}').close(true); return false;">
+			</div>
+		</div>
+		</div><div id="ctl00_windowMgr_prompttemplate" style="display:none;">
+		 <div class="rwDialog rwPromptDialog">
+			<div class="rwDialogContent">
+				<div class="rwDialogMessage">{1}</div>
+				<div class="rwPromptInputContainer">
+					<script type="text/javascript">
+						function RadWindowprompt_detectenter(id, ev, input)
+						{
+							if (!ev) ev = window.event;
+							if (ev.keyCode == 13)
+							{
+								var but = input.parentNode.parentNode.getElementsByTagName("A")[0];
+								if (but)
+								{
+									if (but.click) but.click();
+									else if (but.onclick)
+									{
+										but.focus(); var click = but.onclick; but.onclick = null; if (click) click.call(but);
+									}
+								}
+								return false;
+							}
+							else return true;
+						}
+						</script>
+					<input title="Enter Value" onkeydown="return RadWindowprompt_detectenter('{0}', event, this);" type="text" class="rwPromptInput radPreventDecorate" value="{2}">
+				</div>
+			</div>
+			<div class="rwDialogButtons">
+				<input type="button" value="OK" class="rwOkBtn" onclick="$find('{0}').close(this.parentNode.parentNode.getElementsByTagName('input')[0].value); return false;">
+				<input type="button" value="Cancel" class="rwCancelBtn" onclick="$find('{0}').close(null); return false;">
+			</div>
+		</div>
+
+		</div><div id="ctl00_windowMgr_confirmtemplate" style="display:none;">
+		<div class="rwDialog rwConfirmDialog">
+			<div class="rwDialogContent">
+				<div class="rwDialogMessage">{1}</div>
+			</div>
+			<div class="rwDialogButtons">
+				<input type="button" value="OK" class="rwOkBtn" onclick="$find('{0}').close(true); return false;">
+				<input type="button" value="Cancel" class="rwCancelBtn" onclick="$find('{0}').close(false); return false;">
+			</div>
+		</div>
+		</div><input id="ctl00_windowMgr_ClientState" name="ctl00_windowMgr_ClientState" type="hidden">
+</div>
+
+    <form method="post" action="./Default.aspx" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="CssManager_TSSM" id="CssManager_TSSM" value=";Telerik.Web.UI, Version=2014.1.225.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:fe3df733-ee56-4563-8789-bc399360084a:3e0dfe6c:e7750fd8">
+<input type="hidden" name="RadScriptManager1_TSM" id="RadScriptManager1_TSM" value=";;AjaxControlToolkit, Version=4.1.7.123, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e:en-US:44981e4a-f654-4c69-b806-cb922fc13d56:ea597d4b:b25378d2;Telerik.Web.UI:en-US:fe3df733-ee56-4563-8789-bc399360084a:16e4e7cd:365331c3:24ee1bba:f46195d3:874f8ea2:92fe8ea0:19620875:fa31b949:490a9d4e:bd8f85e4">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZI1cN4pFT8w-9uwHFPI0flIbUTBYmQo_NUZVqHWpN9oMWtKRoilM-9TGZ26-Fv0tRA2&amp;t=636396441760000000" type="text/javascript"></script>
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.7.123%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a44981e4a-f654-4c69-b806-cb922fc13d56%3aea597d4b%3ab25378d2%3bTelerik.Web.UI%3aen-US%3afe3df733-ee56-4563-8789-bc399360084a%3a16e4e7cd%3a365331c3%3a24ee1bba%3af46195d3%3a874f8ea2%3a92fe8ea0%3a19620875%3afa31b949%3a490a9d4e%3abd8f85e4" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="Content/JS/jquery.maskedinput.js" type="text/javascript"></script>
+<script src="Content/JS/jquery.tmpl.js" type="text/javascript"></script>
+<script src="Content/JS/AFWay.util.js" type="text/javascript"></script>
+<script src="Content/JS/Site.Master.js" type="text/javascript"></script>
+<script src="Content/JS/jquery-ui.js" type="text/javascript"></script>
+<script src="Content/JS/NavigationMenu.js" type="text/javascript"></script>
+<script src="Content/JS/bootstrap.js" type="text/javascript"></script>
+<script src="Content/JS/kendo.web.js" type="text/javascript"></script>
+<script src="Content/JS/json2.js" type="text/javascript"></script>
+<script src="Content/JS/mousetrap.js" type="text/javascript"></script>
+<script src="Content/JS/jquery.html5.placeholder.js" type="text/javascript"></script>
+<script src="Content/JS/jquery.multiselect.js" type="text/javascript"></script>
+<script src="Content/JS/html5.js" type="text/javascript"></script>
+<script src="Content/JS/app/framework.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="hRZxXDymXolDe4Kc9oIOqovugP8eCGN0M13kwRGewpsgxURcDIFuR3esgsQjhMWgG5D0o4i1Y72F8gvpZBzERt9WKq7zIzxnRFmJV5lvMT16ZQPMFpKxvuADStR/lK6HM11PBPXLCye+oKUZd0iFhA==">
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$RadScriptManager1', 'Form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+
+
+
+
+        <div id="divSiteContent">
+
+            <div id="divSiteHeader">
+                <div id="divLogin">
+                    
+
+                    <a href="PKI/CertRegistration.ashx" id="aRegister" class="keynav-enabled"><span class="nav-key">R</span>egister</a>
+                    <a id="lnkLogOn" class="keynav-enabled" href="javascript:__doPostBack('ctl00$lnkLogOn','')"><span id="Span1" class="nav-key">L</span>og On</a>
+
+                    
+                </div>
+                
+                <div id="divNavArea">
+                    <div id="divLogo">
+                        <img src="Content/IMG/AFWayLogo.png" alt="AFWay Logo">
+                        <span id="lblAfway">AFWAY</span>
+                    </div>
+                    
+                    
+
+                    
+<div id="divNav">
+    <ul id="ucNavigationMenu_ulNavigation" class="ulNavigation" depth="0" style=""><li style=""><a href="https://www.afway.af.mil/default.aspx" target="none" tabindex="0" style="">Home</a></li><li style=""><a href="#" tabindex="-1" style="">Resources</a><ul depth="1" style=""><li style=""><a href="#" tabindex="-1" style="">General » </a><ul depth="2" style=""><li style=""><a href="http://www.esi.mil/" target="_blank" tabindex="-1" style="">DoD Software Agreements (ESI)</a></li><li style=""><a href="https://www.fbo.gov/" target="_blank" tabindex="-1" style="">FEDBizOps</a></li><li style=""><a href="https://www.afway.af.mil/MajcomPolicies.aspx" target="_parent" tabindex="-1" style="">MAJCOM Policies</a></li><li style=""><a href="https://www.afway.af.mil/Attachments/afman17_1203.pdf" target="_blank" tabindex="-1" style="">Mandatory Use Policies</a></li><li style=""><a href="http://www.esi.mil/ContentView.aspx?Id=538" target="_blank" tabindex="-1" style="">Microsoft License Agreement</a></li></ul></li><li style=""><a href="#" tabindex="-1" style="">ITCC » </a><ul depth="2" style=""><li style=""><a href="https://www.my.af.mil/gcss-af/USAF/ep/globalTab.do?channelPageId=s6925EC134D400FB5E044080020E329A9" target="_blank" tabindex="-1" style="">ITCC Program Portal</a></li></ul></li><li style=""><a href="#" tabindex="-1" style="">NETCENTS » </a><ul depth="2" style=""><li style=""><a href="http://www.netcents.af.mil" target="_blank" tabindex="-1" style="">NETCENTS-2 Portal</a></li><li style=""><a href="http://www.netcents.af.mil/Contracts/NETCENTS-2/" target="_blank" tabindex="-1" style="">NETCENTS-2 Ordering Guide</a></li></ul></li><li style=""><a href="https://www.afway.af.mil/ViewHeadlines.aspx" target="_parent" tabindex="-1" style="">News</a></li><li style=""><a href="#" tabindex="-1" style="">Guides » </a><ul depth="2" style=""><li style=""><a href="https://www.afway.af.mil/Attachments/DPI_PSC2017_PAPER_CATALOG_v1.3.pdf" target="none" tabindex="-1" style="">DPI Ordering Guide</a></li><li style=""><a href="https://www.afway.af.mil/Attachments/2017B_CATALOG_V5.pdf" target="_blank" tabindex="-1" style="">QEB 2017B / CCS-2 Ordering Guide</a></li><li style=""><a href="https://www.afway.af.mil/Attachments/AFWAYVIrtualSmallBusinessCenter%20UPD.doc" target="_blank" tabindex="-1" style="">Virtual Small Business Center</a></li></ul></li></ul></li><li style=""><a href="#" tabindex="-1" style="">Help</a><ul depth="1" style=""><li style=""><a href="#" tabindex="-1" style="">AFWay User Guides » </a><ul depth="2" style=""><li style=""><a href="https://www.afway.af.mil/Attachments/AFWay_UG_Access_4.0.3.7.pdf" target="_blank" tabindex="-1" style="">Access/Roles/Credit Cards</a></li><li style=""><a href="https://www.afway.af.mil/Attachments/AFWay_UG_Orders_4.0.3.7.pdf" target="_blank" tabindex="-1" style="">RFQs/Waivers/Orders/Reports</a></li></ul></li><li style=""><a href="https://www.afway.af.mil/Attachments/AFWay_Vendor_Guide_4.0.3.5.pdf" target="_parent" tabindex="-1" style="">AFWay Vendor Guide</a></li><li style=""><a href="https://www.afway.af.mil/Attachments/Public_Key_Enabling_Firefox.docx" target="_parent" tabindex="-1" style="">Firefox Cert Help</a></li><li style=""><a href="https://www.afway.af.mil/FAQ.aspx" target="_parent" tabindex="-1" style="">FAQ</a></li><li style=""><a href="https://www.afway.af.mil/ContactUs.aspx" target="_parent" tabindex="-1" style="">Contact Us</a></li></ul></li></ul>    
+</div>
+                </div>
+            </div>
+            <div id="divContentPlaceHolder">
+                <a id="content-area"></a>
+                
+
+    <div id="divCenter">
+        <div id="divLeft">
+            <span>AFWay enables customers to order Information Technology (IT) hardware and software,
+                and obtain the necessary approvals to make an IT purchase. AFWay provides a secure,
+                efficient and convenient online shopping experience. Everything the customer needs
+                is available, literally, at the click of a button. </span>
+        </div>
+        <div id="divRight">
+            <div>
+                <div>
+                    <img src="Content/IMG/default/computer.jpg" alt="AFWay Services">
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="Content/IMG/default/data.jpg" alt="AFWay Services">
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="Content/IMG/default/af.jpg" alt="AFWay Services">
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="Content/IMG/default/printer.jpg" alt="AFWay Services">
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    <div id="divHeadlines">
+        
+<link href="../Content/css/Headlines.css" rel="stylesheet" type="text/css">
+<div class="Banner">
+    </div>
+<div class="TopArticles">
+    <div id="TopArticleA" class="TopArticle">
+        <div id="MainContent_ucHeadlines_spnHeaderOne" class="TopArticleCategory">
+            
+        </div>
+        <div class="TopArticleHeader">
+            The new order HOLD feature!!
+        </div>
+        <div class="ContentAB">
+            The HOLD feature was added to allow Vendors to meet mandatory response times when an order is missing vital information, without having to automatically decline the order.  This could include, but is not limited to, Invalid Credit Card information, Insufficient Funds, Invalid Contact Information, Missing Documentation, etc.----------When a Vendor places an order on Hold, AFWay automatically<div class="full-size text-right"><a href="ViewArticle.aspx?ODEMKWdKSCk=" class="NewsHeadlineLink">[ Continue reading... ]</a></div>
+        </div>
+    </div>
+    <div id="TopArticleB" class="TopArticle">
+        <div id="MainContent_ucHeadlines_spnHeaderTwo" class="TopArticleCategory">
+            </div>
+        <div class="TopArticleHeader">
+            NETCENTS App Services SB Vendors Graduating to App Services Full &amp; Open
+        </div>
+        <div class="ContentAB">
+            ALCON - Effective 21 June 2017, five (5) Application Services Small Business vendors and their corresponding contract numbers will be graduating into the Application Services Full and Open pool.  These contract numbers will no longer be associated with the Application Services Small Business set of vendors in AFWay.-----
+
+After midnight CST of 20 June 2017, these vendors will be ineligible to<div class="full-size text-right"><a href="ViewArticle.aspx?eXRJ5gqML6k=" class="NewsHeadlineLink">[ Continue reading... ]</a></div>
+        </div>
+    </div>
+</div>
+    </div>
+    
+<link href="../Content/CSS/UserAgreement.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="Content/JS/UserAgreement.js"></script>
+<div id="MainContent_ucUserAgreement_divUserAgreement" class="divUserAgreement" role="dialog" aria-labelledby="DoDNaC">
+    <div id="divUA_Overlay">
+    </div>
+    <div id="divUA_Msg">
+        <div>
+            <h4 id="DoDNaC">DOD NOTICE AND CONSENT BANNER</h4>
+            <p>You are accessing a U.S. Government (USG) Information System (IS) that is provided
+                for USG-authorized use only. </p>
+            <p>By using this IS (which includes any device attached to this IS), you consent to
+                the following conditions: </p>
+            <ul>
+                <li>The USG routinely intercepts and monitors communications on this IS for purposes
+                    including, but not limited to, penetration testing, COMSEC monitoring, network operations
+                    and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence
+                    (CI) investigations. </li>
+                <li>At any time, the USG may inspect and seize data stored on this IS. </li>
+                <li>Communications using, or data stored on, this IS are not private, are subject to
+                    routine monitoring, interception, and search, and may be disclosed or used for any
+                    USG-authorized purpose. </li>
+                <li>This IS includes security measures (e.g., authentication and access controls) to
+                    protect USG interests--not for your personal benefit or privacy. </li>
+                <li>Notwithstanding the above, using this IS does not constitute consent to PM, LE or
+                    CI investigative searching or monitoring of the content of privileged communications,
+                    or work product, related to personal representation or services by attorneys, psychotherapists,
+                    or clergy, and their assistants. Such communications and work product are private
+                    and confidential. See User Agreement for details. </li>
+            </ul>
+        </div>
+        <center>
+            <input type="submit" name="ctl00$MainContent$ucUserAgreement$btnAgree" value="Agree" id="btnAgree" class="btnAgree">
+        </center>
+    </div>
+</div>
+
+    <script>
+
+        var q = {
+
+            products: {
+                ducks: {
+
+                }
+            }
+
+        }
+
+
+        // initial data to be validated
+        var rfq = {
+            id: 'asd', // invalid. needs to be an integer
+            products: [
+                { id: 1, name: '!@#' }, // invalid. needs to be 'abc'
+                { id: 2, name: 'abc' },
+                { id: 3, name: 'abc' },
+                { id: 4, name: 'abc' },
+                { id: 5, name: '!@#' } // invalid. needs to be 'abc'
+            ],
+            address: {
+                name: '!@#', // invalid. needs to be 'abc'
+                state: 'AL'
+            }
+        };
+
+        // from the server
+        var erz = {
+            message: 'oh noes!',
+            errors: {
+                'id': ['needs to be an integer'],
+                'products$[id:1].name': ['name needs to be "abc"'],
+                'products$[id:5].name': ['name needs to be "abc"'],
+                'address.name': ['name needs to be "abc"']
+            }
+        };
+
+        // after client side parsing
+        var fin = {
+            id: 'needs to be an interger',
+            address: {
+                name: 'name needs to be abc'
+            },
+            products: [
+                {  __key: 1,
+                    errors: {
+                        name: 'name needs to be "abc"'
+                    }
+                }, { __key: 5,
+                    errors: {
+                        name: 'name needs to be "abc"'
+                    }
+                }
+            ]
+        };
+
+
+
+        // Post parsing, errors bound to model (only when they can't be displayed)
+        var rfq = {
+            id: 'asd', // invalid. needs to be an integer
+            products: [
+                { id: 1, name: '!@#' }, // invalid. needs to be 'abc'
+                { id: 2, name: 'abc' },
+                { id: 3, name: 'abc' },
+                { id: 4, name: 'abc' },
+                { id: 5, name: '!@#' } // invalid. needs to be 'abc'
+            ],
+            address: {
+                name: '!@#', // invalid. needs to be 'abc'
+                state: 'AL'
+            },
+            __errors: {
+                id: 'needs to be an interger',
+                address: {
+                    name: 'name needs to be abc'
+                },
+                products: [
+                    {
+                        __key: 1,
+                        errors: {
+                            name: 'name needs to be "abc"'
+                        }
+                    }, {
+                        __key: 5,
+                        errors: {
+                            name: 'name needs to be "abc"'
+                        }
+                    }
+                ]
+            }
+        };
+
+
+        var q = {
+            id: 'omg!',
+            name: 'bad name',
+            address: {
+                city: 'wrong',
+                geolocation: {
+                    lat: 'boo',
+                    long: 'bam'
+                }
+            }
+        }
+
+
+
+
+        function sadTime() {
+
+            var depth = [],
+                identifiers = {},
+                hashMap = {
+
+                },
+                // private scope
+                __ = {
+                    extend: function () {
+                        var parts = depth,
+                            parent = hashMap;
+
+                        for (var i = 0; i < parts.length; i++) {
+                            //create a property if it doesnt exist
+                            if (typeof parent[parts[i]] == 'undefined') {
+                                parent[parts[i]] = {};
+                            }
+
+                            parent = parent[parts[i]];
+                        }
+
+                        return parent;
+                    },
+                    inner: function () {
+                        var parts = depth,
+                            parent = hashMap;
+
+                        for (var i = 0; i < parts.length; i++) {
+                            parent = parent[parts[i]];
+                        }
+
+                        return parent;
+                    },
+                    addOne: function (error, prop) {
+                        prop = depth.length > 0 ? depth.join('.') + '.' + prop : prop;
+                        hashMap[prop] = error;
+                    },
+                    addMany: function (error, props) {
+                        props.forEach(function (prop) {
+                            __.extend()[prop] = error;
+                        });
+                    },
+                    forOne: function (name, optID) {
+                        var args = Array.prototype.slice.call(arguments);
+                        depth.push(name);
+                        if (optID) {
+                            identifiers[name] = optID;
+                        }
+                    },
+                };
+
+            this.add = function (error, props) {
+                var args = Array.prototype.slice.call(arguments);
+                if (Array.isArray(props)) {
+                    // .add('oh no', ['rfqID','contractNo']);
+                    __.addMany(error, props);
+                } else if (typeof props == 'string') {
+                    // .add('oh no', 'contractNo');
+                    __.addOne(error, props);
+                }
+
+                return this;
+            };
+            this.for = function (name, optID) {
+                __.forOne(name, optID);
+                return this;
+            };
+            this.parent = function (error, props) {
+                var removed = depth.pop();
+                // remove them if they exist.
+                delete identifiers[removed];
+
+                return this.add(error, props);
+            };
+            this.revert = function () {
+                var removed = depth.pop();
+                // remove them if they exist.
+                delete identifiers[removed];
+
+                return this;
+            };
+            this.toString = function () {
+                return JSON.stringify(hashMap);
+            };
+
+            this.errors = hashMap;
+        };
+
+        function happyTime() {
+
+            var depth = [],
+                identifiers = {},
+                hashMap = {
+
+                },
+                // private scope
+                __ = {
+                    extend: function () {
+                        var parts = depth,
+                            parent = hashMap;
+
+                        //if (parts[0] == "myApp") {
+                        //    parts = parts.slice(1);
+                        //}
+
+                        for (var i = 0; i < parts.length; i++) {
+                            //create a property if it doesnt exist
+                            if (typeof parent[parts[i]] == 'undefined') {
+                                parent[parts[i]] = {};
+                            }
+
+                            parent = parent[parts[i]];
+                        }
+
+                        return parent;
+                    },
+                    inner: function() {
+                        var parts = depth,
+                            parent = hashMap;
+
+                        for (var i = 0; i < parts.length; i++) {
+                            parent = parent[parts[i]];
+                        }
+
+                        return parent;
+                    },
+                    addOne: function (error, prop) {
+                        __.extend()[prop] = error;
+                    },
+                    addMany: function (error, props) {
+                        props.forEach(function (prop) {
+                            __.extend()[prop] = error;
+                        });
+                    },
+                    forOne: function (name, optID) {
+                        var args = Array.prototype.slice.call(arguments);
+                        depth.push(name);
+                        if (optID) {
+                            identifiers[name] = optID;
+                        }
+                    },
+                };
+
+            this.add = function (error, props) {
+                var args = Array.prototype.slice.call(arguments);
+                if (Array.isArray(props)) {
+                    // .add('oh no', ['rfqID','contractNo']);
+                    __.addMany(error, props);
+                } else if (typeof props == 'string') {
+                    // .add('oh no', 'contractNo');
+                    __.addOne(error, props);
+                }
+
+                return this;
+            };
+
+            this.for = function (name, optID) {
+                __.forOne(name, optID);
+                return this;
+            };
+            this.parent = function (error, props) {
+                var removed = depth.pop();
+                // remove them if they exist.
+                delete identifiers[removed];
+
+                return this.add(error, props);
+            };
+            this.revert = function () {
+                var removed = depth.pop();
+                // remove them if they exist.
+                delete identifiers[removed];
+
+                return this;
+            };
+
+            this.toString = function () {
+                return JSON.stringify(hashMap);
+            };
+
+            this.errors = hashMap;
+        };
+    </script>
+
+            </div>
+        </div>
+        
+
+        <div id="divHeaderBG">
+            <img id="imgAF" src="Content/IMG/AirForceLogo.png" alt="United States Air Force Logo">
+        </div>
+        <div id="divHeaderBorder2"></div>
+        
+        
+    
+
+<script type="text/javascript">
+//<![CDATA[
+;(function() {
+                        function loadHandler() {
+                            var hf = $get('CssManager_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Web.UI, Version=2014.1.225.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:fe3df733-ee56-4563-8789-bc399360084a:3e0dfe6c:e7750fd8';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {"_dockMode":true,"_renderMode":2,"behaviors":4,"clientStateFieldID":"ctl00_wndAlias_ClientState","enableShadow":true,"formID":"Form1","height":"300px","iconUrl":"../Content/IMG/favicon.ico","minimizeIconUrl":"../Content/IMG/favicon.ico","modal":true,"name":"wndAlias","skin":"Default","visibleStatusbar":false,"width":"400px"}, null, null, $get("ctl00_wndAlias"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindowManager, {"_renderMode":2,"clientStateFieldID":"ctl00_windowMgr_ClientState","formID":"Form1","iconUrl":"../Content/IMG/favicon.ico","minimizeIconUrl":"../Content/IMG/favicon.ico","name":"windowMgr","skin":"Default","visibleStatusbar":false,"windowControls":"['ctl00_wndAlias']"}, null, {"child":"ctl00_wndAlias"}, $get("ctl00_windowMgr"));
+});
+//]]>
+</script>
+</form>
+    <div id="divToggleCSS" tabindex="0" onclick="toggleCSS()" onkeyup="keyToggleCSS(event)" alt="Disable Stylesheets">Disable Stylesheets</div>
+    <div class="ui-widget-overlay ui-front afway-ui-widgets fully-hidden" id="overlay">
+    </div>
+
+
+
+
+</body></html>

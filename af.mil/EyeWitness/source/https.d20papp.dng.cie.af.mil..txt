@@ -1,0 +1,76 @@
+<!DOCTYPE html><html lang="en"><head>
+<title>Oracle Secure Global Desktop</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true, IE=Edge">
+<link rel="stylesheet" type="text/css" href="/sgd/resources/style/sgddialog.css">
+<link rel="stylesheet" type="text/css" href="/sgd/resources/style/buttons.css">
+<link rel="stylesheet" type="text/css" href="/sgd/resources/style/style.css">
+
+<meta name="apple-mobile-web-app-title" content="Oracle SGD">
+<link rel="apple-touch-icon-precomposed" href="/sgd/h5c/img/icon.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sgd/h5c/img/icon.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sgd/h5c/img/icon@2x.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sgd/h5c/img/icon144.png">
+
+
+
+
+<script type="text/javascript">
+function checkEnter() 
+{
+    if(window.event) {
+      if (window.event.keyCode == 13) {
+        document.getElementById('login').click();
+      }
+    }
+}
+
+function getIEVersion()
+{
+     var version = -1; 
+     if (navigator.appName != 'Microsoft Internet Explorer') 
+        return version;
+
+     var agent = navigator.userAgent;
+     var re = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+     if (re.exec(agent) != null)
+        version = parseFloat(RegExp.$1);
+          
+     return version;
+}
+
+
+/* This function adds event handlers to controls in IE8
+   so that submit on enter works
+   see CR:6969452 
+
+   IE detection based on : Giorgio Sardo's blog entry at 
+   http://blogs.msdn.com/b/giorgio/archive/2009/04/14/how-to-detect-ie8-using-javascript-client-side.aspx
+ */  
+function fixIE8()
+{
+     var version = getIEVersion();
+     if (version == -1 || version > 8.0)
+        return;
+
+         var el = document.getElementById("Username" );
+         el.attachEvent("onkeydown", checkEnter); 
+
+
+         var el = document.getElementById("Password" );
+         el.attachEvent("onkeydown", checkEnter); 
+
+
+
+}
+
+function showPage() {
+   if ( self == top ) {
+     document.getElementById('errorpage').style.display='none';
+     document.getElementById('realpage').style.visibility='visible';
+   } else {
+     top.location=self.location;
+   }
+}
+
+</script></head></html>

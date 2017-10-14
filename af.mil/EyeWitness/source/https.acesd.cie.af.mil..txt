@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+    <title>ACES-DoD Notice and Consent</title>
+    <style type="text/css">
+        p
+        {
+            color: #3f3f3f;
+            font-size: 12px;
+            line-height: 18px;
+        }
+        .lightboxBody .big
+        {
+            margin: 0;
+        }
+        .lightboxBody, .lightboxBottom, .lightboxTop
+        {
+            background: url(images/lightboxMiddle.png) repeat-y;
+            text-align: left;
+            width: 666px;
+        }
+        
+        .lightboxBottom
+        {
+            background: url(images/lightboxBottom.png) no-repeat;
+            height: 9px;
+        }
+        
+        .lightboxTop
+        {
+            background: url(images/lightboxTop.png) no-repeat;
+        }
+        
+        .lightboxBody h2
+        {
+            font-weight: bold;
+            padding-top: 8px;
+        }
+        
+        .lightboxBody h3, .lightboxBody p
+        {
+            margin-bottom: 25px;
+        }
+        
+        ul li a
+        {
+            font-size: 11px;
+        }
+        
+        ul.blue
+        {
+            font-size: 11px;
+            margin-bottom: 10px;
+        }
+        ul.blue li
+        {
+            background: none url(images/liArrowBlue.png) no-repeat 0 6px;
+            margin-bottom: 10px;
+            margin-top: 5px;
+            padding-left: 20px;
+        }
+        
+        
+        ul.tabnav li.inactive
+        {
+            background: url(images/tabInactive.png) repeat-x;
+            color: #fff;
+        }
+        
+        h3
+        {
+            color: #608a9b;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        
+        body
+        {
+            font: 100% Arial, Helvetica, sans-serif;
+            margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+            padding: 0;
+            text-align: center; /* this centers the container in IE 5
+ browsers. The text is then set to the left aligned default in the #container selector */
+            color: #000000;
+        }
+        .big
+        {
+            background: url(images/backgroundLoginButton3.png) 0 0;
+            border: none;
+            color: #fff;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 21px;
+            height: 42px;
+            margin-top: 20px;
+            margin-left: 178px;
+            margin-bottom: 18px;
+            padding-right: 24px;
+            width: 108px;
+        }
+        .big:hover
+        {
+            background: url(images/backgroundLoginButton3.png) 0 -42px;
+        }
+        .big:active
+        {
+            background: url(images/backgroundLoginButton3.png) 0 -84px;
+        }
+    </style>
+</head>
+<body>
+    <div id="lightbox" style="padding-top:100px;margin-left:auto;margin-right:auto;width:680px;">
+        <div class="lightboxTop" style="margin-bottom:-9px;height:18px;"></div>
+        <div class="lightboxBody">
+            <div style="padding: 20px 30px;">
+                <h3>
+                    You are accessing a U.S. Government (USG) Information System (IS) that is provided
+                    for USG-authorized use only.</h3>
+                <p>
+                    <strong>By using this IS (which includes any device attached to this IS), you consent
+                        to the following conditions:</strong></p>
+                <p>
+                    </p><ul class="blue">
+                        <li>The USG routinely intercepts and monitors communications on this IS for purposes
+                            including, but not limited to, penetration testing, COMSEC monitoring, network operations
+                            and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence
+                            (CI) investigations.</li>
+                        <li>At any time, the USG may inspect and seize data stored on this IS.</li>
+                        <li>Communications using, or data stored on, this IS are not private, are subject to
+                            routine monitoring, interception, and search, and may be disclosed or used for any
+                            USG authorized purpose.</li>
+                        <li>This IS includes security measures (e.g., authentication and access controls) to
+                            protect USG interests--not for your personal benefit or privacy.</li>
+                        <li>Notwithstanding the above, using this IS does not constitute consent to PM, LE or
+                            CI investigative searching or monitoring of the content of privileged communications,
+                            or work product, related to personal representation or services by attorneys, psychotherapists,
+                            or clergy, and their assistants. Such communications and work product are private
+                            and confidential. See User Agreement for details.</li>
+                    </ul>
+                <p></p><br>
+<br>
+    <div style="text-align: center;">
+                    <input type="submit" name="btnAccept" value="I Agree" id="btnAccept" class="big" onclick="document.location='entrance.html';">
+      <br>
+    </div>
+    <div align="center"><br>
+      <font size="2" face="Arial, Helvetica, sans-serif">To view Users Agreement click 
+      <a href="completeagreement.html" target="_blank">here</a></font> 
+    </div>
+  </div>
+        <div class="lightboxBottom">
+        </div>
+    </div>
+    
+
+
+</div></body></html>

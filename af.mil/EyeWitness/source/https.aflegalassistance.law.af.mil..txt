@@ -1,0 +1,9 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>USAF Legal Assistance</title>
+<meta http-equiv="REFRESH" content="1;url=/lass/"> 
+<!-- <meta http-equiv="REFRESH" content="1;url=Maintenance.html"> -->
+</head>
+<body>
+
+
+</body></html>

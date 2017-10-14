@@ -1,0 +1,231 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>CIE Development PII: Login Page</title>
+ 
+<link rel="stylesheet" type="text/css" href="/pics/styles/reset-min.css">
+ 
+<link href="/pics/styles/logincss.css" rel="stylesheet" type="text/css">
+<script src="/pics/js/login.js" language="JavaScript" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript"> 
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+ 
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+ 
+function toggleBasedOnCookieValue() {
+	var val = readCookie('AFPORTAL_LOGIN_TAB');
+	if (val == 'PASSWORD')
+		toggle('CAC','PASSWORD');
+	val = readCookie('AFPORTAL_LOGIN_AGREEMENT');
+	if (val == null || val == 'null')
+		document.getElementById('lightbox').style.display = ''; 
+}
+</script>
+</head>
+ 
+<body class="oneColElsCtr" onload="toggleError();">
+<div class="infoMessage" style="padding-top: 10px; padding-bottom: 10px;">
+<div style=""><!--<h1>As of 15 January 2010 at 0800 CST</h1>-->ATTENTION: This is the CIE-Development PII Homepage, not the Air Force Portal</div>
+</div>
+<!--- DO NOT TRANSLATE OR MODIFY any part of the hidden parameter(s) --->
+<!---
+  The following block of code provides users with a warning message
+  if they do not have cookies configured on their browsers.  
+  If this environment does not use cookies to maintain login sessions, 
+  simply remove or comment out the block below.
+--->
+<!--- BEGIN Cookie check block --->
+<!---
+DO NOT TRANSLATE anything inside the SCRIPT tag except the quoted 
+string warningString.  i.e. var warningString = "Translate this string";
+--->
+<script language="JavaScript"> 
+var warningString = "<B>WARNING:</B> To maintain your login session, make sure that your browser is configured to accept Cookies.";
+document.cookie = 'acceptsCookies=yes';
+if(document.cookie == ''){
+document.write(warningString);
+}
+else{
+document.cookie = 'acceptsCookies=yes; expires=Fri, 13-Apr-1970 00:00:00 GMT';
+}
+</script>
+<noscript>
+&lt;B&gt;WARNING:&lt;/B&gt; To maintain your login session, make sure that&lt;BR&gt;
+your browser is configured to accept Cookies.
+</noscript>
+<!--- END Cookie check block --->
+ 
+<!-- BEGIN: Important Message -->
+<div class="infoMessage" style="display: none;">
+    <div><h1>As of 15 January 2010 at 0800 CST</h1>
+    The Air Force Portal is limiting access to only those registered users with a valid public key infrastructure (PKI) certificate, including a common access card (CAC).  <a href="https://cie-sdp.my.af.mil/afp/netstorage/login_page_files/CAC/GCSS-AF PKI_CAC Restriction Info.pdf" target="_blank">Learn more about this access restriction here</a>.
+    </div>
+</div>
+<!-- END: Info Message -->
+ 
+ 
+<!-- BEGIN: confirmation lightbox -->
+<div id="lightbox" style="">
+    <div style="height: 100%; width: 100%; z-index: 100; position: absolute;">
+        <div style="margin: 100px auto 0 auto; width: 75ex;">
+            <div class="lightboxTop"></div>
+            <div class="lightboxBody">
+                <div style="padding: 20px 30px;">
+                    <h3>You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only.</h3>         
+                    <p><strong>By using  this IS (which includes any device attached to this IS), you consent to the following conditions:</strong></p>
+                    <p>
+                    </p><ul class="blue">
+                        <li>The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence (CI) investigations.</li>
+                        <li>At any time, the USG may inspect and seize data stored on this IS.</li>  
+                        <li>Communications using, or data stored on, this IS are not private, are subject to routine monitoring, interception, and search, and may be disclosed or used for any USG authorized purpose.</li>
+                        <li>This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your personal benefit or privacy.</li>  
+                        <li>Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching or monitoring of the content of privileged communications, or work product, related to personal representation or services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product are private and confidential. See User Agreement for details.</li>
+                    </ul>
+                    <p></p>
+                    <div class="horizontalLine"></div>
+                    <div style="text-align: center;">
+                        <button class="big" onclick="acceptAgreement('lightbox');createCookie('AFPORTAL_LOGIN_AGREEMENT','accepted');">I Agree</button>
+                    </div>
+                </div>
+            </div>
+            <div class="lightboxBottom"></div>
+        </div>
+    </div>
+    <div style="height: 100%; width: 100%; background: #333; z-index: 50; position: absolute; opacity: .70; filter: alpha(opacity = 70);"></div>
+</div>  
+<!-- END: confirmation ligthbox -->
+ 
+ 
+<div id="container">
+ 
+  <img src="/pics/images/logo.png" width="298" height="54" alt="AF Force Logo" longdesc="http://cie-sdp.my.af.mil" class="logo">
+ 
+  <div id="mainContent">
+  
+    <div>
+    	<div class="leftColumn">
+        	<div id="PASSWORD" style="display: none;">
+                <div class="header">
+                    <h1 class="login">AF PORTAL LOGIN</h1>
+                    <ul class="tabnav">
+                        <li class="inactive" onclick="toggle('PASSWORD','CAC'); createCookie('AFPORTAL_LOGIN_TAB','CAC');">CAC</li>
+                        <li>PASSWORD</li>
+                    </ul>
+                </div>
+                <form name="loginform" method="POST" action="/pkmslogin.form" style="padding-top: 35px; padding-left: 25px;">
+                <div id="loginError" class="loginError" style="display: none;"><h4>Authentication failed.</h4> <p id="errMsg"></p></div>
+                <div class="itf" style="margin-bottom: 11px;"><label>Username</label> <input type="text" name="username"></div>
+                <div class="itf"><label>Password</label> <input type="password" name="password" onkeydown="onEnter(event);"></div>
+                <input type="HIDDEN" name="login-form-type" value="pwd">
+                <p><a href="https://cie-sdp.my.af.mil/pwresetrh/PWReset/" style="font-size: 10px; color: #88acba; text-decoration: none; padding-left: 105px;">Forgot your username and password?</a></p>
+                <button class="big" onclick="document.loginform.submit();">LOG IN</button>
+                </form>
+                
+                <div class="hr"></div>
+ 
+                <h4 style="padding-left: 20px; padding-top: 20px;">Membership &amp; Support Information</h4>
+                <ul style="padding-left: 30px; padding-bottom: 35px;" class="arrowli">
+                    <li><a href="https://cie-sdp.my.af.mil/afp/netstorage/login_page_files/afportal_account.html">View Account Requirements &amp; Benefits</a></li>
+                    <li><a href="https://cie-sdp.my.af.mil/afp/netstorage/login_page_files/afportal_helpdesk.html">Contact the Help Desk</a></li>
+                    <li><a href="https://cie-sdp.my.af.mil/afp/netstorage/login_page_files/afportal_faqs.html">Frequently Asked Questions</a></li>
+                    <li><a href="https://cie-sdp.my.af.mil/afp/netstorage/login_page_files/direct_access_applications.html">Direct Access Applications</a></li>
+                </ul>
+            </div>
+            <div id="CAC" style="position: relative;">
+                <div class="header">
+                	<h1 class="login">AF PORTAL LOGIN</h1>
+                	<ul class="tabnav">
+                    	<li>CAC/ECA</li>
+                    	<li class="inactive" onclick="toggle('CAC','PASSWORD'); focus_here(); createCookie('AFPORTAL_LOGIN_TAB','PASSWORD');">PASSWORD</li>
+                	</ul>
+                </div>
+                <p class="cacText">Insert your CAC/ECA to begin your login</p>
+                <img src="/pics/images/CAC.png" style="position: absolute; right: 60px; top: 100px;">
+                                                              
+                <form style="padding-left: 45px; padding-bottom: 25px;">
+                <div class="loginError loginErrorCAC" style="display: none;"><h4>CAC Authentication Error.</h4> <p>You may have pressed the "Cancel" button in your browser's certificate selection prompt. If you're trying to authenticate with your CAC, please close all open browser windows and try again.</p></div>                
+                <button class="big" style="position: relative; right: 179px;" onclick="javascript:window.location='https://cie-sdp.my.af.mil/eai-int/eai/auth?refURL='+document.URL.replace(/&amp;/g,'%26'); return false;">LOG IN</button>
+                </form>
+                
+                <div class="hr"></div>
+               
+                <h4 style="padding-left: 20px; padding-top: 20px;">Membership &amp; Support Information</h4>
+                <ul style="padding-left: 30px;" class="arrowli">
+                    <li><a href="https://cie-sdp.my.af.mil/afp/netstorage/login_page_files/afportal_account.html">View Account Requirements &amp; Benefits</a></li>
+                    <li><a href="#" onclick="disp_confirm(); return false">Register for a new AF Portal Account w/ your CAC/ECA</a></li>
+                    <li><a href="#" onclick="disp_confirm(); return false">Enable your CAC/ECA Certificate</a></li>
+                    <li><a href="https://cie-sdp.my.af.mil/afp/netstorage/CAC_Users_Guide.htm">CAC/ECA User's Guide</a></li>
+                    <li><a href="https://cie-sdp.my.af.mil/afp/netstorage/login_page_files/afportal_helpdesk.html">Contact the Help Desk</a></li>
+                    <li><a href="https://cie-sdp.my.af.mil/afp/netstorage/login_page_files/afportal_faqs.html">Frequently Asked Questions</a></li>
+                    <li><a href="http://www.spi.dod.mil/lipose.htm">LPS - An Alternative to Access CAC-Restricted Sites</a></li>
+                </ul>
+            </div>            
+            <script>toggleBasedOnCookieValue();</script>
+        </div>
+    	<div style="float: left; margin-left: 20px;">
+        	<div class="sidebox">
+            	<h2>Friends &amp; Family IM</h2>
+            	<div><span class="accessFF" onclick="javascript: window.location.href='https://guest.my.af.mil/'">Access Your Friends &amp; Family Account</span> 
+                <ul class="arrowli">
+                	<li><a href="https://cie-sdp.my.af.mil/afp/netstorage/faq/sponsorffim.html">Learn About Sponsoring a Friend or Family Member</a></li>
+                    <li><a href="https://cie-sdp.my.af.mil/afp/netstorage/flash/guest/swfAFM.htm">Learn More About Friends &amp; Family Instant Messenger</a></li>
+                </ul>
+                </div>
+            </div>
+            <div class="sidebox">
+            	<h2>AF.mil Top Stories</h2>
+                <div>
+            	<ul id="addDynamicJavaScriptFile" class="rss">
+            		  <!--
+                	<li><img src="https://cie-sdp.my.af.mil/afp/netstorage/login_page_files/images/rssImagePlaceholder.png" /><a href="#">Top enlisted Airman visits Ellsworth Airmen</a></li>
+                	<li style="padding-top: 10px;"><img src="https://cie-sdp.my.af.mil/afp/netstorage/login_page_files/images/rssImagePlaceholder.png" /><a href="#">Servicemembers hammer out, nail down construction in Iraq</a></li>
+                	-->
+                	<script id="feedItemsSrc" language="Javascript" src="/pics/js/feedItems.js"></script><li><img src="https://www.my.af.mil/afp/netstorage/login_page_files/feed_images/feedImage2.jpg?t=1284181202282"><a href="http://www.af.mil/news/story.asp?id=123221425">Political dos and don'ts during campaign season</a></li><li>&nbsp;</li><li><img src="https://www.my.af.mil/afp/netstorage/login_page_files/feed_images/feedImage3.jpg?t=1284181202282"><a href="http://www.af.mil/news/story.asp?id=123221320">Air Force officials increase deployment times</a></li>
+                </ul>
+                <!-- Keeps the images in the rss feed from overflowing the box bottom -->
+                <span style="clear: left; display:block;"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="footerbar">
+    	<strong>DoD Service Portals:</strong> <a href="http://www.us.army.mil/">AKO/DKO</a> | <a href="http://www.marinenet.usmc.mil/">MarineNet</a> | <a href="https://www.nko.navy.mil/">Navy Knowledge Online</a>
+    </div>
+    
+    <div class="footer">
+    You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only. By using this IS ( which includes any device attached to this IS), you consent to the following conditions: 
+        <ul>
+            <li>- The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct  (PM), law enforcement (LE), and counterintelligence (CI) investigations</li> 
+            <li>- At any time, the USG may inspect and seize data stored on this IS.</li> 
+            <li>- Communications using, or data stored on, this IS are not private, are subject to routine monitoring, interception, and search, and may be disclosed or used for any USG authorized purpose.</li>
+            <li>- This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your personal benefit or privacy.</li> 
+            <li>- Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching or monitoring of the content of privileged communications, or work product, related to personal representation or services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product are private and confidential. See User Agreement for details.</li>
+        </ul>
+        <center>Last Modified: 30 Apr 2010 &nbsp;| &nbsp; fty</center>
+    
+    
+	<!-- end #mainContent --></div>
+<!-- end #container --></div>
+
+
+
+
+</div></body></html>

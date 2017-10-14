@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="language" content="en">
+
+		<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection">
+		<link rel="stylesheet" type="text/css" media="all" href="/css/2012-vdl-sipr.css">
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<link rel="stylesheet" type="text/css" href="/css/form.css">
+		<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
+
+		<!--[if IE 8]>
+			<link rel="stylesheet" type="text/css" href="/css/ie8.css" media="screen, projection" />
+		<![endif]-->
+
+		<!--[if IE 7]>
+			<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="screen, projection" />
+		<![endif]-->
+		<link rel="stylesheet" type="text/css" href="/assets/8b4e78b5/jui/css/base/jquery-ui.css">
+<script type="text/javascript" src="/assets/8b4e78b5/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/8b4e78b5/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/vdl_public.js"></script>
+<title>VDL Public</title>
+	</head>
+
+	<body>
+
+						
+		<div class="container" id="page">
+
+			<div id="header">
+				<div id="logo">
+										<a id="vdl" href="/"><img src="images/vdl_logo.png" width="189" height="74" alt="VDL Logo"></a>
+					<a id="airforce" href="http://www.airforce.com/"><img src="images/af_logo.jpg" width="187" height="60" alt="Air Forcle Logo"></a>
+				</div>
+			</div><!-- header -->
+
+			<div id="mainmenu">
+				<ul id="yw0">
+<li><a href="/index.php?r=public/request_account">Request Account</a></li>
+<li><a href="/index.php?r=public/passwordInstruct">Reset Password</a></li>
+<li><a href="/index.php?r=public/programs">Public Programs</a></li>
+<li><a href="https://restricted.vdl.afrl.af.mil/">Restricted VDL</a></li>
+<li id="joinaflink"><a href="http://www.airforce.com/">Join the Air Force</a></li>
+</ul>							</div><!-- mainmenu -->
+			<noscript>
+				&lt;div class="jsClass"&gt;
+					Javascript is disabled or has stopped working, some site functionality may be limited.
+				&lt;/div&gt;&lt;!-- .jsClass --&gt;
+			</noscript>
+			<div class="cookieWarn hide">
+				Looks like your browser isn't accepting cookies, some site functionality may be limited.
+			</div><!-- .cookieWarn -->
+
+			<div class="container">
+								<div id="content">
+    <div id="main_load">
+    <p class="center"><img src="images/vdl_logo_large.png" alt="VDL/RYA Logo"></p>
+    <h1 class="center">Virtual Distributed Laboratory (VDL) Public Site</h1>
+</div>
+</div><!-- content -->
+			</div>
+
+			<div id="footer">
+				<a href="/index.php?r=public/page&amp;view=contact">Contact Us</a>
+			</div><!-- footer -->
+			<div id="footerAppendage">
+				<a href="/index.php?r=public/page&amp;view=privacy">Privacy &amp; Security Notice</a>
+		   		<a href="/index.php?r=public/page&amp;view=hyperlink">External Link Disclaimer</a>
+				<a href="http://prhome.defense.gov/nofear" title="No Fear Act" target="_new">No Fear Act</a>
+				<a href="http://www.usa.gov/" title="USA.gov" target="_new">USA.gov</a>
+			</div><!-- footerAppendage-->
+			<div class="publicReviewDate">Current as of 27 September 2017</div>
+		</div><!-- page -->
+
+		
+					<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#dialogNotice').dialog({'title':'Notice','autoOpen':true,'modal':true,'height':650,'width':965,'dialogClass':'usgis-notice','closeOnEscape':false,'draggable':false,'resizable':false,'buttons':{'I AGREE':function(){ var date = new Date(); date.setTime( date.getTime() + ( 60 * 60 * 1000 ) ); var expires = "; expires=" + date.toGMTString(); document.cookie = "usgid_notice=true" + expires + "; path=/"; $(this).dialog("close") }}});
+});
+/*]]>*/
+</script>
+
+
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front usgis-notice ui-dialog-buttons" tabindex="-1" role="dialog" aria-describedby="dialogNotice" aria-labelledby="ui-id-1" style="height: auto; width: 965px; top: 12.5px; left: 112.5px; display: block; z-index: 101;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">Notice</span><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" title="Close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">Close</span></button></div><div id="dialogNotice" class="ui-dialog-content ui-widget-content" style="width: auto; min-height: 0px; max-height: none; height: 491px;">
+<div class="lightboxBody">
+    <p id="confirmMessage">You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only.</p>
+    <h3>By using this IS (which includes any device attached to this IS), you consent to the following conditions:</h3>
+    <ul>
+        <li>The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence (CI) investigations.</li>
+        <li>At any time, the USG may inspect and seize data stored on this IS.</li>
+        <li>Communications using, or data stored on, this IS are not private, are subject to routine monitoring, interception, and search, and may be disclosed or used for any USG authorized purpose.</li>
+        <li>This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your personal benefit or privacy.</li>
+        <li>NOTICE: There is the potential that information presented and exported from Virtual Distributed Laboratory (VDL) contains FOUO or Controlled Unclassified Information (CUI). It is the responsibility of all users to ensure information extracted from VDL is appropriately marked and properly safeguarded. If you are not sure of the safeguards necessary for the information, contact your functional lead or Information Security Officer.</li>
+        <li>Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching or monitoring of the content of privileged communications, or work product, related to personal representation or services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product are private and confidential.  See our Privacy and Security Notice.</li>
+    </ul>
+</div>
+</div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only ui-state-focus" role="button"><span class="ui-button-text">I AGREE</span></button></div></div></div><div class="ui-widget-overlay ui-front" style="z-index: 100;"></div></body></html>

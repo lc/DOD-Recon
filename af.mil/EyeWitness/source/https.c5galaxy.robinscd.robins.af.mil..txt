@@ -1,0 +1,103 @@
+<html><head>
+    <title>Strategic Airlift Engineering Site</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <style type="text/css">
+        body
+        {
+            text-align: center; /* IE/Win bug fix */
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+            background-color: #808080;
+            background-image: url('bg.jpg');
+            background-repeat: repeat-x;
+            background-attachment: fixed;
+        }
+        h3
+        {
+            color: White;
+            font-family: Lucida Sans, Arial, Helvetica, sans-serif;
+            font-size: 16pt;
+            height: 50px;
+            padding-top: 15px;
+        }
+        a
+        {
+            color: White;
+            text-decoration: none;
+            font-family: Lucida Sans, Arial, Helvetica, sans-serif;
+            font-size: 12pt;
+            font-weight: bold;
+            height: 50px;
+            padding-top: 10px;
+        }
+        td
+        {
+            border-top: solid 1px #707070;
+            padding-left: 20px;
+        }
+        td.noway
+        {
+        	border-top: none 0px black;
+        }
+        .myBox
+        {
+            width: 600px;
+            padding: 20px;
+            background-color: #0000FF;
+            opacity: 0.8;
+            filter: alpha(opacity=80);
+            -webkit-border-radius: 20px;
+            -moz-border-radius: 20px;
+
+        }
+    </style>
+
+    <script language="javascript"> 
+        alert("You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only. By using this IS (which includes any device attached to this IS), you consent to the following conditions:" + '\n' + "-The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence (CI) investigations." + '\n' + "-At any time, the USG may inspect and seize data stored on this IS." + '\n' + "-Communications using, or data stored on, this IS are not private, are subject to routine monitoring,  interception, and search, and may be disclosed or used for any USG authorized purpose." + '\n' + "-This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your personal benefit or privacy." + '\n' + "-Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching  or monitoring of the content of privileged communications, or work product, related to personal representation or services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product are private and confidential." + '\n\n' + "By clicking OK you agree to the terms of the User Agreement.")
+    </script>
+</head>
+<body>
+    <table width="100%" style="height:100%;">
+        <tbody><tr>
+            <td valign="middle" align="center" class="noway">
+        <div class="myBox" id="myBox">
+            <h3>
+                Strategic Airlift Engineering Site</h3>
+            <table width="100%">
+                <tbody><tr>
+                    <td>
+                        <a href="Public/Login.aspx">Form 107</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://afsc202.robins.af.mil/" target="_blank">Form 202</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://aide.robins.af.mil/ndi/default.aspx">NDI</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://aide.robins.af.mil/pdmrrb">ERR</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://www.my.af.mil/etims/ETIMS/index.jsp">TCTO's/Technical Orders</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="privacy.htm" target="_blank">Privacy Act and Security Notice</a>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        </td>
+       </tr>
+     </tbody></table>
+
+
+</body></html>

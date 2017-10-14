@@ -1,0 +1,101 @@
+<html><head>
+    <title>BIG-IP - Error Page</title>
+    <link rel="stylesheet" type="text/css" href="/public/include/css/apm.css">
+    <script src="/public/include/js/common.js" language="javascript"></script>
+    <script src="/public/include/js/agent_common.js" language="javascript"></script>
+    <script language="javascript">
+    
+      function OnLoad() 
+      {
+        var display_session = get_cookie("LastMRH_Session");
+        if(null != display_session) {
+          document.getElementById("sessionDIV").innerHTML = '<BR>' + "The session reference number:" + '&nbsp;' + display_session + '<BR>';
+          document.getElementById("sessionDIV").style.visibility = "visible";
+        }
+      }
+      
+    </script>
+  </head>
+
+<body onload="OnLoad();">
+
+<script>
+try
+{
+    if(window.external && window.external.WebLogonOnAuthFailure) {
+        window.external.WebLogonOnAuthFailure();
+    }
+}catch(e){};
+
+var landingURI = "/";
+var landingURI_base64 = "";
+var redirectURI = "/";
+function OnLoad() {
+
+    var params = parseQueryParams(window.location.search.substr(1));
+    if (params.hasOwnProperty('ORIG_URI')) {
+        requestURI = "/vdesk/c_ses.php3?orig_uri=" + params['ORIG_URI'];
+    } else {
+        requestURI = "";
+    }
+
+    if (landingURI_base64 != "") {
+        redirectURI = landingURI_base64;
+    } else if (requestURI != "") {
+        redirectURI = requestURI;
+    } else if (landingURI != "") {
+        redirectURI = landingURI;
+    }
+}
+
+</script>	
+
+
+<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0">       
+<meta name="robots" context="noindex,nofollow">
+<script language="javascript">
+//orientation toolbox
+function setViewport(){
+    document.getElementById("viewport").setAttribute('content', Math.abs(window.orientation) == 90 ? 'width=device-height, initial-scale=1' : 'width=device-width, initial-scale=1.0' );
+}
+setViewport();
+window.onorientationchange = function() {
+    setViewport();
+}    
+</script>
+<table id="page_header">
+  <tbody><tr>
+    <td id="header_leftcell"><img src="/public/images/my/flogo.png"></td>             
+    <td id="header_rightcell"></td>
+  </tr>
+  <tr>
+     <td></td>
+     <td id="maxTimeoutTd"><span id="maxTimeoutTag" title=""></span></td>
+  </tr>
+</tbody></table>
+
+<table class="main_table">
+	<tbody><tr valign="top">
+		<td>
+			<table width="500px" cellpadding="10">
+				<tbody><tr>
+					<td>
+<h1>Access policy evaluation is already in progress for your current session. </h1><p><font size="4">You might see this message if you are on a different browser tab than the one where you started the access policy. Please continue to work in the previous browser tab and close this window immediately. </font></p><p><font size="4"><font size="4">If you have reached this message due to some other error, click <a href="javascript:document.location=redirectURI"><font size="4"> here </font></a> to create a new session.</font></font></p><font size="4"><font size="4">					</font></font></td>
+				</tr>
+				<tr>
+					<td>
+						<div id="sessionDIV" style="visibility:hidden" align="left"></div>
+					</td>
+				</tr>
+				<tr>
+
+			</tr></tbody></table>	
+			
+		</td>
+	</tr>
+</tbody></table>	
+
+<div id="page_footer"><div>This product is licensed from F5 Networks. © 1999-2016 F5 Networks. All rights reserved. </div></div>
+
+
+</body></html>

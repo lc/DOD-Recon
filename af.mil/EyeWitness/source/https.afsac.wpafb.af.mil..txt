@@ -1,0 +1,268 @@
+<!DOCTYPE html><html lang="en"><head>
+    <title>AFSAC Online</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://afsac.wpafb.af.mil/common/2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://afsac.wpafb.af.mil/common/2.0/css/yamm.min.css">
+    <link rel="stylesheet" href="https://afsac.wpafb.af.mil/common/2.0/css/afsac.min.css">
+    <link rel="stylesheet" href="css/afsac-home.css">
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv-3.7.0.js"></script>
+    <script src="js/respond-1.4.2.min.js"></script>
+    <![endif]-->
+    
+    
+    
+    <style>
+    
+    	html, body, .main {
+    		height:100%;
+    	}
+
+    </style>
+    
+    
+</head>
+
+<body>
+
+
+    <nav class="afsac-nav"><div id="notices"></div><nav class="navbar yamm navbar-inverse navbar-fixed-top main-menu transition"><div class="container"><div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand transition" href="https://afsac.wpafb.af.mil/index.jsp"><b>AFSAC</b> Online</a></div><div id="navbar" class="navbar-collapse collapse"><ul class="nav navbar-nav navbar-right" id="navbar-options"><li class="dropdown yamm-fw"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" title="Apps"><span class="glyphicon glyphicon-th"></span> Apps</a><ul class="dropdown-menu" role="menu"><li><div class="yamm-content"><div class="row"><ul class="col-sm-4 col-md-3 list-unstyled"><li><p><strong><a href="https://afsac.wpafb.af.mil/pros.jsp">PROS</a></strong></p></li><li class="divider"></li><li><p><strong><a href="https://afsac4.wpafb.af.mil/wwrs">WWRS</a></strong></p></li><li class="divider"></li><li><p><strong><a href="https://afsac.wpafb.af.mil/lor.jsp">LOR</a></strong></p></li><li class="divider"></li><li><p><strong><a href="https://afsac.wpafb.af.mil/afsac-metrics">Metrics</a></strong></p></li></ul><ul class="col-sm-4 col-md-3 list-unstyled"><li class="divider visible-xs-block"></li><li><p><strong><a href="https://afsac.wpafb.af.mil/logistics.jsp">Logistics</a></strong></p></li><li><a href="https://afsac.wpafb.af.mil/logistics/reqs001.html">Open Document Number Query</a></li><li><a href="https://afsac.wpafb.af.mil/logistics/inet001a.html">A01 Requisition Input</a></li><li><a href="https://afsac4.wpafb.af.mil/mass_req">Mass Requisition Input</a></li><li><a href="https://afsac.wpafb.af.mil/logistics/orcl199.html">FMS Repair Replace Cross Ref List</a></li><li><a href="https://afsac.wpafb.af.mil/metrics/servlet/AFSAC.SSO.Controller?service=OpenMS&amp;mode=DailyNMCS&amp;target=params">Daily NMCS Report</a></li><li><a href="https://afsac.wpafb.af.mil/metrics/servlet/AFSAC.SSO.Controller?service=OpenMS&amp;target=params">Open Requisition Status</a></li><li><a href="https://afsac.wpafb.af.mil/clssa-reporting">CLSSA Reporting</a></li><li><a href="https://afsac.wpafb.af.mil/supply/servlet/AFSAC.SSO.Controller?service=CExView&amp;page=params">Controlled Exception Viewer</a></li><li><a href="https://afsac4.wpafb.af.mil/App_Suite/Default.aspx">Applications Suite</a></li></ul><ul class="col-sm-4 col-md-3 list-unstyled"><li class="divider visible-xs-block"></li><li><p><strong><a href="https://afsac.wpafb.af.mil/financial.jsp">Financial</a></strong></p></li><li><a href="https://afsac4.wpafb.af.mil/FinancialFMS/QUAD/quadquery.aspx">CASE Financial Dashboard</a></li><li><a href="https://afsac4.wpafb.af.mil/IASTR_4/iastrwork/iastrmenu.aspx">CASE Execution Assessment Tool</a></li><li><a href="https://afsac.wpafb.af.mil/annual-price-change">Annual Price Change Data</a></li><li><a href="https://afsac4.wpafb.af.mil/FAT">Financial Analysis Tracker</a></li><li><a href="https://afsac4.wpafb.af.mil/RBA">Reimburseable Budget Authority Report</a></li></ul><ul class="col-sm-4 col-md-3 list-unstyled"><li class="divider visible-sm-block visible-xs-block"></li><li><p><strong><a href="https://afsac.wpafb.af.mil/techorders.jsp">Tech Orders</a></strong></p></li><li><a href="https://afsac.wpafb.af.mil/toindex">Tech Order Index</a></li><li><a href="https://afsac4.wpafb.af.mil/financialFMS/QUAD/quadquery.aspx?id=1">Tech Order Financial Report</a></li><li><a href="https://afsac.wpafb.af.mil/ito">ITO Submission</a></li><li><a href="https://afsac4.wpafb.af.mil/FETODS">FETODS Download History</a></li><li class="divider"></li><li><p><strong><a href="https://afsac.wpafb.af.mil/sdr.jsp">SDR</a></strong></p></li><li><a href="https://afsac.wpafb.af.mil/sdrwiz/WizController?service=SDRWizWelcome">Submission Wizard</a></li><li><a href="https://afsac.wpafb.af.mil/cq/WSStruts.do">Customer Query</a></li><li><a href="https://afsac.wpafb.af.mil/monthlyreport/WSStruts.do">Monthly Report</a></li></ul></div></div></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-bookmark"></span> Resources</a><ul class="dropdown-menu" role="menu"><li><a href="https://www.scportal.us">SCIP Portal</a></li><li><a href="https://miap.csd.disa.mil">SAMIS <small>(MIAP)</small></a></li><li><a href="https://afsac.wpafb.af.mil/reportweb.jsp">Report.Web</a></li><li class="divider"></li><li><a href="https://afsac.wpafb.af.mil/notices.jsp">AFSAC Online Notices</a></li><li><a href="https://afsac.wpafb.af.mil/flo">FLO Information</a></li><li><a href="https://afsac.wpafb.af.mil/clssa.jsp">CLSSA</a></li></ul></li><li class="dropdown yamm-fw"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" title="Help"><span class="glyphicon glyphicon-question-sign"></span> Help</a><ul class="dropdown-menu" role="menu"><li><div class="yamm-content"><div class="row"><ul class="col-sm-4 list-unstyled"><p><strong>Briefings</strong></p><li><a href="https://afsac.wpafb.af.mil/resources/1-Overview.ppt">AFSAC Online Overview</a></li><li><a href="https://afsac.wpafb.af.mil/resources/lor/2b-LOR-Applications.Final.ppt">LOR: LOR Automation CCM</a></li><li><a href="https://afsac.wpafb.af.mil/resources/logistics/3-Logistics-Applications-Final.ppt">Logistics: Overview</a></li><li><a href="https://afsac.wpafb.af.mil/resources/logistics/2a-Applications-Suite-Final.ppt">Logistics: App Suite</a></li><li><a href="https://afsac.wpafb.af.mil/resources/financial/AFSAC-online_fin_tool_guidebook.pdf">Financial: Overview</a></li><li><a href="https://afsac.wpafb.af.mil/resources/financial/Case_Financial_Dashboard_Briefing.pptx">Financial: CASE Financial Dashboard</a></li><li><a href="https://afsac.wpafb.af.mil/resources/techorders/6-Tech-Order-Index-Final.ppt">Tech Orders: Tech Order Index</a></li><li><a href="https://afsac.wpafb.af.mil/resources/flo/1-MILSTRIP-SAMIS_FLO.pptx">FLO: MILSTRIP-SAMIS</a></li><li><a href="https://afsac.wpafb.af.mil/resources/flo/2-Researching_Supply_FLO.pptx">FLO: Researching Supply</a></li><li><a href="https://afsac.wpafb.af.mil/resources/flo/3-Supply_Requisitioning_FLO.pptx">FLO: Supply Requisitioning</a></li><li><a href="https://afsac.wpafb.af.mil/resources/flo/4-Supply_Status_FLO.pptx">FLO: Supply Status</a></li></ul><ul class="col-sm-4 list-unstyled"><li class="divider visible-xs-block"></li><p><strong>Tutorials</strong></p><li><a href="https://afsac.wpafb.af.mil/resources/lor/LOR_Tutorial_Briefing.pdf">LOR: LOR Automation Tool</a></li><li><a href="https://afsac.wpafb.af.mil/resources/logistics/App-Suite-Catalog-tutorial.pptx">Logistics: App Suite - Catalog</a></li><li><a href="https://afsac.wpafb.af.mil/resources/logistics/App-Suite-Req-History-tutorial.pptx">Logistics: App Suite - Reqn Hist</a></li><li><a href="https://afsac.wpafb.af.mil/resources/logistics/Controlled-Exception-CEX-Viewer-tutorial.pptx">Logistics: Controlled Exception Viewer</a></li><li><a href="https://afsac.wpafb.af.mil/resources/logistics/Open-Doc-Nbr-Query-Tool-tutorial.pptx">Logistics: Open Doc # Query</a></li><li><a href="https://afsac.wpafb.af.mil/resources/logistics/Online-Req-A01Mass-tutorial.pptx">Logistics: Online Req</a></li><li><a href="https://afsac.wpafb.af.mil/resources/logistics/Repair-Replace-Cross-Ref-tutorial.pptx">Logistics: R/R Cross Ref</a></li><li><a href="https://afsac.wpafb.af.mil/resources/logistics/Daily-NMCS-Status-Tool-tutorial.pptx">Logistics: Open Daily NMCS</a></li><li><a href="https://afsac.wpafb.af.mil/resources/logistics/Open-Requisition-Status-Tool-tutorial.pptx">Logistics: Open Req Status</a></li><li><a href="https://afsac.wpafb.af.mil/resources/sdr/SDR-A_Online_Tools_Overview.pptx">SDR: Online Tools Overview</a></li><li><a href="https://afsac.wpafb.af.mil/resources/sdr/SDR-A_Original_Submission_Wizard.pptx">SDR: Submission Tool</a></li><li><a href="https://afsac.wpafb.af.mil/resources/sdr/SDR-A_Customer_Query.pptx">SDR: Customer Query</a></li><li><a href="https://afsac.wpafb.af.mil/resources/sdr/SDR-A_Monthly_Report.pptx">SDR: Monthly Report</a></li><li><a href="https://afsac.wpafb.af.mil/resources/reportweb/Report-Web-tutorial.ppt">Report.Web</a></li></ul><ul class="col-sm-4 list-unstyled"><li class="divider visible-xs-block"></li><p><strong>Leave Feedback</strong></p><form method="POST" action="/feedback/servlet/FeedBack"><div class="form-group"><input id="inputName" class="form-control" type="text" name="Name" placeholder="Name" required="" style="background-position: right center; cursor: auto;"></div><div class="form-group"><input id="inputEmail" class="form-control" type="email" name="EMail" placeholder="Email" required="" style="background-position: right center; cursor: auto;"></div><div class="form-group"><input id="inputPhone" class="form-control" type="tel" name="Telephone" placeholder="Phone" required="" style="background-position: right center; cursor: auto;"></div><div class="form-group"><textarea class="form-control" name="Comments" placeholder="Comments..." required=""></textarea></div><div class="form-group"><input type="hidden" name="Select" value="https://afsac.wpafb.af.mil/"><input type="hidden" name="FAX" value="N/A"><button class="btn btn-primary" type="submit">Submit</button> <button class="btn btn-default" type="reset">Reset</button></div></form></ul></div></div></li></ul></li><li class="dropdown" id="account"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" title="Sign In or Register"><span class="glyphicon glyphicon-user"></span> Sign In / Register</a><ul class="dropdown-menu" role="menu"><li><div class="yamm-content" style="padding-bottom: 0px;"><div class="row"><div class="navbar-login"><p><strong>Sign In</strong></p><form method="POST" action="https://afsac4.wpafb.af.mil/SSOLogin/Login.ashx?ReturnUrl=https://afsac.wpafb.af.mil/"><div class="form-group"><input name="Usr" class="form-control" type="text" placeholder="Username" required="" style="background-position: right center; cursor: auto;"></div><div class="form-group"><input name="Pwd" class="form-control" type="password" placeholder="Password" required="" style="background-position: right center; cursor: auto;"></div><div class="form-group"><button class="btn btn-primary" type="submit">Sign In</button> </div></form></div></div></div></li><li class="divider"></li><li><a href="https://afsac.wpafb.af.mil/register.jsp">Register for an Account</a></li><li><a href="https://afsac.wpafb.af.mil/password-reset">Reset Password</a></li></ul></li></ul></div></div></nav></nav>
+
+    <div class="main">
+
+
+
+
+		<!-- Image and caption -->
+		
+		<div style="height: 50%; position: relative;">
+			<div style="height: 100%; width: 100%; background-image: url('images/4.jpg'); background-position: center center; background-size: cover;">
+				<div class="container" style="height:100%; position: relative;">
+					<div style="color: #ffffff; position: absolute; bottom: 0px; right: 0px;"><small><i>U.S. Air Force photo by Airman 1st Class James Miller</i></small></div>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+
+
+
+		<!-- AFSAC Online title block -->
+        <div class="white jumbotron main-jumbotron">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-sm-8">
+                        <h1>AFSAC Online</h1>
+                        <h2>Supporting Worldwide Partnerships<br><small>AFSAC Online offers a range of business applications providing customers with visibility into their country programs.</small></h2>
+                        <!--<p class="lead">AFSAC Online offers a range of business applications providing customers with visibility into their country programs.</p>-->
+                    </div>
+
+                    <div class="col-sm-4 hidden-xs" style="text-align: center">
+                        <img src="images/afsac.png" class="img-responsive logo-right">
+                    </div>
+                
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+		<!-- App list -->
+        <div class="gray">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <h2>PROS</h2>
+                        <p>PROS provides procurement and maintenance support for a wide range of nonstandard and difficult-to-support standard items and is also a contracting vehicle for specialized technical services through task orders. </p>
+                        <p><a class="" href="pros.jsp" role="button">View details »</a></p>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <h2>WWRS</h2>
+                        <p>World Wide Warehouse Redistribution Services (WWRS) accepts materiel back on behalf of the US Government in order to fill other FMS requisitions.</p>
+                        <p><a class="" href="https://afsac4.wpafb.af.mil/WWRS" role="button">View details »</a></p>
+                    </div>
+                    <div class="clearfix visible-sm-block"></div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <h2>LOR</h2>
+                        <p>The LOR Automation Tool was developed to reduce the process time from an LOR to a Letter of Acceptance (LOA), Price and Availability (P&amp;A), or an Amendment or Modification to an existing LOA.</p>
+                        <p><a class="" href="lor.jsp" role="button">View details »</a></p>
+                    </div>
+                    <div class="clearfix visible-md-block"></div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <h2>Metrics</h2>
+                        <p>The AFSAC Metrics tool automates the production of regularly produced metrics and provides quick access to data.</p>
+                        <p><a class="" href="afsac-metrics" role="button">View details »</a></p>
+                    </div>
+                    <div class="clearfix visible-sm-block visible-lg-block"></div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <h2>Logistics</h2>
+                        <p>Logistics applications provide detailed insight into the requisitioning process.</p>
+                        <p><a class="" href="logistics.jsp" role="button">View details »</a></p>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <h2>SDR</h2>
+                        <p>SDR tools are used to report shipping (or packaging) discrepancies attributed to the responsibility of the shipper, and provide appropriate responses and resolution.</p>
+                        <p><a class="" href="sdr.jsp" role="button">View details »</a></p>
+                    </div>
+                    <div class="clearfix visible-md-block"></div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <h2>Financial</h2>
+                        <p>The AFSAC Online financial applications provide enhanced visibility into cases' financial data.</p>
+                        <p><a class="" href="financial.jsp" role="button">View details »</a></p>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-3">
+                        <h2>Tech Orders</h2>
+                        <p>The Technical Order (TO) applications provide information about active and available AF TOs, Time Compliant TOs (TCTOs), Country Standard TOs, and M-Symbol TOs.</p>
+                        <p><a class="" href="techorders.jsp" role="button">View details »</a></p>
+                    </div>
+                    <div class="col-md-4 visible-md-block">
+                    	<p class="lead" style="color:gray; margin-top:20px"><i>"Advancing national security by building global partnerships."</i></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+		<!-- FLO Webpage -->
+        <div style="background-image:url('images/c-130.jpg'); background-repeat:no-repeat; background-size:100%; background-position:center;">
+            <div style="text-align: center; padding: 100px 0px;; visibility: visible; transform: translateY(8px) scale(0.95); opacity: 0; -webkit-transform: translateY(8px) scale(0.95); opacity: 0; ">
+                <h1 style="color: white;">Foreign Liaison Office Information</h1>
+                <p style="padding:20px 0px;"><a class="btn btn-outline-inverse btn-lg" href="/flo" role="button"><span class="glyphicon glyphicon-lock"></span>  View Details »</a></p>
+            </div>
+            <div class="container credits"><small><i>U.S. Air Force photo by Tech. Sgt. Russ Scalf</i></small></div>
+        </div>
+
+
+
+
+
+
+		<!-- Feedback form -->
+        <div class="container" style="padding-top: 40px;">
+			<div class="row">
+				<div class="col-lg-offset-2 col-lg-8">
+					<div class="well well-lg" style="visibility: visible; transform: translateY(8px) scale(0.95); opacity: 0; -webkit-transform: translateY(8px) scale(0.95); opacity: 0; ">
+		
+		                <form method="POST" action="/feedback/servlet/FeedBack">
+		                    <div class="row" style="text-align: center;">
+		                        <h1>Leave Feedback</h1>
+		                        <p>Complete the form to submit a new help desk ticket.</p>
+		                    </div>
+		                    <div class="row">
+		                        <div class="col-sm-6">
+		                            <div class="form-group">
+		                                <input id="inputName" class="form-control" type="text" name="Name" placeholder="Name" required="" style="background-position: right center; cursor: auto;">
+		                            </div>
+		                            <div class="form-group">
+		                                <input id="inputEmail" class="form-control" type="email" name="EMail" placeholder="Email" required="" style="background-position: right center; cursor: auto;">
+		                            </div>
+		                            <div class="form-group">
+		                                <input id="inputPhone" class="form-control" type="tel" name="Telephone" placeholder="Phone" required="" style="background-position: right center; cursor: auto;">
+		                            </div>
+		                        </div>
+		                        <div class="col-sm-6">
+		                            <div class="form-group">
+		                                <textarea class="form-control" name="Comments" placeholder="Comments..." required="" rows="5"></textarea>
+		                            </div>
+		                        </div>
+		                    </div>
+		                    <div class="row" style="text-align: center;">
+		                    	<input type="hidden" name="Select" value="https://afsac.wpafb.af.mil/index.jsp">
+		                    	<input type="hidden" name="FAX" value="N/A">
+		                    	<button class="btn btn-primary" type="submit">Submit Feedback »</button>
+		                    </div>
+		                </form>
+		                
+		            </div>    
+	            </div>
+			</div>                
+        </div>
+
+
+
+		<!-- Disclaimer -->
+        <div class="container">
+            <footer>
+                <hr>
+                <div id="disclaimer">
+                    <small>
+                        <p>You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only.
+                            By using this IS (which includes any device attached to this IS), you consent to the following conditions:</p>
+                        <ul>
+                            <li>The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence (CI) investigations.</li>
+                            <li>At any time, the USG may inspect and seize data stored on this IS.</li>
+                            <li>Communications using, or data stored on, this IS are not private, are subject to routine monitoring, interception, and search, and may be disclosed or used for any USG authorized purpose.</li>
+                            <li>This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your personal benefit or privacy.</li>
+                            <li>Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching or monitoring of the content of privileged communications, or work product, related to personal representation or services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product are private and confidential. See User Agreement for details.</li>
+                        </ul>
+                    </small>
+                </div>
+                <hr>
+                <p>© Air Force Security Assistance and Cooperation Directorate - <script>document.write((new Date()).getFullYear());</script>2017</p>
+            </footer>
+        </div>
+
+    </div> <!-- end main -->
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://afsac.wpafb.af.mil/common/2.0/js/jquery.min.js"></script>
+<script src="https://afsac.wpafb.af.mil/common/2.0/js/bootstrap.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<!--<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>-->
+
+
+<script src="https://afsac.wpafb.af.mil/common/2.0/js/afsac-nav-links.js"></script>
+<script src="https://afsac.wpafb.af.mil/common/2.0/js/afsac-nav.min.js"></script>
+<script src="js/scrollReveal.min.js"></script>
+<script>
+
+    var options = null;
+
+    var username = ' ';
+    //var username = null;
+    $('.afsac-nav').initAfsacNav( {fullName: username} );
+
+    // Initialize scrollReveal for animation on scroll.
+    window.sr = new scrollReveal();
+
+
+</script>
+
+
+
+
+
+
+</body></html>

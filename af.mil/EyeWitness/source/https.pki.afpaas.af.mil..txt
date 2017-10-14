@@ -1,0 +1,28 @@
+<html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>PKI Certificate Required</title>
+		<link href="/nonsecure/css/pkiRequired.css" type="text/css" rel="stylesheet">
+	</head>
+	<body>
+		
+			
+				<table class="pkiTable">
+					<tbody><tr>
+						<td class="pkiTDText">
+							<h3>Certificate Required</h3>
+							<p>A valid certificate is required to view this page. If you are trying to authenticate with a certificate, please close your browser and try again.</p>
+							<p>(Note: When choosing a certificate, do not select cancel)</p>
+						</td>
+					</tr>
+				</tbody></table>
+				<p class="systemPOCText">
+					
+						System POC: <a class="jetLink" href="mailto:26ows@us.af.mil">26 OWS</a>
+						- DSN: 331-2600
+						- Comm: 318-529-2600<br>
+	                </p>
+			
+		   
+	
+
+</body></html>

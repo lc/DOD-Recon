@@ -1,0 +1,346 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en" dir="ltr"><head>
+<title>FARSite (Federal Acquisition Regulation Site)</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="CACHE-CONTROL" content="no-store, no-cache, must-revalidate">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta http-equiv="keywords" content="Federal Aquisition Regulations, FAR, Government Regulations, Aquisition, Regs, Regulations">
+<meta http-equiv="keywords" content="Defense Federal Aquisition Regulations">
+<meta http-equiv="keywords" content="DEFENSE, FEDERAL, ACQUISITION, REGULATION, SUPPLEMENT, SUPPLEMENTS, DFARS, AFFARS, AFMCFARS">
+<meta http-equiv="keywords" content="Business Logic, Clause Logic, Contract Logic, Contracting Logic, logic, Contracting, Business, Clauses">
+<meta http-equiv="keywords" content="Clause Elements, Clause Indicators, Logic Tree, Logic Engine, Clause Logic Service, SOA Logic Solution">
+<meta http-equiv="distribution" content="Global">
+<meta name="keywords" content="Federal Aquisition Regulations, FAR, Government Regulations, Aquisition, Regs, Regulations">
+<meta name="keywords" content="Defense Federal Aquisition Regulations">
+<meta name="keywords" content="DEFENSE, FEDERAL, ACQUISITION, REGULATION, SUPPLEMENT, SUPPLEMENTS, DFARS, AFFARS">
+<meta name="distribution" content="Global">
+<!--ICO-->
+<link rel="shortcut icon" type="image/x-icon" href="gif/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="gif/ico/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="gif/ico/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="gif/ico/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="gif/ico/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="gif/ico/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="gif/ico/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="gif/ico/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="gif/ico/apple-touch-icon-152x152.png">
+<!--End ICO-->
+<link rel="alternate" type="application/rss+xml" href="http://farsite.hill.af.mil/farsite.xml" title="FARSite RSS">
+<!--CSS--->
+<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/farsite.css" type="text/css">    
+<!--Script-->    
+<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" language="JavaScript" src="js/bootstrap.min.js"></script>
+
+<script language="JavaScript" type="text/javascript">
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!--- Begin
+    /* VARIABLES */
+    var IE = document.all;                                  //IE browsers
+    var DOM = document.getElementById && !IE;               //DOM-compliant browsers
+    var timer = 0;                                          //id of each timeout
+    var isPaused = false;                                   //whether the ticker is currently paused or not
+    var notices = new Array(
+                            "<strong>Welcome to FARSite</strong>!",
+							"<strong class='s3'><u>UPDATES</strong>",
+							"<strong>VAAR updated to 2008-03, Effective 29 Aug 2017</strong>",
+							"<strong class='s3'><u>WHATS NEW ?</strong>",
+							"New Navigation Implemented.",
+							" ----- Remember -----",
+							"<strong>Allow Pop Ups for FARSite</strong>, This will allow the site to function properly!.",
+							"Do not forget to refresh FARSite pages to get the new updated pages!!!",
+							"Clear your browser's cache files regularly, ...",
+							"... this will allow the larger pages to load correctly.",
+							"Enjoy your visit to FARSite."
+
+                           );
+    var index = notices.length;                             //set dynamically so the first call to the 'update' fx will show the first message
+    var mode = 1;                                           //1 is play mode, 0 is pause mode
+
+    /* preload images */
+    var playImg = new Image(); playImg.src = "gif/t_play.gif";
+    var pauseImg = new Image(); pauseImg.src = "gif/t_pause.gif";
+
+    /* FUNCTIONS */
+
+    /**
+      * Updates the ticker with the new message and sets a new timeout.
+      * @param msg The message to be dipslayed
+      */
+    function update() {
+        var bObj = null;
+        if (IE)
+            bObj = document.all.bannerMsg;
+        else if (DOM)
+            bObj = document.getElementById('bannerMsg');
+
+        bObj.innerHTML = notices[index++ % notices.length];
+        /* only set a timeout if the ticker is currently NOT paused */
+        if (!isPaused) {
+            clearTimeout(timer); //clear it, if it exists
+            timer = setTimeout("update()",4000);
+        }
+    }
+
+    /**
+      * (Re)starts the ticker
+      */
+    function startTicker() {
+        isPaused = false;   //must call first, so a new timeout is fired by update
+        update();           //show the next message
+    }
+
+    /**
+      * Pauses the ticker
+      */
+    function pauseTicker() {
+        clearTimeout(timer); //stop the timeout from firing
+        isPaused = true;
+    }
+
+    /**
+      * Scrolls the ticker ahead one message
+      */
+    function scrollForward() {
+        update();
+    }
+
+    /**
+      * Scrolls the ticker back one message
+      */
+    function scrollBackward() {
+        /* because we call update, which increments by one to send the correct message, we must decrement by 2 for overall decrement of 1 */
+        if (index == 0)
+            index = notices.length - 2;
+        else if (index == 1)
+            index = notices.length - 1;
+        else
+            index -= 2;
+        update();
+    }
+
+    /**
+      * Changes the pause/play icon and starts/stops the ticker accordingly
+      * @param imgObj The image object whose src image is to be toggled
+      */
+    function togglePausePlay(imgObj) {
+        if (mode++ % 2) {
+            //set img to play BUT PAUSE ticker
+            imgObj.src = playImg.src;
+            pauseTicker();
+        } else {
+            //set img to pause BUT START ticker
+            imgObj.src = pauseImg.src;
+            startTicker();
+        }
+
+    }
+// End -->
+</script>
+
+<!--<script type="text/javascript" language="javascript">
+var viewportwidth = viewportSize.getWidth();
+</script>-->
+<!--end scripts-->
+</head>
+
+<body onload="startTicker();">
+<div id="body">
+ <div id="content" class="content">
+<!--Header-->
+<div id="div1">
+	<div id="div2">
+		<div id="logo-1"><img class="banner" src="gif/far1.png" alt="FARSite" usemap="#far1"></div>
+		<div id="logo-2"><img class="banner" src="gif/FARSite_m.png" alt="FARSite"></div>
+	</div>
+</div>
+<!--end header-->
+<!---Navigation-->
+<div id="nav">
+<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example-navbar-collapse">
+         <span class="sr-only">Toggle navigation</span>
+         <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+       </button>
+<a class="navbar-brand" href="http://farsite.hill.af.mil" style="background-color:#f9f9f9;"><img src="gif/shields/FARSite-s.png" title="FARSite Home Page"></a>
+      </div>
+<!--links-->
+<div class="collapse navbar-collapse" id="example-navbar-collapse">
+<ul class="nav navbar-nav">
+<!--<li class="active"><a href="http://farsite.hill.af.mil/" title="FARSite Home">FARSite</a></li>-->
+<!--Regs-->
+<li class="active dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Regulations">Regs <span class="caret"></span></a>
+	<ul class="dropdown-menu" role="menu">
+	<li> <a href="vmfara.htm" title="Federal Acquisition Regulations" target="_parent" tabindex="ab" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/usa.png" alt="FAR" title="FAR" align="absmiddle"> FAR</a></li>
+	<li><a href="vmdfara.htm" title="Defense Federal Acquisition Regulation Supplement" target="_parent" tabindex="ac" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/dod.png" alt="DFARS" title="DFARS" align="absmiddle"> DFARS</a></li>
+	<li><a href="vmafara.htm" title="Army FAR Supplement" target="_parent" tabindex="ad" class="sub" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/army.png" alt="AFARS" title="AFARS" align="absmiddle"> AFARS</a></li>
+	<li><a href="vmaffara.htm" title="Air Force FAR Supplement" target="_parent" tabindex="ae" class="sub" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/doaf.png" alt="AFFARS" title="AFFARS" align="absmiddle"> AFFARS</a></li>
+	<li><a href="https://cs.eis.af.mil/sites/10148/afcc/afmc_pk_mp_ig/default.aspx" title="AFMC MP/IG" target="_parent" tabindex="ae" class="sub1" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/afmc.png" alt="AFMC MP/IG" title="AFMC MP/IG" align="absmiddle"> AFMC MP/IG <span class="icon glyphicon glyphicon-lock" aria-hidden="true" title="Ristricted to .Mil"></span></a></li>
+	<li><a href="https://cs2.eis.af.mil/sites/10074/afcc/afica/MP/Forms/AllItems.aspx?RootFolder=%2Fsites%2F10074%2Fafcc%2Fafica%2FMP%2FAFICA%20MP%20and%20Appendices%2FMP%20and%20Appendices&amp;FolderCTID=0x0120009541DA275EFBD544B17FEC4CA99D850F&amp;View=%7B52A8BEC5%2D262D%2D472A%2D83CC%2D426CA4176DEC%7D" title="AFICA MP" target="_parent" tabindex="af" class="sub1" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/afica.png" alt="AFICA MP" title="AFICA MP" align="absmiddle"> AFICA MP <span class="icon glyphicon glyphicon-lock" aria-hidden="true" title="Ristricted to .Mil"></span></a></li>
+	<li><a href="vmdisaa.htm" title="DISA Acquisition Regulation Supplement" target="_parent" tabindex="ag" class="sub" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/disa.png" alt="DARS" title="DARS" align="absmiddle"> DARS</a></li>
+	<li><a href="vmdlada.htm" title="Defense Logistics Agency Directive" target="_parent" tabindex="ag" class="sub" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/dla.png" alt="DLAD" title="DLAD" align="absmiddle"> DLAD</a></li>
+	<li><a href="vmnapsa.htm" title="Navy Marine Corpss Acquisition Regulation Supplement" target="_parent" tabindex="ah" class="sub" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/don.png" alt="NMCARS" title="NMCARS" align="absmiddle"> NMCARS</a></li>
+	<li><a href="vmussocoma.htm" title="United States Special Operations Command FAR Supplement" target="_parent" tabindex="ai" class="sub" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/socom.png" alt="USSOCOM" title="USSOCOM" align="absmiddle"> SOFARS</a></li>
+	<li><a href="vmustca.htm" title="US Transportation Command FAR Supplement" target="_parent" tabindex="aj" class="sub" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/ustc.png" alt="USTRANSCOM" title="USTRANSCOM" align="absmiddle"> TRANSFARS</a></li>
+	<li><a href="vmagara.htm" title="Department of Agriculture Acquisition Regulation" target="_parent" tabindex="ak" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/Doa.png" alt="AGAR" title="AGAR" align="absmiddle"> AGAR</a></li>
+	<li><a href="vmaidara.htm" title="USAID Acquisition Regulation" target="_parent" tabindex="al" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/usaid.png" alt="AIDAR" title="AIDAR" align="absmiddle"> AIDAR</a></li>
+	<li><a href="vmcara.htm" title="Department of Commerce Acquisition Regulation" target="_parent" tabindex="am" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/doc.png" alt="CAR" title="CAR" align="absmiddle"> CAR</a></li>
+	<li><a href="vmdoea.htm" title="Department of Energy Acquisition Regulation" target="_parent" tabindex="an" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/doe.png" alt="DEAR" title="DEAR" align="absmiddle"> DEARS</a></li>
+	<li><a href="vmdiara.htm" title="Department of the Interior Acquisition Regulation" target="_parent" tabindex="ao" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/doi.png" alt="DIAR" title="DIAR" align="absmiddle"> DIARS</a></li>
+	<li><a href="vmdolara.htm" title="Department of Labor Acquisition Regulation" target="_parent" tabindex="ap" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/dol.png" alt="DOLAR" title="DOLAR" align="absmiddle"> DOLARS</a></li>
+	<li><a href="vmdosara.htm" title="Department of State Acquisition Regulation" target="_parent" tabindex="aq" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/dos.png" alt="DOSAR" title="DOSAR" align="absmiddle"> DOSARS</a></li>
+	<li><a href="vmdtara.htm" title="Department of Transportation Acquisition Regulation" target="_parent" tabindex="ar" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/dotr.png" alt="DTAR" title="DTAR" align="absmiddle"> DTAR</a></li>
+	<li><a href="vmedara.htm" title="Department of Education Acquisition Regulation" target="_parent" tabindex="as" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/doed.png" alt="EDAR" title="EDAR" align="absmiddle"> EDAR</a></li>
+	<li><a href="vmepaara.htm" title="Environmental Protection Agency Acquisition Regulation" target="_parent" tabindex="at" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/epa.png" alt="EPAAR" title="EPAAR" align="absmiddle"> EPAAR</a></li>
+	<li><a href="vmfehbara.htm" title="OPM -Federal Employees Health Benefits Acquisition Regulation" target="_parent" tabindex="au" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/opm.png" alt="FEBAR" title="FEBAR" align="absmiddle"> FEHBAR</a></li>
+	<li><a href="vmgsara.htm" title="General Services Acquisition Regulation" target="_parent" tabindex="av" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/gsa.png" alt="GSAM" title="GSAM" align="absmiddle"> GSAM</a></li>
+	<li><a href="vmhhsara.htm" title="Department of Health and Human Services Acquisition Regulation" target="_parent" tabindex="aw" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/dohh.png" alt="HHSAR" title="HHSAR" align="absmiddle"> HHSAR</a></li>
+	<li><a href="vmhsara.htm" title="Department of Homeland Security Acquisition Regulation" target="_parent" tabindex="ax" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/dohs.png" alt="HSAR" title="HSAR" align="absmiddle"> HSAR</a></li>
+	<li><a href="vmhudara.htm" title="Department of Housing and Urban Development Acquisition Regulation" target="_parent" tabindex="ay" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/dohud.png" alt="HUDAR" title="HUDAR" align="absmiddle"> HUDAR</a></li>
+	<li><a href="vmiaara.htm" title="Broadcasting Board of Governors Aquisition Regulation" target="_parent" tabindex="az" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/Bbg.png" alt="IAAR" title="IAAR" align="absmiddle"> IAAR</a></li>
+	<li><a href="vmjara.htm" title="Department of Justice Acquisition Regulations" target="_parent" tabindex="ba" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/doj.png" alt="JAR" title="JAR" align="absmiddle"> JAR</a></li>
+	<li><a href="vmlifara.htm" title="OPM - Federal Employees Group Life Insurance Federal Acquisition Regulation" target="_parent" tabindex="bb" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/opm.png" alt="LIFAR" title="LIFAR" align="absmiddle"> LIFAR</a></li>
+	<li><a href="vmnasaa.HTM" title="National Aeronautics and Space Administration Federal Acquisition Regulation" target="_parent" tabindex="bc" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/nasa.png" alt="NFS" title="NFS" align="absmiddle"> NFS</a></li>
+	<li><a href="vmnrcara.HTM" title=" Nuclear Regulatory Commission Acquisition Regulation" target="_parent" tabindex="bd" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/nrc.png" alt="NRCAR" title="NRCAR" align="absmiddle"> NRCAR</a></li>
+	<li><a href="vmtara.htm" title="Department of Transportation Acquisition Regulation" target="_parent" tabindex="be" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/dot.png" alt="TAR" title="TAR" align="absmiddle"> TAR</a></li>
+	<li><a href="vmvara.HTM" title="Department of Veterans Affairs Acquisition Regulation" target="_parent" tabindex="bf" data-toggle="collapse" data-target=".navbar-collapse.in"><img src="gif/shields/dov.png" alt="VAAR" title="VAAR" align="absmiddle"> VAAR</a></li>
+	</ul>
+</li>
+<!--FARSerch-->
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="FARSearch">FARSearch <span class="caret"></span></a>
+	<ul class="dropdown-menu">
+	<li><a href="http://farsite.hill.af.mil/zoomcgi/search.cgi" data-toggle="collapse" data-target=".navbar-collapse.in" title="Search by Regulation"><span class="glyphicon glyphicon-search" aria-hidden="true" style="font-size: 12px;"></span> Regulations</a></li>
+	<li><a href="http://farsite.hill.af.mil/zoomcgi-fac/search.cgi" data-toggle="collapse" data-target=".navbar-collapse.in" title="Search by Change Notice"><span class="glyphicon glyphicon-search" aria-hidden="true" style="font-size: 12px;"></span> Reg Change Notices</a></li>
+
+	</ul>
+</li>
+<!--Tools-->
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Tools">Tools <span class="caret"></span></a>
+	<ul class="dropdown-menu">
+	<li><a href="regs.htm" data-toggle="collapse" data-target=".navbar-collapse.in" title="Donwload Regs"><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Downloads</a></li>
+	<li><a href="http://farsite.hill.af.mil/archive/" data-toggle="collapse" data-target=".navbar-collapse.in" title="Archived Regulations"><span class="glyphicon glyphicon-folder-open" aria-hidden="true" style="font-size:11px;"></span>  Archived Regs</a></li>
+	<li class="dropdown-header" data-toggle="collapse" data-target=".navbar-collapse.in"><span style="text-decoration:underline;">Forms</span></li>
+	<li><a href="http://www.e-publishing.af.mil/" class="sub" data-toggle="collapse" data-target=".navbar-collapse.in" title="AF Forms Library"> Library 1(AF)</a></li>
+	<li><a href="http://www.esd.whs.mil/Directives/forms/" class="sub" data-toggle="collapse" data-target=".navbar-collapse.in" title="OSD Forms Library"> Library 2(OSD)</a></li>
+	<li><a href="http://www.gsa.gov/portal/forms/type/TOP" class="sub" data-toggle="collapse" data-target=".navbar-collapse.in" title="GSA Forms Library"> Library 3(GSA)</a></li>
+	<li><a href="vtools.html" data-toggle="collapse" data-target=".navbar-collapse.in" title="Virtual Tools"> Vtools</a></li>
+	<li><a href="https://cs.eis.af.mil/sites/10059/afcc/Pages/default.aspx" data-toggle="collapse" data-target=".navbar-collapse.in" title="AF Contracting Central"> AF Contracting Central <span class="icon glyphicon glyphicon-lock" aria-hidden="true" title="Ristricted to .Mil"></span></a></li>
+	<li><a href="https://cs.eis.af.mil/sites/10148/AFCC/afmc_pk_mp_ig/default.aspx" data-toggle="collapse" data-target=".navbar-collapse.in" title="AFMC Contracting"> AFMC Contracting <span class="icon glyphicon glyphicon-lock" aria-hidden="true" title="Ristricted to .Mil"></span></a></li>
+	<li><a href="https://cs.eis.af.mil/sites/10059/afcc/ebiz/default.aspx" data-toggle="collapse" data-target=".navbar-collapse.in" title="AFCEP"> AFCEP <span class="icon glyphicon glyphicon-lock" aria-hidden="true" title="Ristricted to .Mil"></span></a></li>
+	<li><a href="clauselogic/clauselogic.html" data-toggle="collapse" data-target=".navbar-collapse.in" title="AF SPS Clause Logic"> SPS Logic</a></li>
+	</ul>
+</li>
+<!--Status-->
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Status">Status <span class="caret"></span></a>
+	<ul class="dropdown-menu">
+	<li><a href="currentness.htm" data-toggle="collapse" data-target=".navbar-collapse.in" title="Current Status of Regulations"> Currentness</a></li>
+	<li><a href="regst1.htm" data-toggle="collapse" data-target=".navbar-collapse.in" title="Change Notices"> Changes</a></li>
+	<li><a href="https://www.gpo.gov/fdsys/browse/collection.action?collectionCode=FR" data-toggle="collapse" data-target=".navbar-collapse.in" title="Federal Register"> Federal Register</a></li>
+	<li><a href="http://www.acq.osd.mil/dpap/dars/far_case_status.html" data-toggle="collapse" data-target=".navbar-collapse.in" title="FAR Cases"> FAR Cases</a></li>
+	<li><a href="http://www.acq.osd.mil/dpap/dars/case_status.html" data-toggle="collapse" data-target=".navbar-collapse.in" title="DFARS Cases"> DFARS Cases</a></li>
+	<li><a href="news.htm" data-toggle="collapse" data-target=".navbar-collapse.in" title="FARSite News"> FARSite News</a></li>
+	<li><a href="stats/stats.htm" data-toggle="collapse" data-target=".navbar-collapse.in" title="Statistics"> Stats</a></li>
+	</ul>
+</li>
+<!--Clause Logic-->
+<li><a href="http://pklunx.hill.af.mil/demo_clslogic/app/frameset.htm" data-toggle="collapse" data-target=".navbar-collapse.in" title="Clause Logic">Clause Logic</a></li>
+<li><a href="Far-Map.html" data-toggle="collapse" data-target=".navbar-collapse.in" title="Site Map">Site Map</a></li>
+</ul>
+</div>
+</div>
+</nav>
+<!--end Nav-->
+</div>
+<!--Main-->
+<div id="div3">
+<div id="div4">
+
+
+<form name="messages" onsubmit="return false">
+<div id="banner" style="max-width: 550px; margin: 0 auto;" role="group">
+    <strong class="b1">&nbsp;FARSite Announcements</strong>
+    <span id="bannerMsg" name="field"><strong>Welcome to FARSite</strong>!</span>
+    <div id="controls" role="group">
+        <img src="gif/t_back.gif" class="ctrls" title="Scroll back" alt="Scroll back" onclick="javascript:scrollBackward();" role="button">&nbsp;<img src="gif/t_pause.gif" class="ctrls" title="Pause/Play" alt="Pause/Play" id="pause_play" onclick="javascript:togglePausePlay(this);" role="button">&nbsp;<img src="gif/t_forward.gif" title="Scroll forward" alt="Scroll forward" class="ctrls" onclick="javascript:scrollForward();" role="button">
+    </div></div></form>
+<br>
+
+<h1 style="text-align: center;">Welcome to FARSite</h1>
+<h2 style="text-align: center;">(Federal Acquisition Regulation Site)</h2>
+<a href="http://farsite.hill.af.mil/farsite.xml" target="_top"><img src="gif/feed-icon-14x14.png" alt="RSS Feed" width="14" height="14" border="0" align="left"></a>
+<p style="text-align: center; font-size:14px; margin-top:2px; margin-bottom: 0px;"><strong>Allow Pop Ups for FARSite</strong></p>
+<strong class="b1"> &nbsp; Notices</strong>
+<hr class="dark">
+<p style="text-align: center; margin:0px;">
+<!--<span class="icon2 glyphicon glyphicon-arrow-right " aria-hidden="true" style="font-size:20px; color:#F00;"></span>&nbsp;--><a href="notice.html" target="_top" title="Public Service Announcements">FARSite Public Service Announcements.</a><!--&nbsp;<span class="icon2 glyphicon glyphicon-arrow-left" aria-hidden="true" style="font-size:20px; color: #F00;"></span>--></p>
+<hr class="dark1">
+<p style="text-align: center;margin:0px;"><strong> <a tabindex="3" accesskey="C" name="FAQ" target="_parent" href="faq-n.htm" title="FAQ"> Look here for general help and FAQ's.</a></strong></p>
+<hr class="dark1">
+<p style="text-align: center; margin-top:5px">See <a href="hierarchy.htm" accesskey="D" tabindex="4" title="Codification">Federal Acquisition Regulation Codification</a><br>for help finding what regulation you need.</p>
+<p style="text-align: center; ">You are accessing a government computer system.<br>Please read this <a href="Priv-sec.html" name="Privacy" title="PRIVACY AND SECURITY NOTICE" target="_parent" id="link" accesskey="B" tabindex="2">Privacy and Security Notice</a><br>and the <a href="508.htm" name="508" title="Section 508" target="_parent" id="link" accesskey="1" tabindex="aa">Accessibility/Section 508 Notice</a>.<br><a href="http://prhome.defense.gov/nofear">No FEAR Act</a></p>
+<!--end Main-->
+<!--Footer-->
+<strong class="b1"> &nbsp; Information</strong>
+<hr class="dark">
+<p style="text-align: center;  margin-top: 10px; margin-bottom: 2px;">FARSite has been accessed <img align="absmiddle" src="/cgi-bin/Count.exe?dd=f&amp;ft=0&amp;df=farsite.dat" alt="Number of Visitors here" border="1" height="19" width="100"> times.<br>
+Questions/Comments: <a accesskey="E" tabindex="5" name="Email" href="mailto:Hill.Farsite@us.af.mil?subject=FARSite"> FARSite Webmaster</a><br>Phone numbers: Comm 801-777-9011, DSN: 777-9011<br>
+Page Updated: 05 Oct 2017</p>
+
+
+</div>
+<div id="body3" style="background: no-repeat center url(gif/shields/FARSite_logo.png);"></div>
+</div>
+</div>
+</div>
+<img longdesc="Counter" alt="FARSite Counter" src="/cgi-bin/Count.exe?sh=0&amp;dd=l&amp;ft=0&amp;df=homepage.dat">
+
+<!--end Footer-->
+<!--IMG Map-->
+<map name="far1">
+    <area title="FAR - Federal Acquisition Regulations" shape="RECT" coords="4,1,28,26" href="vmfara.htm" target="_top" alt="FAR - Federal Acquisition Regulation">
+    <area title="DFARS - Department of Defense" shape="RECT" coords="28,1,53,26" href="vmdfara.htm" target="_top" alt="DFARS - Department of Defense">
+    <area title="AFARS - Department of the Army" shape="RECT" coords="54,1,78,26" href="vmafara.htm" target="_top" alt="AFARS - Department of the Army">
+    <area title="AFFARS - Department of Air Force" shape="RECT" coords="77,1,104,26" href="vmaffara.htm" target="_top" alt="AFFARS - Department of Air Force">
+    <area title="DARS - Defense Information Systems Agency" shape="RECT" coords="103,1,131,26" href="vmdisaa.htm" target="_top" alt="DARS - Defense Information Systems Agency">
+    <area title="DLAD - Defense Logistics Agency" shape="RECT" coords="130,1,156,26" href="vmdlada.htm" target="_top" alt="DLAD - Defense Logistics AgencyD">
+    <area title="NMCARS - Department of Navy" shape="RECT" coords="169,1,194,26" href="vmnapsa.htm" target="_top" alt="NMCARS - Department of Navy">
+    <area title="SOFARS - United States Special Operations Command" shape="RECT" coords="193,1,218,26" href="vmussocoma.htm" target="_top" alt="SOFARS - United States Special Operations Command">
+    <area title="TRANSFARS - United States Transportation Command" shape="RECT" coords="216,1,244,26" href="vmustca.htm" target="_top" alt="TRANSFARS - United States Transportation Command">
+    <area title="AGAR - Department of Agriculture" shape="RECT" coords="243,1,269,26" href="vmagara.htm" target="_top" alt="AGAR - Department of Agriculture">
+    <area title="AIDAR - Agency for International Development" shape="RECT" coords="269,1,294,26" href="vmaidara.htm" target="_top" alt="AIDAR - Agency for International Development">
+    <area title="CAR - Department of Commerce" shape="RECT" coords="293,1,318,26" href="vmcara.htm" target="_top" alt="CAR - Department of Commerce">
+    <area title="DEARS - Department of Energy" shape="RECT" coords="318,1,346,26" href="vmdoea.htm" target="_top" alt="DEARS - Department of Energy">
+    <area title="DIAR - Department of the Interior" shape="RECT" coords="345,1,371,26" href="vmdiara.htm" target="_top" alt="DIAR - Department of the Interior">
+    <area title="DOLAR - Department of Labor" shape="RECT" coords="370,1,398,26" href="vmdolara.htm" target="_top" alt="DOLAR - Department of Labor">
+    <area title="DOSAR - Department of State" shape="RECT" coords="4,28,28,53" href="vmdosara.htm" target="_top" alt="DOSAR - Department of State">
+    <area title="DTAR - Department of the Treasury" shape="RECT" coords="27,28,53,53" href="vmdtara.htm" target="_top" alt="DTAR - Department of the Treasury">
+    <area title="EDAR - Department of Education" shape="RECT" coords="52,28,77,53" href="vmedara.htm" target="_top" alt="EDAR - Department of Education">
+    <area title="EPAAR - Environmental Protection Agency" shape="RECT" coords="76,28,103,53" href="vmepaara.htm" target="_top" alt="EPAAR - Environmental Protection Agency">
+    <area title="FEHBAR - OPM, Federal Employees Group Life Insurance" shape="RECT" coords="103,28,131,53" href="vmfehbara.htm" target="_parent" alt="FEHBAR - OPM, Federal Employees Group Life Insurance">
+    <area title="GSAM - General Services Administration" shape="RECT" coords="130,28,156,53" href="vmgsara.htm" target="_top" alt="GSAM - General Services Administration">
+    <area title="HHSAR - Department of Health and Human Services" shape="RECT" coords="168,28,193,53" href="vmhhsara.htm" target="_top" alt="HHSAR - Department of Health and Human Services">
+    <area title="HSAR - Department of Homeland Security" shape="RECT" coords="192,28,217,53" href="vmhsara.htm" target="_top" alt="HSAR - Department of Homeland Security">
+    <area title="HUDAR - Department of Housing and Urban Development" shape="RECT" coords="216,28,244,53" href="vmhudara.htm" target="_top" alt="HUDAR - Department of Housing and Urban Development">
+    <area title="IAAR - Broadcasting Board of Governors" shape="RECT" coords="243,28,269,53" href="vmiaara.htm" target="_top" alt="IAAR - Broadcasting Board of Governors">
+    <area title="JAR - Department of Justice" shape="RECT" coords="268,28,293,53" href="vmjara.htm" target="_top" alt="JAR - Department of Justice">
+    <area title="LIFAR - OPM, Federal Employees Group Life Insurance" shape="RECT" coords="292,28,317,53" href="vmlifara.htm" target="_parent" alt="LIFAR - OPM, Federal Employees Group Life Insurance">
+    <area title="NFS - National Aeronautics and Space Administration" shape="RECT" coords="317,28,345,53" href="vmnasaa.htm" target="_top" alt="NFS - National Aeronautics and Space Administration">
+    <area title="NRCAR - Nuclear Regulatory Commission" shape="RECT" coords="344,28,370,53" href="vmnrcara.htm" target="_top" alt="NRCAR - Nuclear Regulatory Commission">
+    <area title="TAR - Department of Transportation" shape="RECT" coords="369,28,397,53" href="vmtara.htm" target="_top" alt="TAR - Department of Transportation">
+    <area title="VAAR - Department of Veterans Affairs" shape="RECT" coords="396,28,423,53" href="vmvara.htm" target="_top" alt="VAAR - Department of Veterans Affairs">
+  </map>
+<!--End IMG Map-->
+
+
+</body></html>

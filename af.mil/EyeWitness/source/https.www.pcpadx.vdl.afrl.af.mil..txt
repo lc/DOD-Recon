@@ -1,0 +1,1332 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="language" content="en">
+	<style type="text/css" media="screen, projection">
+        /* -----------------------------------------------------------------------
+
+
+ Blueprint CSS Framework 0.9
+ http://blueprintcss.org
+
+   * Copyright (c) 2007-Present. See LICENSE for more info.
+   * See README for instructions on how to use Blueprint.
+   * For credits and origins, see AUTHORS.
+   * This is a compressed file. See the sources in the 'src' directory.
+
+----------------------------------------------------------------------- */
+
+/* reset.css */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td 
+{margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;}
+body {}
+table {border-collapse:separate;border-spacing:0;}
+caption, th, td {text-align:left;font-weight:normal;}
+table, td, th {vertical-align:middle;}
+blockquote:before, blockquote:after, q:before, q:after {content:"";}
+blockquote, q {quotes:"" "";}
+a img {border:none;}
+*:focus {
+	outline: 0;
+}
+
+/* typography.css */
+html {font-size:18px;}
+body {font-size:100%;color:#333;background:#fff;font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;}
+h1, h2, h3, h4, h5, h6 {font-weight:normal;color:#111;}
+/*
+h1 {font-size:2em;line-height:1;margin-bottom:0.5em;}
+h2 {font-size:1.6em;margin-bottom:0.75em;}
+h3 {font-size:1.4em;line-height:1;margin-bottom:1em;}
+h4 {font-size:1.2em;line-height:1.25;margin-bottom:1.25em;}
+h5 {font-size:1em;font-weight:bold;margin-bottom:1.5em;}
+h6 {font-size:1em;font-weight:bold;}
+*/
+h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {margin:0;}
+p {margin:0 0 1.5em;}
+p img.left {float:left;margin:1.5em 1.5em 1.5em 0;padding:0;}
+p img.right {float:right;margin:1.5em 0 1.5em 1.5em;}
+a:focus, a:hover {color:#000;}
+a {color:#009;text-decoration:underline;}
+blockquote {margin:1.5em;color:#666;font-style:italic;}
+strong {font-weight:bold;}
+em, dfn {font-style:italic;}
+dfn {font-weight:bold;}
+sup, sub {line-height:0;}
+abbr, acronym {border-bottom:1px dotted #666;}
+address {margin:0 0 1.5em;font-style:italic;}
+del {color:#666;}
+pre {margin:1.5em 0;white-space:pre;}
+pre, code, tt {font:1em 'andale mono', 'lucida console', monospace;line-height:1.5;}
+li ul, li ol {margin:0;}
+/*ul, ol {margin:0 1.5em 1.5em 0;padding-left:3.333em;}*/
+ul {list-style-type:disc;}
+ol {list-style-type:decimal;}
+dl {margin:0 0 1.5em 0;}
+dl dt {font-weight:bold;}
+dd {margin-left:1.5em;}
+table {margin-bottom:1.4em;width:100%;}
+th {font-weight:bold;}
+thead th {background:#c3d9ff;}
+th, td, caption {padding:4px 10px 4px 5px;}
+tfoot {font-style:italic;}
+caption {background:#eee;}
+.small {font-size:.8em;margin-bottom:1.875em;line-height:1.875em;}
+.large {font-size:1.2em;line-height:2.5em;margin-bottom:1.25em;}
+.hide {display:none;}
+.quiet {color:#666;}
+.loud {color:#000;}
+.highlight {
+	background-color:#FF9;
+}
+.added {background:#060;color:#fff;}
+.removed {background:#900;color:#fff;}
+.first {margin-left:0;padding-left:0;}
+.last {margin-right:0;padding-right:0;}
+.top {margin-top:0;padding-top:0;}
+.bottom {margin-bottom:0;padding-bottom:0;}
+
+/* grid.css */
+.container 
+{
+}
+.showgrid {background:url(src/grid.png);}
+.column, div.span-1, div.span-2, div.span-3, div.span-4, div.span-5, div.span-6, div.span-7, div.span-8, div.span-9, div.span-10, div.span-11, div.span-12, div.span-13, div.span-14, div.span-15, div.span-16, div.span-17, div.span-18, div.span-19, div.span-20, div.span-21, div.span-22, div.span-23, div.span-24 {float:left;margin-right:10px;}
+.last, div.last {margin-right:0;}
+.span-1 {width:30px;}
+.span-2 {width:70px;}
+.span-3 {width:110px;}
+.span-4 {width:150px;}
+.span-5 {width:190px;}
+.span-6 {width:230px;}
+.span-7 {width:270px;}
+.span-8 {width:310px;}
+.span-9 {width:350px;}
+.span-10 {width:390px;}
+.span-11 {width:430px;}
+.span-12 {width:470px;}
+.span-13 {width:510px;}
+.span-14 {width:550px;}
+.span-15 {width:590px;}
+.span-16 {width:630px;}
+.span-17 {width:670px;}
+.span-18 {width:710px;}
+.span-19 {width:750px;}
+.span-20 {width:790px;}
+.span-21 {width:830px;}
+.span-22 {width:870px;}
+.span-23 {width:910px;}
+.span-24, div.span-24 {width:950px;margin-right:0;}
+input.span-1, textarea.span-1, input.span-2, textarea.span-2, input.span-3, textarea.span-3, input.span-4, textarea.span-4, input.span-5, textarea.span-5, input.span-6, textarea.span-6, input.span-7, textarea.span-7, input.span-8, textarea.span-8, input.span-9, textarea.span-9, input.span-10, textarea.span-10, input.span-11, textarea.span-11, input.span-12, textarea.span-12, input.span-13, textarea.span-13, input.span-14, textarea.span-14, input.span-15, textarea.span-15, input.span-16, textarea.span-16, input.span-17, textarea.span-17, input.span-18, textarea.span-18, input.span-19, textarea.span-19, input.span-20, textarea.span-20, input.span-21, textarea.span-21, input.span-22, textarea.span-22, input.span-23, textarea.span-23, input.span-24, textarea.span-24 {border-left-width:1px!important;border-right-width:1px!important;padding-left:5px!important;padding-right:5px!important;}
+input.span-1, textarea.span-1 {width:18px!important;}
+input.span-2, textarea.span-2 {width:58px!important;}
+input.span-3, textarea.span-3 {width:98px!important;}
+input.span-4, textarea.span-4 {width:138px!important;}
+input.span-5, textarea.span-5 {width:178px!important;}
+input.span-6, textarea.span-6 {width:218px!important;}
+input.span-7, textarea.span-7 {width:258px!important;}
+input.span-8, textarea.span-8 {width:298px!important;}
+input.span-9, textarea.span-9 {width:338px!important;}
+input.span-10, textarea.span-10 {width:378px!important;}
+input.span-11, textarea.span-11 {width:418px!important;}
+input.span-12, textarea.span-12 {width:458px!important;}
+input.span-13, textarea.span-13 {width:498px!important;}
+input.span-14, textarea.span-14 {width:538px!important;}
+input.span-15, textarea.span-15 {width:578px!important;}
+input.span-16, textarea.span-16 {width:618px!important;}
+input.span-17, textarea.span-17 {width:658px!important;}
+input.span-18, textarea.span-18 {width:698px!important;}
+input.span-19, textarea.span-19 {width:738px!important;}
+input.span-20, textarea.span-20 {width:778px!important;}
+input.span-21, textarea.span-21 {width:818px!important;}
+input.span-22, textarea.span-22 {width:858px!important;}
+input.span-23, textarea.span-23 {width:898px!important;}
+input.span-24, textarea.span-24 {width:938px!important;}
+.append-1 {padding-right:40px;}
+.append-2 {padding-right:80px;}
+.append-3 {padding-right:120px;}
+.append-4 {padding-right:160px;}
+.append-5 {padding-right:200px;}
+.append-6 {padding-right:240px;}
+.append-7 {padding-right:280px;}
+.append-8 {padding-right:320px;}
+.append-9 {padding-right:360px;}
+.append-10 {padding-right:400px;}
+.append-11 {padding-right:440px;}
+.append-12 {padding-right:480px;}
+.append-13 {padding-right:520px;}
+.append-14 {padding-right:560px;}
+.append-15 {padding-right:600px;}
+.append-16 {padding-right:640px;}
+.append-17 {padding-right:680px;}
+.append-18 {padding-right:720px;}
+.append-19 {padding-right:760px;}
+.append-20 {padding-right:800px;}
+.append-21 {padding-right:840px;}
+.append-22 {padding-right:880px;}
+.append-23 {padding-right:920px;}
+.prepend-1 {padding-left:40px;}
+.prepend-2 {padding-left:80px;}
+.prepend-3 {padding-left:120px;}
+.prepend-4 {padding-left:160px;}
+.prepend-5 {padding-left:200px;}
+.prepend-6 {padding-left:240px;}
+.prepend-7 {padding-left:280px;}
+.prepend-8 {padding-left:320px;}
+.prepend-9 {padding-left:360px;}
+.prepend-10 {padding-left:400px;}
+.prepend-11 {padding-left:440px;}
+.prepend-12 {padding-left:480px;}
+.prepend-13 {padding-left:520px;}
+.prepend-14 {padding-left:560px;}
+.prepend-15 {padding-left:600px;}
+.prepend-16 {padding-left:640px;}
+.prepend-17 {padding-left:680px;}
+.prepend-18 {padding-left:720px;}
+.prepend-19 {padding-left:760px;}
+.prepend-20 {padding-left:800px;}
+.prepend-21 {padding-left:840px;}
+.prepend-22 {padding-left:880px;}
+.prepend-23 {padding-left:920px;}
+div.border {padding-right:4px;margin-right:5px;border-right:1px solid #eee;}
+div.colborder {padding-right:24px;margin-right:25px;border-right:1px solid #eee;}
+.pull-1 {margin-left:-40px;}
+.pull-2 {margin-left:-80px;}
+.pull-3 {margin-left:-120px;}
+.pull-4 {margin-left:-160px;}
+.pull-5 {margin-left:-200px;}
+.pull-6 {margin-left:-240px;}
+.pull-7 {margin-left:-280px;}
+.pull-8 {margin-left:-320px;}
+.pull-9 {margin-left:-360px;}
+.pull-10 {margin-left:-400px;}
+.pull-11 {margin-left:-440px;}
+.pull-12 {margin-left:-480px;}
+.pull-13 {margin-left:-520px;}
+.pull-14 {margin-left:-560px;}
+.pull-15 {margin-left:-600px;}
+.pull-16 {margin-left:-640px;}
+.pull-17 {margin-left:-680px;}
+.pull-18 {margin-left:-720px;}
+.pull-19 {margin-left:-760px;}
+.pull-20 {margin-left:-800px;}
+.pull-21 {margin-left:-840px;}
+.pull-22 {margin-left:-880px;}
+.pull-23 {margin-left:-920px;}
+.pull-24 {margin-left:-960px;}
+.pull-1, .pull-2, .pull-3, .pull-4, .pull-5, .pull-6, .pull-7, .pull-8, .pull-9, .pull-10, .pull-11, .pull-12, .pull-13, .pull-14, .pull-15, .pull-16, .pull-17, .pull-18, .pull-19, .pull-20, .pull-21, .pull-22, .pull-23, .pull-24 {float:left;position:relative;}
+.push-1 {margin:0 -40px 1.5em 40px;}
+.push-2 {margin:0 -80px 1.5em 80px;}
+.push-3 {margin:0 -120px 1.5em 120px;}
+.push-4 {margin:0 -160px 1.5em 160px;}
+.push-5 {margin:0 -200px 1.5em 200px;}
+.push-6 {margin:0 -240px 1.5em 240px;}
+.push-7 {margin:0 -280px 1.5em 280px;}
+.push-8 {margin:0 -320px 1.5em 320px;}
+.push-9 {margin:0 -360px 1.5em 360px;}
+.push-10 {margin:0 -400px 1.5em 400px;}
+.push-11 {margin:0 -440px 1.5em 440px;}
+.push-12 {margin:0 -480px 1.5em 480px;}
+.push-13 {margin:0 -520px 1.5em 520px;}
+.push-14 {margin:0 -560px 1.5em 560px;}
+.push-15 {margin:0 -600px 1.5em 600px;}
+.push-16 {margin:0 -640px 1.5em 640px;}
+.push-17 {margin:0 -680px 1.5em 680px;}
+.push-18 {margin:0 -720px 1.5em 720px;}
+.push-19 {margin:0 -760px 1.5em 760px;}
+.push-20 {margin:0 -800px 1.5em 800px;}
+.push-21 {margin:0 -840px 1.5em 840px;}
+.push-22 {margin:0 -880px 1.5em 880px;}
+.push-23 {margin:0 -920px 1.5em 920px;}
+.push-24 {margin:0 -960px 1.5em 960px;}
+.push-1, .push-2, .push-3, .push-4, .push-5, .push-6, .push-7, .push-8, .push-9, .push-10, .push-11, .push-12, .push-13, .push-14, .push-15, .push-16, .push-17, .push-18, .push-19, .push-20, .push-21, .push-22, .push-23, .push-24 {float:right;position:relative;}
+.prepend-top {margin-top:1.5em;}
+.append-bottom {margin-bottom:1.5em;}
+.box {padding:1.5em;margin-bottom:1.5em;background:#E5ECF9;}
+hr.space {background:#fff;color:#fff;visibility:hidden;}
+.clearfix:after, .container:after {content:"\0020";display:block;height:0;clear:both;visibility:hidden;overflow:hidden;}
+.clearfix, .container {display:block;}
+.clear {clear:both;}
+
+
+a 
+{
+	color:#ba2f2f;
+	text-decoration:none;
+}
+a:visited 
+{
+	color:#ba2f2f;
+}
+a:hover 
+{
+	color:#ba2f2f;
+	text-decoration:underline;
+}
+h1 {
+	font-size: 140%;
+	font-weight: bold;
+	color: #666;
+	margin-bottom: 16px;
+	margin-right: 0px;
+	margin-top: 6px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-left: 0px;
+	text-transform:uppercase;
+	/*letter-spacing:0.02em;*/
+}
+h2 {
+	font-size: 110%;
+	font-weight: bold;
+	/*margin-bottom: 0.4em;*/
+	color: #304e80;
+	margin-left: 0px;
+	padding-left: 0px;
+	clear:left;
+}
+h3 {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 95%;
+	color: #4A4F55;
+	margin-left: 0px;
+}
+h4 {
+	font-size: 90%;
+	color: #4A4F55;
+	margin-left: 20px;
+}
+h5 {
+	font-size: 90%;
+	color: #4A4F55;
+	margin-left: 25px;
+	font-weight: normal;
+}
+p {
+	padding-left: 0px;
+	margin:0 5px 20px 0px;
+	text-align:justify;
+}
+.center {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.instr, 
+.instr2 
+{
+	margin:0px 0px 0px 0px;
+	padding: 10px 10px 0px 4px;
+	color:#630;
+	
+}
+.instr2 {
+	padding: 10px 10px 10px 0px;
+}
+.instr p, 
+.instr2 p
+{
+	line-height:normal;
+	padding:0 0 5px 0;
+	margin: 5px 0px 5px 0px;
+	font-size: 80%;
+	font-style:italic;
+}
+
+.instr p span,
+.instr2 p span
+{
+	font-size: 100%;
+	font-weight:bold;
+	line-height:2.5ex;
+	font-style:normal;
+}
+.summary {
+	display:none;
+}
+ul {
+	margin: 25px 0px 0px 0px;
+}
+hr {
+	background:#ddd;
+	color:#ddd;
+	clear:both;
+	float:none;
+	width:100%;
+	height:2px;
+	border:none;
+	margin-top:20px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+html 
+{
+	overflow-y: scroll;
+}
+
+body
+{
+	margin: 0;
+	padding: 0;
+	width:100%;
+	background-color:#e0e4ef;
+	min-width:950px;    
+	font-family: Arial, Helvetica, sans-serif; 
+}
+
+#page
+{
+}
+
+#header
+{
+	margin: 0;
+	padding: 0;
+	height:60px;
+	background-color:#304e80;
+	background-image:url(../images/top_banner.jpg);
+	background-repeat:no-repeat;
+	background-position:top left;
+	z-index:250;
+
+}
+
+#content
+{
+	margin:25px 25px 25px 25px;
+	background-color:#FFF;
+	border:1px solid #999999;
+	padding: 20px 35px 40px 35px;
+	font-family: Calibri, Tahoma, Geneva, sans-serif;
+	line-height:22px;
+	color:#444;
+}
+#content p {
+    line-height:1.618;
+}
+h1, h2, h3, h4, h5, h6 {
+	padding:15px 0 0 0;
+	line-height:normal;
+	margin:0;
+}
+
+h1 {
+	color:#999;
+}
+
+ol, ul {
+	padding: 0 0 15px 40px;
+}
+
+#content li {
+	/*line-height:2.8ex;*/
+	margin-bottom:1.5ex;
+    line-height:1.4;
+    font-size:16px;
+}
+
+#content li > ul,
+#content li > ol
+{
+	padding: 10px 0 15px 40px;
+}
+
+#content li > ul > li {
+	list-style-type:circle;
+}
+
+#content li > ul > li > ul > li {
+	list-style-type:square;
+}
+
+
+#sidebar
+{
+	padding: 20px 20px 20px 0;
+}
+
+#footer
+{
+	border:1px solid #999999;
+	background-image:url(../images/footer_background.jpg);
+	background-repeat:no-repeat;
+	background-position:top left;
+	margin:0px 25px 0px 25px;
+	background-color:#FFF;
+	text-align:right;
+	height:31px;
+	padding:8px 15px 0px 0px;
+}
+#footer a {
+	text-align:center;
+	color:#ba2f2f;
+	font-weight:bold;
+	text-transform:uppercase;
+	position:relative;
+	display:inline-block;
+	display:inline;
+	cursor:pointer;
+	margin:0px 0px 0px 20px;
+	font-size:65%;
+	letter-spacing:0.05em;
+}
+#logo
+{
+	
+	width:100%;
+	min-width:950px;
+}
+#logo a#airforce
+{
+	float:right;
+	height: 60px;
+}
+#logo a#vdl
+{
+	float:left;
+	margin: 6px 0px 0px 5px;
+	/*z-index:1000;*/
+	position:absolute;
+}
+#joinaflink {
+	float: right;
+}
+#mainmenu {
+	border-bottom:1px solid #999999;
+	background-color:#FFF;
+	padding:0px 5px 0px 170px !important;
+	height:26px;
+	z-index:250;
+}
+#mainmenu ul {
+	padding:0px 0px 0px 20px;
+	margin:0px;
+}
+
+#mainmenu ul li {
+	display: inline;
+}
+
+#mainmenu ul li a {
+	color:#ba2f2f;
+	background-color:transparent;
+	font-weight:bold;
+	text-decoration:none;
+	padding:6px 8px 5px 8px;
+	margin:0;
+	font-size:65%;
+	letter-spacing:0.08em;
+	text-transform:uppercase;
+	height:15px; /* height of <a> block minus top and bottom padding of <a> block */
+	display:inline-block;
+	/*float: left;*/
+	border-color:transparent;
+	border-width:0px 1px 0px 1px;
+	border-style:solid;
+}
+#mainmenu ul li a:hover
+{
+	color:#ba2f2f;
+	text-decoration:none;
+	background-color:#ff9;
+	border-color:transparent;
+	border-style:solid;
+}
+#mainmenu ul li.active a
+{
+	color:#ba2f2f;
+	text-decoration:none;
+	background-color:#e0e4ef;
+	border-color:#999999;
+	border-style:solid;
+	height:16px;
+}
+#mainmenu #joinaflink a
+{
+	padding:2px 8px 4px 8px;
+	white-space:nowrap;
+	line-height:normal;
+	margin: 0px 0px 0px 0px;
+}
+#mainmenu #joinaflink a:hover
+{
+		background-color:transparent;
+		text-decoration:underline;
+}
+.infobox
+{
+	/*margin-top:25px;*/
+	margin-left:auto;
+	margin-right:auto;
+	width: 50%;
+	padding: 10px 20px 10px 50px;
+	background-color:#E8E8E8;
+	border:1px solid white;
+	font-family: Calibri, Tahoma, Geneva, sans-serif;
+	color:#333;
+	line-height:normal;
+	letter-spacing:0.05em;
+	background-position: 10px center;
+	background-repeat:no-repeat;	
+	
+	-moz-box-shadow: 0px 10px 10px #888;
+	-webkit-box-shadow: 0px 10px 10px #888;
+	box-shadow: 0px 10px 10px #888;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=6, Direction=135, Color='#777777')";
+}
+.holder {
+	padding-top: 25px;
+}
+.infobox a.kill
+{
+	display:block;
+	width: 17px;
+	height: 17px;
+	padding:0;
+	float:right;
+	margin-right: -10px;
+	cursor:pointer;
+	background-image:url(/images/x-red.gif);
+	background-position: center center;
+	background-repeat:no-repeat;
+	border:1px solid transparent;
+}
+.infobox a.kill:hover
+{
+	border:1px solid #888;
+	background-color:#E8E8E8;
+}
+
+/*
+.infobox a.kill
+{
+	display:block;
+	width: 17px;
+	height: 17px;
+	padding:0;
+	float:right;
+	margin: -18px -26px 0px 0px;
+	cursor:pointer;
+	background-image:url(/images/icn_kill.png);
+	background-position: 0px 0px;
+	
+}
+.infobox a.kill:hover
+{
+	background-position: -17px 0px;
+}
+*/
+.infobox p
+{
+	padding:0;
+	margin:0;
+}
+.good
+{
+	background-image:url(/images/icn_good.png);
+}
+.bad
+{
+	background-image:url(/images/icn_bad.png);
+}
+.notify
+{
+	background-image:url(/images/icn_notify.png);
+	background-position: 20px center !important;
+}
+.question
+{
+	background-image:url(/images/icn_question.png);
+	background-position: 15px center !important;
+}
+
+
+div.flash-error, div.flash-notice, div.flash-success
+{
+	padding:.8em;
+	margin-bottom:1em;
+	border:2px solid #ddd;
+}
+
+div.flash-error
+{
+	background:#FBE3E4;
+	color:#8a1f11;
+	border-color:#FBC2C4;
+}
+
+div.flash-notice
+{
+	background:#FFF6BF;
+	color:#514721;
+	border-color:#FFD324;
+}
+
+div.flash-success
+{
+	background:#E6EFC2;
+	color:#264409;
+	border-color:#C6D880;
+}
+
+div.flash-error a
+{
+	color:#8a1f11;
+}
+
+div.flash-notice a
+{
+	color:#514721;
+}
+
+div.flash-success a
+{
+	color:#264409;
+}
+
+div.form .rememberMe label
+{
+	display: inline;
+}
+
+div.view
+{
+	padding: 10px;
+	margin: 10px 0;
+	border: 1px solid #C9E0ED;
+}
+
+div.breadcrumbs
+{
+	padding: 5px 20px;
+	display:none;
+}
+
+div.breadcrumbs span
+{
+	font-weight: bold;
+}
+
+div.search-form
+{
+	padding: 10px;
+	margin: 10px 0;
+	background: #eee;
+}
+
+.portlet
+{
+
+}
+
+.portlet-decoration
+{
+	padding: 3px 8px;
+	background: #B7D6E7;
+	border-left: 5px solid #6FACCF;
+}
+
+.portlet-title
+{
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	color: #298dcd;
+}
+
+.portlet-content
+{
+	margin: 0 0 15px 0;
+	padding: 5px 8px;
+	background:#EFFDFF;
+}
+
+.portlet-content ul
+{
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+}
+
+.portlet-content li
+{
+	padding: 2px 0 4px 0px;
+}
+
+.operations
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.operations li
+{
+	padding-bottom: 2px;
+}
+
+.operations li a
+{
+	font: bold 12px Arial;
+	color: #0066A4;
+	display: block;
+	padding: 2px 0 2px 8px;
+	line-height: 15px;
+	text-decoration: none;
+}
+
+.operations li a:visited
+{
+	color: #0066A4;
+}
+
+.operations li a:hover
+{
+	background: #80CFFF;
+}
+
+dl {
+	margin-right: 10px;
+	margin-left: 20px;
+	margin-bottom: 25px;
+}
+dt {
+	font-weight: bold;
+	margin-top: 10px;
+	padding: 3px;
+	color: #304e80;	
+}
+/*
+.publicReviewDate {
+	text-align:center;
+	padding-top:35px;
+	font-size:80%;
+	font-weight:bold;
+	font-family:"Courier New", Courier, monospace;
+	color:#999;
+	clear:both;
+}
+*/
+.publicReviewDate {
+	text-align:center;
+	padding:20px 0;
+	font-size:60%;
+	font-weight:bold;
+	font-family:"Courier New", Courier, monospace;
+	color:#777;
+	clear:both;
+}
+div.highlightBox {
+	padding: 3ex 2em 2ex 2em;
+	border: 1px solid #CCC;
+}
+#footerAppendage {
+	text-align:center;
+	padding-top:15px;
+}
+#footer a {
+	text-align:center;
+	color:#ba2f2f;
+	font-size:60%;
+	font-weight:bold;
+	text-transform:uppercase;
+	position:relative;
+	display:inline-block;
+	display:inline;
+	cursor:pointer;
+	margin:0px 0px 0px 20px;
+}
+
+#footerAppendage a {
+	text-align:center;
+	color:#ba2f2f;
+	font-size:60%;
+	font-weight:bold;
+	text-transform:capitalize;
+	position:relative;
+	display:inline-block;
+	display:inline;
+	cursor:pointer;
+}
+
+#footerAppendage a {
+	color:#666;
+	margin-left:20px;
+}
+#footerAppendage a:visited {
+	color:#666;
+}
+#footerAppendage a:hover {
+	color:#ba2f2f;
+	text-decoration:underline;
+}
+.hide{
+	display: none;
+}
+
+.jsClass, .cookieWarn {
+	padding:3px;
+	text-align:center;
+	color:#630;
+	background-color:#FFEAD5;
+	border:1px solid #630;
+}
+/**
+ * dialog overwrites
+ */
+.usgis-notice .ui-widget-header {
+	background: #eb8d00;
+}
+.usgis-notice .ui-dialog-titlebar-close {
+	display: none;
+}
+.usgis-notice #dialogNotice {
+	font-size: 80%;
+}
+.usgis-notice #dialogNotice h3 {
+	padding: 0;
+}
+.usgis-notice #dialogNotice li {
+	font-size: 95%;
+	letter-spacing: 1px;
+	margin-bottom: 0.7em;
+}
+/**
+ * CSS styles for forms generated by yiic.
+ *
+ * The styles can be applied to the following form structure:
+ *
+ * <div class="form">
+ *     <div class="row">
+ *         <label for="inputid">xyz</label>
+ *         <input name="inputid" id="inputid" type="text" />
+ *         <p class="hint">hint text</p>
+ *     </div>
+ *     <div class="row">
+ *         <label for="inputid">xyz</label>
+ *         <input name="inputid" id="inputid" type="text" />
+ *         <p class="hint">hint text</p>
+ *     </div>
+ *     <div class="row buttons">
+ *         <label for="inputid">xyz</label>
+ *         <input name="inputid" id="inputid" type="text" />
+ *         <p class="hint">hint text</p>
+ *     </div>
+ * </div>
+ *
+ * The above code will render the labels and input fields in separate lines.
+ * In order to render them in the same line, please use the "wide" form as follows,
+ *
+ * <div class="wide form">
+ *     ......
+ * </div>
+ *
+ * @author Qiang Xue <qiang.xue@gmail.com>
+ * @link http://www.yiiframework.com/
+ * @copyright Copyright &copy; 2008-2010 Yii Software LLC
+ * @license http://www.yiiframework.com/license/
+ */
+
+div.form
+{
+}
+
+div.form h2 {
+	margin: 0px 0px 0px 0px;
+	font-size: 130%;
+	color: #556BA6;
+	font-weight:normal;
+	letter-spacing: 0.1em;
+}
+
+div.form div.field input,
+div.form div.field textarea,
+div.form div.field select
+{
+	margin: 0.2em 0 0.1em 0;
+	background-color:#fff;
+	border-width:1px;
+}
+div.form div.field input:focus,
+div.form div.field textarea:focus,
+div.form div.field select:focus
+{
+	margin: 0.2em 0 0.1em 0;
+	background-color:#ffc;
+}
+div.form fieldset
+{
+	border: 1px solid #ccc;
+	padding: 25px 35px 20px 45px;
+	margin: 20px 25px 30px 25px;
+	-moz-border-radius:7px;
+	background-color:#E4E8F1;
+}
+div.form fieldset legend
+{
+	padding: 0px 15px 2px 15px;
+	color:#666;
+	width: 250px;
+	margin-left:auto;
+	margin-right:auto;
+	/*background-color:#F1F3F8;*/
+	background-color:#fff;
+	-moz-border-radius:3px;
+	border: 1px solid #ccc;
+	text-align: center;
+	letter-spacing:0.03em;
+}
+div.form label
+{
+}
+div.field label
+{
+	font-size: 80%;
+	display: block;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 1px;
+	display:block;
+	line-height:normal;
+	color:#5C5C5C;
+}
+div.fields
+{
+	margin: 0px 0px 20px 0px;
+	display:block;
+}
+div.form div.field {
+	display: inline-block;
+	padding: 3px;
+	vertical-align: top;
+	border: 1px solid transparent;
+}
+
+div.form .row
+{
+	margin: 5px 0;
+}
+
+div.form .hint
+{
+	margin: 0;
+	padding: 0;
+	color: #999;
+}
+
+div.form .note
+{
+	font-style: italic;
+}
+
+div.form span.required
+{
+	color: red;
+}
+div.form div.field_group {
+	margin:0px 0px 15px 0px;
+}
+
+div.form div.error label,
+div.form label.error,
+div.form span.error
+{
+	color: #C00;
+}
+
+div.form div.error input,
+div.form div.error textarea,
+div.form div.error select,
+div.form input.error,
+div.form textarea.error,
+div.form select.error
+{
+	background: #FEE;
+	border-color: #C00;
+}
+
+div.form div.success input,
+div.form div.success textarea,
+div.form div.success select,
+div.form input.success,
+div.form textarea.success,
+div.form select.success
+{
+	background: #E6EFC2;
+	border-color: #C6D880;
+}
+
+
+div.form .errorSummary
+{
+	border: 2px solid #C00;
+	padding: 7px 7px 12px 7px;
+	margin: 0 0 20px 0;
+	background: #FEE;
+	font-size: 0.9em;
+}
+
+div.form .errorMessage
+{
+	color: red;
+	font-size: 0.9em;
+}
+
+div.form .errorSummary p
+{
+	margin: 0;
+	padding: 5px;
+}
+
+div.form .errorSummary ul
+{
+	margin: 0;
+	padding: 0 0 0 20px;
+}
+
+div.wide form label
+{
+	float: left;
+	margin-right: 10px;
+	position: relative;
+	text-align: right;
+	width: 100px;
+}
+
+div.wide form .row
+{
+	clear: left;
+}
+
+div.wide form .buttons
+{
+	clear: left;
+	padding-left: 110px;
+}
+
+div.wide form .errorMessage
+{
+	margin: 0 0 0 110px;
+}
+
+div.form div.fail {
+	border-color: #FF8080;
+	background-color: #FFC8C8;
+}
+.RequiredField {
+	font-size: 85%;
+	padding: 0;
+	margin: 0;
+}
+#err_msg_dsp {
+	position: fixed;
+	width: 350px;
+	top: 120px;
+	right: 20px;
+	border: 1px solid #FF8080;
+	background-color: #FFC8C8;
+	display: none;
+}
+#err_msg_dsp p {
+	padding: 5px;
+}
+#err_msg_dsp  ul {
+	list-style: circle;
+}
+#err_msg_dsp li {
+	border: none;
+}
+p.buttonblock {
+	text-align:center;
+}
+p.buttonblock input {
+	width: 14em;
+}
+.errorMessage ul {
+	margin: 5px 0 0 5px;
+	padding-left: 20px;
+}
+.errorMessage li {
+	margin: 0 0 3px;
+	list-style: none;
+}
+
+    </style>
+    <style type="text/css" media="print">
+        /* -----------------------------------------------------------------------
+
+
+ Blueprint CSS Framework 0.9
+ http://blueprintcss.org
+
+   * Copyright (c) 2007-Present. See LICENSE for more info.
+   * See README for instructions on how to use Blueprint.
+   * For credits and origins, see AUTHORS.
+   * This is a compressed file. See the sources in the 'src' directory.
+
+----------------------------------------------------------------------- */
+
+/* print.css */
+body {line-height:1.5;font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;color:#000;background:none;font-size:10pt;}
+.container {background:none;}
+hr {background:#ccc;color:#ccc;width:100%;height:2px;margin:2em 0;padding:0;border:none;}
+hr.space {background:#fff;color:#fff;visibility:hidden;}
+h1, h2, h3, h4, h5, h6 {font-family:"Helvetica Neue", Arial, "Lucida Grande", sans-serif;}
+code {font:.9em "Courier New", Monaco, Courier, monospace;}
+a img {border:none;}
+p img.top {margin-top:0;}
+blockquote {margin:1.5em;padding:1em;font-style:italic;font-size:.9em;}
+.small {font-size:.9em;}
+.large {font-size:1.1em;}
+.quiet {color:#999;}
+.hide {display:none;}
+a:link, a:visited {background:transparent;font-weight:700;text-decoration:underline;}
+a:link:after, a:visited:after {content:" (" attr(href) ")";font-size:90%;}    </style>
+
+    <!--[if IE 8]>
+        <style type="text/css" media="screen, projection">
+            div.form fieldset
+{
+	border: 1px solid #ccc;
+	padding: 0px 35px 20px 45px;
+	margin-top:40px;
+}
+div.form fieldset legend
+{
+	margin:-20px 0 0 0;
+}
+        </style>
+    <![endif]-->
+    
+    <!--[if IE 7]>
+        <style type="text/css" media="screen, projection">
+            /* -----------------------------------------------------------------------
+
+
+ Blueprint CSS Framework 0.9
+ http://blueprintcss.org
+
+   * Copyright (c) 2007-Present. See LICENSE for more info.
+   * See README for instructions on how to use Blueprint.
+   * For credits and origins, see AUTHORS.
+   * This is a compressed file. See the sources in the 'src' directory.
+
+----------------------------------------------------------------------- */
+
+/* ie.css */
+body {text-align:center;}
+.container {text-align:left;}
+* html .column, * html div.span-1, * html div.span-2, * html div.span-3, * html div.span-4, * html div.span-5, * html div.span-6, * html div.span-7, * html div.span-8, * html div.span-9, * html div.span-10, * html div.span-11, * html div.span-12, * html div.span-13, * html div.span-14, * html div.span-15, * html div.span-16, * html div.span-17, * html div.span-18, * html div.span-19, * html div.span-20, * html div.span-21, * html div.span-22, * html div.span-23, * html div.span-24 {display:inline;overflow-x:hidden;}
+* html legend {margin:0px -8px 16px 0;padding:0;}
+sup {vertical-align:text-top;}
+sub {vertical-align:text-bottom;}
+html>body p code {*white-space:normal;}
+hr {margin:-8px auto 11px;}
+img {-ms-interpolation-mode:bicubic;}
+.clearfix, .container {display:inline-block;}
+* html .clearfix, * html .container {height:1%;}
+div.form fieldset {padding-top:0;}
+textarea {overflow:auto;}
+input.text, input.title, textarea {background-color:#fff;border:1px solid #bbb;}
+input.text:focus, input.title:focus {border-color:#666;}
+input.text, input.title, textarea, select {margin:0.5em 0;}
+input.checkbox, input.radio {position:relative;top:.25em;}
+form.inline div, form.inline p {vertical-align:middle;}
+form.inline label {position:relative;top:-0.25em;}
+form.inline input.checkbox, form.inline input.radio, form.inline input.button, form.inline button {margin:0.5em 0;}
+button, input.button {position:relative;top:0.25em;}
+legend {
+	margin:-17px -8px 16px 0;
+	padding:0;
+}
+div.form fieldset
+{
+	margin: 40px 25px 30px 25px;
+}
+#mainmenu #joinaflink a
+{
+	padding:5px 8px 4px 8px;
+}
+div.form div.field {
+	display:inline;
+}        </style>
+    <![endif]-->
+    
+    
+<!--Additional style sheet for PCPAD-X. All other CSS is standard from PUBLIC VDL-->
+<link href="css/pcpadx.css" rel="stylesheet" type="text/css" media="screen">
+
+<!--Insert any additional <head> and <script> elements you need here.-->
+
+<title>PCPAD-X</title>
+
+</head>
+
+<body>
+
+<div class="container" id="page">
+
+    <div id="header">
+        <div id="logo">
+        <a id="pcpadxLogo" href="index.php"><img src="images/pcpad-x-temp-logo.png" width="189" height="74" alt="PCPAD-X Logo"></a>
+        <a id="airforce" href="http://www.airforce.com/"><img src="images/af_logo.jpg" width="187" height="60" alt="Air Force Logo"></a>
+        </div>
+    </div>
+
+	<div id="mainmenu">
+    
+        <ul>
+			<li id="joinaflink"><a href="http://www.airforce.com/">Join the Air Force</a></li>
+        </ul>	
+        
+        
+	</div>
+
+	<div class="container">
+		<div id="content"><!--All page content must exist below this line-->
+	
+	<h1>PCPAD-X PUBLIC WEB SITE</h1>
+	
+    <h2>Problems</h2>
+    <p>PCPAD-X analyzes specific user groups, documenting their respective missions and the associated requirements. Each analysis yields a tailored breakdown of these missions and requirements into core problems, which are further divided into functional needs and user workflow needs.</p>
+    
+    <p><a class="emailAddress" href="mailto:pcpadx-problems@vdl.afrl.af.mil">pcpadx-problems@vdl.afrl.af.mil</a></p>
+    
+    <h2>Solutions</h2>
+    <p>Functional needs and user workflow needs documented under PCPAD-X may be used to drive development of new technical solutions within government, industry, and academia. Those documented needs may also be used as reference points when identifying potential new applications of existing technology.</p>
+    
+    <p><a class="emailAddress" href="mailto:pcpadx-solutions@vdl.afrl.af.mil">pcpadx-solutions@vdl.afrl.af.mil</a></p>
+    
+    <h2>Assessment</h2>
+    <p>Technology assessment within PCPAD-X occurs at multiple levels with varying degrees of complexity, and may include operationally relevant integration environments. Examples of PCPAD-X assessment include a review of a brochure or whitepaper, a self-test containing government-supplied data, a technology demonstration, and a formal objective assessment.</p>
+    
+    <p><a class="emailAddress" href="mailto:pcpadx-assess@vdl.afrl.af.mil">pcpadx-assess@vdl.afrl.af.mil</a></p>
+        
+<!--All page content must exist above this line-->
+		</div><!--close CONTENT div-->
+	</div><!--close CONTAINER div-->
+    
+    <div id="footer">
+        <div id="footercontent">
+            <a href="contact.php">Contact Us</a> 
+        </div>
+    </div>
+        <div id="footerAppendage">
+            <a href="security.php">Privacy &amp; Security Notice</a> 
+            <a href="hyperlink.php">External Link Disclaimer</a>
+            <a href="http://prhome.defense.gov/nofear" title="No Fear Act" target="_new">No Fear Act</a>
+            <a href="http://www.usa.gov/" title="USA.gov" target="_new">USA.gov</a>     
+        </div>
+    <div class="publicReviewDate">Current as of 1 January 2017</div>
+
+
+</div></body></html>

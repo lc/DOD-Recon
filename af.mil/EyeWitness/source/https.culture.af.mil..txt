@@ -1,0 +1,992 @@
+<!DOCTYPE html><html class="js html wf-opensans-n4-active wf-opensans-n6-active wf-opensans-n7-active wf-opensans-n8-active wf-sourceserifpro-n6-active wf-active" lang="en-US"><head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+  <meta name="generator" content="2017.0.4.363">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script type="text/javascript">
+   // Update the 'nojs'/'js' class on the html node
+document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+
+// Check that all required assets are uploaded and up-to-date
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "musewpdisclosure.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
+</script>
+  
+  <title>Air Force Culture and Language Center | Welcome</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4215535438">
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=17775755">
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=478470687" id="pagesheet">
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_b-master.css?crc=480043310"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=532006734" id="nomq_pagesheet"/>
+  <![endif]-->
+  <!-- JS includes -->
+  <script src="https://use.typekit.net/ik/qoIrikM04k2gDIONP_4alTn2mg4h6F4Uki7eSwX7py3feCIffF06NbwPH26kwQJuFDBLwAIUjcb3FQwkFRSaFRSkZRqtFQwX5esRZAItjcJaF29-nbI7OcBuOcBcOcuTdf37OcBuSYmKde8RZemhOcuypYi8de30jAj0dA8COfG0jamCiYmkZPoyZKol-A3CjW90jAj0dA8COeBuSYmKde8RZemhOcuypYi8de30jAj0dA8COeFudYsuSc90jAj0dA8COYiaikoyiPoyZKol-A3CiaiaOcBuSYmKde8RZemhOcuypYi8de30jAj0dA8COYiaikoRiAUXiW48OcBcOcuTdfJ4dag8dKuDjAoDJygDdamkjh9lShmk-AjlSY4zH6qJuYIbMg6IJMI7fbRmSsMMeMj6MPG4fwuUIMMjgkMgH6qJDaIbMg6JJMI7f6KHC6IbMs6eJMBHgIuuShAbMdLW_S3B.js" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <style type="text/css">@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/21f561/000000000000000000011c3b/27/l?subset_id=1&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/21f561/000000000000000000011c3b/27/d?subset_id=1&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/21f561/000000000000000000011c3b/27/a?subset_id=1&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/9cd8a9/000000000000000000011c3c/27/l?subset_id=1&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/9cd8a9/000000000000000000011c3c/27/d?subset_id=1&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/9cd8a9/000000000000000000011c3c/27/a?subset_id=1&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/d85dc3/000000000000000000011c34/27/l?subset_id=1&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/d85dc3/000000000000000000011c34/27/d?subset_id=1&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/d85dc3/000000000000000000011c34/27/a?subset_id=1&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/81fa90/000000000000000000011c36/27/l?subset_id=1&fvd=n8&v=3) format("woff2"),url(https://use.typekit.net/af/81fa90/000000000000000000011c36/27/d?subset_id=1&fvd=n8&v=3) format("woff"),url(https://use.typekit.net/af/81fa90/000000000000000000011c36/27/a?subset_id=1&fvd=n8&v=3) format("opentype");font-weight:800;font-style:normal;}@font-face{font-family:source-serif-pro;src:url(https://use.typekit.net/af/07d5c4/00000000000000003b9aee9d/27/l?subset_id=1&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/07d5c4/00000000000000003b9aee9d/27/d?subset_id=1&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/07d5c4/00000000000000003b9aee9d/27/a?subset_id=1&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;}</style><script type="text/javascript">
+   try {Typekit.load();} catch(e) {}
+</script>
+    <!--HTML Widget code-->
+  
+		
+ <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="scripts/museconfig.js?crc=474374037" src="scripts/museconfig.js?crc=474374037"></script><script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/timeline.9eafa9d416292f8d9a7d76082d96d91e.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="museutils" src="scripts/museutils.js?crc=109723140"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="whatinput" src="scripts/whatinput.js?crc=86476730"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.musepolyfill.bgsize" src="scripts/jquery.musepolyfill.bgsize.js?crc=4045269973"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="webpro" src="scripts/webpro.js?crc=4099603279"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="musewpdisclosure" src="scripts/musewpdisclosure.js?crc=504240800"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="musewpslideshow" src="scripts/musewpslideshow.js?crc=4209617913"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.museoverlay" src="scripts/jquery.museoverlay.js?crc=4279461676"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="touchswipe" src="scripts/touchswipe.js?crc=4065839998"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.watch" src="scripts/jquery.watch.js?crc=399457859"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.museresponsive" src="scripts/jquery.museresponsive.js?crc=501053771"></script></head>
+ <body class="initialized">
+
+  <div class="breakpoint active" id="bp_infinity" data-min-width="1141"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox" id="page"><!-- column -->
+    <div class="clearfix colelem" id="pu348693"><!-- group -->
+     <div class="browser_width shared_content" id="u348693-bw" data-content-guid="u348693-bw_content" style="height: auto;">
+      <div id="u348693"><!-- simple frame --></div>
+     </div>
+     <div class="browser_width shared_content" id="u348624-bw" data-content-guid="u348624-bw_content" style="height: auto;">
+      <div class="shadow" id="u348624"><!-- simple frame --></div>
+     </div>
+     <div class="clearfix shared_content" id="u348697" data-content-guid="u348697_content"><!-- group -->
+      <a class="nonblock nontext" id="u348700" href="https://www.facebook.com/AirForceCultureandLanguageCenter" target="_blank"><!-- rasterized frame --><img class="" id="u348700_img" alt="" width="17" height="17" src="images/picons06-u348700.png?crc=91316985"></a>
+      <a class="nonblock nontext" id="u348702" href="https://twitter.com/afclc" target="_blank"><!-- rasterized frame --><img class="" id="u348702_img" alt="" width="17" height="17" src="images/picons03-u348702.png?crc=8760107"></a>
+     </div>
+     <div class="PamphletWidget clearfix" id="pamphletu348646"><!-- none box -->
+      <div class="popup_anchor" id="u348647popup">
+       <div class="ContainerGroup clearfix horizontalSlideShow" id="u348647" style="width: 0px; height: 0px;"><!-- stack box -->
+        <div class="Container grpelem wp-panel" id="u348671" role="tabpanel" aria-labelledby="u348691" style="display: none;"><!-- simple frame --></div>
+        <div class="Container clearfix grpelem wp-panel" id="u348651" role="tabpanel" aria-labelledby="u348689" style="display: none;"><!-- group -->
+         <div class="grpelem shared_content" id="u348653" data-content-guid="u348653_content"><!-- simple frame --></div>
+         <div class="Menu1 clearfix grpelem shared_content" id="u348652-9" data-content-guid="u348652-9_content"><!-- content -->
+          <p id="u348652-4"><a class="nonblock" href="expeditionary-courses.html">Expeditionary Courses&nbsp; </a></p>
+          <p id="u348652-7"><a class="nonblock" href="courses/index.html"><span id="u348652-5">3C Courses (CCAF Credit)</span></a></p>
+         </div>
+        </div>
+        <div class="Container clearfix grpelem wp-panel" id="u348668" role="tabpanel" aria-labelledby="u348681" style="display: none;"><!-- group -->
+         <div class="grpelem shared_content" id="u348669" data-content-guid="u348669_content"><!-- simple frame --></div>
+         <div class="Menu1 clearfix grpelem shared_content" id="u348670-12" data-content-guid="u348670-12_content"><!-- content -->
+          <p id="u348670-4"><a class="nonblock" href="leap/index.html">Language Enabled Airman Program (LEAP)&nbsp; </a></p>
+          <p id="u348670-7"><a class="nonblock" href="csp.html"><span id="u348670-5">Cultural Studies Project (CSP)</span></a></p>
+          <p id="u348670-10"><a class="nonblock" href="qep.html"><span id="u348670-8">Quality Enhancement Plan (QEP)</span></a></p>
+         </div>
+        </div>
+        <div class="Container clearfix grpelem wp-panel" id="u348648" role="tabpanel" aria-labelledby="u348687" style="display: none;"><!-- group -->
+         <div class="grpelem shared_content" id="u348649" data-content-guid="u348649_content"><!-- simple frame --></div>
+         <div class="Menu1 clearfix grpelem shared_content" id="u348650-30" data-content-guid="u348650-30_content"><!-- content -->
+          <p id="u348650-4"><a class="nonblock" href="ecfg/index.html">Field Guides </a></p>
+          <p id="u348650-7"><a class="nonblock" href="symposium/index.html"><span id="u348650-5">AU LREC Symposium</span></a></p>
+          <p id="u348650-10"><a class="nonblock" href="library.html"><span id="u348650-8">AFCLC Library</span></a></p>
+          <p id="u348650-13"><a class="nonblock" href="http://afclc.wordpress.com"><span id="u348650-11">Blog</span></a></p>
+          <p id="u348650-16"><a class="nonblock" href="research-publications.html"><span id="u348650-14">Research Publications</span></a></p>
+          <p id="u348650-19"><a class="nonblock" href="language-resources.html"><span id="u348650-17">Language Resources</span></a></p>
+          <p id="u348650-22"><a class="nonblock" href="region-culture-resources.html"><span id="u348650-20">Region &amp; Culture Resources</span></a></p>
+          <p id="u348650-25"><a class="nonblock" href="air-staff-resources.html"><span id="u348650-23">Air Staff Resources</span></a></p>
+          <p id="u348650-28"><a class="nonblock" href="guidance.html"><span id="u348650-26">Guidance</span></a></p>
+         </div>
+        </div>
+        <div class="Container clearfix grpelem wp-panel" id="u348664" role="tabpanel" aria-labelledby="u348685" style="display: none;"><!-- group -->
+         <div class="grpelem shared_content" id="u348665" data-content-guid="u348665_content"><!-- simple frame --></div>
+         <div class="Menu1 clearfix grpelem shared_content" id="u348666-15" data-content-guid="u348666-15_content"><!-- content -->
+          <p id="u348666-4"><a class="nonblock" href="our-story.html">Our Story&nbsp;&nbsp; </a></p>
+          <p id="u348666-7"><a class="nonblock" href="our-people.html"><span id="u348666-5">Our People</span></a></p>
+          <p id="u348666-10"><a class="nonblock" href="our-partners.html"><span id="u348666-8">Our Partners</span></a></p>
+          <p id="u348666-13"><a class="nonblock" href="contact-us.html"><span id="u348666-11">Contact Us</span></a></p>
+         </div>
+        </div>
+        <div class="Container clearfix grpelem wp-panel" id="u348654" role="tabpanel" aria-labelledby="u348683" style="display: none;"><!-- group -->
+         <ul class="AccordionWidget clearfix grpelem" id="accordionu348655" role="tablist"><!-- vertical box -->
+          <li class="AccordionPanel borderbox clearfix colelem" id="u348656"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u348657-4" role="tab" tabindex="0"><!-- content --><div id="u348657-3" class="shared_content" data-content-guid="u348657-3_content"><p>Culture &amp; Region</p></div></div><div class="AccordionPanelContent colelem" role="tabpanel" aria-labelledby="u348657-4" style="width: 100%; height: 0px; position: relative; left: 0px; overflow: hidden;"><div class="AccordionPanelContentClip"><div class="borderbox clearfix" id="u348658"><!-- group --><div class="Menu1 clearfix grpelem shared_content" id="u348659-23" data-content-guid="u348659-23_content"><!-- content --><p id="u348659-3"><a class="nonblock" href="culture-about.html"><span id="u348659">About</span></a></p><p id="u348659-6"><a class="nonblock" href="our-people.html"><span id="u348659-4">Our Faculty</span></a></p><p id="u348659-9"><a class="nonblock" href="courses/index.html"><span id="u348659-7">3C Courses (CCAF Credit)</span></a></p><p id="u348659-12"><a class="nonblock" href="expeditionary-courses.html"><span id="u348659-10">Expeditionary Courses</span></a></p><p id="u348659-15"><a class="nonblock" href="ecfg/index.html"><span id="u348659-13">Field Guides</span></a></p><p id="u348659-18"><a class="nonblock" href="csp.html"><span id="u348659-16">Cultural Studies Project (CSP)</span></a></p><p id="u348659-21"><a class="nonblock" href="region-culture-resources.html"><span id="u348659-19">Region &amp; Culture Resources</span></a></p></div></div></div></div></li>
+          <li class="AccordionPanel borderbox clearfix colelem" id="u348660"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u348661-4" role="tab" tabindex="-1" aria-selected="false"><!-- content --><div id="u348661-3" class="shared_content" data-content-guid="u348661-3_content"><p>Language</p></div></div><div class="AccordionPanelContent colelem" role="tabpanel" aria-labelledby="u348661-4" style="width: 100%; height: 0px; position: relative; left: 0px; overflow: hidden;"><div class="AccordionPanelContentClip"><div class="borderbox clearfix" id="u348662"><!-- group --><div class="Menu1 clearfix grpelem shared_content" id="u348663-14" data-content-guid="u348663-14_content"><!-- content --><p id="u348663-3"><a class="nonblock" href="language-about.html"><span id="u348663">About</span></a></p><p id="u348663-6"><a class="nonblock" href="language-resources.html"><span id="u348663-4">Language Resources</span></a></p><p id="u348663-9"><a class="nonblock" href="leap/index.html"><span id="u348663-7">LEAP</span></a></p><p id="u348663-12"><a class="nonblock" href="air-staff-resources.html"><span id="u348663-10">Air Staff Resources</span></a></p></div></div></div></div></li>
+         </ul>
+        </div>
+        <div class="Container grpelem wp-panel" id="u348667" role="tabpanel" aria-labelledby="u348679" style="display: none;"><!-- simple frame --></div>
+       </div>
+      </div>
+      <div class="ThumbGroup clearfix grpelem" id="u348678" role="tablist"><!-- none box -->
+       <div class="popup_anchor" id="u348691popup">
+        <a class="nonblock nontext Thumb PamphletThumbSelected popup_element clearfix" id="u348691" href="index.html" role="tab" tabindex="0" aria-controls="u348671"><!-- group --><div class="clearfix grpelem shared_content" id="u348692-4" data-content-guid="u348692-4_content"><!-- content --><p>Home</p></div></a>
+       </div>
+       <div class="popup_anchor" id="u348689popup">
+        <div class="Thumb popup_element clearfix" id="u348689" role="tab" tabindex="-1" aria-selected="false" aria-controls="u348651"><!-- group -->
+         <div class="clearfix grpelem shared_content" id="u348690-4" data-content-guid="u348690-4_content"><!-- content -->
+          <p>Courses</p>
+         </div>
+        </div>
+       </div>
+       <div class="popup_anchor" id="u348681popup">
+        <div class="Thumb popup_element clearfix" id="u348681" role="tab" tabindex="-1" aria-selected="false" aria-controls="u348668"><!-- group -->
+         <div class="clearfix grpelem shared_content" id="u348682-4" data-content-guid="u348682-4_content"><!-- content -->
+          <p>Programs</p>
+         </div>
+        </div>
+       </div>
+       <div class="popup_anchor" id="u348687popup">
+        <div class="Thumb popup_element clearfix" id="u348687" role="tab" tabindex="-1" aria-selected="false" aria-controls="u348648"><!-- group -->
+         <div class="clearfix grpelem shared_content" id="u348688-4" data-content-guid="u348688-4_content"><!-- content -->
+          <p>Resources</p>
+         </div>
+        </div>
+       </div>
+       <div class="popup_anchor" id="u348685popup">
+        <div class="Thumb popup_element clearfix" id="u348685" role="tab" tabindex="-1" aria-selected="false" aria-controls="u348664"><!-- group -->
+         <div class="clearfix grpelem shared_content" id="u348686-4" data-content-guid="u348686-4_content"><!-- content -->
+          <p>About</p>
+         </div>
+        </div>
+       </div>
+       <div class="popup_anchor" id="u348683popup">
+        <div class="Thumb popup_element clearfix" id="u348683" role="tab" tabindex="-1" aria-selected="false" aria-controls="u348654"><!-- group -->
+         <div class="clearfix grpelem shared_content" id="u348684-4" data-content-guid="u348684-4_content"><!-- content -->
+          <p>Divisions</p>
+         </div>
+        </div>
+       </div>
+       <div class="popup_anchor" id="u348679popup">
+        <a class="nonblock nontext Thumb popup_element clearfix" id="u348679" href="contact-us.html" role="tab" tabindex="-1" aria-selected="false" aria-controls="u348667"><!-- group --><div class="clearfix grpelem shared_content" id="u348680-4" data-content-guid="u348680-4_content"><!-- content --><p>Contact Us</p></div></a>
+       </div>
+      </div>
+     </div>
+     <a class="nonblock nontext MuseLinkActive clip_frame shared_content" id="u348704" href="index.html" data-content-guid="u348704_content"><!-- image --><img class="block" id="u348704_img" alt="" width="245" height="35" src="images/afclc%20logo%20au.png?crc=25434171"></a>
+    </div>
+    <div class="clearfix colelem" id="ppamphletu6965"><!-- group -->
+     <div class="PamphletWidget clearfix grpelem wp-slideshow-playing" id="pamphletu6965"><!-- none box -->
+      <div class="popup_anchor" id="u6972popup">
+       <div class="ContainerGroup clearfix horizontalSlideShow" id="u6972" style="width: 0px; height: 0px;"><!-- stack box -->
+        <div class="Container clearfix grpelem wp-panel wp-panel-active" id="u6973" role="tabpanel" aria-labelledby="u6968"><!-- group -->
+         <div class="clearfix grpelem shared_content" id="u6981" data-content-guid="u6981_content"><!-- group -->
+          <div class="clearfix grpelem" id="u6982"><!-- group -->
+           <div class="museBGSize clearfix grpelem" id="u6984"><!-- group -->
+            <div class="clearfix grpelem" id="u6985"><!-- group -->
+             <div class="rgba-background clearfix grpelem" id="u6986"><!-- group -->
+              <div class="clearfix grpelem" id="u6987"><!-- column -->
+               <div class="clearfix colelem" id="u6990-4"><!-- content -->
+                <p>2016/2017 AFCLC Annual Report</p>
+               </div>
+               <div class="clearfix colelem" id="u6991-4"><!-- content -->
+                <p>It has been a great year for AFCLC! We have published our first ever Annual Report to show you all the highlights.</p>
+               </div>
+               <a class="nonblock nontext Button clearfix colelem" id="buttonu6988" href="library.html"><!-- container box --><div class="clearfix grpelem" id="u6989-4"><!-- content --><p>Learn More</p></div></a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clip_frame grpelem" id="u382754" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.9945,M12=-0.1045,M21=0.1045,M22=0.9945,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-18" data-mu-ie-matrix-dy="-13"><!-- image -->
+          <img class="block" id="u382754_img" alt="" width="274" height="355" src="images/annual%20report%20final_print_page_01.jpg?crc=4153034133">
+         </div>
+        </div>
+        <div class="Container clearfix grpelem wp-panel" id="u6975" role="tabpanel" aria-labelledby="u6967" style="display: none;"><!-- group -->
+         <div class="clearfix grpelem shared_content" id="u6963" data-content-guid="u6963_content"><!-- group -->
+          <div class="clearfix grpelem" id="u6964"><!-- group -->
+           <div class="museBGSize clearfix grpelem" id="u4278"><!-- group -->
+            <div class="clearfix grpelem" id="u6549"><!-- group -->
+             <div class="rgba-background clearfix grpelem" id="u4898"><!-- group -->
+              <div class="clearfix grpelem" id="u6550"><!-- column -->
+               <div class="clearfix colelem" id="u6410-4"><!-- content -->
+                <p>New Field Guides Now Available!</p>
+               </div>
+               <div class="clearfix colelem" id="u4779-4"><!-- content -->
+                <p>Our Culture Field Guides for Chad, Latvia, Lithuania and Turkey are now available. Order a printed copy or download them on our mobile app!</p>
+               </div>
+               <a class="nonblock nontext Button clearfix colelem" id="buttonu6412" href="ecfg/index.html"><!-- container box --><div class="clearfix grpelem" id="u6414-4"><!-- content --><p>Learn More</p></div></a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clearfix grpelem shared_content" id="pu343209" data-content-guid="pu343209_content"><!-- group -->
+          <div class="shadow clip_frame grpelem" id="u343209" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.9613,M12=0.2756,M21=-0.2756,M22=0.9613,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-24" data-mu-ie-matrix-dy="-14"><!-- image -->
+           <img class="block" id="u343209_img" alt="" data-image-width="128" data-image-height="193" src="images/ecfg%20latvia-01.jpg?crc=4119143429">
+          </div>
+          <div class="shadow clip_frame grpelem" id="u343233" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.9962,M12=-0.0872,M21=0.0872,M22=0.9962,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-8" data-mu-ie-matrix-dy="-5"><!-- image -->
+           <img class="block" id="u343233_img" alt="" data-image-width="128" data-image-height="193" src="images/ecfg%20turkey-01.jpg?crc=479244735">
+          </div>
+          <div class="shadow clip_frame grpelem" id="u343197" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.9925,M12=0.1219,M21=-0.1219,M22=0.9925,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-12" data-mu-ie-matrix-dy="-7"><!-- image -->
+           <img class="block" id="u343197_img" alt="" data-image-width="132" data-image-height="199" src="images/ecfg%20chad-01.jpg?crc=438942712">
+          </div>
+          <div class="shadow clip_frame grpelem" id="u343221" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.9976,M12=-0.0698,M21=0.0698,M22=0.9976,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-7" data-mu-ie-matrix-dy="-4"><!-- image -->
+           <img class="block" id="u343221_img" alt="" data-image-width="134" data-image-height="201" src="images/ecfg%20lithuania-01.jpg?crc=491706312">
+          </div>
+         </div>
+        </div>
+        <div class="Container clearfix grpelem wp-panel" id="u284787" role="tabpanel" aria-labelledby="u284836" style="display: none;"><!-- group -->
+         <div class="clearfix grpelem shared_content" id="u284920" data-content-guid="u284920_content"><!-- group -->
+          <div class="clearfix grpelem" id="u284921"><!-- group -->
+           <div class="museBGSize clearfix grpelem" id="u284922"><!-- group -->
+            <div class="clearfix grpelem" id="u284923"><!-- group -->
+             <div class="rgba-background clearfix grpelem" id="u284929"><!-- group -->
+              <div class="clearfix grpelem" id="u284924"><!-- column -->
+               <div class="clearfix colelem" id="u284926-4"><!-- content -->
+                <p>Our Blog is now live!</p>
+               </div>
+               <div class="clearfix colelem" id="u284925-4"><!-- content -->
+                <p>Check out the latest stories, updates, and videos on our new blog!</p>
+               </div>
+               <a class="nonblock nontext Button clearfix colelem" id="buttonu284927" href="https://afclc.wordpress.com/" target="_blank"><!-- container box --><div class="clearfix grpelem" id="u284928-4"><!-- content --><p>Visit Page</p></div></a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="clip_frame grpelem shared_content" id="u284990" data-content-guid="u284990_content"><!-- image -->
+          <img class="block" id="u284990_img" alt="" data-image-width="470" data-image-height="331" src="images/macbook-pro-mockup.png?crc=3760623673">
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u6970popup">
+       <div class="PamphletPrevButton PamphletLightboxPart popup_element rgba-background clearfix" id="u6970" tabindex="0" role="button" aria-label="previous"><!-- group -->
+        <div class="grpelem" id="u6998" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=-1,M12=0,M21=0,M22=-1,SizingMethod='auto expand')" data-mu-ie-matrix-dx="0" data-mu-ie-matrix-dy="0"><!-- rasterized frame -->
+         <img class="" id="u6998_img" alt="" width="13" height="24" src="images/arrow2-u6998.png?crc=3962018258">
+        </div>
+       </div>
+      </div>
+      <div class="ThumbGroup clearfix grpelem" id="u6966" role="tablist"><!-- none box -->
+       <div class="popup_anchor" id="u6968popup">
+        <div class="Thumb popup_element rgba-background rounded-corners wp-tab-active PamphletThumbSelected" id="u6968" role="tab" tabindex="0" aria-selected="true" aria-controls="u6973"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor" id="u6967popup">
+        <div class="Thumb popup_element rgba-background rounded-corners" id="u6967" role="tab" tabindex="-1" aria-selected="false" aria-controls="u6975"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor" id="u284836popup">
+        <div class="Thumb popup_element rgba-background rounded-corners" id="u284836" role="tab" tabindex="-1" aria-selected="false" aria-controls="u284787"><!-- simple frame --></div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u6976popup">
+       <div class="PamphletNextButton PamphletLightboxPart popup_element rgba-background clearfix" id="u6976" tabindex="0" role="button" aria-label="next"><!-- group -->
+        <img class="grpelem" id="u6992" alt="" width="13" height="24" src="images/arrow2-u6992.png?crc=3962018258"><!-- rasterized frame -->
+       </div>
+      </div>
+     </div>
+     <div class="PamphletWidget clearfix grpelem" id="pamphletu146120"><!-- none box -->
+      <div class="popup_anchor" id="u146125popup">
+       <div class="wp-slideshow-clip" style="position: relative; width: 970px; height: 107px; overflow: hidden; left: auto; top: auto;"><div class="ContainerGroup clearfix horizontalSlideShow" id="u146125" style="width: 970px; height: 107px; position: relative; top: 0px; left: 0px; margin: 0px; overflow: visible;"><!-- stack box -->
+        <div class="Container clearfix grpelem wp-panel wp-panel-active" id="u146130" role="tabpanel" aria-labelledby="u146143" style="top: 0px; left: 0px; margin: 0px; position: absolute;"><!-- group -->
+         <div class="clearfix grpelem shared_content" id="u146215" data-content-guid="u146215_content"><!-- group -->
+          <a class="nonblock nontext museBGSize grpelem" id="u146209" href="courses/index.html"><!-- simple frame --></a>
+          <a class="nonblock nontext clearfix grpelem" id="u146210-6" href="courses/index.html"><!-- content --><p id="u146210-2">3C Courses</p><p id="u146210-4">CCAF Credit</p></a>
+         </div>
+         <div class="clearfix grpelem shared_content" id="u146239" data-content-guid="u146239_content"><!-- group -->
+          <a class="nonblock nontext museBGSize grpelem" id="u146233" href="leap/index.html"><!-- simple frame --></a>
+          <a class="nonblock nontext clearfix grpelem" id="u146234-6" href="leap/index.html"><!-- content --><p id="u146234-2">LEAP</p><p id="u146234-4">Language Enabled Airman Program</p></a>
+         </div>
+         <div class="clearfix grpelem shared_content" id="u265665" data-content-guid="u265665_content"><!-- group -->
+          <a class="nonblock nontext museBGSize grpelem" id="u265666" href="ecfg/index.html"><!-- simple frame --></a>
+          <a class="nonblock nontext clearfix grpelem" id="u265667-6" href="ecfg/index.html"><!-- content --><p id="u265667-2">Field Guides</p><p id="u265667-4">Expeditionary Culture Field Guides</p></a>
+         </div>
+        </div>
+       </div></div>
+      </div>
+      <div class="ThumbGroup clearfix grpelem" id="u146142"><!-- none box -->
+       <div class="popup_anchor" id="u146143popup">
+        <div class="Thumb popup_element clearfix wp-tab-active PamphletThumbSelected" id="u146143" role="button" tabindex="0" aria-haspopup="true" aria-selected="true" aria-controls="u146130"><!-- group -->
+         <div class="grpelem shared_content" id="u146144" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=-1,M12=0,M21=0,M22=-1,SizingMethod='auto expand')" data-mu-ie-matrix-dx="0" data-mu-ie-matrix-dy="0" data-content-guid="u146144_content"><!-- content --></div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="clearfix grpelem shared_content" id="u6552" data-content-guid="u6552_content"><!-- group -->
+      <div class="clearfix grpelem" id="u44914-6"><!-- content -->
+       <p id="u44914-2">Featured</p>
+       <p id="u44914-4">Items</p>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem shared_content" id="u204067" data-content-guid="u204067_content"><!-- group -->
+     <div class="clearfix grpelem" id="u384742"><!-- group -->
+      <div class="clearfix grpelem" id="u384760-4"><!-- content -->
+       <p>Subscribe to our newsletter!</p>
+      </div>
+      <a class="nonblock nontext Button Button-1 clearfix grpelem" id="buttonu329546" href="mailto:afclc.outreach@us.af.mil" target="_blank"><!-- container box --><div class="clearfix grpelem" id="u329547-4"><!-- content --><p>Subscribe!</p></div></a>
+     </div>
+    </div>
+    <div class="clearfix colelem shared_content" id="pu170874" data-content-guid="pu170874_content"><!-- group -->
+     <div class="clearfix grpelem shared_content" id="u170874" data-content-guid="u170874_content"><!-- group -->
+      <div class="clearfix grpelem" id="u126224"><!-- group -->
+       <div class="clearfix grpelem" id="u126231-4"><!-- content -->
+        <p>DoD Vision</p>
+       </div>
+      </div>
+     </div>
+     <div class="clearfix grpelem shared_content" id="u170880" data-content-guid="u170880_content"><!-- group -->
+      <div class="clearfix grpelem" id="u126284"><!-- group -->
+       <div class="clearfix grpelem" id="u126283-4"><!-- content -->
+        <p>AFCLC Mission</p>
+       </div>
+      </div>
+     </div>
+     <div class="clearfix grpelem shared_content" id="u170886" data-content-guid="u170886_content"><!-- group -->
+      <div class="clearfix grpelem" id="u126357"><!-- group -->
+       <div class="clearfix grpelem" id="u126358-4"><!-- content -->
+        <p>AFCLC Vision</p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem shared_content" id="pu4667-4" data-content-guid="pu4667-4_content"><!-- group -->
+     <div class="clearfix grpelem shared_content" id="u4667-4" data-content-guid="u4667-4_content"><!-- content -->
+      <p>The Department will have the required combination of language skills, regional expertise and cultural capabilities to meet current and projected needs.</p>
+     </div>
+     <div class="clearfix grpelem shared_content" id="u4668-4" data-content-guid="u4668-4_content"><!-- content -->
+      <p>The Air Force Culture and Language Center creates and executes language, region and cultural learning programs for Total Force Airmen, and provides the Service with the subject matter expertise required to institutionalize these efforts.</p>
+     </div>
+     <div class="clearfix grpelem shared_content" id="u4666-4" data-content-guid="u4666-4_content"><!-- content -->
+      <p>The Air Force Culture and Language Center will lead the U.S. Air Force in building a cross-culturally competent Total Force to meet the demands of the Service's dynamic global mission.</p>
+     </div>
+    </div>
+    <div class="verticalspacer" data-offset-top="981" data-content-above-spacer="981" data-content-below-spacer="647"></div>
+    <div class="browser_width colelem shared_content" id="u348625-bw" data-content-guid="u348625-bw_content" style="height: 589px;">
+     <div id="u348625"><!-- column -->
+      <div class="clearfix" id="u348625_align_to_page">
+       <div class="clearfix colelem" id="ppu348644"><!-- group -->
+        <div class="clearfix grpelem shared_content" id="pu348644" data-content-guid="pu348644_content"><!-- column -->
+         <div class="clip_frame colelem shared_content" id="u348644" data-content-guid="u348644_content"><!-- image -->
+          <img class="block" id="u348644_img" alt="" width="138" height="38" src="images/afclc%20logo%20white1.png?crc=468175205">
+         </div>
+         <div class="clearfix colelem shared_content" id="u348638-7" data-content-guid="u348638-7_content"><!-- content -->
+          <p class="afclc-footer" id="u348638-2"><span id="u348638">About AFCLC</span></p>
+          <p class="afclc-footer" id="u348638-3">&nbsp;</p>
+          <p class="Menu1" id="u348638-5">The Air Force Culture and Language Center creates and executes language, region and cultural learning programs for Total Force Airmen, and provides the Service with the subject matter expertise required to institutionalize these efforts.</p>
+         </div>
+         <a class="nonblock nontext Button Button-1 rounded-corners clearfix colelem shared_content" id="buttonu348640" href="our-story.html" data-content-guid="buttonu348640_content"><!-- container box --><div class="clearfix grpelem" id="u348643-4"><!-- content --><p>About us</p></div><div class="grpelem" id="u348641"><!-- state-based BG images --><div class="fluid_height_spacer"></div></div></a>
+        </div>
+        <div class="afclc-footer clearfix grpelem shared_content" id="u348636-32" data-content-guid="u348636-32_content"><!-- content -->
+         <p id="u348636-2"><span id="u348636">Featured Items</span></p>
+         <p id="u348636-3">&nbsp;</p>
+         <p id="u348636-6"><a class="nonblock" href="leap/index.html"><span id="u348636-4">Language Enabled Airman Program</span></a></p>
+         <p id="u348636-9"><a class="nonblock" href="courses/itc.html"><span id="u348636-7">Introduction to Culture</span></a></p>
+         <p id="u348636-12"><a class="nonblock" href="courses/ccc.html"><span id="u348636-10">Cross-Cultural Communication</span></a></p>
+         <p id="u348636-15"><a class="nonblock" href="ecfg/index.html"><span id="u348636-13">Expeditionary Culture Field Guides</span></a></p>
+         <p id="u348636-18"><a class="nonblock" href="symposium/index.html" target="_blank"><span id="u348636-16">AU LREC Symposium</span></a></p>
+         <p id="u348636-21"><a class="nonblock" href="csp.html"><span id="u348636-19">Cultural Studies Project</span></a></p>
+         <p id="u348636-24"><a class="nonblock" href="http://www.dliflc.edu/" target="_blank"><span id="u348636-22">Defense Language Institute</span></a></p>
+         <p id="u348636-27"><a class="nonblock" href="region-culture-resources.html"><span id="u348636-25">Region &amp; Culture Resources</span></a></p>
+         <p id="u348636-30"><a class="nonblock" href="language-resources.html">Language Resources</a></p>
+        </div>
+        <div class="afclc-footer clearfix grpelem shared_content" id="u348635-39" data-content-guid="u348635-39_content"><!-- content -->
+         <p id="u348635-3"><span id="u348635">Other&nbsp; Links</span></p>
+         <p id="u348635-4">&nbsp;</p>
+         <p id="u348635-7"><a class="nonblock" href="http://www.af.mil/Disclaimer.aspx" target="_blank"><span id="u348635-5">External Link Disclaimer</span></a></p>
+         <p id="u348635-10"><a class="nonblock" href="http://www.airforcemedicine.af.mil/SuicidePrevention/" target="_blank"><span id="u348635-8">Suicide Prevention</span></a></p>
+         <p id="u348635-13"><a class="nonblock" href="http://prhome.defense.gov/NoFear/" target="_blank"><span id="u348635-11">No Fear Act</span></a></p>
+         <p id="u348635-16"><a class="nonblock" href="http://www.sexualassaultpreventionresponse.af.mil/index.asp" target="_blank"><span id="u348635-14">Sexual Assault Awareness &amp; Prevention</span></a></p>
+         <p id="u348635-19"><a class="nonblock" href="http://www.af.mil/EqualOpportunity.aspx" target="_blank"><span id="u348635-17">EEO</span></a></p>
+         <p id="u348635-22"><a class="nonblock" href="http://www.af.mil/InspectorGeneralComplaints.aspx" target="_blank"><span id="u348635-20">IG</span></a></p>
+         <p id="u348635-25"><a class="nonblock" href="http://www.usa.gov/" target="_blank"><span id="u348635-23">USA.gov</span></a></p>
+         <p id="u348635-28"><a class="nonblock" href="http://www.maxwell.af.mil/About-Us/FOIA/" target="_blank"><span id="u348635-26">FOIA</span></a></p>
+         <p id="u348635-31"><a class="nonblock" href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" target="_blank"><span id="u348635-29">Accessibility/Section 508</span></a></p>
+         <p id="u348635-34"><a class="nonblock" href="http://www.af.mil/" target="_blank"><span id="u348635-32">USAF</span></a></p>
+         <p id="u348635-37"><a class="nonblock" href="http://www.airuniversity.af.mil/" target="_blank">Air University</a></p>
+        </div>
+        <div class="clearfix grpelem" id="pu348633-4"><!-- column -->
+         <div class="afclc-footer clearfix colelem" id="u348633-4"><!-- content -->
+          <p id="u348633-2"><span id="u348633">Latest Tweets</span></p>
+         </div>
+         <div class="size_fixed colelem" id="u348634"><!-- custom html -->
+          
+<div style="overflow:auto;" height="389" width="270">
+	<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 100%; height: 100%; padding: 0px; border: none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px;" data-widget-id="459737550559522816" title="Twitter Timeline"></iframe><div class="twitter-timeline" width="100%" height="100%" href="https://twitter.com/AFCLC" data-theme="dark" data-widget-id="459737550559522816" data-screen-name="AFCLC" data-tweet-limit="1" data-link-color="#F0F0F0" data-chrome="transparent noheader nofooter" data-twitter-extracted-i150791501402288155="true">Tweets by @AFCLC</div>
+	
+	
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+	
+         </div>
+        </div>
+       </div>
+       <div class="colelem shared_content" id="u348639" data-content-guid="u348639_content"><!-- simple frame --></div>
+       <div class="clearfix colelem" id="pu348637-4"><!-- group -->
+        <div class="clearfix grpelem shared_content" id="u348637-4" data-content-guid="u348637-4_content"><!-- content -->
+         <p>Last Updated: August 22, 2017</p>
+        </div>
+        <div class="clearfix grpelem" id="u348626"><!-- group -->
+         <a class="nonblock nontext grpelem" id="u348627" href="https://www.facebook.com/AirForceCultureandLanguageCenter" target="_blank"><!-- rasterized frame --><img class="" id="u348627_img" alt="" width="20" height="20" src="images/picons06-u348627.png?crc=4267396707"></a>
+         <a class="nonblock nontext grpelem" id="u348629" href="https://twitter.com/afclc" target="_blank"><!-- rasterized frame --><img class="" id="u348629_img" alt="" width="20" height="20" src="images/picons03-u348629.png?crc=28734275"></a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload" alt="" src="images/menu%20arrow-02.png?crc=321307490">
+    <img class="preload" alt="" src="images/u348641-r.png?crc=4010579409">
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_1140" data-min-width="961" data-max-width="1140"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu348693"><!-- group -->
+     <span class="browser_width placeholder" data-placeholder-for="u348693-bw_content"><!-- placeholder node --></span>
+     <span class="browser_width placeholder" data-placeholder-for="u348624-bw_content"><!-- placeholder node --></span>
+    </div>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ppamphletu6965"><!-- group -->
+     <div class="PamphletWidget clearfix grpelem temp_no_id" data-orig-id="pamphletu6965"><!-- none box -->
+      <div class="popup_anchor temp_no_id" data-orig-id="u6972popup">
+       <div class="ContainerGroup clearfix temp_no_id" data-orig-id="u6972"><!-- stack box -->
+        <div class="Container clearfix grpelem temp_no_id" data-orig-id="u6973"><!-- group -->
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u6981_content"><!-- placeholder node --></span>
+         <div class="clip_frame grpelem temp_no_id" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.9945,M12=-0.1045,M21=0.1045,M22=0.9945,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-16" data-mu-ie-matrix-dy="-12" data-orig-id="u382754"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/annual%20report%20final_print_page_01253x328.jpg?crc=162821940" alt="" data-image-width="253" data-image-height="328" data-orig-id="u382754_img" src="images/blank.gif?crc=4208392903">
+         </div>
+        </div>
+        <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u6975"><!-- group -->
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u6963_content"><!-- placeholder node --></span>
+         <span class="clearfix grpelem placeholder" data-placeholder-for="pu343209_content"><!-- placeholder node --></span>
+        </div>
+        <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u284787"><!-- group -->
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u284920_content"><!-- placeholder node --></span>
+         <span class="clip_frame grpelem placeholder" data-placeholder-for="u284990_content"><!-- placeholder node --></span>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor temp_no_id" data-orig-id="u6970popup">
+       <div class="PamphletPrevButton PamphletLightboxPart popup_element rgba-background clearfix temp_no_id" data-orig-id="u6970"><!-- group -->
+        <div class="grpelem temp_no_id" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=-1,M12=0,M21=0,M22=-1,SizingMethod='auto expand')" data-mu-ie-matrix-dx="0" data-mu-ie-matrix-dy="0" data-orig-id="u6998"><!-- rasterized frame -->
+         <img class="temp_no_id temp_no_img_src" alt="" width="13" height="24" data-orig-src="images/arrow2-u69982.png?crc=3962018258" data-orig-id="u6998_img" src="images/blank.gif?crc=4208392903">
+        </div>
+       </div>
+      </div>
+      <div class="ThumbGroup clearfix grpelem temp_no_id" data-orig-id="u6966"><!-- none box -->
+       <div class="popup_anchor temp_no_id" data-orig-id="u6968popup">
+        <div class="Thumb popup_element rgba-background rounded-corners temp_no_id" data-orig-id="u6968"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor temp_no_id" data-orig-id="u6967popup">
+        <div class="Thumb popup_element rgba-background rounded-corners temp_no_id" data-orig-id="u6967"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor temp_no_id" data-orig-id="u284836popup">
+        <div class="Thumb popup_element rgba-background rounded-corners temp_no_id" data-orig-id="u284836"><!-- simple frame --></div>
+       </div>
+      </div>
+      <div class="popup_anchor temp_no_id" data-orig-id="u6976popup">
+       <div class="PamphletNextButton PamphletLightboxPart popup_element rgba-background clearfix temp_no_id" data-orig-id="u6976"><!-- group -->
+        <img class="grpelem temp_no_id temp_no_img_src" alt="" width="13" height="24" data-orig-src="images/arrow2-u69922.png?crc=3962018258" data-orig-id="u6992" src="images/blank.gif?crc=4208392903"><!-- rasterized frame -->
+       </div>
+      </div>
+     </div>
+     <span class="clearfix grpelem placeholder" data-placeholder-for="u6552_content"><!-- placeholder node --></span>
+    </div>
+    <span class="nonblock nontext MuseLinkActive clip_frame placeholder" data-placeholder-for="u348704_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem" id="pppamphletu146120"><!-- column -->
+     <div class="clearfix colelem" id="ppamphletu146120"><!-- group -->
+      <div class="PamphletWidget clearfix grpelem temp_no_id" data-orig-id="pamphletu146120"><!-- none box -->
+       <div class="popup_anchor temp_no_id" data-orig-id="u146125popup">
+        <div class="ContainerGroup clearfix temp_no_id" data-orig-id="u146125"><!-- stack box -->
+         <div class="Container clearfix grpelem temp_no_id" data-orig-id="u146130"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u146215_content"><!-- placeholder node --></span>
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u146239_content"><!-- placeholder node --></span>
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u265665_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+       </div>
+       <div class="ThumbGroup clearfix grpelem temp_no_id" data-orig-id="u146142"><!-- none box -->
+        <div class="popup_anchor temp_no_id" data-orig-id="u146143popup">
+         <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u146143"><!-- group -->
+          <span class="grpelem placeholder" data-placeholder-for="u146144_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u204067_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u170874_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu4667-4"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u4667-4_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u4668-4_content"><!-- placeholder node --></span>
+     </div>
+    </div>
+    <div class="PamphletWidget clearfix temp_no_id" data-orig-id="pamphletu348646"><!-- none box -->
+     <div class="popup_anchor temp_no_id" data-orig-id="u348647popup">
+      <div class="ContainerGroup clearfix temp_no_id" data-orig-id="u348647"><!-- stack box -->
+       <div class="Container invi grpelem temp_no_id" data-orig-id="u348671"><!-- simple frame --></div>
+       <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u348651"><!-- group -->
+        <span class="grpelem placeholder" data-placeholder-for="u348653_content"><!-- placeholder node --></span>
+        <span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u348652-9_content"><!-- placeholder node --></span>
+       </div>
+       <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u348668"><!-- group -->
+        <span class="grpelem placeholder" data-placeholder-for="u348669_content"><!-- placeholder node --></span>
+        <span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u348670-12_content"><!-- placeholder node --></span>
+       </div>
+       <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u348648"><!-- group -->
+        <span class="grpelem placeholder" data-placeholder-for="u348649_content"><!-- placeholder node --></span>
+        <span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u348650-30_content"><!-- placeholder node --></span>
+       </div>
+       <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u348664"><!-- group -->
+        <span class="grpelem placeholder" data-placeholder-for="u348665_content"><!-- placeholder node --></span>
+        <span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u348666-15_content"><!-- placeholder node --></span>
+       </div>
+       <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u348654"><!-- group -->
+        <ul class="AccordionWidget clearfix grpelem temp_no_id" data-orig-id="accordionu348655"><!-- vertical box -->
+         <li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u348656"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-orig-id="u348657-4"><!-- content --><span class="placeholder" data-placeholder-for="u348657-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u348658"><!-- group --><span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u348659-23_content"><!-- placeholder node --></span></div></li>
+         <li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u348660"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-orig-id="u348661-4"><!-- content --><span class="placeholder" data-placeholder-for="u348661-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u348662"><!-- group --><span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u348663-14_content"><!-- placeholder node --></span></div></li>
+        </ul>
+       </div>
+       <div class="Container invi grpelem temp_no_id" data-orig-id="u348667"><!-- simple frame --></div>
+      </div>
+     </div>
+     <div class="ThumbGroup clearfix grpelem temp_no_id" data-orig-id="u348678"><!-- none box -->
+      <div class="popup_anchor temp_no_id" data-orig-id="u348691popup">
+       <a class="nonblock nontext Thumb PamphletThumbSelected popup_element clearfix temp_no_id" href="index.html" data-orig-id="u348691"><!-- group --><span class="clearfix grpelem placeholder" data-placeholder-for="u348692-4_content"><!-- placeholder node --></span></a>
+      </div>
+      <div class="popup_anchor temp_no_id" data-orig-id="u348689popup">
+       <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u348689"><!-- group -->
+        <span class="clearfix grpelem placeholder" data-placeholder-for="u348690-4_content"><!-- placeholder node --></span>
+       </div>
+      </div>
+      <div class="popup_anchor temp_no_id" data-orig-id="u348681popup">
+       <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u348681"><!-- group -->
+        <span class="clearfix grpelem placeholder" data-placeholder-for="u348682-4_content"><!-- placeholder node --></span>
+       </div>
+      </div>
+      <div class="popup_anchor temp_no_id" data-orig-id="u348687popup">
+       <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u348687"><!-- group -->
+        <span class="clearfix grpelem placeholder" data-placeholder-for="u348688-4_content"><!-- placeholder node --></span>
+       </div>
+      </div>
+      <div class="popup_anchor temp_no_id" data-orig-id="u348685popup">
+       <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u348685"><!-- group -->
+        <span class="clearfix grpelem placeholder" data-placeholder-for="u348686-4_content"><!-- placeholder node --></span>
+       </div>
+      </div>
+      <div class="popup_anchor temp_no_id" data-orig-id="u348683popup">
+       <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u348683"><!-- group -->
+        <span class="clearfix grpelem placeholder" data-placeholder-for="u348684-4_content"><!-- placeholder node --></span>
+       </div>
+      </div>
+      <div class="popup_anchor temp_no_id" data-orig-id="u348679popup">
+       <a class="nonblock nontext Thumb popup_element clearfix temp_no_id" href="contact-us.html" data-orig-id="u348679"><!-- group --><span class="clearfix grpelem placeholder" data-placeholder-for="u348680-4_content"><!-- placeholder node --></span></a>
+      </div>
+     </div>
+    </div>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="u170880_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem" id="pu170886"><!-- column -->
+     <span class="clearfix colelem placeholder" data-placeholder-for="u170886_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u4666-4_content"><!-- placeholder node --></span>
+    </div>
+    <span class="clearfix placeholder" data-placeholder-for="u348697_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="981" data-content-above-spacer="981" data-content-below-spacer="565"></div>
+    <span class="browser_width grpelem placeholder" data-placeholder-for="u348625-bw_content"><!-- placeholder node --></span>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20arrow-02.png?crc=321307490" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/u348641-r.png?crc=4010579409" alt="" src="images/blank.gif?crc=4208392903">
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_960" data-min-width="769" data-max-width="960"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="position_content" id="page_position_content">
+     <div class="clearfix colelem" id="pu348624"><!-- group -->
+      <span class="browser_width placeholder" data-placeholder-for="u348624-bw_content"><!-- placeholder node --></span>
+      <div class="PamphletWidget clearfix temp_no_id" data-orig-id="pamphletu348646"><!-- none box -->
+       <div class="popup_anchor temp_no_id" data-orig-id="u348647popup">
+        <div class="ContainerGroup clearfix temp_no_id" data-orig-id="u348647"><!-- stack box -->
+         <div class="Container invi grpelem temp_no_id" data-orig-id="u348671"><!-- simple frame --></div>
+         <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u348651"><!-- group -->
+          <span class="grpelem placeholder" data-placeholder-for="u348653_content"><!-- placeholder node --></span>
+          <span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u348652-9_content"><!-- placeholder node --></span>
+         </div>
+         <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u348668"><!-- group -->
+          <span class="grpelem placeholder" data-placeholder-for="u348669_content"><!-- placeholder node --></span>
+          <span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u348670-12_content"><!-- placeholder node --></span>
+         </div>
+         <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u348648"><!-- group -->
+          <span class="grpelem placeholder" data-placeholder-for="u348649_content"><!-- placeholder node --></span>
+          <span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u348650-30_content"><!-- placeholder node --></span>
+         </div>
+         <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u348664"><!-- group -->
+          <span class="grpelem placeholder" data-placeholder-for="u348665_content"><!-- placeholder node --></span>
+          <span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u348666-15_content"><!-- placeholder node --></span>
+         </div>
+         <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u348654"><!-- group -->
+          <ul class="AccordionWidget clearfix grpelem temp_no_id" data-orig-id="accordionu348655"><!-- vertical box -->
+           <li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u348656"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-orig-id="u348657-4"><!-- content --><span class="placeholder" data-placeholder-for="u348657-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u348658"><!-- group --><span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u348659-23_content"><!-- placeholder node --></span></div></li>
+           <li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u348660"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-orig-id="u348661-4"><!-- content --><span class="placeholder" data-placeholder-for="u348661-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u348662"><!-- group --><span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u348663-14_content"><!-- placeholder node --></span></div></li>
+          </ul>
+         </div>
+         <div class="Container invi grpelem temp_no_id" data-orig-id="u348667"><!-- simple frame --></div>
+        </div>
+       </div>
+       <div class="ThumbGroup clearfix grpelem temp_no_id" data-orig-id="u348678"><!-- none box -->
+        <div class="popup_anchor temp_no_id" data-orig-id="u348691popup">
+         <a class="nonblock nontext Thumb PamphletThumbSelected popup_element clearfix temp_no_id" href="index.html" data-orig-id="u348691"><!-- group --><span class="clearfix grpelem placeholder" data-placeholder-for="u348692-4_content"><!-- placeholder node --></span></a>
+        </div>
+        <div class="popup_anchor temp_no_id" data-orig-id="u348689popup">
+         <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u348689"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u348690-4_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+        <div class="popup_anchor temp_no_id" data-orig-id="u348681popup">
+         <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u348681"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u348682-4_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+        <div class="popup_anchor temp_no_id" data-orig-id="u348687popup">
+         <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u348687"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u348688-4_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+        <div class="popup_anchor temp_no_id" data-orig-id="u348685popup">
+         <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u348685"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u348686-4_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+        <div class="popup_anchor temp_no_id" data-orig-id="u348683popup">
+         <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u348683"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u348684-4_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+        <div class="popup_anchor temp_no_id" data-orig-id="u348679popup">
+         <a class="nonblock nontext Thumb popup_element clearfix temp_no_id" href="contact-us.html" data-orig-id="u348679"><!-- group --><span class="clearfix grpelem placeholder" data-placeholder-for="u348680-4_content"><!-- placeholder node --></span></a>
+        </div>
+       </div>
+      </div>
+      <span class="nonblock nontext MuseLinkActive clip_frame placeholder" data-placeholder-for="u348704_content"><!-- placeholder node --></span>
+     </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="ppamphletu6965"><!-- group -->
+      <div class="PamphletWidget clearfix grpelem temp_no_id" data-orig-id="pamphletu6965"><!-- none box -->
+       <div class="popup_anchor temp_no_id" data-orig-id="u6972popup">
+        <div class="ContainerGroup clearfix temp_no_id" data-orig-id="u6972"><!-- stack box -->
+         <div class="Container clearfix grpelem temp_no_id" data-orig-id="u6973"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u6981_content"><!-- placeholder node --></span>
+          <div class="clip_frame grpelem temp_no_id" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.9903,M12=-0.1392,M21=0.1392,M22=0.9903,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-19" data-mu-ie-matrix-dy="-14" data-orig-id="u382754"><!-- image -->
+           <img class="block temp_no_id temp_no_img_src" data-orig-src="images/annual%20report%20final_print_page_01224x289.jpg?crc=509717814" alt="" width="223" height="289" data-orig-id="u382754_img" src="images/blank.gif?crc=4208392903">
+          </div>
+         </div>
+         <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u6975"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u6963_content"><!-- placeholder node --></span>
+          <span class="clearfix grpelem placeholder" data-placeholder-for="pu343209_content"><!-- placeholder node --></span>
+         </div>
+         <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u284787"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u284920_content"><!-- placeholder node --></span>
+          <span class="clip_frame grpelem placeholder" data-placeholder-for="u284990_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+       </div>
+       <div class="popup_anchor temp_no_id" data-orig-id="u6970popup">
+        <div class="PamphletPrevButton PamphletLightboxPart popup_element rgba-background clearfix temp_no_id" data-orig-id="u6970"><!-- group -->
+         <div class="grpelem temp_no_id" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=-1,M12=0,M21=0,M22=-1,SizingMethod='auto expand')" data-mu-ie-matrix-dx="0" data-mu-ie-matrix-dy="0" data-orig-id="u6998"><!-- rasterized frame -->
+          <img class="temp_no_id temp_no_img_src" alt="" width="13" height="24" data-orig-src="images/arrow2-u69983.png?crc=3962018258" data-orig-id="u6998_img" src="images/blank.gif?crc=4208392903">
+         </div>
+        </div>
+       </div>
+       <div class="ThumbGroup clearfix grpelem temp_no_id" data-orig-id="u6966"><!-- none box -->
+        <div class="popup_anchor temp_no_id" data-orig-id="u6968popup">
+         <div class="Thumb popup_element rgba-background rounded-corners temp_no_id" data-orig-id="u6968"><!-- simple frame --></div>
+        </div>
+        <div class="popup_anchor temp_no_id" data-orig-id="u6967popup">
+         <div class="Thumb popup_element rgba-background rounded-corners temp_no_id" data-orig-id="u6967"><!-- simple frame --></div>
+        </div>
+        <div class="popup_anchor temp_no_id" data-orig-id="u284836popup">
+         <div class="Thumb popup_element rgba-background rounded-corners temp_no_id" data-orig-id="u284836"><!-- simple frame --></div>
+        </div>
+       </div>
+       <div class="popup_anchor temp_no_id" data-orig-id="u6976popup">
+        <div class="PamphletNextButton PamphletLightboxPart popup_element rgba-background clearfix temp_no_id" data-orig-id="u6976"><!-- group -->
+         <img class="grpelem temp_no_id temp_no_img_src" alt="" width="13" height="24" data-orig-src="images/arrow2-u69923.png?crc=3962018258" data-orig-id="u6992" src="images/blank.gif?crc=4208392903"><!-- rasterized frame -->
+        </div>
+       </div>
+      </div>
+      <div class="PamphletWidget clearfix grpelem temp_no_id" data-orig-id="pamphletu146120"><!-- none box -->
+       <div class="popup_anchor temp_no_id" data-orig-id="u146125popup">
+        <div class="ContainerGroup clearfix temp_no_id" data-orig-id="u146125"><!-- stack box -->
+         <div class="Container clearfix grpelem temp_no_id" data-orig-id="u146130"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u146215_content"><!-- placeholder node --></span>
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u146239_content"><!-- placeholder node --></span>
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u265665_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+       </div>
+       <div class="ThumbGroup clearfix grpelem temp_no_id" data-orig-id="u146142"><!-- none box -->
+        <div class="popup_anchor temp_no_id" data-orig-id="u146143popup">
+         <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u146143"><!-- group -->
+          <span class="grpelem placeholder" data-placeholder-for="u146144_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u6552_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u204067_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu170874_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu4667-4_content"><!-- placeholder node --></span>
+     <div class="verticalspacer" data-offset-top="981" data-content-above-spacer="981" data-content-below-spacer="482"></div>
+     <div class="browser_width colelem temp_no_id" data-orig-id="u348625-bw">
+      <div class="temp_no_id" data-orig-id="u348625"><!-- column -->
+       <div class="clearfix temp_no_id" data-orig-id="u348625_align_to_page">
+        <div class="clearfix colelem temp_no_id" data-orig-id="ppu348644"><!-- group -->
+         <span class="clearfix grpelem placeholder" data-placeholder-for="pu348644_content"><!-- placeholder node --></span>
+         <span class="afclc-footer clearfix grpelem placeholder" data-placeholder-for="u348636-32_content"><!-- placeholder node --></span>
+         <span class="afclc-footer clearfix grpelem placeholder" data-placeholder-for="u348635-39_content"><!-- placeholder node --></span>
+        </div>
+        <span class="colelem placeholder" data-placeholder-for="u348639_content"><!-- placeholder node --></span>
+        <div class="clearfix colelem temp_no_id shared_content" data-orig-id="pu348637-4" data-content-guid="pu348637-4_content"><!-- group -->
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u348637-4_content"><!-- placeholder node --></span>
+         <div class="clearfix grpelem temp_no_id" data-orig-id="u348697"><!-- group -->
+          <a class="nonblock nontext grpelem temp_no_id" href="https://www.facebook.com/AirForceCultureandLanguageCenter" target="_blank" data-orig-id="u348700"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="" width="20" height="20" data-orig-src="images/picons06-u348700.png?crc=91316985" data-orig-id="u348700_img" src="images/blank.gif?crc=4208392903"></a>
+          <a class="nonblock nontext grpelem temp_no_id" href="https://twitter.com/afclc" target="_blank" data-orig-id="u348702"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="" width="20" height="20" data-orig-src="images/picons03-u348702.png?crc=8760107" data-orig-id="u348702_img" src="images/blank.gif?crc=4208392903"></a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20arrow-02.png?crc=321307490" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/u348641-r.png?crc=4010579409" alt="" src="images/blank.gif?crc=4208392903">
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_768" data-min-width="551" data-max-width="768"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="position_content temp_no_id" data-orig-id="page_position_content">
+     <div class="browser_width colelem temp_no_id" data-orig-id="u348624-bw">
+      <div class="shadow temp_no_id" data-orig-id="u348624"><!-- group -->
+       <div class="clearfix" id="u348624_align_to_page">
+        <a class="nonblock nontext MuseLinkActive clip_frame grpelem temp_no_id" href="index.html" data-orig-id="u348704"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/afclc%20logo%20au.png?crc=25434171" alt="" width="228" height="33" data-orig-id="u348704_img" src="images/blank.gif?crc=4208392903"></a>
+        <div class="clearfix grpelem" id="paccordionu350469"><!-- group -->
+         <ul class="AccordionWidget clearfix grpelem" id="accordionu350469"><!-- vertical box -->
+          <li class="AccordionPanel clearfix colelem" id="u350470"><!-- vertical box --><div class="AccordionPanelTab transition museBGSize clearfix colelem" id="u350471-3"><!-- content --><p class="shared_content" data-content-guid="u350471-3_0_content">&nbsp;</p></div><div class="AccordionPanelContent disn shadow clearfix colelem" id="u350472"><!-- group --><ul class="AccordionWidget clearfix grpelem" id="accordionu350473"><!-- vertical box --><li class="AccordionPanel borderbox clearfix colelem" id="u350482"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u350485-4"><!-- content --><div id="u350485-3" class="shared_content" data-content-guid="u350485-3_content"><p>About</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u350483"><!-- group --><div class="Menu1 clearfix grpelem shared_content" id="u350484-14" data-content-guid="u350484-14_content"><!-- content --><p id="u350484-3"><a class="nonblock" href="our-story.html">Our Story</a></p><p id="u350484-6"><a class="nonblock" href="our-people.html"><span id="u350484-4">Our People</span></a></p><p id="u350484-9"><a class="nonblock" href="our-partners.html"><span id="u350484-7">Our Partners</span></a></p><p id="u350484-12"><a class="nonblock" href="contact-us.html"><span id="u350484-10">Contact Us</span></a></p></div></div></li><li class="AccordionPanel borderbox clearfix colelem" id="u350474"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u350477-4"><!-- content --><div id="u350477-3" class="shared_content" data-content-guid="u350477-3_content"><p>Courses</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u350475"><!-- group --><div class="Menu1 clearfix grpelem shared_content" id="u350476-8" data-content-guid="u350476-8_content"><!-- content --><p><a class="nonblock" href="expeditionary-courses.html">Expeditionary Courses</a></p><p><a class="nonblock" href="courses/index.html"><span id="u350476-4">3C Courses (CCAF Credit)</span></a></p></div></div></li><li class="AccordionPanel borderbox clearfix colelem" id="u350478"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u350481-4"><!-- content --><div id="u350481-3" class="shared_content" data-content-guid="u350481-3_content"><p>Programs</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u350479"><!-- group --><div class="Menu1 clearfix grpelem shared_content" id="u350480-11" data-content-guid="u350480-11_content"><!-- content --><p><a class="nonblock" href="leap/index.html"><span id="u350480">Language Enabled Airman Program (LEAP)</span></a></p><p><a class="nonblock" href="csp.html">Cultural Studies Project (CSP)</a></p><p><a class="nonblock" href="qep.html">Quality Enhancement Plan (QEP)</a></p></div></div></li><li class="AccordionPanel borderbox clearfix colelem" id="u350498"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u350501-4"><!-- content --><div id="u350501-3" class="shared_content" data-content-guid="u350501-3_content"><p>Resources</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u350499"><!-- group --><div class="Menu1 clearfix grpelem shared_content" id="u350500-29" data-content-guid="u350500-29_content"><!-- content --><p><a class="nonblock" href="ecfg/index.html"><span id="u350500">Field Guides</span></a></p><p><a class="nonblock" href="symposium/index.html" target="_blank"><span id="u350500-4">AU LREC Symposium</span></a></p><p><a class="nonblock" href="library.html" target="_blank">AFCLC Library</a></p><p><a class="nonblock" href="https://afclc.wordpress.com/" target="_blank"><span id="u350500-10">Blog</span></a></p><p><a class="nonblock" href="research-publications.html">Research Publications</a></p><p><a class="nonblock" href="language-resources.html">Language Resources</a></p><p><a class="nonblock" href="region-culture-resources.html">Region &amp; Culture Resources</a></p><p><a class="nonblock" href="air-staff-resources.html">Air Staff Resources</a></p><p><a class="nonblock" href="guidance.html">Guidance</a></p></div></div></li><li class="AccordionPanel borderbox clearfix colelem" id="u350486"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u350497-4"><!-- content --><div id="u350497-3" class="shared_content" data-content-guid="u350497-3_content"><p>Divisions</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u350487"><!-- group --><ul class="AccordionWidget clearfix grpelem" id="accordionu350488"><!-- vertical box --><li class="AccordionPanel borderbox clearfix colelem" id="u350489"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u350490-4"><!-- content --><div id="u350490-3" class="shared_content" data-content-guid="u350490-3_content"><p>Culture &amp; Region</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u350491"><!-- group --><div class="Menu1 clearfix grpelem shared_content" id="u350492-23" data-content-guid="u350492-23_content"><!-- content --><p><a class="nonblock" href="culture-about.html">About</a></p><p><a class="nonblock" href="our-people.html">Our Faculty</a></p><p><a class="nonblock" href="courses/index.html">3C Courses (CCAF Credit)</a></p><p><a class="nonblock" href="expeditionary-courses.html">Expeditionary Courses</a></p><p><a class="nonblock" href="ecfg/index.html"><span id="u350492-13">Field Guides</span></a></p><p><a class="nonblock" href="csp.html">Cultural Studies Project (CSP)</a></p><p><a class="nonblock" href="region-culture-resources.html">Region &amp; Culture Resources</a></p></div></div></li><li class="AccordionPanel borderbox clearfix colelem" id="u350493"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u350494-4"><!-- content --><div id="u350494-3" class="shared_content" data-content-guid="u350494-3_content"><p>Language</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u350495"><!-- group --><div class="Menu1 clearfix grpelem shared_content" id="u350496-14" data-content-guid="u350496-14_content"><!-- content --><p><a class="nonblock" href="language-about.html">About</a></p><p><a class="nonblock" href="language-resources.html">Language Resources</a></p><p><a class="nonblock" href="leap/index.html"><span id="u350496-7">Language Enabled Airman Program (LEAP)</span></a></p><p><a class="nonblock" href="air-staff-resources.html">Air Staff Resources</a></p></div></div></li></ul></div></li><li class="AccordionPanel borderbox clearfix colelem" id="u350502"><!-- vertical box --><a class="nonblock nontext AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u350503-4" href="contact-us.html"><!-- content --><div id="u350503-3" class="shared_content" data-content-guid="u350503-3_content"><p>Contact Us</p></div></a><div class="AccordionPanelContent disn borderbox colelem" id="u350504"><!-- simple frame --></div></li></ul><a class="nonblock nontext MuseLinkActive grpelem" id="u350505" href="index.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u350505_img" alt="" data-orig-src="images/house204-u350505.png?crc=110879040" data-image-width="35" src="images/blank.gif?crc=4208392903"></a></div></li>
+         </ul>
+         <div class="clearfix grpelem" id="u350507"><!-- group -->
+          <div class="clearfix grpelem" id="u350509"><!-- group -->
+           <a class="nonblock nontext grpelem" id="u350514" href="https://www.facebook.com/AirForceCultureandLanguageCenter" target="_blank"><!-- state-based BG images --></a>
+           <a class="nonblock nontext grpelem" id="u350510" href="https://twitter.com/afclc" target="_blank"><!-- state-based BG images --></a>
+          </div>
+          <div class="shadow grpelem" id="u350508"><!-- simple frame --></div>
+         </div>
+         <div class="clearfix grpelem shared_content" id="u350516-4" data-content-guid="u350516-4_content"><!-- content -->
+          <p>Menu</p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="PamphletWidget clearfix colelem temp_no_id" data-orig-id="pamphletu6965"><!-- none box -->
+      <div class="popup_anchor temp_no_id" data-orig-id="u6972popup">
+       <div class="ContainerGroup clearfix temp_no_id" data-orig-id="u6972"><!-- stack box -->
+        <div class="Container clearfix grpelem temp_no_id" data-orig-id="u6973"><!-- group -->
+         <div class="clip_frame grpelem temp_no_id" data-orig-id="u382754"><!-- image -->
+          <img class="block temp_no_id temp_no_img_src" data-orig-src="images/annual%20report%20final_print_page_01.jpg?crc=4153034133" alt="" width="341" height="441" data-orig-id="u382754_img" src="images/blank.gif?crc=4208392903">
+         </div>
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u6981_content"><!-- placeholder node --></span>
+        </div>
+        <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u6975"><!-- group -->
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u6963_content"><!-- placeholder node --></span>
+         <span class="clearfix grpelem placeholder" data-placeholder-for="pu343209_content"><!-- placeholder node --></span>
+        </div>
+        <div class="Container invi clearfix grpelem temp_no_id" data-orig-id="u284787"><!-- group -->
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u284920_content"><!-- placeholder node --></span>
+         <span class="clip_frame grpelem placeholder" data-placeholder-for="u284990_content"><!-- placeholder node --></span>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor temp_no_id" data-orig-id="u6970popup">
+       <div class="PamphletPrevButton PamphletLightboxPart popup_element rgba-background clearfix temp_no_id" data-orig-id="u6970"><!-- group -->
+        <div class="grpelem temp_no_id" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=-1,M12=0,M21=0,M22=-1,SizingMethod='auto expand')" data-mu-ie-matrix-dx="0" data-mu-ie-matrix-dy="0" data-orig-id="u6998"><!-- rasterized frame -->
+         <img class="temp_no_id temp_no_img_src" alt="" width="13" height="24" data-orig-src="images/arrow2-u69984.png?crc=3962018258" data-orig-id="u6998_img" src="images/blank.gif?crc=4208392903">
+        </div>
+       </div>
+      </div>
+      <div class="ThumbGroup clearfix grpelem temp_no_id" data-orig-id="u6966"><!-- none box -->
+       <div class="popup_anchor temp_no_id" data-orig-id="u6968popup">
+        <div class="Thumb popup_element rgba-background rounded-corners temp_no_id" data-orig-id="u6968"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor temp_no_id" data-orig-id="u6967popup">
+        <div class="Thumb popup_element rgba-background rounded-corners temp_no_id" data-orig-id="u6967"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor temp_no_id" data-orig-id="u284836popup">
+        <div class="Thumb popup_element rgba-background rounded-corners temp_no_id" data-orig-id="u284836"><!-- simple frame --></div>
+       </div>
+      </div>
+      <div class="popup_anchor temp_no_id" data-orig-id="u6976popup">
+       <div class="PamphletNextButton PamphletLightboxPart popup_element rgba-background clearfix temp_no_id" data-orig-id="u6976"><!-- group -->
+        <img class="grpelem temp_no_id temp_no_img_src" alt="" width="13" height="24" data-orig-src="images/arrow2-u69924.png?crc=3962018258" data-orig-id="u6992" src="images/blank.gif?crc=4208392903"><!-- rasterized frame -->
+       </div>
+      </div>
+     </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="ppamphletu146120"><!-- group -->
+      <div class="PamphletWidget clearfix grpelem temp_no_id" data-orig-id="pamphletu146120"><!-- none box -->
+       <div class="popup_anchor temp_no_id" data-orig-id="u146125popup">
+        <div class="ContainerGroup clearfix temp_no_id" data-orig-id="u146125"><!-- stack box -->
+         <div class="Container clearfix grpelem temp_no_id" data-orig-id="u146130"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u146215_content"><!-- placeholder node --></span>
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u146239_content"><!-- placeholder node --></span>
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u265665_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+       </div>
+       <div class="ThumbGroup clearfix grpelem temp_no_id" data-orig-id="u146142"><!-- none box -->
+        <div class="popup_anchor temp_no_id" data-orig-id="u146143popup">
+         <div class="Thumb popup_element clearfix temp_no_id" data-orig-id="u146143"><!-- group -->
+          <span class="grpelem placeholder" data-placeholder-for="u146144_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u6552_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u204067_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu170874_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu4667-4_content"><!-- placeholder node --></span>
+     <div class="verticalspacer" data-offset-top="941" data-content-above-spacer="941" data-content-below-spacer="454"></div>
+     <div class="browser_width colelem temp_no_id" data-orig-id="u348625-bw">
+      <div class="temp_no_id" data-orig-id="u348625"><!-- column -->
+       <div class="clearfix temp_no_id" data-orig-id="u348625_align_to_page">
+        <div class="clearfix colelem temp_no_id" data-orig-id="ppu348644"><!-- group -->
+         <span class="clearfix grpelem placeholder" data-placeholder-for="pu348644_content"><!-- placeholder node --></span>
+         <span class="afclc-footer clearfix grpelem placeholder" data-placeholder-for="u348636-32_content"><!-- placeholder node --></span>
+        </div>
+        <span class="colelem placeholder" data-placeholder-for="u348639_content"><!-- placeholder node --></span>
+        <span class="clearfix colelem placeholder" data-placeholder-for="pu348637-4_content"><!-- placeholder node --></span>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20icon-02.png?crc=453652957" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20arrow-02.png?crc=321307490" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/u350514-r.png?crc=444276170" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/u350510-r.png?crc=4014450024" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/u348641-r.png?crc=4010579409" alt="" src="images/blank.gif?crc=4208392903">
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_550" data-min-width="381" data-max-width="550"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="browser_width colelem temp_no_id" data-orig-id="u348624-bw">
+     <div class="shadow temp_no_id" data-orig-id="u348624"><!-- group -->
+      <div class="clearfix temp_no_id" data-orig-id="u348624_align_to_page">
+       <a class="nonblock nontext MuseLinkActive clip_frame grpelem temp_no_id" href="index.html" data-orig-id="u348704"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/afclc%20logo%20au.png?crc=25434171" alt="" width="215" height="31" data-orig-id="u348704_img" src="images/blank.gif?crc=4208392903"></a>
+       <ul class="AccordionWidget clearfix grpelem temp_no_id" data-orig-id="accordionu350469"><!-- vertical box -->
+        <li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u350470"><!-- vertical box --><div class="AccordionPanelTab transition museBGSize clearfix colelem temp_no_id" data-orig-id="u350471-3"><!-- content --><span class="placeholder" data-placeholder-for="u350471-3_0_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn shadow clearfix colelem temp_no_id" data-orig-id="u350472"><!-- group --><ul class="AccordionWidget clearfix grpelem temp_no_id" data-orig-id="accordionu350473"><!-- vertical box --><li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u350482"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-orig-id="u350485-4"><!-- content --><span class="placeholder" data-placeholder-for="u350485-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u350483"><!-- group --><span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u350484-14_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u350474"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-orig-id="u350477-4"><!-- content --><span class="placeholder" data-placeholder-for="u350477-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u350475"><!-- group --><span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u350476-8_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u350478"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-orig-id="u350481-4"><!-- content --><span class="placeholder" data-placeholder-for="u350481-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u350479"><!-- group --><span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u350480-11_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u350498"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-orig-id="u350501-4"><!-- content --><span class="placeholder" data-placeholder-for="u350501-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u350499"><!-- group --><span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u350500-29_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u350486"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-orig-id="u350497-4"><!-- content --><span class="placeholder" data-placeholder-for="u350497-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u350487"><!-- group --><ul class="AccordionWidget clearfix grpelem temp_no_id" data-orig-id="accordionu350488"><!-- vertical box --><li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u350489"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-orig-id="u350490-4"><!-- content --><span class="placeholder" data-placeholder-for="u350490-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u350491"><!-- group --><span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u350492-23_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u350493"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-orig-id="u350494-4"><!-- content --><span class="placeholder" data-placeholder-for="u350494-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u350495"><!-- group --><span class="Menu1 clearfix grpelem placeholder" data-placeholder-for="u350496-14_content"><!-- placeholder node --></span></div></li></ul></div></li><li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u350502"><!-- vertical box --><a class="nonblock nontext AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" href="contact-us.html" data-orig-id="u350503-4"><!-- content --><span class="placeholder" data-placeholder-for="u350503-3_content"><!-- placeholder node --></span></a><div class="AccordionPanelContent disn borderbox colelem temp_no_id" data-orig-id="u350504"><!-- simple frame --></div></li></ul><a class="nonblock nontext MuseLinkActive grpelem temp_no_id" href="index.html" data-orig-id="u350505"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="" data-orig-src="images/house204-u350505.png?crc=110879040" data-image-width="30" data-orig-id="u350505_img" src="images/blank.gif?crc=4208392903"></a></div></li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <span class="clearfix pinned-colelem placeholder" data-placeholder-for="u350516-4_content"><!-- placeholder node --></span><div class="colelem"></div>
+    <span class="clearfix colelem placeholder" data-placeholder-for="u170874_content"><!-- placeholder node --></span>
+    <span class="clearfix colelem placeholder" data-placeholder-for="u4667-4_content"><!-- placeholder node --></span>
+    <span class="clearfix colelem placeholder" data-placeholder-for="u170886_content"><!-- placeholder node --></span>
+    <span class="clearfix colelem placeholder" data-placeholder-for="u4666-4_content"><!-- placeholder node --></span>
+    <span class="clearfix colelem placeholder" data-placeholder-for="u170880_content"><!-- placeholder node --></span>
+    <span class="clearfix colelem placeholder" data-placeholder-for="u4668-4_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="555" data-content-above-spacer="554" data-content-below-spacer="845"></div>
+    <div class="browser_width colelem temp_no_id shared_content" data-orig-id="u348625-bw" data-content-guid="u348625-bw_content1">
+     <div class="temp_no_id" data-orig-id="u348625"><!-- column -->
+      <div class="clearfix temp_no_id" data-orig-id="u348625_align_to_page">
+       <span class="clip_frame colelem placeholder" data-placeholder-for="u348644_content"><!-- placeholder node --></span>
+       <span class="clearfix colelem placeholder" data-placeholder-for="u348638-7_content"><!-- placeholder node --></span>
+       <div class="clearfix colelem" id="pbuttonu348640"><!-- group -->
+        <span class="nonblock nontext Button Button-1 rounded-corners clearfix grpelem placeholder" data-placeholder-for="buttonu348640_content"><!-- placeholder node --></span>
+        <div class="clearfix grpelem temp_no_id" data-orig-id="u348697"><!-- group -->
+         <a class="nonblock nontext grpelem temp_no_id" href="https://www.facebook.com/AirForceCultureandLanguageCenter" target="_blank" data-orig-id="u348700"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="" width="22" height="22" data-orig-src="images/picons06-u348700.png?crc=91316985" data-orig-id="u348700_img" src="images/blank.gif?crc=4208392903"></a>
+         <a class="nonblock nontext grpelem temp_no_id" href="https://twitter.com/afclc" target="_blank" data-orig-id="u348702"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="" width="22" height="22" data-orig-src="images/picons03-u348702.png?crc=8760107" data-orig-id="u348702_img" src="images/blank.gif?crc=4208392903"></a>
+        </div>
+       </div>
+       <span class="afclc-footer clearfix colelem placeholder" data-placeholder-for="u348636-32_content"><!-- placeholder node --></span>
+       <span class="colelem placeholder" data-placeholder-for="u348639_content"><!-- placeholder node --></span>
+       <span class="clearfix colelem placeholder" data-placeholder-for="u348637-4_content"><!-- placeholder node --></span>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20icon-02.png?crc=453652957" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20arrow-02.png?crc=321307490" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/u348641-r.png?crc=4010579409" alt="" src="images/blank.gif?crc=4208392903">
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_380" data-max-width="380"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="position_content temp_no_id" data-orig-id="page_position_content">
+     <div class="clearfix colelem" id="pu378380"><!-- group -->
+      <div class="browser_width grpelem" id="u378380-bw">
+       <div class="shadow" id="u378380"><!-- group -->
+        <div class="clearfix" id="u378380_align_to_page">
+         <a class="nonblock nontext MuseLinkActive clip_frame grpelem temp_no_id" href="index.html" data-orig-id="u348704"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/afclc%20logo%20au.png?crc=25434171" alt="" width="172" height="25" data-orig-id="u348704_img" src="images/blank.gif?crc=4208392903"></a>
+        </div>
+       </div>
+      </div>
+      <div class="browser_width grpelem" id="accordionu378381-bw">
+       <ul class="AccordionWidget clearfix" id="accordionu378381"><!-- vertical box -->
+        <li class="AccordionPanel clearfix colelem100" id="u378382"><!-- vertical box --><div class="AccordionPanelTab museBGSize clearfix colelem100" id="u378427-4"><!-- content --><p>Menu</p></div><div class="AccordionPanelContent disn clearfix colelem100" id="u378383"><!-- group --><div class="clearfix grpelem" id="pu378384"><!-- column --><a class="nonblock nontext MuseLinkActive colelem" id="u378384" href="index.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u378384_img" alt="" width="26" height="26" data-orig-src="images/house204-u378384.png?crc=3987973981" src="images/blank.gif?crc=4208392903"></a><ul class="AccordionWidget clearfix colelem" id="accordionu378386"><!-- vertical box --><li class="AccordionPanel borderbox clearfix colelem" id="u378390"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u378393-4"><!-- content --><div id="u378393-3"><p>About</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u378391"><!-- group --><div class="accordion-menu clearfix grpelem" id="u378392-14"><!-- content --><p id="u378392-3"><a class="nonblock" href="our-story.html">Our Story</a></p><p id="u378392-6"><a class="nonblock" href="our-people.html"><span id="u378392-4">Our People</span></a></p><p id="u378392-9"><a class="nonblock" href="our-partners.html"><span id="u378392-7">Our Partners</span></a></p><p id="u378392-12"><a class="nonblock" href="contact-us.html"><span id="u378392-10">Contact Us</span></a></p></div></div></li><li class="AccordionPanel borderbox clearfix colelem" id="u378394"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u378397-4"><!-- content --><div id="u378397-3"><p>Courses</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u378395"><!-- group --><div class="accordion-menu clearfix grpelem" id="u378396-8"><!-- content --><p><a class="nonblock" href="expeditionary-courses.html">Expeditionary Courses</a></p><p><a class="nonblock" href="courses/index.html">3C Courses (CCAF Credit)</a></p></div></div></li><li class="AccordionPanel borderbox clearfix colelem" id="u378402"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u378405-4"><!-- content --><div id="u378405-3"><p>Programs</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u378403"><!-- group --><div class="accordion-menu clearfix grpelem" id="u378404-11"><!-- content --><p><a class="nonblock" href="leap/index.html">Language Enabled Airman Program (LEAP)</a></p><p><a class="nonblock" href="csp.html">Cultural Studies Project (CSP)</a></p><p><a class="nonblock" href="qep.html">Quality Enhancement Plan (QEP)</a></p></div></div></li><li class="AccordionPanel borderbox clearfix colelem" id="u378398"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u378401-4"><!-- content --><div id="u378401-3"><p>Resources</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u378399"><!-- group --><div class="accordion-menu clearfix grpelem" id="u378400-29"><!-- content --><p id="u378400-3"><a class="nonblock" href="ecfg/index.html">Field Guides</a></p><p id="u378400-6"><a class="nonblock" href="symposium/index.html" target="_blank">AU LREC Symposium</a></p><p id="u378400-9"><a class="nonblock" href="library.html" target="_blank">AFCLC Library</a></p><p id="u378400-12"><a class="nonblock" href="https://afclc.wordpress.com/" target="_blank">Blog</a></p><p id="u378400-15"><a class="nonblock" href="research-publications.html">Research Publications</a></p><p id="u378400-18"><a class="nonblock" href="language-resources.html">Language Resources</a></p><p id="u378400-21"><a class="nonblock" href="region-culture-resources.html">Region &amp; Culture Resources</a></p><p id="u378400-24"><a class="nonblock" href="air-staff-resources.html">Air Staff Resources</a></p><p id="u378400-27"><a class="nonblock" href="guidance.html">Guidance</a></p></div></div></li><li class="AccordionPanel borderbox clearfix colelem" id="u378406"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u378417-4"><!-- content --><div id="u378417-3"><p>Divisions</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u378407"><!-- group --><ul class="AccordionWidget clearfix grpelem" id="accordionu378408"><!-- vertical box --><li class="AccordionPanel borderbox clearfix colelem" id="u378413"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u378414-4"><!-- content --><div id="u378414-3"><p>Culture &amp; Region</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u378415"><!-- group --><div class="accordion-menu clearfix grpelem" id="u378416-23"><!-- content --><p><a class="nonblock" href="culture-about.html">About</a></p><p><a class="nonblock" href="our-people.html">Our Faculty</a></p><p><a class="nonblock" href="courses/index.html">3C Courses (CCAF Credit)</a></p><p><a class="nonblock" href="expeditionary-courses.html">Expeditionary Courses</a></p><p><a class="nonblock" href="ecfg/index.html">Field Guides</a></p><p><a class="nonblock" href="csp.html">Cultural Studies Project (CSP)</a></p><p><a class="nonblock" href="region-culture-resources.html">Region &amp; Culture Resources</a></p></div></div></li><li class="AccordionPanel borderbox clearfix colelem" id="u378409"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u378412-4"><!-- content --><div id="u378412-3"><p>Language</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u378410"><!-- group --><div class="accordion-menu clearfix grpelem" id="u378411-14"><!-- content --><p><a class="nonblock" href="language-about.html">About</a></p><p><a class="nonblock" href="language-resources.html">Language Resources</a></p><p><a class="nonblock" href="leap/index.html">Language Enabled Airman Program (LEAP)</a></p><p><a class="nonblock" href="air-staff-resources.html">Air Staff Resources</a></p></div></div></li></ul></div></li><li class="AccordionPanel borderbox clearfix colelem" id="u378387"><!-- vertical box --><a class="nonblock nontext AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u378388-4" href="contact-us.html"><!-- content --><div id="u378388-3"><p>Contact Us</p></div></a><div class="AccordionPanelContent disn borderbox colelem" id="u378389"><!-- simple frame --></div></li></ul></div><div class="clearfix grpelem" id="u378418"><!-- group --><div class="clearfix grpelem" id="u378420"><!-- group --><a class="nonblock nontext grpelem" id="u378423" href="https://www.facebook.com/AirForceCultureandLanguageCenter" target="_blank"><!-- state-based BG images --></a><a class="nonblock nontext grpelem" id="u378421" href="https://twitter.com/afclc" target="_blank"><!-- state-based BG images --></a></div></div></div></li>
+       </ul>
+      </div>
+      <div class="clearfix grpelem" id="u378428"><!-- column -->
+       <a class="nonblock nontext colelem" id="u378430" href="leap/index.html" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.7986,M12=0.6018,M21=-0.6018,M22=0.7986,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-5" data-mu-ie-matrix-dy="-5"><!-- state-based BG images --></a>
+       <a class="nonblock nontext clearfix colelem" id="u378429-4" href="leap/index.html"><!-- content --><p>LEAP</p></a>
+      </div>
+      <div class="clearfix grpelem" id="u378432"><!-- column -->
+       <a class="nonblock nontext colelem" id="u378433" href="courses/index.html"><!-- state-based BG images --></a>
+       <a class="nonblock nontext clearfix colelem" id="u378435-4" href="courses/index.html"><!-- content --><p>CCAF Courses</p></a>
+      </div>
+      <div class="clearfix grpelem" id="u378436"><!-- column -->
+       <a class="nonblock nontext colelem" id="u378437" href="ecfg/index.html"><!-- state-based BG images --></a>
+       <a class="nonblock nontext clearfix colelem" id="u378439-4" href="ecfg/index.html"><!-- content --><p>Field Guides</p></a>
+      </div>
+     </div>
+     <div class="browser_width colelem" id="u384742-bw">
+      <div class="temp_no_id" data-orig-id="u384742"><!-- group -->
+       <div class="clearfix" id="u384742_align_to_page">
+        <a class="nonblock nontext Menu1 clearfix grpelem" id="u204083-4" href="library.html"><!-- content --><p><span id="u204083">View our 2016/2017 Annual Report</span></p></a>
+       </div>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u170874_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u4667-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u170886_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u4666-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u170880_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u4668-4_content"><!-- placeholder node --></span>
+     <div class="verticalspacer" data-offset-top="680" data-content-above-spacer="679" data-content-below-spacer="751"></div>
+     <span class="browser_width colelem placeholder" data-placeholder-for="u348625-bw_content1"><!-- placeholder node --></span>
+    </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20icons%20mobile-02.png?crc=476667047" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20arrow-02.png?crc=321307490" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/u378423-r.png?crc=3821917204" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/u378421-r.png?crc=4235571004" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/u378430-a.png?crc=3782733618" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/u378433-a.png?crc=3906426083" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/u378437-a.png?crc=3869140832" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/u348641-r.png?crc=4010579409" alt="" src="images/blank.gif?crc=4208392903">
+   </div>
+  </div>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   // Decide weather to suppress missing file error or not based on preference setting
+var suppressMissingFileError = false
+</script>
+  <script type="text/javascript">
+   window.Muse.assets.check=function(d){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},c=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
+16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
+l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
+f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
+setTimeout(function(){g(!0)},5E3):g()}};
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","webpro","musewpdisclosure","musewpslideshow","jquery.museoverlay","touchswipe","jquery.watch","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
+window.Muse.assets.check($);/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.initWidget('#accordionu348655', ['#bp_infinity', '#bp_1140', '#bp_960'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu348655 */
+Muse.Utils.initWidget('#pamphletu348646', ['#bp_infinity', '#bp_1140', '#bp_960'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'mouseout_click',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:200,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu348646 */
+Muse.Utils.initWidget('#pamphletu6965', ['#bp_infinity', '#bp_1140', '#bp_960', '#bp_768'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:true,displayInterval:6000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu6965 */
+Muse.Utils.initWidget('#pamphletu146120', ['#bp_infinity', '#bp_1140', '#bp_960', '#bp_768'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'horizontal',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu146120 */
+Muse.Utils.initWidget('#accordionu350488', ['#bp_768', '#bp_550'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu350488 */
+Muse.Utils.initWidget('#accordionu350473', ['#bp_768', '#bp_550'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu350473 */
+Muse.Utils.initWidget('#accordionu350469', ['#bp_768', '#bp_550'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu350469 */
+Muse.Utils.initWidget('#accordionu378408', ['#bp_380'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu378408 */
+Muse.Utils.initWidget('#accordionu378386', ['#bp_380'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu378386 */
+Muse.Utils.initWidget('#accordionu378381', ['#bp_380'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu378381 */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+}catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
+
+</script>
+  <!-- RequireJS script -->
+  <script src="scripts/require.js?crc=3951022091" type="text/javascript" async="" data-main="scripts/museconfig.js?crc=474374037" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType &amp;&amp; requireType.toString &amp;&amp; requireType.toString().indexOf &amp;&amp; 0 &lt;= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+   
+
+<div class="muse_check_css" style="height: 100vh;"></div><div id="muse_css_mq"></div></body></html>

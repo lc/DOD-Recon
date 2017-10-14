@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html lang="en"><head>
+
+<title>
+.::
+AROWS-R -
+DOD Disclaimer
+::.
+</title>
+
+
+<link rel="stylesheet" type="text/css" href="/arows-r/includes/nows.css;jsessionid=B_MWvCh0xxU_t6B7Fz7e5Ri-HrHGkMwJdNYQd9aaLmAe3lwM6WVM!-1147479631">
+
+
+
+<noscript>
+  &lt;meta http-equiv="Refresh" content="0;URL=/arows-r/public/enable_javascript.jsp;jsessionid=B_MWvCh0xxU_t6B7Fz7e5Ri-HrHGkMwJdNYQd9aaLmAe3lwM6WVM!-1147479631" /&gt;
+</noscript>
+
+<script type="text/javascript">
+ bcAgt=navigator.userAgent.toLowerCase();
+ bcMajor=parseInt(navigator.appVersion,10);
+ bcNav=((bcAgt.indexOf('mozilla')!=-1) && (bcAgt.indexOf('spoofer')==-1) && (bcAgt.indexOf('compatible')==-1) && (bcAgt.indexOf('opera')==-1) && (bcAgt.indexOf('webtv')==-1) && (bcAgt.indexOf('hotjava')==-1));
+ bcNav6up=(bcNav && (bcMajor>=5));
+ bcIE=((bcAgt.indexOf("msie")!=-1) && (bcAgt.indexOf("opera")==-1));
+ bcIE4=(bcIE && (bcMajor==4) && (bcAgt.indexOf("msie 4")!=-1));
+ bcIE5=(bcIE && (bcMajor==4) && (bcAgt.indexOf("msie 5.0")!=-1));
+ bcIE5_5=(bcIE && (bcMajor==4) && (bcAgt.indexOf("msie 5.5")!=-1));
+ bcIE5_5up=(bcIE && !bcIE4 && !bcIE5);
+ bcIE6=(bcIE && (bcMajor==4) && (bcAgt.indexOf("msie 6.")!=-1));
+ bcIE6up=(bcIE5_5up && !bcIE5_5);
+ bcFf=(bcNav && bcAgt.indexOf('firefox')!=-1);
+ bcFf1=(bcFf && (bcAgt.indexOf("firefox/1.0")!=-1));
+ bcFf1_5=(bcFf && (bcAgt.indexOf("firefox/1.5")!=-1));
+ bcFf2=(bcFf && (bcAgt.indexOf("firefox/2.0")!=-1));
+ bcFf1_5up=(bcFf1_5 || bcFf2 || (bcFf && !bcFf1));
+
+ var safari1=bcAgt.indexOf('safari/');
+ var bcSafari400_up=bcNav && safari1!=-1 && new Number(bcAgt.substr(safari1+7,3)) > 530;
+ if (!bcFf1_5up && !bcIE6up && !bcSafari400_up) { window.location.href = "/arows-r/public/unsupported.jsp;jsessionid=B_MWvCh0xxU_t6B7Fz7e5Ri-HrHGkMwJdNYQd9aaLmAe3lwM6WVM!-1147479631"; }
+</script>
+
+
+
+<script type="text/javascript" src="/arows-r/includes/formcheck.js;jsessionid=B_MWvCh0xxU_t6B7Fz7e5Ri-HrHGkMwJdNYQd9aaLmAe3lwM6WVM!-1147479631"></script>
+<script type="text/javascript" src="/arows-r/includes/now.js;jsessionid=B_MWvCh0xxU_t6B7Fz7e5Ri-HrHGkMwJdNYQd9aaLmAe3lwM6WVM!-1147479631"></script>
+
+<script type="text/javascript" src="/arows-r/includes/ts_picker.js;jsessionid=B_MWvCh0xxU_t6B7Fz7e5Ri-HrHGkMwJdNYQd9aaLmAe3lwM6WVM!-1147479631"></script>
+
+<script language="javascript">
+  window.defaultStatus='';
+  var context_path = "/arows-r/;jsessionid=B_MWvCh0xxU_t6B7Fz7e5Ri-HrHGkMwJdNYQd9aaLmAe3lwM6WVM!-1147479631";
+</script>
+</head>
+<body>
+<table class="mainTable" cellspacing="0" cellpadding="0">
+
+<!-- Page Header -->
+<tbody><tr valign="top">
+  <td class="headerBlue" align="left"><img src="/arows-r/images/header-left.jpg;jsessionid=B_MWvCh0xxU_t6B7Fz7e5Ri-HrHGkMwJdNYQd9aaLmAe3lwM6WVM!-1147479631"></td>
+  <td id="header" align="right"><img src="/arows-r/images/header-right.jpg;jsessionid=B_MWvCh0xxU_t6B7Fz7e5Ri-HrHGkMwJdNYQd9aaLmAe3lwM6WVM!-1147479631">
+    <br>&nbsp;
+    <span style="font-size: .90em;vertical-align:bottom;">
+      Version: <u>1.76.0.0004</u>&nbsp;&nbsp;&nbsp;
+      
+      Server: P4&nbsp;&nbsp;&nbsp;
+      Page Refreshed At: 2017/10/13 13:15 EDT&nbsp;&nbsp;&nbsp;<br>&nbsp;<br>
+    </span>&nbsp;
+
+  </td>
+</tr>
+
+
+<!-- Spacer Line -->
+<tr>
+  <td class="mainTableLeft"><img src="/arows-r/images/blank.gif;jsessionid=B_MWvCh0xxU_t6B7Fz7e5Ri-HrHGkMwJdNYQd9aaLmAe3lwM6WVM!-1147479631" class="spacer" border="0"></td>
+  <td class="mainTableRight"></td>
+</tr>
+
+
+<!-- Primary Nav Line-->
+<tr>
+  <td colspan="2" id="primaryNavRow">
+    
+  </td>
+</tr>
+
+
+
+<tr class="secondaryPlusContent">
+  <td class="secondaryPlusContent" colspan="2">
+    <table cellpadding="0" cellspacing="0" class="secondaryPlusContent">
+      <tbody><tr valign="top">
+ 
+
+      <!-- main content -->
+        <td id="mainContent" width="*">
+          <table class="mainContentTable">
+
+            
+            <tbody><tr>
+              <td></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+            <tr>
+              <td>
+
+
+
+
+
+
+
+
+
+<table class="disclaimerBody" align="center" width="100%">
+  <tbody><tr>
+    <td>
+      <div style="margin-left:25px">
+      You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only.
+      By using this IS (which includes any device attached to this IS), you consent to the following conditions:</div>
+      <ul type="square">
+        <li>
+          The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to,
+          penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), law enforcement
+          (LE), and counterintelligence (CI) investigations.
+        </li>
+        <p>
+        </p><li>
+          At any time, the USG may inspect and seize data stored on this IS.
+        </li>
+        <p>
+        </p><li>
+          Communications using, or data stored on, this IS are not private, are subject to routine monitoring,
+          interception, and search, and may be disclosed or used for any USG authorized purpose.
+        </li>
+        <p>
+        </p><li>
+          This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for
+          your personal benefit or privacy.
+        </li>
+        <p>
+        </p><li>
+          Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching or
+          monitoring of the content of privileged communications, or work product, related to personal representation or
+          services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product are
+          private and confidential.
+        </li>
+        <p>
+      </p></ul>
+    </td>
+  </tr>
+</tbody></table>
+
+
+
+<div class="centered">
+
+  
+  <p>
+  </p><p>
+
+
+  <table align="center">
+    <tbody><tr>
+      <td colspan="3" align="center">
+        By clicking <b>OK</b>, you agree to the terms of the User Agreement &amp; Rules of Behavior.<br>Clicking <b>Cancel</b> will send you to the Air Force Portal.<br>
+      </td>
+    </tr>
+    <tr><td colspan="3" align="center">&nbsp;</td></tr>
+    <tr>
+      <td colspan="3" align="center">
+        
+        <button type="button" class="buttonNarrow" tabindex="1" onclick="location.href='/arows-r/dod_consent.do;jsessionid=B_MWvCh0xxU_t6B7Fz7e5Ri-HrHGkMwJdNYQd9aaLmAe3lwM6WVM!-1147479631?actionButton=OK';">OK</button>
+        &nbsp;&nbsp;
+        <button type="button" class="buttonNarrow" tabindex="2" onclick="location.href='/arows-r/dod_consent.do;jsessionid=B_MWvCh0xxU_t6B7Fz7e5Ri-HrHGkMwJdNYQd9aaLmAe3lwM6WVM!-1147479631?actionButton=Cancel';">Cancel</button>
+      </td>
+    </tr>
+  </tbody></table>
+</p></div>
+
+</td>
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+    </tbody></table>
+  </td>
+</tr>
+
+
+
+<!-- footer -->
+<tr valign="top">
+  <td id="footer">&nbsp;</td>
+  <td id="footer" align="center">
+    
+    
+
+
+Use of this system constitutes agreement with <a class="menuSelected" href="javascript:void(0);" onclick="f_disclaimer_sized('/arows-r/dod_disclaimer.jsp',450,500);">THIS</a> statement in conjunction with the <a class="menuSelected" href="javascript:void(0);" onclick="f_disclaimer('/arows-r/privacy.jsp');">PRIVACY ACT STATEMENT</a>&nbsp;and&nbsp;<a class="menuSelected" href="javascript:void(0);" onclick="f_disclaimer_sized('/arows-r/rules.jsp',600,650)">RULES OF BEHAVIOR</a>
+
+  </td>
+</tr>
+</tbody></table>
+
+
+</body></html>

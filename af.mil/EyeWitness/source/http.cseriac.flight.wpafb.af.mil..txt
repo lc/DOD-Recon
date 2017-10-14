@@ -1,0 +1,986 @@
+<!DOCTYPE html><html><!-- InstanceBegin template="/Templates/main-template.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<style type="text/css">
+  body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    height: 100%;
+    background-color: #306090;
+    color: #FFF;
+  }
+
+  #top-bar {
+    background-color: #227004;
+  }
+
+  #bottom-bar {
+    background-color: #227004;
+  }
+
+  #site-logo {
+    padding-left:10px;
+  }
+
+  #main-content {
+    min-height: 600px;
+  }
+
+  #nav-text {
+    height: 35px;
+  }
+
+  .centerwidth {
+    width:950px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .fullwidth {
+    width:100%;
+  }
+
+  .white {
+    background-color: #FFFFFF;
+    color: #000;
+  }
+
+  .white-link {
+    color: #FFF !important;
+  }
+
+  .thin {
+    height:5px;
+  }
+
+  .thinest {
+    height:1px;
+  }
+
+  .thick {
+    height:35px;
+  }
+  .thickest {
+    height:60px;
+  }
+
+  .right {
+    float:right !important;
+  }
+
+  .clean {
+    text-decoration: none;
+  }
+
+  .sponsor-logos {
+    display:inline-block;
+    margin-top:8px;
+    margin-bottom:7px;
+  }
+
+  .sponsor-logos img {
+    height: 70px;
+    border: none;
+  }
+
+  table.roomy {
+    width:950px; 
+    border-collapse: collapse;
+  }
+
+  table.roomy tr td {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  table.roomy tr th {
+    padding-bottom: 5px;
+  }
+
+  #relinks {
+    padding: 8px 0 8px 0px;
+    text-align: left;
+    font-family: "arial",SANS Serif;
+    font-weight: bold;
+    font-size: 13px;
+    color: #103e6e;
+  }
+
+  #relinks a,#relinks a:visited,#relinks a:link {
+    text-decoration: none;
+    color: rgb(55, 120, 199);
+  }
+
+  #relinks a:hover {
+    text-decoration: underline;
+    cursor:hand;
+  }
+  /*Menu CSS*/
+  #primary_nav_wrap ul {
+    list-style:none;
+    position:relative;
+    float:left;
+    margin:0;
+    padding:0;
+    z-index: 2;
+  }
+
+  #primary_nav_wrap ul a {
+    display:inline-block;
+    color:#FFF;
+    text-decoration:none;
+    font-weight:700;
+    font-size:14px;
+    line-height:35px;
+    padding:0 40px 0 0px;
+    font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+  }
+
+  #primary_nav_wrap ul a:hover {
+    color:#858585; 
+  }
+
+  #primary_nav_wrap ul li {
+    position:relative;
+    float:left;
+    margin:0;
+    padding:0
+  }
+
+  #primary_nav_wrap ul li.current-menu-item {
+    background:#ddd
+  }
+
+  #primary_nav_wrap ul li:hover {
+    /*background:#636bb6;*/
+    /*color:#858585;*/
+  }
+
+  #primary_nav_wrap ul ul {
+    display:none;
+    position:absolute;
+    top:100%;
+    left:0;
+    background:#306090;
+    padding:0
+  }
+
+  #primary_nav_wrap ul ul li {
+    list-style-position:inside;
+    border-top: 1px solid #ddd;
+    float:none;
+    width:200px
+  }
+
+  #primary_nav_wrap ul ul a {
+    line-height:120%;
+    padding:10px 15px;
+    width:170px;
+  }
+
+  #primary_nav_wrap ul ul ul {
+    top:0;
+    left:100%
+  }
+
+  #primary_nav_wrap ul li:hover > ul {
+    display:block
+  }
+
+  .gray {
+    background-color: #fafafa;
+    color: #000;
+  }
+  
+  table tr th {
+	  background-color: #f8f6f2;
+  }
+  /*End Menu CSS*/
+</style>
+<style type="text/css">
+body {
+	font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+	font-size: 16px;
+}
+h1 {
+	font-size: 22px;
+	font-weight: bold;
+}
+
+h2 {
+	margin-left: 8px;
+	font-size: 20px;
+	font-style: italic; 
+	font-weight: bold;
+}
+
+h3 {
+	margin-left: 14px;
+	font-size: 18px;
+	font-weight: normal;
+	text-decoration:underline;
+}
+
+p {
+	margin-left: 20px;
+}
+
+ul , ol{
+	margin-left: 20px;
+}
+a {
+	color: #382410;
+	text-decoration: none;
+	font-weight: 600;
+	outline:0;
+}
+
+a:hover {
+	color: #FF0000;
+}
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="http://fonts.googleapis.com/css?family=Raleway+Dots&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+</head>
+<body style="">
+<header>
+<div id="relinks" class="fullwidth gray">
+  <center>
+  <a href="https://www.dtic.mil/REGateway/welcome">DoDTechSpace</a>&nbsp; | &nbsp;
+  <a href="https://www.dodtechipedia.mil/dodwiki/display/techipedia/DoDTechipedia">DoDTechipedia</a>&nbsp; | &nbsp;
+  <a href="http://www.defenseinnovationmarketplace.mil/">Defense Innovation Marketplace</a>&nbsp; | &nbsp;
+  <a href="https://www.dtic.mil/researchproject/login.html">Research Projects (DoD Only)</a>&nbsp; | &nbsp;
+  <a href="https://www.dodtechipedia.mil/dodwiki/display/techipedia/Budget+and+Planning+Information">Budget</a>&nbsp; | &nbsp;
+  <a href="http://iac.dtic.mil/">IACs</a>&nbsp; | &nbsp;
+  <a href="https://www.dodtechipedia.mil/dodwiki/display/techipedia/DTIC+Services">Services</a>&nbsp; | &nbsp;
+  <a href="https://www.dtic.mil/DTICOnline/home.search?tabId=DoDResearchTab&amp;q=">Search</a>
+  </center>
+</div>
+<div id="top-bar" class="fullwidth thin"></div>
+<div class="fullwidth white">
+  <div class="centerwidth">
+    <div class="left">
+      <a class="sponsor-logos clean" href="http://www.defense.gov/"><img src="http://www.dtic.mil/dtic/images/dod_seal.gif" alt="DOD"></a>
+      <a class="sponsor-logos clean" href="http://www.dtic.mil/dtic/"><img src="http://www.dtic.mil/dtic/images/dtic_seal.gif" alt="dtic"></a><a href="http://iac.dtic.mil/"><img src="images/dodiac_logo_final.png" alt="dodiac" width="72" height="70" hspace="4" border="0"></a></div>
+  </div>
+</div>
+<div id="nav" class="fullwidth thick">
+  <nav>
+    <div id="primary_nav_wrap" class="centerwidth">
+      <ul>
+        <li><a href="about_us.html">About Us</a>
+          <ul>
+            <li><a href="iac_mission_value.html">IAC Mission and Value</a></li>
+            <li><a href="business_opportunities.html">Business Opportunities</a></li>
+            <li><a href="program_history.html">IAC Program History</a></li>
+            <li><a href="director.html">Director of DoD IACs</a></li>
+            <li><a href="contact_us.html">Contact Us</a></li>
+          </ul>
+        </li>
+        
+         <li><a href="services_capabilities.html">Services/Capabilities</a>
+          <ul>
+            <li><a href="iacs.html">IAC Basic Centers of Operation  (BCOs)</a>
+              <ul>
+                <li><a href="https://www.csiac.org">CSIAC</a></li>
+                <li><a href="https://www.dsiac.org">DSIAC</a></li>
+                <li><a href="https://www.hdiac.org">HDIAC</a></li>
+              </ul>
+            </li>
+            <li><a href="macs.html">Multiple Award TATs(MACs)</a>
+              <ul>
+                <li><a href="/cstat.html">CSTAT</a></li>
+                <li><a href="/dstat.html">DSTAT</a></li>
+                <li><a href="/hdtat.html">HDTAT</a></li>
+           </ul>
+            </li>
+            <li><a href="tua.html">Task Utilization Agreement</a></li>
+            <li><a href="tat_number.html">TAT or CAT Number and DO Number</a></li>
+            
+                <li><a href="support_agreements.html">Support Agreements</a></li>
+           <ul>
+              <li><a href="1144.html">DoD Support Agreements - 1144</a></li>
+                <li><a href="iaa.html">Non DoD Support Agreements - IAA</a></li>
+          </ul>
+         
+              <li><a href="ota.html">Other Transaction Authority (OTA)</a>
+              <ul>
+                <li><a href="energy_ota.html">Energy OTA</a></li>
+                </ul>
+            </li>
+          </ul>
+        </li>
+        
+        
+        <li><a href="financial_mgmt.html">Financial Management</a>
+          <ul>
+            <li><a href="how_to_send_mipr.html">How to Send a MIPR</a></li>
+            <li><a href="csdc.html">CSDC</a></li>
+            <li><a href="reimbursable_direct_cite.html">Reimbursable and Direct Cite</a></li>
+            <li><a href="move_deob_funds.html">Movement or De-ob of Funds</a></li>
+            <li><a href="fundtypes_appropriations_authority.html">Operational and Maintenance (O&amp;M) Funds, Appropriations, and Authority</a></li>
+            <li><a href="industry_check.html">Industry Check Process</a></li>
+          </ul>
+        </li>
+         
+        <li><a href="resources.html">Resources</a>
+          <ul>
+          <li><a href="acor_process.html">Alternate Contracting Officer's Representative Process</a></li>
+            <li><a href="tech_inquiry.html">Technical Inquiry</a></li>
+            <li><a href="press_pub.html">Memoranda and Press</a></li>
+            <li><a href="case_studies.html">Case Studies</a></li>
+            <li><a href="other_iacs.html">Other IACs</a></li>
+            <li><a href="faqs.html">Frequently Asked Questions</a></li>
+             <li><a href="site_map.html">Site Map</a></li>
+          </ul>
+        </li>
+        
+        <li><a href="success_stories.html">Success Stories</a>
+          <ul>
+            <li><a href="cs_success_stories.html">CS Success Stories</a></li>
+            <li><a href="ds_success_stories.html">DS Success Stories</a></li>
+            <li><a href="hd_success_stories.html">HD Success Stories</a></li>
+          </ul>
+         </li>
+      </ul>
+      <ul class="right">
+        <li><a style="padding-right: 0px !important;" href="https://ca.dtic.mil/pubs/survey/caressuiteofservices1.htm" target="Feedback">Feedback</a></li>
+      </ul>
+    </div>
+  </nav>
+</div>
+<div id="top-bar" class="fullwidth thin"></div>
+<main>
+<div id="main-content" class="fullwidth white">
+  <div id="main-content" class="centerwidth"><br>
+<!-- InstanceBeginEditable name="body" -->
+<p>
+  <script src="http://rss.quanterion.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+  <!-- CSS for body content -->
+  <style type="text/css">
+.rss {
+  width: 250px;
+  float: right;
+}
+
+.rss .feed a {
+  width: 242px;
+  margin-bottom: 6px;
+  color: blue;
+  font-size: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  display: block;
+  text-overflow: ellipsis;
+}
+
+.memo {
+  width: 250px;
+  float: right;
+}
+
+.table_head {
+  background-color: #306090;
+  width: 250px;
+  border: 1px solid #306090; 
+}
+
+.table_head a {
+  color: #FFFFFF !important;
+  display: inline;
+  margin: 5px 0 3px 8px !important;
+  font-size: 16px !important;
+}
+
+.feed {
+  width: 250px;
+  border-style: solid;
+  border-width: 1px;
+  background-color: #f8f6f2;
+  margin-bottom: 20px;
+}
+
+.rssBody ul {
+  list-style: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.rssBody .rssRow h4 {
+  margin-bottom: 0px;
+  margin-top: 0px;
+  margin-left: 8px;
+
+}
+
+.rssHeader {
+  display: none;
+}
+
+td a {
+  display: block;
+  width: 100%;
+}
+
+.boxes {
+  width: 670px;
+  border-style: solid; 
+  border-color: #000000; 
+  background-color: #f8f6f2; 
+  border-width: 1px;
+  padding-bottom: 10px;
+}
+
+.news {
+  width: 660px;
+  border-style: solid; 
+  border-color: #000000; 
+  background-color: #f8f6f2; 
+  border-width: 1px;
+  padding-left: 10px;
+}
+
+.news ul {
+  margin-left: 0px !important;
+  padding-left: 5px !important;
+  padding-right: 20px !important;
+  padding-bottom: 0px !important;
+  list-style-type: none;
+}
+
+.news a {
+  font-size: 14px;
+  overflow: hidden;
+  display: block;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin-bottom: 5px;
+}
+
+.news .txt {
+  font-size: 12px;
+  font-weight: normal !important;
+}
+
+.news_header {
+  font-size: 22px; 
+  font-weight: bold; 
+  font-style: italic; 
+  padding-top: 10px;
+}
+
+.read_all {
+  float:right; 
+  font-size:14px; 
+  padding-right: 10px; 
+  font-style: italic;
+}
+
+.banner {
+  width: 675px;
+  height: 348px;
+  position: relative;
+  background-image: url("/images/new_homepage_head.png");
+  background-repeat: no-repeat; 
+  background-position: center;
+}
+
+.banner div {
+  display: inline-block;
+  position: absolute;
+  width: 270px;
+  height: 167px;
+  background-repeat: repeat-x;
+}
+
+.banner .left_section {
+  background-image: url("/images/new_line.png");
+  background-position: 0 40px;
+}
+
+.banner .bottom_left_section {
+  background-image: url("/images/new_line.png");
+  background-position: 0 40px;
+  top: 155px;
+}
+
+.banner .right_section {
+  background-image: url("/images/right_line.png");
+  background-position: 0 40px;
+  left: 500px;
+  margin-left: -90px;
+}
+
+.banner .bottom_right_section {
+  background-image: url("/images/right_line.png");
+  background-position: 0 40px;
+  left: 500px;
+  top: 155px;
+  margin-left: -90px;
+}
+
+.jssora03l, .jssora03r {
+  display: block;
+  position: absolute;
+  /* size of arrow element */
+  width: 55px;
+  height: 55px;
+  cursor: pointer;
+  background: url(/jssor/img/a14.png) no-repeat;
+  overflow: hidden;
+  opacity: 0.5;
+}
+  .jssora03l { background-position: -18px -33px; }
+  .jssora03r { background-position: -48px -33px; }
+  .jssora03l:hover { background-position: -138px -33px;
+      opacity: 1; }
+  .jssora03r:hover { background-position: -168px -33px;
+      opacity: 1; }
+  .jssora03l.jssora03ldn { background-position: -258px -33px; }
+  .jssora03r.jssora03rdn { background-position: -288px -33px; }
+
+.jqvmap-label
+{
+  position: absolute;
+  display: none;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background: #292929;
+  color: white;
+  font-family: sans-serif, Verdana;
+  font-size: smaller;
+  padding: 3px;
+}
+.jqvmap-zoomin, .jqvmap-zoomout
+{
+  position: absolute;
+  left: 10px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background: #000000;
+  padding: 3px;
+  color: white;
+  width: 10px;
+  height: 10px;
+  cursor: pointer;
+  line-height: 10px;
+  text-align: center;
+}
+.jqvmap-zoomin
+{
+  top: 10px;
+}
+.jqvmap-zoomout
+{
+  top: 30px;
+}
+.style3 {color: #000000}
+
+
+
+
+
+.chartList h6 {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-decoration: underline;
+  padding-bottom: 3px;
+}
+
+.chartList {
+  border: 1px solid black;
+  margin-left: 0px;
+  margin-right: 0px;
+ 
+}
+
+.chartList p {
+  margin-top: 0px;
+  margin-left: 5px;
+  margin-right: px;
+  margin-bottom: 0px;
+  font-size: 12px;
+
+}
+ canvas{
+  margin-top: -25px;
+}
+
+
+</style>
+  <!-- RSS FEED CONTENT -->
+  <script src="/zazar/jquery.zrssfeed.min.js" type="text/javascript"></script>
+</p>
+<div class="rss">
+  <h1 align="center"><a href="financial_mgmt.html"></a></h1>
+  <table width="200" border="5">
+    <tbody><tr>
+      <td colspan="3"><h1 align="center"><a href="financial_mgmt.html">FY18 Provisional CSDC rate: </a></h1>
+        <h1 align="center">1.2%</h1></td>
+      </tr>
+  </tbody></table>
+  <div align="center"></div>
+  <p><strong><a href="iac_one_pager.pdf">IAC One Pager</a></strong></p>
+  <p>
+  <a href="tech_inquiry.html">Begin your technical inquiry.  The first 4 hours of research is free!</a>
+  <br>
+    </p><div class="">
+      <div align="right"></div>
+    </div>
+    <p align="left"><a href="tech_inquiry.html"><img src="images/get-answers.png" alt="Technical Inquiry" width="116" height="124" border="0"></a><br>
+      <br>
+    </p><div class="">
+   
+  </div>
+    <div class="">
+      
+    </div>
+  <div id="">
+   
+  </div>
+  <div class="">
+      
+  </div>
+<!-- pie chart  -->
+<div class="pie_chart_container"> 
+     <div><iframe class="chartjs-hidden-iframe" style="width: 100%; display: block; border: 0px; height: 0px; margin: 0px; position: absolute; left: 0px; right: 0px; top: 0px; bottom: 0px;"></iframe> 
+         <h4>FY16 IAC Program Customers</h4> 
+         <canvas id="myChart" width="250" height="250" style="width: 250px; height: 250px;"></canvas> 
+
+         <div class="chartList">
+           <h6 class="labelData"> Top 10 Air Force  </h6>
+           <p class="labelList"><strong>1.</strong>Air Force HQ Joint Strike Fighter (JSF).
+                                 <strong>2.</strong>Air Force Reserve Command Test Center (AATC), 162nd Fighter Wing.
+                                 <strong>3.</strong>Air Force Material Command (AFMC), Electronic Warfare and Avionics Division.
+                                 <strong>4.</strong>Air Force Life Cycle Management Center (AFLCMC).
+                                 <strong>5.</strong>Secretary of the Air Force.
+                                 <strong>6.</strong>Air Force Research Laboratory (AFRL).
+                                 <strong>7.</strong>Warner Robins Air Logistics Complex (WR-ALC).
+                                 <strong>8.</strong>Air Education and Training Command (AETC).
+                                 <strong>9.</strong>Air Force Material Command (AFMC), Electronic Systems Center.
+                                 <strong>10.</strong>Air Force Flight Standards Agency (AFFSA).
+            </p> 
+         </div>
+     </div> 
+ </div> 
+ 
+ 
+
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script> 
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.4/Chart.min.js"></script>
+
+
+<script>
+  var ctx = document.getElementById("myChart").getContext('2d'); 
+  ctx.canvas.width = 100;
+  ctx.canvas.height = 100;
+ var myChart = new Chart(ctx, { 
+   type: 'pie', 
+   data: { 
+     labelsList: ["Top 10 Air Force", "Top 10 Army","Top 10 Marine Corps", "Top 10 Navy", "Top 7 DoD","Other Agencies"],
+     labels: ["Air Force", "Army", "Marine Corps", "Navy", "Other DoD", "Other Govt"], 
+     datasets: [ { backgroundColor: [ "#3498DB", "#E67E22", "#808B96", "#D4AC0D", "#2F61A5", "#379432"], data: [26, 30, 9, 29, 5, 1], borderWidth: 1} 
+             ] 
+        }, 
+         options: { 
+             tooltips: { 
+                  
+                 callbacks: { 
+                     label: function(tooltipItem, data) { 
+                     var dataset = data.datasets[tooltipItem.datasetIndex]; 
+                     var total = dataset.data.reduce(function(previousValue, currentValue, currentIndex, array) { 
+                         return previousValue + currentValue; 
+                     }); 
+                     var currentValue = dataset.data[tooltipItem.index]; 
+                     var precentage = Math.floor(((currentValue/total) * 100) + 0.5); 
+                     var dataLabel = data.labels[tooltipItem.index];
+                        return dataLabel + ": " + precentage + "%"; 
+                     } 
+                 } 
+                 }, 
+            responsive: true, 
+              legend: { 
+                         labels: { 
+                               boxWidth: 10, 
+                               fontSize: 13 
+                         }, 
+                         display: true, 
+                        
+                     }, 
+             fullWidth: true, 
+              onClick : function (evt, item) { 
+                         var activePoints = myChart.getElementsAtEvent(evt); 
+                         if(activePoints.length > 0) 
+                         { 
+                        var clickedElementindex = activePoints[0]["_index"]; 
+                        var value = myChart.data.datasets[0].data[clickedElementindex]; 
+                        var dataLabel = myChart.data.labelsList[clickedElementindex];
+                        filterList(dataLabel, value);         
+                 }  
+
+                 /*
+                  * function used to choose which list to display 
+                 */ 
+                function  filterList(dataLabel, value ) {
+                    
+                      switch(value) {
+                        case 26: {
+                                var str1 = "<strong>1.</strong>Air Force HQ Joint Strike Fighter (JSF).";
+                                var str2 = "<strong>2.</strong>Air Force Reserve Command Test Center (AATC), 162nd Fighter Wing.";
+                                var str3 = "<strong>3.</strong>Air Force Material Command (AFMC), Electronic Warfare and Avionics Division.";
+                                var str4 = "<strong>4.</strong>Air Force Life Cycle Management Center (AFLCMC).";
+                                var str5 = "<strong>5.</strong>Secretary of the Air Force.";
+                                var str6 = "<strong>6.</strong>Air Force Research Laboratory (AFRL).";
+                                var str7 = "<strong>7.</strong>Warner Robins Air Logistics Complex (WR-ALC).";
+                                var str8 = "<strong>8.</strong>Air Education and Training Command (AETC).";
+                                var str9 = "<strong>9.</strong>Air Force Material Command (AFMC), Electronic Systems Center.";
+                                var str10 ="<strong>10.</strong>Air Force Flight Standards Agency (AFFSA).";
+                                var finalList = str1+str2+str3+str4+str5+str6+str7+str8+str9+str10;
+                          
+                            displayData(dataLabel , finalList );
+                            break;
+                        }
+                         case 30: {
+                                 var str1 = "<strong>1.</strong>JPEO Chemical & Biological Defense (JPEO-CBD).";
+                                var str2 = "<strong>2.</strong>PEO Intelligence, Electronic Warfare and Sensors (IEW&S).";
+                                var str3 = "<strong>3.</strong>Intelligence and Security Command (INSCOM) 902nd Military Intelligence Group.";
+                                var str4 = "<strong>4.</strong>Tank Automotive Research, Development and Engineering Center (TARDEC).";
+                                var str5 = "<strong>5.</strong>PEO Missiles and Space (M&S) RAM Program Office.";
+                                var str6 = "<strong>6.</strong>Headquarters US Army Intelligence and Security Command (INSCOM).";
+                                var str7 = "<strong>7.</strong>PEO Intelligence, Electronic Warfare and Sensors (IEW&S), PM Aircraft Survivability Equipment (ASE).";
+                                var str8 = "<strong>8.</strong>Program Executive Office Missiles & Space (PEO M&S) Lower Tier Project Office (LTPO).";
+                                var str9 ="<strong>9.</strong>PEO Aviation, PM Apache Attack Helicopter.";
+                                var str10 ="<strong>10.</strong>Office of the Secretary of the Army (OSA), Army CIO.";
+                                var finalList = str1+str2+str3+str4+str5+str6+str7+str8+str9+str10;
+                            displayData(dataLabel , finalList );
+                            break;
+                        }
+                         case 9: {
+                                var str1 = "<strong>1.</strong>Marine Corps System Command (MARCORSYSCOM).";
+                                var str2 = "<strong>2.</strong>III Marine Expeditionary Force (IIIMEF).";
+                                var str3 = "<strong>3.</strong>Marine Corps Installation Command (MCI COM).";
+                                var str4 = "<strong>4.</strong>Marine Corps Intelligence Activity (MCIA).";
+                                var str5 = "<strong>5.</strong>I+K7 Marine Expeditionary Force Headquarters Group (I MEF HQ Group).";
+                                var str6 = "<strong>6.</strong>Headquarters and Service Battalion, Headquarters Marine Corps (HQSVCBN HQMC).";
+                                var str7 = "<strong>7.</strong>Marine Corps Warfighting Laboratory (MCWL).";
+                                var str8 = "<strong>8.</strong>USMC Forces Reserve.";
+                                var str9 = "<strong>9.</strong>Headquarters Marine Corps (HQMC), Marine Corps Programs and Resources.";
+                                var str10 ="<strong>10.</strong>Marine Corps Installations West (MCI West).";
+                                var finalList = str1+str2+str3+str4+str5+str6+str7+str8+str9+str10;
+                            displayData(dataLabel ,finalList );
+                            break;
+                        }
+                         case 29: {
+                               var str1 = "<strong>1.</strong>Naval Air Systems Command (NAVAIR) Headquarters.";
+                                var str2 = "<strong>2.</strong>United States Fleet Forces Command (USFLTFORCOM).";
+                                var str3 = "<strong>3.</strong>Naval Sea Systems Command (NAVSEA) Headquarters.";
+                                var str4 = "<strong>4.</strong>Space and Naval Warfare Systems Command (SPAWAR).";
+                                var str5 = "<strong>5.</strong>Naval Surface Warfare Center (NSWC).";
+                                var str6 = "<strong>6.</strong>Chief of Naval Operation, U.S. Pacific Command (USPACOM).";
+                                var str7 = "<strong>7.</strong>Navy Cyber Forces Command, Norfolk.";
+                                var str8 = "<strong>8.</strong>Chief of Naval Operations, Navy Installation Command (NIC).";
+                                var str9 = "<strong>9.</strong>Chief of Naval Research.";
+                                var str10 ="<strong>10.</strong>Navy-Marine Corp Public Health Center.";
+                                var finalList = str1+str2+str3+str4+str5+str6+str7+str8+str9+str10;
+
+                            displayData(dataLabel , finalList );
+                            break;
+                        }
+                         case 5: {
+                                var str1 = "<strong>1.</strong>Defense Research and Engineering (ASD R&E).";
+                                var str2 = "<strong>2.</strong>Defense Logistics Agency (DLA).";
+                                var str3 = "<strong>3.</strong>Tricare Management Agency.";
+                                var str4 = "<strong>4.</strong>Defense Information Systems Agency (DISA).";
+                                var str5 = "<strong>5.</strong>Defense Threat Reduction Agency (DTRA).";
+                                var str6 = "<strong>6.</strong>Operational Test and Evaluation (DOT&E).";
+                                var str7 = "<strong>7.</strong>Defense Advanced Research Projects Agency (DARPA).";
+                                var finalList = str1+str2+str3+str4+str5+str6+str7;
+                            displayData(dataLabel , finalList );
+                            break;
+                        }
+                         case 1: {
+                                var str1 = "<strong>1.</strong>National Geospatial Intelligence Agency (NGA).";
+                                var str2 = "<strong>2.</strong>Office of the Director of National Intelligence (ODNI).";
+                                var str3 = "<strong>3.</strong>National Oceanic and Atmosperic Administration (NOAA).";
+                                var str4 = "<strong>4.</strong>US Coast Guard (USCG).";
+                                var finalList = str1+str2+str3+str4;
+                            displayData(dataLabel , finalList );
+                            break;
+                        }
+
+                        default:{
+                        }
+
+                      }                    
+                 }
+
+                 function displayData(title, list) {
+           $(".labelData").text(title);
+           $(".labelList").empty();
+           $(".labelList").append(list);
+                 }         
+                    }, 
+              animation: { 
+                 animateScale: true, 
+            } 
+        } 
+ }); 
+</script>
+
+</div>
+<!-- ROTATING BANNER -->
+<!--Banner Image Javascript -->
+<script src="/jssor/js/jssor.slider.mini.js"></script>
+<script>
+    jQuery(document).ready(function ($) {
+        var options = { 
+          $AutoPlay: true,
+          $BulletNavigatorOptions: {
+                $Class: $JssorBulletNavigator$,
+                $ChanceToShow: 2
+          },
+          $ArrowNavigatorOptions: {
+                $Class: $JssorArrowNavigator$,
+                $ChanceToShow: 2
+          }, 
+          $SlideDuration: 15000
+        };
+        var jssor_slider1 = new $JssorSlider$('slider1_container', options);
+    });
+</script>
+<div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 678px; height: 350px;" jssor-slider="true">
+<!-- Slides Container -->
+  
+<!-- Arrow Left -->
+  
+<!-- Arrow Right -->
+  <div style="position: absolute; top: 0px; left: 0px; width: 678px; height: 350px; -webkit-transform-origin: 0px 0px; -webkit-transform: scale(1);"><div class="" style="position: relative; top: 0px; left: 0px; width: 678px; height: 350px; display: block; overflow: visible;"><div u="slides" style="cursor: move; position: absolute; overflow: hidden; left: 0px; top: 0px; width: 678px; height: 350px; z-index: 0;"><div style="position: absolute; z-index: 0; pointer-events: none; left: 0px; top: 0px;"></div></div><div u="slides" style="cursor: move; position: absolute; overflow: hidden; left: 0px; top: 0px; width: 678px; height: 350px; z-index: 0;"><div style="width: 678px; height: 350px; top: 0px; left: 0px; position: absolute; background-color: rgb(0, 0, 0); opacity: 0;"></div>
+<!-- Start Head Banner Slide -->
+    <div style="width: 678px; height: 350px; top: 0px; left: 0px; position: absolute; overflow: hidden; -webkit-transform: perspective(2000px);">
+      <div class="banner" style="-webkit-transform: perspective(2000px);">
+        <div class="left_section" style="-webkit-transform: perspective(2000px);">
+          <a href="/macs.html" style="font-size: 14px; position: relative; top: 25px; -webkit-transform: perspective(2000px);">Multiple Award Contracts (MAC)</a>
+            <p style="width: 200px; margin-left: 0px; font-size: 12px; position: relative; top: 25px; -webkit-transform: perspective(2000px);">How do the IAC MAC contracts work? Learn how these contracts can solve your program needs.</p>
+        </div>
+        <div class="bottom_left_section" style="-webkit-transform: perspective(2000px);">
+          <a href="/ota.html" style="font-size: 14px; position: relative; top: 25px; -webkit-transform: perspective(2000px);">Other Transaction Authority (OTA)</a>
+            <p style="width: 200px; margin-left: 0px; font-size: 12px; position: relative; top: 25px; -webkit-transform: perspective(2000px);">Learn more about the IACs re-use of the energy-related OTA.</p>
+        </div>
+        <div class="right_section" style="-webkit-transform: perspective(2000px);">
+          <a href="/iacs.html" style="font-size: 14px; position: relative; top: 25px; margin-left: 22px; -webkit-transform: perspective(2000px);">Basic Centers of Operation (BCO)</a>
+            <p style="width: 200px; font-size: 12px; position: relative; top: 25px; margin-left: 70px; -webkit-transform: perspective(2000px);">What are IAC BCOs?  Learn how the BCOs can benefit your agency's technical research needs.</p>
+        </div>
+        <div class="bottom_right_section" style="-webkit-transform: perspective(2000px);">
+          <a href="/tech_inquiry.html" style="font-size: 14px; position: relative; top: 25px; margin-left: 150px; -webkit-transform: perspective(2000px);">Four Hours Free</a>
+            <p style="width: 200px; font-size: 12px; position: relative; top: 25px; margin-left: 70px; -webkit-transform: perspective(2000px);">Have a technical inquiry? IAC BCOs provide up to four free hours of information services.</p>
+        </div>
+      </div>
+    <div style="width: 678px; height: 350px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div>
+<!-- Start MAC Slide -->
+    <div style="width: 678px; height: 350px; top: 0px; left: 678px; position: absolute; overflow: hidden; -webkit-transform: perspective(2000px);">
+      <h1 style="-webkit-transform: perspective(2000px);">What are IAC Multiple Award Contracts (MAC)?</h1>The IAC Multiple Award Contracts (MAC) are Indefinite Delivery Indefinite Quantity (IDIQ) Multiple Award Contracts for Research and Development (R&amp;D) and/or Advisory &amp; Assistance Services related to research and development (R&amp;D) efforts. The IAC Program has three MACs with different scope areas:
+        <ul style="-webkit-transform: perspective(2000px);">
+          <li style="-webkit-transform: perspective(2000px);"><a href="/cstat.html" target="_blank" style="-webkit-transform: perspective(2000px);">Cyber Security and Information Systems (CSTAT)</a></li>
+          <li style="-webkit-transform: perspective(2000px);"><a href="/dstat.html" target="_blank" style="-webkit-transform: perspective(2000px);">Defense Systems (DS)</a></li>
+          <li style="-webkit-transform: perspective(2000px);"><a href="/hdtat.html" target="_blank" style="-webkit-transform: perspective(2000px);">Homeland Defense (HD)</a></li>
+        </ul>
+        <table style="-webkit-transform: perspective(2000px);">
+          <tbody style="-webkit-transform: perspective(2000px);"><tr style="-webkit-transform: perspective(2000px);">
+            <td style="-webkit-transform: perspective(2000px);"><a href="/cstat.html" target="_blank" style="-webkit-transform: perspective(2000px);"><img src="/images/snim.jpg" width="175px;" style="padding-right: 56px; -webkit-transform: perspective(2000px);" border="0"></a></td>
+            <td style="-webkit-transform: perspective(2000px);"><a href="/dstat.html" target="_blank" style="-webkit-transform: perspective(2000px);"><img src="/images/ds.jpg" width="175px;" style="padding-right: 56px; -webkit-transform: perspective(2000px);" border="0"></a></td>
+            <td style="-webkit-transform: perspective(2000px);"><a href="/hdtat.html" target="_blank" style="-webkit-transform: perspective(2000px);"><img src="/images/hd.jpg" width="175px;" border="0" style="-webkit-transform: perspective(2000px);"></a></td>
+          </tr>
+        </tbody></table> 
+    <div style="width: 678px; height: 350px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div>
+<!-- Start BCO Slide -->
+    <div style="width: 678px; height: 350px; top: 0px; left: -678px; position: absolute; overflow: hidden; -webkit-transform: perspective(2000px);">
+      <h1 style="-webkit-transform: perspective(2000px);">What are IAC Basic Centers of Operation (BCO)?</h1>The Basic Centers of Operation (BCO) perform functions necessary to fulfill the mission and objectives applicable to the DoD Research, Development, Test and Evaluation (RDT&amp;E) and acquisition communities' needs. These activities focus on the collection, analysis, synthesizing/processing and dissemination of Scientific and Technical Information (STI). The IAC Program has three MACs with different scope areas:
+      <ul style="-webkit-transform: perspective(2000px);">
+        <li style="-webkit-transform: perspective(2000px);"><a href="https://www.csiac.org" target="_blank" style="-webkit-transform: perspective(2000px);">Cyber Security &amp; Information Systems Information Analysis Center (CSIAC)</a></li>
+        <li style="-webkit-transform: perspective(2000px);"><a href="https://www.dsiac.org" target="_blank" style="-webkit-transform: perspective(2000px);">Defense Systems Information Analysis Center (DSIAC)</a></li>
+        <li style="-webkit-transform: perspective(2000px);"><a href="https://www.hdiac.org" target="_blank" style="-webkit-transform: perspective(2000px);">Homeland Defense Information Analysis Center (HDIAC)</a></li>
+      </ul>
+      <table style="-webkit-transform: perspective(2000px);">
+        <tbody style="-webkit-transform: perspective(2000px);"><tr style="-webkit-transform: perspective(2000px);">
+          <td style="-webkit-transform: perspective(2000px);"><a href="https://www.csiac.org" target="_blank" style="-webkit-transform: perspective(2000px);"><img src="/images/csiac.png" width="175px;" style="padding-right: 56px; -webkit-transform: perspective(2000px);" border="0"></a></td>
+          <td style="-webkit-transform: perspective(2000px);"><a href="https://www.dsiac.org" target="_blank" style="-webkit-transform: perspective(2000px);"><img src="/images/dsiac.png" width="175px;" style="padding-right: 56px; -webkit-transform: perspective(2000px);" border="0"></a></td>
+          <td style="-webkit-transform: perspective(2000px);"><a href="https://www.hdiac.org" target="_blank" style="-webkit-transform: perspective(2000px);"><img src="/images/hdiac.png" width="175px;" border="0" style="-webkit-transform: perspective(2000px);"></a></td>
+        </tr>
+      </tbody></table>
+    <div style="width: 678px; height: 350px; top: 0px; left: 0px; z-index: 1000; display: none;"></div></div>
+  </div><span u="arrowleft" class="jssora03l" style="top: 123px; left: 0px;"></span><span u="arrowright" class="jssora03r" style="top: 123px; right: 0px;"></span></div></div></div>
+<!-- IAC STATEMENT-->
+<p style="margin-left: 25px; font-size: 14px; font-style: italic;">"IACs serve as a proven resource for maximizing the value of each dollar the department spends."<br></p>
+<p style="margin-left: 140px; margin-top: -15px; font-size: 14px; font-style: italic;">Preferred Use of DoD IAC Contracts - Memo January 2015</p>
+<!--NEWS SECTION -->
+<div class="news">
+    <div class="news_header"><span class="style3">Latest News</span>      <span class="read_all"><a href="press_pub.html">Read All News...</a></span>    </div>
+      <ul>
+        <li><a href="https://www.fbo.gov/index?s=opportunity&amp;mode=form&amp;id=9ab5be2f23346c16e6a54306af37893a&amp;tab=core&amp;_cview=0">$28 Billion IAC MAC Draft released to FBO with  comments back to Contracting18 April 2017</a></li>
+        <li><a href="resources/indsutry_day_jun_2016.pdf">IAC MAC Government Industry Day Slides, 16 June 2016</a></li>
+        <li><a href="cstat.html">Cyber Security and Information System TAT Contract Award...</a></li>
+        <li><a href="ota.html">OTA for Prototypes Opportunities:
+        <span class="txt">Innovative technologies, processes, methods, facilities and capabilities are sought</span></a></li>
+  </ul>
+</div>
+<!-- Buttons -->
+<table style="margin-top: 5px;">
+  <tbody><tr>
+    <td width="146px;" style="padding: 9px 12px 9px 7px; margin: 5px 0px 5px 0px; text-align: center; background-color: #227004; border-radius: 4px 4px 4px 4px;">
+      <a href="case_studies.html"><font color="white">Case Studies</font></a>    </td>
+    <td width="146px;" style="padding: 9px 12px 9px 7px; margin: 5px 0px 5px 0px; text-align: center; background-color: #227004; border-radius: 4px 4px 4px 4px;">
+      <a href="tua.html"><font color="white">TUA</font></a>    </td>
+    <td width="146px;" style="padding: 9px 12px 9px 7px; margin: 5px 0px 5px 0px; text-align: center; background-color: #227004; border-radius: 4px 4px 4px 4px;">
+      <a href="financial_mgmt.html"><font color="white">MIPR</font></a>    </td>
+    <td width="146px;" style="padding: 9px 12px 9px 7px; margin: 5px 0px 5px 0px; text-align: center; background-color: #227004; border-radius: 4px 4px 4px 4px;">
+      <a href="1144.html"><font color="white">1144</font></a>    </td>
+  </tr>
+</tbody></table>
+<!-- CONTENT BOX -->
+<br>
+<div class="boxes">
+<h2>Preferred Use of DoD Information Analysis Center Contracts</h2>
+  <table>
+    <tbody><tr>
+      <td width="155px;">
+        <a href="/press_pub.html" style="display: inline;">
+        <img src="/images/memo.jpg" width="155px;" style="border-style: solid; border-width: 1px; border-color: #000000; margin-left: 35px;"></a>
+      </td>
+      <td width="385px;">
+        <p style="float: right; width: 385px; margin: 28px;">On 26 Jan 15, the Office of the Under Secretary of Defense issued a memo stating the IACs serve as an essential resource to affordably deliver technical data. <a href="http://www.acq.osd.mil/dpap/policy/policyvault/USA001004-15-DPAP.pdf" target="_blank;">Click here to read the full memo.</a></p>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+
+<!-- InstanceEndEditable -->
+<br></div>
+</div>
+</main>
+<footer>
+  <div id="bottom-bar" class="fullwidth thin"></div>
+  <div id="foot" class="centerwidth">
+    <div style="float:left;"><a class="sponsor-logos clean" href="http://www.dtic.mil/dtic/"><img src="http://www.dtic.mil/dtic/images/dtic_seal.gif" alt="dtic"></a></div>
+    <center>
+      <br>
+      <a href="http://dtic.mil" class="white-link">Defense Technical Information Center</a><br>
+      8725 John J. Kingman Rd. Ft Belvoir, VA 22060-6218<br> 
+      <a class="white-link" href="http://www.dtic.mil/dtic/legal/foia_notice.html">FOIA</a>&nbsp;|&nbsp;
+      <a class="white-link" href="http://www.dtic.mil/dtic/privacy.html">Privacy, Copyright &amp; Security</a>&nbsp;|&nbsp;
+      <a class="white-link" href="https://www.dodtechipedia.mil/dodwiki/display/techipedia/Accessibility+%28508%29">Accessibility/Section 508</a>&nbsp;|&nbsp;
+      <a class="white-link" href="http://www.dtic.mil/dtic/legal/no_fear_act_notice.html">No Fear Act</a>&nbsp;|&nbsp;
+      <a class="white-link" href="https://www.dodtechipedia.mil/dodwiki/display/techipedia/DTIC+A+to+Z">DTIC A-Z</a>&nbsp;|&nbsp;
+      <a class="white-link" href="http://www.dtic.mil/dtic/contactus/">Contact Us</a>&nbsp;|&nbsp;
+      <a class="white-link" href="#">Guidelines</a>&nbsp;|&nbsp;
+      <a class="white-link" href="http://www.dtic.mil/dtic/aboutus/">About Us</a>&nbsp;|&nbsp;
+      <a class="white-link" href="http://www.usa.gov/">USA.gov</a>&nbsp;|&nbsp;
+      <a class="white-link" href="https://www.dodtechipedia.mil/dodwiki/display/techipedia/Link+Disclaimer">Link Disclaimer</a><br>
+      &nbsp;
+    </center>
+  </div>
+</footer>
+
+<!-- InstanceEnd --></header></body></html>

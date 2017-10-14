@@ -1,0 +1,11 @@
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN"><!-- Copyright (C) 2000 Tivoli Systems, Inc. --><!-- Copyright (C) 1999 IBM Corporation --><!-- Copyright (C) 1998 Dascom, Inc. --><!-- All Rights Reserved. --><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Certification authentication failed</title>
+</head>
+<body>
+An attempt to authenticate with a client certificate failed.
+<br>
+A valid client certificate is required to make this connection.
+
+
+</body></html>

@@ -1,0 +1,813 @@
+<!DOCTYPE html><!-- will redirect users from older url to new site --><!-- gets the redirects attribute from the urlwriter.xml file --><html><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Expires" content="-1">
+	<title> LOG IN</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="/PSS.css" type="text/css">
+	<link rel="stylesheet" href="/common/loginWelcome.css" type="text/css">
+	<link href="/login_styles.css" type="text/css" rel="STYLESHEET">
+	<link href="/jqueryCustom/css/jQuery-1.11.4/jquery-ui.1.11.4.min.css;jsessionid=A1961923C4D06F62050BBE7A142FDF1F" type="text/css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/chrometheme/chromestyle.css">
+
+    <script type="text/javascript" src="/chromejs/chrome.js">
+
+        /***********************************************
+         * Chrome CSS Drop Down Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+         * This notice MUST stay intact for legal use
+         * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+         ***********************************************/
+
+    </script>
+    <script type="text/javascript" src="/browserDetecter.js"></script>
+    <script src="/json.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var disclaimer = '';
+        function loadJSON(fname)
+        {
+            var xhr=createXHR();
+            xhr.open("GET", fname,true);
+            xhr.onreadystatechange=function()
+            {
+                if (xhr.readyState == 4)
+                {
+                    if (xhr.status != 404)
+                    {
+
+                        var data=eval("(" + xhr.responseText + ")");
+                        for(i = 0; i < data.disclaim.length; i++)
+                        {
+                            disclaimer += data.disclaim[i].paragraph +"\n\n";
+
+
+                        }
+                        // dynamically load the disclamir and display the alert
+                        alert(disclaimer);
+                    }
+                    else
+                    {
+                        disclaimer = fname + " not found";
+                    }
+                }
+            }
+            xhr.send(null);
+        }
+    </script>
+<script type="text/javascript" src="/authorization/messages/warnByLogin.js">
+    var showPassLogin = 'N',
+            ecaAllowed    = 'Y',
+            aasAllowed    = 'N';
+</script><script type="text/javascript">
+    function loadScreen() {
+        var red = document.URL;
+        if(red.indexOf('error') == -1) {
+            loadJSON('/json/disclaimer.json');
+        }
+    }
+</script></head>
+
+
+
+
+
+    
+        
+        
+    
+    
+
+<body onload="loadScreen();">
+
+
+
+<div class="menuBarFormat">
+		<span class="classification" style="color:rgb(0,0,0)">
+			 
+
+		</span>
+		<span class="floatLeft">
+			<span id="smallLogo1">
+				<img src="/images/smallLogo1_60x60.png;jsessionid=A1961923C4D06F62050BBE7A142FDF1F">
+			</span>
+			<span id="smallLogo2">
+				<img src="/images/smallLogo2_60x60.png;jsessionid=A1961923C4D06F62050BBE7A142FDF1F">
+			</span>
+			<span id="siteLogo">
+				<a href="/"><img src="/images/siteLogo_100x40.png;jsessionid=A1961923C4D06F62050BBE7A142FDF1F"></a>
+			</span>
+		</span>
+		<div class="HEADERFORMAT">
+			
+
+
+
+
+<script type="text/javascript" src="/authorization/messages/warnByLogin.js"></script>
+<script type="text/javascript">
+   var showPassLogin = 'N',
+       ecaAllowed    = 'Y',
+       aasAllowed    = 'N';
+</script>
+<!-- PSS Menu Bar -->
+<div class="chromestyle" id="chromemenu">
+    <ul>
+        <!-- If user NOT logged in, display the following -->
+        
+            
+			    
+				
+					
+				
+                <li><a href="#cac" onclick="certReqPrompt('/cac?newcac=yes', showPassLogin, ecaAllowed, aasAllowed )">&nbsp;Request Log In&nbsp;</a></li>
+                
+                
+                    
+                
+                
+            
+            
+        
+        <li><a href="/Disclaimer.jsp">&nbsp;Disclaimer&nbsp;</a></li>
+        <li><a rel="dropmenu3" href="#">&nbsp;Help&nbsp; <img src="../../images/arrow1.gif" border="0"></a></li>
+        
+    </ul>
+</div>
+
+<!-- Log Out Drop Down Menu -->
+
+
+<!-- Web-Apps Drop Down Menu -->
+<!-- Web-Apps Drop Down Menu -->
+
+
+
+
+
+<div id="dropmenu2" class="dropmenudiv">
+    
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+                <a href="/afto22/form/AFTO22Form.do" title="AFTO22 - TO Improvement Reporting System (Tech Manual deficiencies)">AFTO22</a>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+                <a href="/ai/form/AIForm.do" title="AI - Action Item">AI</a>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+                <a href="/config/" title="CONFIG - Platform Configuration (Aircraft/System config, ILSP, Interchange)">CONFIG</a>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+                <a href="/contracts/" title="CONTRACTS - Contract Management System (Enter, upload, view, track, and approve Contract information)">CONTRACTS</a>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+                <a href="/cyclic/" title="CYCLIC - Cyclic Schedule (AFMC Cyclic Mod &amp; Maint Chart)">CYCLIC</a>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+                <a href="/dr/" title="DR - Deficiency Report (Equipment/Software deficiencies)">DR</a>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+                <a href="/filedepot/" title="FILE DEPOT - File Management System (Secure File Transfer)">FILE DEPOT</a>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <a href="/gti/search/Search.do" title="GTI - Government Technical Index (Index of available pubs, Online ETM/MB)">GTI</a>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <a href="/hsr/" title="HSR - Hardware/Software Request (Hardware/Software improvement suggestions)">HSR</a>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <a href="/minver/" title="MB / MINVER - Maintenance Bulletin / Minimum Version (Enter, view, track, and approve MB / MinVer data)">MB / MINVER</a>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <a href="/qdas/" title="QDAS - Quality Data Analysis System (Maintenance data)">QDAS</a>
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <a href="/smart/" title="SMART - Software/Maintenance Agreement Renewal Tracker">SMART</a>
+            
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <a href="/tar/form/TARForm.do" title="TAR - Technical Assistance Request (Airframe deficiencies)">TAR</a>
+            
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <a href="/testequip/" title="TEST EQUIP - Test Equipment (View, track and approve test aid equipment information)">TEST EQUIP</a>
+            
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <a href="/tis/" title="TIS - Technical Information Services (Online Test Doc/SW, PROM, ETM) (Depot Only)">TIS</a>
+            
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <a href="/tmt/" title="TMT/TMR - Technical Manual Tracker (tracking and review of technical manuals on development contracts, only used by those at the Depot)">TMT / TMR</a>
+            
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <a href="/toi/" title="TOI - Technical Order Index (Inventory of publications in Tech Data Library)">TOI</a>
+            
+            
+        
+    
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <a href="/tracker/" title="TRACKER - Equipment Tracker (For Development Contracts) (Depot Only)">TRACKER</a>
+            
+        
+    
+</div>
+
+
+<!-- Help Drop Down Menu -->
+<div id="dropmenu3" class="dropmenudiv" style="width: auto;">
+    <a href="/BrowserConfig.jsp">Browser Configuration</a>
+    <a href="/FAQ.jsp" title="Frequently Asked Questions">FAQ</a>
+    
+    <a href="mailto:PLOT.ADMIN@L3T.COM">Contact Us</a>
+</div>
+
+<!-- Admin Drop Down Menu -->
+
+
+
+			<script type="text/javascript">
+				 ChromeApplicationType = ApplicationTypes.HTML;//Disables shimmer for html apps to avoid conflicts
+				 cssdropdown.startchrome("chromemenu");
+			</script>
+		</div>
+</div>
+<div class="siteDesc">
+    <span>PROJECT LIBERTY ONLINE TOOLS (PLOT)</span>
+</div>
+<div>
+    <div style="width:900px;">
+        <div class="left">
+            <table border="0" cellpadding="2" align="left" style="width: 300px;">
+                
+                    <tbody><tr>
+                        <th style="text-align:left; font: 20pt Times New Roman;color:#004080;">CAC / ECA Log In</th>
+                    </tr>
+                    <tr>
+                        <td style="text-align:right;BORDER-BOTTOM: #d6e0eb 1px solid; vertical-align: middle;white-space: nowrap;">
+                            <span style="font-size:14px;padding-right: 40px;">Insert your CAC / ECA to begin</span> <input type="button" value="Log In" id="cacButton" onclick="window.location='/cac/?'+document.URL;" tabindex="1">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding-bottom: 10px"></td>
+                    </tr>
+                
+                
+
+                
+            </tbody></table>
+        </div>
+        <div class="right" style="margin-right:20px;">
+            <img src="/images/homePicture.gif">
+        </div>
+        <div class="right" style="width: 270px;">
+            <span style="text-align:left; font: 1.1em Times New Roman; font-weight: bold; color:#004080;">Membership Information</span>
+            <br>
+            <a class="blk-content-list" href="#cac" onclick="certReqPrompt('/cac?newcac=yes', showPassLogin, ecaAllowed, aasAllowed )">Request a new Log In</a>
+            <br>
+            <a class="blk-content-list" href="#cac" onclick="certReqPrompt('/cac?reactcac=yes', showPassLogin, ecaAllowed, aasAllowed )">Reactivate your Log In</a>
+        </div>
+    </div>
+</div>
+<table id="footer" style="MARGIN-TOP: 15px;border:5px;" width="100%">
+    <tbody>
+    <tr>
+        <td class="footer"><a href="/Disclaimer.jsp">Privacy and Security Policy</a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+<script language="JavaScript" src="/PSSFrameHTML.js"></script>
+<script language="JavaScript" type="text/javascript">
+
+    function tolower(theField)
+    {
+        theField.value = theField.value.toLowerCase();
+        return true;
+    }
+    //gives focus to the invalid field
+    function supportError(error, userName) {
+        var login = document.getElementById('loginForm');
+        if (login != null) {
+            if(error) {
+                loginForm.userName.value = userName;
+                loginForm.password.value = "";
+                if( loginForm.userName.value )
+                    loginForm.password.focus();
+                else
+                    loginForm.userName.focus();
+            }
+            else {
+                loginForm.userName.focus();
+            }
+        }
+    }
+    //displays the error message
+    function displayError (error, userName) {
+        //client side error messages
+        var error1 = "Invalid Username or Password. Please try "+
+                "again.<br>Username typical format is \"first.last\"<br>Verify that "+
+                "\"Caps Lock\" is not turned on.";
+        var error2 = "You must provide a Username and a Password.<br>"+
+                "Please try again.";
+        if (error == 1)
+            document.getElementById("errorMsg").innerHTML = error1;
+        else if (error == 2)
+            document.getElementById("errorMsg").innerHTML = error2;
+        supportError (error, userName);
+    }
+    //client side validation checks before submiting
+    function submitLogin(theForm)
+    {
+        if( theForm.forgotPassword.checked )
+        {
+            theForm.action = '/forgotPassword/ForgotPassword.do';
+            theForm.method = 'GET';
+            theForm.password.value = '';
+            return true;
+        }
+        //username and password blank display error message
+        var username = theForm.userName.value.replace(/^\s+|\s+$/g, '') ;
+        var password = theForm.password.value.replace(/^\s+|\s+$/g, '') ;
+        if (username == "" || password == "") {
+            displayError(2, username);
+            return false;
+        } else if(username.indexOf("\'") != -1 || username.indexOf("\"") != -1 ||
+                username.indexOf("%") != -1 || username.indexOf(" ") != -1 ||
+                password.indexOf("\'") != -1 || password.indexOf("\"") != -1 ||
+                password.indexOf("%") != -1 || password.indexOf(" ") != -1 ){
+            displayError(2, username);
+            return false;
+        }
+        //if the password has Password# or does not meet the requirements found
+        //  on the ChangePassword page, then check the Change Password checkbox
+        if( password.match('^Password#.*'))
+            theForm.changePassword.checked = true;
+        return true;
+    }
+    var args = getArgs(),
+    SHOW_PASS_LOGIN = 'N';
+    if ( SHOW_PASS_LOGIN === 'Y') {
+        if(args.userName)
+            loginForm.userName.value = args.userName;
+        //checking the change password box so if the error is corrected it will
+        // continue to go to the change passsword screen.
+        if(args.changePassword)
+            loginForm.changePassword.checked = args.changePassword;
+        displayError(args.error, args.userName);
+        if(args.maxAttempts){
+            alert("You have exceeded the maximum number of failed log in attempts and your " +
+                    "account has been locked.  You can unlock your account by resetting your password.\n\n" +
+                    "You will be automatically redirected to the \"Forgot Password\" screen.");
+            window.location.href="/forgotPassword/ForgotPassword.do?userName=" + loginForm.userName.value;
+        }
+    }
+
+    if(args.accountExpired) {
+        alert("Your  account has expired due to inactivity.  You can request " +
+                "reactivation of your account by submitting your contact information.\n\n" +
+                "You will be automatically redirected to the \"Request  Log In\" screen.");
+        if(args.CERTLogin)
+            window.location = '/cac?reactcac=yes&userName=' + args.userName +'&accountExpired=' + args.accountExpired;
+        else
+            certReqPrompt('/cac?reactcac=yes&userName=' + loginForm.userName.value +'&accountExpired=' + args.accountExpired);
+    }
+
+</script>
+
+<div style="display: none" class="PSSAjaxDoRedirect">
+
+</div></body></html>

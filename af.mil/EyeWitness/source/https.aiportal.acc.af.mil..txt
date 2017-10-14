@@ -1,0 +1,154 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+        AI Portal              - Welcome to the Academic Institution Portal!
+    </title>
+    <link rel="Shortcut Icon" href="/aiportal/Content/Images/Icons/favicon.ico" type="image/x-icon">
+    <link href="/aiportal/Content/Styles/bootstrapTheme?v=liP7DKDQtJHFJCb62Ip0-Lfl0evUOvni37pYPJxckcM1" rel="stylesheet">
+
+    <link href="/aiportal/Content/Styles/CSS?v=vscpHAn048EL4ykT-iojpcRq9Yd0XckjbNHmjjHs9lM1" rel="stylesheet">
+
+    <link href="/aiportal/Content/Styles/Global.min.css" rel="stylesheet" type="text/css">
+    <link href="/aiportal/Content/Styles/cover.css" rel="stylesheet">
+    
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/aiportal/bundles/jquery?v=aLsVjoQ4OTEtRxZ322JRn0RdnugNXJ-_IdXTAvkYpyU1"></script>
+
+
+</head>
+<body id="landingBody">
+    <a href="#content" class="sr-only">Skip to content</a>
+    
+
+    <img id="bg" sizes="(max-width: 1000px) 100vw, 1000px" srcset="/aiportal/Content/Images/Homepage/graduates41_wqhnxb_c_scale,w_480.jpg 480w,
+             /aiportal/Content/Images/Homepage/graduates41_wqhnxb_c_scale,w_666.jpg 666w,
+             /aiportal/Content/Images/Homepage/graduates41_wqhnxb_c_scale,w_824.jpg 824w,
+             /aiportal/Content/Images/Homepage/graduates41_wqhnxb_c_scale,w_968.jpg 968w,
+             /aiportal/Content/Images/Homepage/graduates41_wqhnxb_c_scale,w_1000.jpg 1000w" src="/aiportal/Content/Images/Homepage/graduates41_wqhnxb_c_scale,w_1000.jpg" alt="graduate students" class="bgwidth">
+
+    <img id="bgOverlay" src="/aiportal/Content/Images/overlay.png" alt="" height="">
+
+    <div class="site-wrapper">
+
+        <div class="site-wrapper-inner">
+
+            <div class="cover-container">
+
+                <div class="masthead clearfix">
+                    <div class="inner">
+                        <div class="pull-left">
+                            <a href="/aiportal/">
+                                <img src="/aiportal/Content/Images/Layout/AIPortalLogoClear.png" class="headerImage" alt="AIPortal Logo">
+                            </a>
+                        </div>
+                        <ul class="nav masthead-nav"></ul>
+                    </div>
+                </div>
+
+                <div class="inner cover" id="content">
+                    <h1>Welcome to the Academic Institution Portal! <small></small></h1>
+                    
+                    
+
+<div class="row col-xs-12">
+<form action="/aiportal/Account/ConsentToMonitor" class="well" id="FormLogin" method="post" role="form"><input name="__RequestVerificationToken" type="hidden" value="Xp22cK4hSqVJTolfJipSVkZCJZR_OUQjj8bBKfoHwBjkTC4SkrU1idfDGTiqAA2RGVu3sfM7DRvwm0xw7Uj2wLnuUNnxP_WD05uJxrBwS25nMRptDPYF47qJSwKr2fhxNGdqvQ2">        <h1>Notice and Consent Statement</h1>
+        <div class="row col-xs-12">
+            <p>
+    You are accessing a U.S. Government (USG) Information System (IS) that is provided
+    for USG-authorized use only.
+</p>
+<p>
+    By using this IS (which includes any device attached to this IS), you consent to
+    the following conditions:
+</p>
+<ul>
+    <li>
+        The USG routinely intercepts and monitors communications on this IS for purposes
+        including, but not limited to, penetration testing, COMSEC monitoring, network operations
+        and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence
+        (CI) investigations.
+    </li>
+    <li>At any time, the USG may inspect and seize data stored on this IS. </li>
+    <li>
+        Communications using, or data stored on, this IS are not private, are subject to
+        routine monitoring, interception, and search, and may be disclosed or used for any
+        USG authorized purpose.
+    </li>
+    <li>
+        This IS includes security measures (e.g., authentication and access controls) to
+        protect USG interests--not for your personal benefit or privacy.
+    </li>
+    <li>
+        Notwithstanding the above, using this IS does not constitute consent to PM, LE or
+        CI investigative searching or monitoring of the content of privileged communications,
+        or work product, related to personal representation or services by attorneys, psychotherapists,
+        or clergy, and their assistants. Such communications and work product are private
+        and confidential. See <a href="/aiportal/Account/UserAgreement">
+            User Agreement
+        </a> for details.
+    </li>
+</ul>
+<p>
+    By clicking OK, you agree to the terms of the <a href="/aiportal/Account/UserAgreement">
+        User Agreement
+    </a>.
+</p>
+
+        </div>
+        <div class="">
+
+            <input type="submit" value="Ok" class="btn btn-primary">
+
+        </div>
+</form>
+</div>
+<script type="text/javascript">
+
+    $(window).load(function () {
+
+        var theWindow = $(window),
+            $bg = $("#bg"),
+            aspectRatio = $bg.width() / $bg.height();
+
+        function resizeBg() {
+
+            if ((theWindow.width() / theWindow.height()) < aspectRatio) {
+                $bg
+                    .removeClass()
+                    .addClass('bgheight');
+            } else {
+                $bg
+                    .removeClass()
+                    .addClass('bgwidth');
+            }
+
+        }
+
+        theWindow.resize(resizeBg).trigger("resize");
+
+    });
+</script>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="asyncWait" class="asyncWait hidden">
+    <div class="asyncWait-body">
+        <p>Updating... &nbsp;<img src="/aiportal/Content/Images/please_wait.gif" alt=""></p>
+    </div>
+</div>
+    
+    <!--[if lt IE 9]>
+        <script src="/aiportal/bundles/bootstrap-old-browsers?v=VpTZKWHXc0RaVZkK_s507-dS9JxR_yxPOY-UFjUIpQ81"></script>
+
+    <![endif]-->
+    <script src="/aiportal/bundles/basic-scripts?v=wSkKBhVW_Q425wc9S3jivLhYjzZ2hksUQQ0Vsb0DP8s1"></script>
+
+     
+    <script src="/aiportal/Scripts/google.analytics.js"></script>
+
+
+</body></html>

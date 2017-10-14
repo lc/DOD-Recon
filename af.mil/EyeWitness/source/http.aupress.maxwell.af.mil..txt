@@ -1,0 +1,441 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="description" content="Air University Press (AUPRESS) is tasked to publish significant contributions of research and scholarship, and to enhance the academic prestige and to increase the scholarly reputation of the Air University.">
+<meta name="keywords" content="Air University Press, AUPRESS, Air Force, Airforce,Air Force Books, Books,Publisher,Publishing"> 
+<meta name="author" content="Air University Press/Air Force Research Institute"> 
+<link rel="stylesheet" type="text/css" href="default.css" media="screen">
+<title>Air University Press Bookstore</title>
+
+  
+
+<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script src="https://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A%221.0%22%2C%22callback%22%3A%22__gcse.scb%22%2C%22style%22%3A%22https%3A%2F%2Fwww.google.com%2Fcse%2Fstatic%2Fstyle%2Flook%2Fv2%2Fdefault.css%22%2C%22language%22%3A%22en%22%7D%5D%7D" type="text/javascript"></script><link type="text/css" href="https://www.google.com/uds/api/search/1.0/bb73d6800fca299b36665ebff4d01037/default+en.css" rel="stylesheet"><link type="text/css" href="https://www.google.com/cse/static/style/look/v2/default.css" rel="stylesheet"><script type="text/javascript" src="https://www.google.com/uds/api/search/1.0/bb73d6800fca299b36665ebff4d01037/default+en.I.js"></script><style type="text/css">
+.gsc-control-cse {
+font-family: Arial, sans-serif;
+border-color: #FFFFFF;
+background-color: #FFFFFF;
+}
+.gsc-control-cse .gsc-table-result {
+font-family: Arial, sans-serif;
+}
+input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
+border-color: #D9D9D9;
+}
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+border-color: #666666;
+background-color: #CECECE;
+background-image: none;
+filter: none;
+}
+.gsc-tabHeader.gsc-tabhInactive {
+border-color: #E9E9E9;
+background-color: #E9E9E9;
+}
+.gsc-tabHeader.gsc-tabhActive {
+border-color: #FF9900;
+border-bottom-color: #FFFFFF;
+background-color: #FFFFFF;
+}
+.gsc-tabsArea {
+border-color: #FF9900;
+}
+.gsc-webResult.gsc-result,
+.gsc-results .gsc-imageResult {
+border-color: #FFFFFF;
+background-color: #FFFFFF;
+}
+.gsc-webResult.gsc-result:hover,
+.gsc-imageResult:hover {
+border-color: #FFFFFF;
+background-color: #FFFFFF;
+}
+.gs-webResult.gs-result a.gs-title:link,
+.gs-webResult.gs-result a.gs-title:link b,
+.gs-imageResult a.gs-title:link,
+.gs-imageResult a.gs-title:link b {
+color: #0000CC;
+}
+.gs-webResult.gs-result a.gs-title:visited,
+.gs-webResult.gs-result a.gs-title:visited b,
+.gs-imageResult a.gs-title:visited,
+.gs-imageResult a.gs-title:visited b {
+color: #0000CC;
+}
+.gs-webResult.gs-result a.gs-title:hover,
+.gs-webResult.gs-result a.gs-title:hover b,
+.gs-imageResult a.gs-title:hover,
+.gs-imageResult a.gs-title:hover b {
+color: #0000CC;
+}
+.gs-webResult.gs-result a.gs-title:active,
+.gs-webResult.gs-result a.gs-title:active b,
+.gs-imageResult a.gs-title:active,
+.gs-imageResult a.gs-title:active b {
+color: #0000CC;
+}
+.gsc-cursor-page {
+color: #0000CC;
+}
+a.gsc-trailing-more-results:link {
+color: #0000CC;
+}
+.gs-webResult .gs-snippet,
+.gs-imageResult .gs-snippet,
+.gs-fileFormatType {
+color: #000000;
+}
+.gs-webResult div.gs-visibleUrl,
+.gs-imageResult div.gs-visibleUrl {
+color: #008000;
+}
+.gs-webResult div.gs-visibleUrl-short {
+color: #008000;
+}
+.gs-webResult div.gs-visibleUrl-short {
+display: none;
+}
+.gs-webResult div.gs-visibleUrl-long {
+display: block;
+}
+.gs-promotion div.gs-visibleUrl-short {
+display: none;
+}
+.gs-promotion div.gs-visibleUrl-long {
+display: block;
+}
+.gsc-cursor-box {
+border-color: #FFFFFF;
+}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {
+border-color: #E9E9E9;
+background-color: #FFFFFF;
+color: #0000CC;
+}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {
+border-color: #FF9900;
+background-color: #FFFFFF;
+color: #0000CC;
+}
+.gsc-webResult.gsc-result.gsc-promotion {
+border-color: #336699;
+background-color: #FFFFFF;
+}
+.gsc-completion-title {
+color: #0000CC;
+}
+.gsc-completion-snippet {
+color: #000000;
+}
+.gs-promotion a.gs-title:link,
+.gs-promotion a.gs-title:link *,
+.gs-promotion .gs-snippet a:link {
+color: #0000CC;
+}
+.gs-promotion a.gs-title:visited,
+.gs-promotion a.gs-title:visited *,
+.gs-promotion .gs-snippet a:visited {
+color: #0000CC;
+}
+.gs-promotion a.gs-title:hover,
+.gs-promotion a.gs-title:hover *,
+.gs-promotion .gs-snippet a:hover {
+color: #0000CC;
+}
+.gs-promotion a.gs-title:active,
+.gs-promotion a.gs-title:active *,
+.gs-promotion .gs-snippet a:active {
+color: #0000CC;
+}
+.gs-promotion .gs-snippet,
+.gs-promotion .gs-title .gs-promotion-title-right,
+.gs-promotion .gs-title .gs-promotion-title-right * {
+color: #000000;
+}
+.gs-promotion .gs-visibleUrl,
+.gs-promotion .gs-visibleUrl-short {
+color: #008000;
+}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gsq_a{padding:0}.gscsep_a{display:none}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gsfe_a{border:1px solid #b9b9b9;border-top-color:#a0a0a0;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);}.gsfe_b{border:1px solid #4d90fe;outline:none;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);}.gssb_a{padding:0 9px}.gsib_a{padding-right:8px;padding-left:8px}.gsst_a{padding-top:5.5px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+
+<body>
+
+
+<div class="container">
+
+	<div class="header">
+<img src="images/banner.jpg" border="0" hspace="0">
+
+</div>
+
+<div class="navbar">
+  
+<a href="index.asp" title="Home">HOME</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="history.asp" title="About Us">ABOUT</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="books.asp" title="Books">BOOKS</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="papers.asp" title="Papers">PAPERS</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="autext.asp" title="AU Texts">AU TEXTS</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="contact.asp" title="Journals">JOURNALS</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="help.asp" title="FAQ">FAQ</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="authors.asp" title="For Authors">FOR AUTHORS</a>
+<a href="https://www.facebook.com/AirUnivPress"><img src="images/facebook-128.png" align="right" width="30" height="30" alt="Follow AU Press on Facebook" longdesc="images/facebook-128.png" border="0/"></a>
+<a href="https://www.twitter.com/AirUnivPress"><img src="images/twitter-512.png" align="right" width="32" height="32" alt="Follow AU Press on Twitter" longdesc="images/twitter-512.png" border="0/"></a>
+    
+
+
+
+</div>
+
+      <div class="searchbar">
+      <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://www.google.com/cse/cse.js?cx=001934038302681066223:zhi2zjfc8_k"></script><script>
+  (function() {
+    var cx = '001934038302681066223:zhi2zjfc8_k';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<div id="___gcse_0"><div class="gsc-control-cse gsc-control-cse-en"><div class="gsc-control-wrapper-cse" dir="ltr"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" class="gsc-search-box"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id1"><table cellspacing="0" cellpadding="0" id="gs_id50" class="gstl_50 " style="width: 100%; padding: 0px;"><tbody><tr><td id="gs_tti50" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="search" id="gsc-i-id1" style="width: 100%; padding: 0px; border: none; margin: 0px; height: auto; outline: none; background-image: url(http://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png); background-color: rgb(255, 255, 255); text-indent: 48px; background-position: 0% 50%; background-repeat: no-repeat no-repeat;" x-webkit-speech="" x-webkit-grammar="builtin:search" lang="en" dir="ltr" spellcheck="false" placeholder="Custom Search"></td><td class="gsib_b"><div class="gsst_b" id="gs_st50" dir="ltr"><a class="gsst_a" href="javascript:void(0)" style="display: none;"><span class="gscb_a" id="gs_cb50">×</span></a></div></td></tr></tbody></table></div><input type="hidden" name="bgresponse" id="bgresponse"></td><td class="gsc-search-button"><input type="image" src="https://www.google.com/uds/css/v2/search_box_icon.png" class="gsc-search-button gsc-search-button-v2" title="search"></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table><table cellspacing="0" cellpadding="0" class="gsc-branding"><tbody><tr><td class="gsc-branding-user-defined"></td><td class="gsc-branding-text"><div class="gsc-branding-text">powered by</div></td><td class="gsc-branding-img"><img src="https://www.google.com/cse/static/images/1x/googlelogo_grey_46x15dp.png" class="gsc-branding-img"></td></tr></tbody></table></form><div class="gsc-results-wrapper-overlay"><div class="gsc-results-close-btn" tabindex="0"></div><div class="gsc-tabsAreaInvisible"><div class="gsc-tabHeader gsc-inline-block gsc-tabhActive">Custom Search</div><span class="gs-spacer"> </span></div><div class="gsc-tabsAreaInvisible"></div><div class="gsc-above-wrapper-area-invisible"><table cellspacing="0" cellpadding="0" class="gsc-above-wrapper-area-container"><tbody><tr><td class="gsc-result-info-container"><div class="gsc-result-info-invisible"></div></td><td class="gsc-orderby-container"><div class="gsc-orderby-invisible"><div class="gsc-orderby-label gsc-inline-block">Sort by:</div><div class="gsc-option-menu-container gsc-inline-block"><div class="gsc-selected-option-container gsc-inline-block"><div class="gsc-selected-option">Relevance</div><div class="gsc-option-selector"></div></div><div class="gsc-option-menu-invisible"><div class="gsc-option-menu-item gsc-option-menu-item-highlighted"><div class="gsc-option">Relevance</div></div><div class="gsc-option-menu-item"><div class="gsc-option">Date</div></div></div></div></div></td></tr></tbody></table></div><div class="gsc-adBlockInvisible"></div><div class="gsc-wrapper"><div class="gsc-adBlockInvisible"></div><div class="gsc-resultsbox-invisible"><div class="gsc-resultsRoot gsc-tabData gsc-tabdActive"><table cellspacing="0" cellpadding="0" class="gsc-resultsHeader"><tbody><tr><td class="gsc-twiddleRegionCell"><div class="gsc-twiddle"><div class="gsc-title">Web</div></div><div class="gsc-stats"></div><div class="gsc-results-selector gsc-all-results-active"><div class="gsc-result-selector gsc-one-result" title="show one result">&nbsp;</div><div class="gsc-result-selector gsc-more-results" title="show more results">&nbsp;</div><div class="gsc-result-selector gsc-all-results" title="show all results">&nbsp;</div></div></td><td class="gsc-configLabelCell"></td></tr></tbody></table><div><div class="gsc-expansionArea"></div></div></div></div></div></div><div class="gsc-modal-background-image" tabindex="0"></div></div></div></div>     
+
+	</div>
+
+
+
+   <div id="info"> 
+     
+     
+  <div class="main">
+       <h1>The Bookstore is located at Air University Press, Muir S. Fairchild Research Information Center, 600 Chennault Circle, Building 1405, Maxwell AFB, Alabama 36112-6010, and is open 0730-1630 M-F. For inquiries, call (334) 953-2773 (DSN 493).</h1><br>
+       <h1>Orders:</h1>
+<h1>AU Press publications are available at no cost to active duty, total force, and retired military and to Department of Defense personnel and organizations. Publications can be ordered by e-mail at aupress@us.af.mil or by calling 334-953-2773 (DSN 493).</h1>
+
+
+   
+     <center><div class="top5wrapper">
+       <div class="top5wrapper">
+         <h1 align="left" style="padding:20px">Our Most Popular:</h1>
+         <div class="top5cont">
+           <!-- root element for the items -->
+           
+           <div class="img_left" style="width:110px; text-align:center;"> <a href="bookinfo.asp?bid=497"><img src="file.asp?ID=481" width="110px" height="165px"></a>
+             <p>Lorenz on Leadership</p>
+           </div>
+           
+           <div class="img_left" style="width:110px; text-align:center;"> <a href="bookinfo.asp?bid=519"><img src="file.asp?ID=501" width="110px" height="165px"></a>
+             <p>Air University Style and Author Guide</p>
+           </div>
+           
+           <div class="img_left" style="width:110px; text-align:center;"> <a href="bookinfo.asp?bid=500"><img src="file.asp?ID=484" width="110px" height="165px"></a>
+             <p>On a Steel Horse I Ride</p>
+           </div>
+           
+           <div class="img_left" style="width:110px; text-align:center;"> <a href="bookinfo.asp?bid=614"><img src="file.asp?ID=575" width="110px" height="165px"></a>
+             <p>The Evolution of Airmen</p>
+           </div>
+           
+           <div class="img_left" style="width:110px; text-align:center;"> <a href="bookinfo.asp?bid=72"><img src="file.asp?ID=78" width="110px" height="165px"></a>
+             <p>Strategy for Defeat The Luftwaffe, 1933-1945</p>
+           </div>
+           
+           <div class="img_left" style="width:110px; text-align:center;"> <a href="bookinfo.asp?bid=546"><img src="file.asp?ID=521" width="110px" height="165px"></a>
+             <p>Thinking about Deterrence</p>
+           </div>
+           
+           <div class="img_left" style="width:110px; text-align:center;"> <a href="bookinfo.asp?bid=599"><img src="file.asp?ID=564" width="110px" height="165px"></a>
+             <p>On the Leadership Journey</p>
+           </div>
+           
+         </div>
+       </div>
+       <h1 align="left" style="padding:20px">&nbsp;</h1>
+     </div>
+     </center>
+
+<div class="recommended_container">
+
+<h1>We Recommend:</h1>
+<div class="recommended">
+<a href="bookinfo.asp?bid=614"><img src="file.asp?ID=575" width="110px" height="165px" class="img_left"></a>
+<h3>The Evolution of Airmen</h3>
+<p>Fifty years ago, our Air Force made a significant step forward. Our senior leaders recognized the need for an enlisted voice on the headquarters staff and, after a significant vetting and interview process, selected Chief Master Sergeant Paul Airey to become the first Chief Master Sergeant of the Air Force, 3 April 1967. In the 50 years since, 17 Airmen have worn the chevrons, championed enlisted development and retired knowing the enlisted force had moved forward. This book is more than a recognition of our past Chief Master Sergeants of the Air Force. It’s a celebration of enlisted Airmen and an acknowledgement of their considerable evolution. It’s a story about our 70 years as a separate service, told through the lens of Airmen who have served every step of the way. As we celebrate our 70th year as a separate service, let us look to the past and reflect on the barriers we’ve broken to become the world’s greatest Air Force. Visit the website as well at http://static.dma.mil/usaf/cmsaf50/.</p>
+
+<br><br><br><br>
+<h1>The Latest:</h1><br>
+<p>Wright Flyer: The Future of Remotely Piloted Aircraft in Special Operations, Kowalski <a href="bookinfo.asp?bid=619">Here</a></p>
+
+<p>Drew Paper: Jungle Skippers, Poole <a href="bookinfo.asp?bid=618">Here</a></p>
+
+<p>Cyber Power Paper: US Policy Response to Cyber Attack on SCADA Systems Supporting Critical National Infrastructure, Weed <a href="bookinfo.asp?bid=616">Here</a></p>
+
+<p>Occasional Paper: American Aerospace Power, Foster, Bell, and Turner <a href="bookinfo.asp?bid=615">Here</a></p>
+
+<p>Book: Adapt or Fail, Culley <a href="bookinfo.asp?bid=613">Here</a></p>
+
+<p>Book: The Evolution of Airmen, Hoover <a href="bookinfo.asp?bid=614">Here</a></p>
+
+<p>Cyber Power Paper: The Achievable Multinational Cyber Treaty, Barrera <a href="bookinfo.asp?bid=612">Here</a></p>
+
+<p>Drew Paper: Windows of Opportunity, Porter <a href="bookinfo.asp?bid=611">Here</a></p>
+
+<p>Cyber Power Paper: Is Cyber Deterrence Possible?, McKenzie <a href="bookinfo.asp?bid=610">Here</a></p>
+
+<p>Wright Flyer: Jemaah Islamiyah, Strickler <a href="bookinfo.asp?bid=607">Here</a></p>
+
+
+
+</div>
+
+
+        <!--<div class="catagory_browse_container">
+        <h1>Browse by Category</h1>
+        <div class="catagory_browse">
+        
+        
+        <ul>
+            
+            <div class="listItem"><a href="books.asp?CAT=Airpower">Airpower</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Air Mobility">Air Mobility</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Air Warfare">Air Warfare</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Biographies">Biographies</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Professional Development">Professional Development</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=History">History</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Leadership">Leadership</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Military Science">Military Science</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Military Security">Military Security</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Military Strategy">Military Strategy</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Nuclear NonProliferation">Nuclear NonProliferation</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Psychological Warfare">Psychological Warfare</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=USAF Organization">USAF Organization</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Space">Space</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Regional Conflicts">Regional Conflicts</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=War">War</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Military Doctrine">Military Doctrine</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Military Relations">Military Relations</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Asia Pacific">Asia Pacific</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Aerospace Technology">Aerospace Technology</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Southeast Asia">Southeast Asia</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Foreign Policy">Foreign Policy</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Women in Military Service">Women in Military Service</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Deterrence">Deterrence</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Nation Building">Nation Building</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Military Law">Military Law</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Cold War">Cold War</a></div>
+            
+            <div class="listItem"><a href="books.asp?CAT=Special Operations">Special Operations</a></div>
+               
+            
+        </ul>
+            
+        </div> -->
+        
+        </div>
+          
+     </div>
+  
+        <div class="footer"><br><br><br>
+        
+
+
+<div>
+<a href="help.asp" title="FAQ">FAQ</a>
+ | 
+<a href="http://www.au.af.mil/au/site_map.asp" target="_blank">Site Map</a>
+ | 
+<a href="http://www.au.af.mil/au/AUfaqs.asp" target="_blank">AU FAQs</a>
+ | 
+<a href="http://www.af.mil/Disclaimer.aspx" target="_blank">Privacy and Security Notice</a>
+ | 
+<a href="http://www.afms.af.mil/suicideprevention/index.asp" target="_blank">Suicide Prevention</a>
+ | 
+<a href="http://www.sexualassaultpreventionresponse.af.mil/index.asp" target="_blank">Sexual Assault Awareness &amp; Prevention</a>
+ | 
+<a href="http://prhome.defense.gov/nofear" target="_blank">No Fear Act</a>
+ | 
+<a href="http://www.af.mil/EqualOpportunity.aspx" target="_blank">EEO</a>
+ | 
+<a href="http://www.af.mil/InspectorGeneralComplaints.aspx" target="_blank">IG</a>
+ | 
+<a href="http://www.usa.gov" target="_blank">USA.gov</a>
+ | <br>
+<a href="http://dcmo.defense.gov/Publications/Annual-Performance-Plan-and-Performance-Report/" target="_blank">Strategic Annual Performance
+Report</a>
+ | 
+<a href="http://www.maxwell.af.mil/About-Us/FOIA/" target="_blank">FOIA Program</a>
+ | 
+<a href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" target="_blank">Accessibility/Section 508</a>
+ | 
+<a href="http://www.e-publishing.af.mil" target="_blank">E-Publishing</a>
+ | 
+<a href="http://www.af.mil/" target="_blank">US Air Force</a>
+ | 
+<a href="http://afreserve.com" target="_blank">AFRC Recruiting</a>
+ | 
+<a href="http://www.au.af.mil/au/index.asp" target="_blank">Air University</a>
+ | 
+<a href="http://www.maxwell.af.mil/library/biographies/index.asp" target="_blank">AU/HQ</a>
+
+
+
+
+<center style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif">Lemay Center for Doctrine Development and Education <!--2017- -->2017&nbsp;&nbsp;&nbsp;
+
+Last Updated: 10/8/2017</center>
+</div>
+
+        </div>
+  </div>
+    
+</div>
+
+			
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5295376-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+            
+
+
+<table cellspacing="0" cellpadding="0" class="gstl_50 gssb_c" style="width: 182px; display: none; top: 220px; left: 100px; position: absolute;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table></body></html>

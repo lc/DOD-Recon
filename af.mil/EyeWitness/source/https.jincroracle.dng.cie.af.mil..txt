@@ -1,0 +1,303 @@
+<!DOCTYPE html><html lang="en"><head>
+<title>Oracle Secure Global Desktop</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true, IE=Edge">
+<link rel="stylesheet" type="text/css" href="/sgd/resources/style/sgddialog.css">
+<link rel="stylesheet" type="text/css" href="/sgd/resources/style/buttons.css">
+<link rel="stylesheet" type="text/css" href="/sgd/resources/style/style.css">
+
+<meta name="apple-mobile-web-app-title" content="Oracle SGD">
+<link rel="apple-touch-icon-precomposed" href="/sgd/h5c/img/icon.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sgd/h5c/img/icon.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sgd/h5c/img/icon@2x.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sgd/h5c/img/icon144.png">
+
+
+
+
+<script type="text/javascript">
+function checkEnter() 
+{
+    if(window.event) {
+      if (window.event.keyCode == 13) {
+        document.getElementById('login').click();
+      }
+    }
+}
+
+function getIEVersion()
+{
+     var version = -1; 
+     if (navigator.appName != 'Microsoft Internet Explorer') 
+        return version;
+
+     var agent = navigator.userAgent;
+     var re = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+     if (re.exec(agent) != null)
+        version = parseFloat(RegExp.$1);
+          
+     return version;
+}
+
+
+/* This function adds event handlers to controls in IE8
+   so that submit on enter works
+   see CR:6969452 
+
+   IE detection based on : Giorgio Sardo's blog entry at 
+   http://blogs.msdn.com/b/giorgio/archive/2009/04/14/how-to-detect-ie8-using-javascript-client-side.aspx
+ */  
+function fixIE8()
+{
+     var version = getIEVersion();
+     if (version == -1 || version > 8.0)
+        return;
+
+         var el = document.getElementById("Username" );
+         el.attachEvent("onkeydown", checkEnter); 
+
+
+         var el = document.getElementById("Password" );
+         el.attachEvent("onkeydown", checkEnter); 
+
+
+
+}
+
+function showPage() {
+   if ( self == top ) {
+     document.getElementById('errorpage').style.display='none';
+     document.getElementById('realpage').style.visibility='visible';
+   } else {
+     top.location=self.location;
+   }
+}
+
+</script>
+
+
+
+
+<script>
+function Set_Cookie( name, value, expires, path, domain, secure ) {
+   // set time, it's in milliseconds
+   var today = new Date();
+   today.setTime( today.getTime() );
+   /*if the expires variable is set, make the correct expires time, the current
+script below will set it for x number of days, to make it for hours, delete * 24, for minutes, delete * 60 * 24*/
+   if ( expires ) {
+      expires = expires * 1000 * 60 * 60 * 24;
+   }
+   var expires_date = new Date( today.getTime() + (expires) );
+   document.cookie = name + "=" +escape( value ) + ( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + ( ( path ) ? ";path=" + path : "" ) + ( ( domain ) ? ";domain=" + domain : "" ) +( ( secure ) ? ";secure" : "" );
+}
+
+// this function gets the cookie, if it exists
+function Get_Cookie( name ) {
+   var start = document.cookie.indexOf( name + "=" );
+   var len = start + name.length + 1;
+   if ( ( !start ) && ( name != document.cookie.substring( 0, name.length ) ) )
+{
+      return null;
+   }
+   if ( start == -1 ) return null;
+   var end = document.cookie.indexOf( ";", len );
+   if ( end == -1 ) end = document.cookie.length;
+   return unescape( document.cookie.substring( len, end ) );
+}
+</script>
+
+<script type="text/javascript">
+   var motdtext="DOD NOTICE AND CONSENT BANNER\n\nOracle Corporation	SunOS 5.10	Generic Patch	January 2005\n";
+   // remember, these are the possible parameters for Set_Cookie:
+   // name, value, expires, path, domain, secure
+   if ( ! Get_Cookie( 'OSGD' ) ) {
+     Set_Cookie( 'OSGD', motdtext, '', '/', '', '' );
+     alert( Get_Cookie('OSGD'));
+   }
+</script>
+
+
+
+
+<style>
+ul
+{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+li
+{
+  background-color: #ffffff;
+  list-style: none;
+  float: left;
+  position: relative;
+  width: 10em;
+  color: red;
+}
+
+a:link
+{
+}
+
+li ul
+{
+  display: none;
+  padding: 0;
+  margin: 0;
+}
+
+li:link ul
+{
+  color: red;
+}
+
+li:hover ul
+{
+  display: block;
+}
+
+.menudisplay
+{
+  top: 10px;
+  left: -200px;
+  position: relative;
+  z-index: 1;
+  visibility: show;
+}
+
+.menudisplay a
+{
+  color: black;
+}
+
+</style></head>
+
+
+
+
+
+
+
+
+
+
+<body class="dialogPageBackground" onload="showPage(); document.auth.Username.focus();">
+<div id="errorpage" style="display: none;">
+  <div align="center">
+   <div class="dialogTop">
+      <div id="dialogHeaderWrapper">
+         <h1 id="dialogHeader"> Secure Global Desktop </h1>
+      </div>
+   </div>
+   <div class="dialogBody">
+      <div class="dialogContent">
+	 <strong><h1>Potentially Unsafe Connection</h1></strong>
+	 <p>Access to the requested page has been prevented. This could be due to JavaScript being disabled or a potential security vulnerability, please ensure JavaScript is enabled in your browser.</p><br>
+      </div>
+   </div>
+   <div class="dialogBottom"></div>
+</div>
+
+</div>
+
+<div id="realpage" style="visibility: visible;">
+ 
+   <table width="100%">
+     <tbody><tr width="100%" align="center">
+       <td "center"="" width="100%"> <center><font face="Arial" size="6" color="Green"> UNCLASSIFIED </font></center> </td>
+     </tr>
+   </tbody></table>
+
+   
+<div align="center">
+  <div class="dialogTop">
+
+      <div id="dialogHeaderWrapper">
+         <h1 id="dialogHeader"> Secure Global Desktop </h1>
+      </div>
+   </div>
+
+   <div class="dialogBody">
+      <div class="dialogContent">
+         <table class="dsR2" border="0" cellspacing="8" cellpadding="0" role="presentation">
+         <form name="auth" action="/sgd/authentication/ttaAuthentication.jsp?SGD_Token=T~8dmtF-f95gpCI6B6U~xsaaOUhc6VEs" method="POST" autocomplete="on"></form>
+
+         <tbody><tr>
+             
+                <td><label for="Username">Username</label></td>
+            
+            <td>
+            <input id="Username" alt="Username" name="Username" type="text" size="15" maxlength="100" value="" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" style="width:150px">
+            </td>
+         </tr>
+
+         <tr>
+             
+                <td><label for="Password">Password</label></td>
+            
+            <td>
+            <input id="Password" alt="Password" name="Password" type="password" size="15" maxlength="100" value="" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" style="width:150px">
+            </td>
+         </tr>
+
+
+         <tr>
+            <td></td>
+            <td>
+               <input id="login" alt="Login" type="submit" name="login" class="button-grey" value="Login">
+            </td>
+         </tr>
+         
+         </tbody></table>
+
+      </div>
+   </div>
+   <div class="dialogBottom">
+
+    <div class="menudisplay">
+      <table border="0" cellspacing="8" cellpadding="0">
+        <tbody><tr>
+          <td>
+            <ul style="width:60px; padding-top:37px">
+              <li class="selected"> <a href="/sgd/index.jsp?langSelected=en&amp;SGD_Token=T~8dmtF-f95gpCI6B6U~xsaaOUhc6VEs" target="_top">English</a>
+                <img src="/sgd/resources/images/login/tmp_arrow.png" alt="arrow" height="9px" width="9px" style="padding-left: 2px;">
+            <ul>
+               <li> <a href="/sgd/index.jsp?langSelected=en&amp;SGD_Token=T~8dmtF-f95gpCI6B6U~xsaaOUhc6VEs" target="_top">English</a></li>
+               <li> <a href="/sgd/index.jsp?langSelected=de&amp;SGD_Token=T~8dmtF-f95gpCI6B6U~xsaaOUhc6VEs" target="_top">Deutsch</a></li>
+               <li> <a href="/sgd/index.jsp?langSelected=es&amp;SGD_Token=T~8dmtF-f95gpCI6B6U~xsaaOUhc6VEs" target="_top">Español</a></li>
+               <li> <a href="/sgd/index.jsp?langSelected=fr&amp;SGD_Token=T~8dmtF-f95gpCI6B6U~xsaaOUhc6VEs" target="_top">Français</a></li>
+               <li> <a href="/sgd/index.jsp?langSelected=it&amp;SGD_Token=T~8dmtF-f95gpCI6B6U~xsaaOUhc6VEs" target="_top">Italiano</a></li>
+               <li> <a href="/sgd/index.jsp?langSelected=pt-br&amp;SGD_Token=T~8dmtF-f95gpCI6B6U~xsaaOUhc6VEs" target="_top">Português</a></li>
+               <li> <a href="/sgd/index.jsp?langSelected=ja&amp;SGD_Token=T~8dmtF-f95gpCI6B6U~xsaaOUhc6VEs" target="_top">日本語</a></li>
+               <li> <a href="/sgd/index.jsp?langSelected=ko&amp;SGD_Token=T~8dmtF-f95gpCI6B6U~xsaaOUhc6VEs" target="_top">한국어</a></li>
+               <li> <a href="/sgd/index.jsp?langSelected=zh-cn&amp;SGD_Token=T~8dmtF-f95gpCI6B6U~xsaaOUhc6VEs" target="_top">中文简体字</a></li>
+               <li> <a href="/sgd/index.jsp?langSelected=zh-tw&amp;SGD_Token=T~8dmtF-f95gpCI6B6U~xsaaOUhc6VEs" target="_top">中文繁體字</a></li>
+            </ul>
+         </li>
+      </ul>
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+
+   </div>
+ 
+   <font face="Arial" size="6" color="Green">UNCLASSIFIED </font>
+
+
+
+   
+
+
+</div>
+</div>
+
+
+
+
+
+
+</body></html>

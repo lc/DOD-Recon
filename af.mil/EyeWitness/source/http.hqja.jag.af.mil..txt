@@ -1,0 +1,17 @@
+<!DOCTYPE html><html lang="en"><head>
+<title>Public TJAG Home Page Has Moved</title>
+</head>
+
+<body style="background-color: #b0c4de;">
+<br>
+<br>
+<table style="font-size: 14pt; text-align:center; width: 99%;">
+<tbody><tr>
+<td>Public TJAG Home Page Has Moved</td>
+</tr>
+<tr>
+<td>This Page can now be found at http://www.afjag.af.mil/</td>
+</tr>
+</tbody></table>
+
+</body></html>

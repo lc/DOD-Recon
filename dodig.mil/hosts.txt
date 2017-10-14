@@ -1,0 +1,8 @@
+dmen.dodig.mil,140.185.52.253
+greenarrow.dodig.mil,155.19.106.15
+host-140-185-250-253.dodig.mil,140.185.250.253
+redarrow.dodig.mil,199.114.57.14
+sslvpn.dodig.mil,214.14.28.25
+voltage-pp-0000.dodig.mil,199.114.57.16
+www.dodhotline.dodig.mil,199.114.57.11
+www.dodig.mil,95.100.248.136

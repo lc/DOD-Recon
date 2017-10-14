@@ -1,0 +1,354 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+	<title>GCSS-AF CIE Login Page</title>
+	<link rel="STYLESHEET" type="text/css" href="/pics/styles/login_styles.css">
+
+<style type="text/css">
+.holder {width:210px; margin:5px; padding:1em; border:1px solid #ddd; float:left;}
+.holder h2 {text-align:left;}
+a.hid {color:#000; text-decoration:none; outline-style:none;}
+a.hid em {display:none;}
+a.hid:hover {text-decoration:none;}
+a.hid:active, a.hid:focus {background:#fff;}
+a.hid:active span, a.hid:focus span {display:none;}
+a.hid:active em, a.hid:focus em {display:block; color:#000; width:100%; font-style:normal; cursor:default;}
+.clear {clear:both;}
+</style>
+
+	<script type="text/javascript">
+        alert( "You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only." + "\n\n" + "By using  this IS (which includes any device attached to this IS), you consent to the following conditions: " + "\n\n" + "-The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, " + "\n" + "penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), " + "\n" + "law enforcement (LE), and counterintelligence (CI) investigations. " + "\n\n" + "-At any time, the USG may inspect and seize data stored on this IS.  " + "\n\n" + "-Communications using, or data stored on, this IS are not private, are subject to routine monitoring, " + '\n' + "interception, and search, and may be disclosed or used for any USG authorized purpose." + "\n\n" + "-This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for " + '\n' + "your personal benefit or privacy.  " + "\n\n" + "-Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching " + '\n' + "or monitoring of the content of privileged communications, or work product, " + '\n' + "related to personal representation or services by attorneys, psychotherapists, or clergy, and their assistants." + '\n' + "Such communications and work product are private and confidential. " + '\n' + "See User Agreement for details." )
+	</script>
+</head>
+
+<body onload="focus_here()">
+	<script type="text/javascript">
+function focus_here() {
+	if (document.forms[0].elements[0].value.length == 0)
+	document.forms[0].elements[0].focus()
+	}
+
+function disp_confirm()
+{
+var name=confirm("You must have your CAC Certificate loaded to your desktop before proceeding." + '\n' + "" + '\n' + "Instructions for installing your Certificate can be found on page 3 of the CAC User's Guide." + '\n' + "" + '\n' + "This document can be found under Help Center >> CAC User's Guide.")
+if (name==true)
+{
+var cacURL="https://cie-dev-lrt.cie.af.mil/eai-int/eai/auth?refURL=" + document.URL.replace(/&/g,"%26");
+window.open(cacURL)
+}
+else
+{
+
+}
+}
+
+function open_win()
+{
+window.open("https://www.my.af.mil/afp/netstorage/Transcript_of_the_Video_Introduction.htm","_blank","toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=513")
+}
+
+</script>
+
+<div id="login-img-header"></div>
+<div id="header-blue-bg"><img src="/pics/images/spacer.gif" alt="" width="1" height="1" border="0"></div>
+<div id="shadow"></div>
+
+
+<table id="login-main-body" border="0">
+        <tbody><tr>
+		<td colspan="2" style="padding-bottom:10px"><span class="welcome-title"><font color="#FF0000" size="4"><b>Attention: This is the CIE Homepage, not the Production Air Force Portal</b></font></span></td>
+	</tr>
+        <tr>
+		<td colspan="2" style="padding-bottom:10px"><span class="welcome-title"><font color="#FF0000" size="4"><b>LRT Configuration - Development Zone</b></font></span></td>
+	</tr>
+	<!--<tr>-->
+		<tr><td style="width:320px;">
+			<table border="0" cellpadding="0" cellspacing="0" id="login-block">
+				<tbody><tr>
+<!--*****************************************************************************************************************************************************-->
+<!-- login block -->
+					<td class="login-block"><form name="loginform" action="/pkmslogin.form" method="post">
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td style="padding-bottom:15px">
+									<div class="login-header">
+										<div class="login-title">Password Log In</div>
+										<!--<div class="login-tab-right"><img src="/pics/images/tab_right.gif" alt="" width="56" height="23" border="0"></div>-->
+										<div class="cleanup"></div>
+
+									<span class="error-message"></span>
+									</div>
+									<div style="margin-bottom:8px"><label class="form-title" style="padding-right:4px;">Username:</label>
+										<!--<input type="text" name="username" class="text">-->
+										<input name="username" class="text" tabindex="1"></div>
+									<div><label class="form-title" style="padding-right:7px;">Password:</label>
+										<!--<input type="password" name="password" class="text">-->
+									<input type="password" name="password" class="text" tabindex="2"></div>
+									<!--<div style="margin:5px 0px 0px 0px;"><a href="https://www.my.af.mil/gcss-af5/Password/CFIDE/PasswordReset/PasswordReset.cfm" class="general-small-link">Forgot Your Username or Password?</a></div>-->
+									<!-- old reset link
+									<!--<div style="margin:5px 0px 0px 0px;"><a href="https://www.my.af.mil/gcss-af5/PDWeb/Reset/Reset.jsp" class="general-small-link">Forgot Your Username or Password?</a></div>  -->
+									<div style="margin:2px 0px 0px 117px;">
+
+<input type="hidden" name="login-form-type" value="pwd">
+<input type="submit" name="submit" action="/pkmslogin.form" method="post" value="Log In" class="button" tabindex="3"></div>
+										
+								</td>
+							</tr>
+						</tbody></table>
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td style="padding-bottom:10px">
+									<div class="login-header">
+										<div class="login-title">CAC Log In</div><br>
+										<div class="cleanup"></div>
+									</div>
+									<div class="general-small">Insert your CAC card to begin.</div>
+									<div style="margin:5px 0 0 117px;">
+<div class="general-small"><font color="FF0000">&nbsp;</font></div><input type="BUTTON" alt="CAC Log In" onclick="javascript:window.location='https://cie-dev-lrt.my.af.mil/eai-int/eai/auth?refURL='+document.URL.replace(/&amp;/g,'%26');" method="post" value="Log In" class="button" tabindex="3">
+									</div>
+								</td>
+							</tr>
+						</tbody></table></form>
+					</td>
+	<!-- end login block -->
+	<!-- begin Not A Member Block -->
+					<td class="not-a-member-block">
+						<div class="block-body">
+						<!-- block title -->
+						    <div class="center-blk-title">
+						        <span class="center-blk-title">Not A Member?</span>
+						    </div>
+						<!-- starts a program grouping -->
+						   <!--<div class="content-list">
+						   		<div class="pointer list-block"><a href="https://www.my.af.mil/afp/netstorage/faq/AccountRequirements.html" class="blk-content-list">View Account Requirements</a></div>
+						    	<div class="pointer list-block"><a href="#" onclick="disp_confirm()" value="New/existing users start here" class="blk-content-list">Register for a new CIE Account with your CAC</a></div>
+						        <div class="pointer list-block"><a href="https://tdr.my.af.mil/GCSS-IF317/PDWeb/Self/Registration.jsp" class="blk-content-list">Register for a new CIE Account without a CAC</a></div>
+						        <div class="pointer list-block"><a href="#" onclick="disp_confirm()" value="New/existing users start here" class="blk-content-list">Enable your CAC for Login</a></div>
+						        <!--<div class="pointer list-block"><a href="https://www.my.af.mil/afp/netstorage/faq/sponsorffim.html" class="blk-content-list">Sponsor a Friend or Family Member</a></div>-->
+							</div>
+						
+					</td>
+	<!-- end Not A Member -->
+				</tr>
+	<!-- begin Help Center -->
+				<tr>
+					<td colspan="2" style="padding-top:8px">
+						<div class="block-body">
+						<!-- block title -->
+						    <div class="center-blk-title">
+						        <span class="center-blk-title">Help Center</span>
+						    </div>
+							<div>
+							   <div class="content-list" style="float:left;width:185px">
+							   		<!--<div class="help-center-sub-title">Top 5 Questions:</div>
+							   		<div class="pointer list-block"><a href="https://www.my.af.mil/afp/netstorage/faq/top5.html#AA" class="help-center-list">How do I retrieve my password or username?</a></div>
+							    	<div class="pointer list-block"><a href="https://www.my.af.mil/afp/netstorage/faq/top5.html#AB" class="help-center-list">Password not working?</a></div>
+									<div class="pointer list-block"><a href="https://www.my.af.mil/afp/netstorage/faq/top5.html#AC" class="help-center-list">How do I register?</a></div>
+							        <div class="pointer list-block"><a href="https://www.my.af.mil/afp/netstorage/faq/top5.html#AD" class="help-center-list">Problems with drop down menus in &quot;My Profile/Personal Details&quot;</a></div>
+							        <div class="pointer list-block"><a href="https://www.my.af.mil/afp/netstorage/faq/top5.html#AE" class="help-center-list">What are account benefits?</a></div>
+								</div>
+								<div class="content-list" style="float:right;width:185px;padding-left:5px">
+							   		<div class="help-center-sub-title">Other Topics:</div>
+							   		<div class="pointer list-block"><a href="https://www.my.af.mil/afp/netstorage/faq/faq.html" class="help-center-list">Frequently Asked Questions</a></div>
+							    	<div class="pointer list-block"><a href="#" onclick="disp_confirm()" value="New/existing users start here" class="help-center-list">Enable your CAC for Login</a></div>
+							        <div class="pointer list-block"><a href="https://www.my.af.mil/afp/netstorage/CAC_Users_Guide.htm" class="help-center-list" target="_blank">CAC User's Guide</a></div>
+							        <div class="pointer list-block"><a href="https://www.my.af.mil/afp/netstorage/portaltour/s_home.html" class="help-center-list">Take a Tour of the AF Portal</a></div>
+							        <div class="pointer list-block"><a href="https://www.my.af.mil/afp/netstorage/helplanding/helplanding.html" class="help-center-list">Contact Help Desk</a></div>-->
+								</div>
+								<div class="cleanup"></div>
+							</div>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+<!-- end Help Center -->
+<!-- ************************************************************************************************************************************************** -->
+<!-- begin SPECIAL NOTICE section 
+<td style="padding:0 0 0 15">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="2" class="feature-block">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><div class="feature-story-title"><b><font color=#FF0000>Attention AF Portal Users (17 Aug 06)</b></font></div></td>
+<tr>
+<td>
+<span class="feature-abstract"><div style="margin:5px 0px 5 0px;">
+<br><br>
+GCSS-AF has been notified by DISA of an Authorized Service Disruption for network maintenance occurring 20 August 2006, 0500 - 0900 GMT (2300 19 Aug - 0300 20 Aug 2006 CDT). 
+<br><br>
+During these hours:
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- All network access to the GCSS-AF Portal will be interrupted
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- No users will be able to access the Portal or associated applications during this time 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Users will receive a network error message stating the site cannot be found
+<br><br>
+Please plan accordingly, and we apologize for any inconvenience caused to our users
+<br><br>
+
+</span></div>
+<br><br><br><br>
+<!-- end SPECIAL NOTICE section -->
+<!--**************************************************** -->
+
+<!-- Start Video Section --> 
+	<td style="padding:0 0 0 15">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td colspan="2" class="feature-block">
+					<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr><td width="260" style="padding:1 7 0 0"><a href="https://www.my.af.mil/afp/netstorage/afvideo/a
+f_portal_1024K.wmv"><img src="/pics/images/invideo2.jpg" alt="" width="255" height="245" border="0" align="top"></a>
+							<br><span class="feature-abstract"><div style="margin:5px 0px 5 0px;">
+<left><a href="https://www.my.af.mil/afp/netstorage/afvideo/af_portal_1024K.wmv">Hi-Res Video</a>
+(<a href="http://www.microsoft.com/windows/windowsmedia/download/AllDownloads.aspx?displang=en&amp;qstechnology=">Media Player</a> 22MB)
+<br><a href="https://www.my.af.mil/afp/netstorage/afvideo/af_portal_512K.wmv">Low-Res Video</a>
+(<a href="http://www.microsoft.com/windows/windowsmedia/download/AllDownloads.aspx?displang=en&amp;qstechnology=">Media Player</a> 5MB)
+<br>
+<a href="#" onclick="open_win()" value="View Video Transcript">View Video Transcript</a>
+</left></div></span></td>
+
+						<td rowspan="2"><div class="feature-story-title">Get on the Same Page</div><div style="margin:5px 0px 5
+0px;"></div><span class="feature-abstract"><div style="margin:5px 0px 5 0px;">
+							<div style="margin:5px 0px 5 0px;">
+</div><span class="feature-abstract"><div style="margin:5px 0px 5 0px;">The AF Portal is <a href="https://www.my.af.mil/afp/netstorage/outreach/Transforming
+_Business.html">transforming the way we do business</a>. It's an award-winning program and we're not standing still
+. We listened to our Airmen and made some big improvements to:
+							<div style="margin:5px 0px 5 0px;">
+						• <a href="https://www.my.af.mil/afp/netstorage/outreach/Red
+uced_Clicks.html">Reduce the number of clicks</a><br>
+							• <a href="https://www.my.af.mil/afp/netstorage/outr
+each/Simplify_and_Unify.html">Simplify and unify the design</a><br>
+							• <a href="https://www.my.af.mil/afp/netstorage/outr
+each/Upgrade_Search.html">Upgrade our search performance</a><br>
+							• <a href="https://www.my.af.mil/afp/netstorage/outr
+each/Custom_Workspace.html">Make it easy to build your own Workspace</a><br>
+							• <a href="https://www.my.af.mil/afp/netstorage/outr
+each/New_Content.html">Provide new and timely content</a><div style="margin:5px 0px 5 0px;">
+
+<div style="margin:5px 0px 5 0px;">
+It's all there — information, collaboration and applications — so you can do your job, manage your career and live your life in the Air Force.
+
+						<div style="margin:5px 0px 5 0px;"><div class="pointer"><a href="https://www.my.af.mil/afp/netstorage
+/AFPortal_WhatsChanged_Nov2005.pdf">Get the Full Details on What's Changed</a> (<a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a> 2MB)
+</div>
+<br><br>
+<b>Get on the same page.</b></div>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td colspan="2">
+<span class="feature-abstract2">
+<b>Everyone.</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Over 700,000 users<br>
+<b>Everywhere.</b>   &nbsp;&nbsp;&nbsp;At home, at work or deployed<br>
+<b>Everyday.</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24 x 7 x 365
+</span>
+</td>
+</tr>
+</tbody></table>
+</div></div></div></div></span></div></span></td></tr>
+<!-- end Video section -->
+<!--**************************************************************************************************************************-->
+<!-- Starts Friends and Family Section -->
+<tr><td colspan="2"><span class="feature-abstract2"><div style="margin:5px 0px 5 0px;"></div>
+<div style="margin:5px 0px 5 0px;">
+</div></span></td>
+</tr>
+</tbody></table>
+</td></tr>
+
+
+<tr>
+<td style="padding:15px 5px 0 0;width:50%">
+<div class="block-body" style="width:100%">
+<!-- block title -->
+<div class="center-blk-title">
+<span class="center-blk-title">Friends and Family</span>
+</div>
+
+<div class="blk-abstract">
+<!--<span class="pointer list-block"><a href="https://guest.my.af.mil" class="blk-content-list">A
+ccess Friends and Family</a></span>-->
+<!--<div class="pointer list-block"><a href="https://www.my.af.mil/afp/netstorage/faq/sponsorffim
+.html" class="blk-content-list">Sponsor a Friend or Family Member</a></div>-->
+</div>
+</div>
+</td>
+<td style="padding:15px 0 0 5px;width:50%">
+<div class="block-body" style="width:100%">
+<!--**************************************************************************************************************************-->
+<!-- starts Updates to Portal Section -->
+<!-- block title -->
+<div class="center-blk-title"> <span class="center-blk-title">Updates to the Portal</span>
+</div>
+<span class="feature-abstract">
+
+<!-- Outage -->
+
+<!-- Start AF Cop Update -->
+<!--<b><font color=#FF0000>Promotion Lists</font></b>
+<br><br>
+<table>
+<tr>
+<td>
+<img src="https://www.my.af.mil/afp/netstorage/colonel_symbol.jpg" alt="" width="100" height="100" border="0" align="center"></td>
+<td>
+<br>
+<span class="feature-abstract"> Line of the Air Force, Nurse Corps and Biomedical Service Corps colonels and Medical Service Corps lieutenant colonel and major promotions lists are posted <a href="https://www.my.af.mil/afp/netstorage/06COLSelection.html">here</a></span>.</td>
+</table>-->
+<br><br>
+<!--*****************************************************************************************************************************************************-->
+<!-- Ends Overwhelming Password Resets Section -->
+
+<!-- starts Intermittent CAC Section
+<b><font color=#FF0000>Attention CAC Users:</font><br><br></b>
+Due to intermittent issues communicating with the Certification Authority, users will experience some issues with CAC login or registration. Should this occur, users can register via normal means, login with their regular username and password, or make an attempt again at a later time to see if connectivity has been restored.
+
+<p>We apologize for the inconvenience. Engineers are actively researching the issue.
+<!-- starts Prevent Identity Theft Section
+<b>Prevent Identity Theft</b>.&nbsp;&nbsp;The Air Force Portal will not request your username, password, or Social Security Number via email. If you receive any messages of this sort, please contact the Combat Support System Help Desk immediately.
+<br><br>
+<a href="https://www.my.af.mil/afp/netstorage/faq/attention_phishing.html">More Information</a>
+<br><br>
+<!-- Ends Prevent Identity Theft Section -->
+
+<!-- Ends Updates to Portal Section -->
+<!--*****************************************************************************************************************************************************-->
+<!-- more button
+<p><a class="hid" href="#more" onclick="this.hideFocus=true" onblur="this.hideFocus=false"><span>more information&#187;</span><em>
+<p>
+A recent e-mail <a href="https://www.my.af.mil/afp/netstorage/afp/images/Attention_Phishing_Example_Email.gif">Example Email</a>
+has been sent to several of our users requesting immediate update to their personal account information.
+<br><br>
+This message DID NOT come from the AF Portal, and the directions should not be followed.
+<br><br>
+Any user wishing to update their profile information or validate their account should open up a browser and navigate to https://www.my.af.mil directly, rather then clicking the link from an email forwarded to them.
+<br><br>
+The phishing message appears to send the user to the above address but the URL block shows http://www.prelude.com/redirect/?https://www.my.af.mil/faf/FAF/faf Home.jsp
+<br><br>
+If you believe you are a victim of this scam, please attempt the password reset function. If you have not received your password within one hour, please contact the Combat Support Systems Help Desk (CSSHD) @ DSN 596-5771 option 7 / Commercial 334-416-5771 option 7 (Country Code 312).
+
+<!--end more button-->
+<!--*****************************************************************************************************************************************************-->
+<br>
+<br></span>
+</div></td></tr>
+</tbody></table>
+</td>
+<!--*****************************************************************************************************************************************************-->
+</tr>
+</tbody></table>
+
+
+
+
+<!-- start footer section -->
+<table width="100%" style="margin-top:15px" id="footer">
+<tbody><tr>
+<td class="footer"><a href="https://www.my.af.mil/afp/netstorage/faq/legal.html">Privacy and Security Policy</a>
+<center>Last Modified: 18 Apr 2007 &nbsp;| &nbsp; fk1</center>
+
+</td></tr>
+</tbody></table>
+
+</body></html>

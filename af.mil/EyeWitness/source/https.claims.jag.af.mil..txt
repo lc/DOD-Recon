@@ -1,0 +1,286 @@
+<html><head>
+
+<link rel="stylesheet" type="text/css" href="style/claimshelp.css">
+<style type="text/css">
+<!--
+#dhtmltooltip{
+position: absolute;
+width: 300px;
+border: 1px solid Navy;
+padding: 2px;
+background-color: lightyellow;
+visibility: hidden;
+z-index: 100;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+-->
+</style>
+</head>
+<body topmargin="0" leftmargin="0">
+
+<div id="noprint">
+<table width="100%">
+<tbody><tr bgcolor="#003366">
+<td>
+<img src="images/afcscheader.jpg" align="top" class="noprint">
+</td>
+</tr>
+</tbody></table>
+</div>
+
+	<div id="dhtmltooltip"></div>                                                                         
+	<script type="text/javascript" language="JavaScript" src="scripts/tooltip.txt"></script>
+	<script type="text/javascript" language="JavaScript" src="form.js"></script>
+	<div id="navbar">
+	<div class="noprint">
+	<div id="sectionLinks"> 
+    <ul>
+    <li><b><a href="index.php?JA=1080986">Home</a></b></li> 
+    <li><a href="faq.html?JA=1080986" target="_blank">Frequently Asked Questions</a></li>
+    <li><a href="claims_help.php?JA=1080986">Contact Us</a></li>
+
+<!-- email from AFCSC to remove, Fri 9/13/2013 9:29 AM
+    <li><a href='1840r0.php?JA=1080986'>Submit Notice of Loss or Damage Report</a></li>
+-->
+    <li><a href="/claims">Continue Existing Claim</a></li>
+    <li><a href="/Blank DD 1842.pdf?JA=1080986">Blank DD form 1842</a></li>
+    <li><a href="/Blank DD 1844.pdf?JA=1080986">Blank DD form 1844</a></li>
+
+
+   
+    <li><a<br><br><br><b> Not Air Force?</b><form name="services" id="form">
+    <li><a href="https://customersupport.jag.af.mil/reference/Army_claims_info.htm">Army</a></li>
+    <li><a href="http://www.jag.navy.mil/organization/code_15.htm">Navy</a></li>
+    <li><a href="http://www.hqmc.marines.mil/Agencies/Headquarters-and-Service-Battalion/S-4-Logistics/Distribution-Management-Office/">Marines</a></li>
+    <li><a href="http://www.fincen.uscg.mil/hhg.htm">Coast Guard</a></li>
+
+   
+<!--<br><br><br><b>Not Air Force </b><form name="services" id="form">
+    <select name="jumpMenuGoser" id="jumpMenuGoser">
+      <option value='' selected='selected'>Select Service</option>
+<option value="/reference/Army_claims_info.htm">Army</option>
+      <option value="http://www.jag.navy.mil/organization/code_15.htm">Navy</option>
+      <option value="https://www.manpower.usmc.mil/portal/page/portal/M_RA_HOME/MF/C_PERSONNEL/Property">Marines</option>    <option value="http://www.fincen.uscg.mil/hhg.htm">Coast Guard</option>
+      </select>
+    <input type="button" name="go_button2" id="go_button2" value="Go" onClick="MM_jumpMenuGoservice('jumpMenuGoser','parent',0)" />
+-->
+  </form>
+	</a<br></li></ul></div>
+
+<title>Air Force Claims Welcome</title>
+
+<script type="text/javascript">
+
+function popmeup(){
+
+popupwin=document.open("1840.jpg","_blank","height=540,width=500,left=375,top=300,menubar=no,toolbar=no,resizable=no,scrollbars=yes")	
+
+}
+function popmeup1(){
+
+popupwin=document.open("GBL.jpg","_blank","height=540,width=500,left=375,top=200,menubar=no,toolbar=no,resizable=no,scrollbars=yes")	
+
+}
+
+function show_questions(lookvar){
+
+if (lookvar.value  == 'Yes'){
+
+document.all.item('body_sub1').style.display = 'block'
+
+}
+
+else{
+
+document.all.item('body_sub1').style.display = 'none'
+
+}
+
+}
+
+</script> 
+<script type="text/javascript">
+<!--
+function MM_jumpMenuGo(objId,targ,restore){ //v9.0
+  var selObj = null;  with (document) { 
+  if (getElementById) selObj = getElementById(objId);
+  if (selObj) eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0; }
+}
+//-->
+</script>
+
+<!--
+<div id="content" style="width:800px; top:-250px;">
+<div id="content" style="width:800px">
+-->
+<div id="content" style="width:800px; top:-175px;">
+
+
+		
+	
+
+	<h2 style="font-size:18pt;">
+		&nbsp;&nbsp;&nbsp;&nbsp;Welcome to the Air Force Claims Service Center<br><br>
+<br>
+
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font style="font-size:16pt">What would you like to do? </font></h2>
+
+		
+<!--	<h2 style="font-size:16pt">Scheduled Outages!!</font></h2>
+-->
+ 
+
+<br>
+
+If you are within two weeks of your 2 year statute of limitations (2 years from the date of delivery or date of incident) please contact the AFCSC at DSN 986-8044 or 1-877-754-1212 for additional guidance. <br><br> 
+
+<br>
+<!--
+
+<font style="font-size:11pt"><b><DD>&diams; 1800hrs CDT 16 Aug 17 - 1800hrs CDT 19 Aug 17.
+
+<br/>
+
+
+<h2 style="font-size:16pt">Scheduled Outages!!</font></h2>
+
+
+</b>Attention:  The Air Force Claims Service Center Web Site will be down on Monday, September 25 starting at 0700-1100 hrs CST. We apologize for any delays. If you need immediate assistance please call please call us at 1-877-754-1212 or DSN 986-8044 and we'll be happy to address your issues.  </b><br/>
+
+
+-->
+<br>
+<br>
+
+<!--
+
+	</h2>
+<h2 style="font-size:16pt">Attention!!</font></h2>
+<font style="font-size:11pt">Please be advised that the Service Center is presently adjudicating a large number of claims for personnel assigned to
+ Laughlin AFB, TX who have suffered a loss due to a severe weather event which occurred on 22 Feb 16.  The claims of Laughlin AFB airmen and those who were TDY to Laughlin
+ at the time of the severe weather event take priority over other claims.  We ask for your understanding that some claims may be delayed.
+<br/>
+<br/>
+
+
+
+
+<!--
+
+
+
+
+
+<h2 style="font-size:14pt">CSC Call Center Hours!!</font></h2>
+
+Due to our current manpower situation, our representatives will only be available to receive telephone calls between the hours of 0900 and 1500 hours EST.  We apologize for this inconvenience and we hope that this measure will only be necessary for the short term.  If you call outside of the hours of operation for receiving telephone calls, please leave your name, a brief message and a telephone number where you can be reached, and your call will be returned as soon as possible.  You may also send the Center an email with your inquiry to afcsc.ja@us.af.mil.  Thank you for your understanding.
+
+<br/>
+<br/>	
+
+
+
+
+<font style="font-size:11pt"><DD><b>&diams; Wednesday, 18 FEB 2015 at 0800 - 1700 CST for Operating Systems Patch and Upgrade.
+<br/>	 
+
+
+
+<font style="font-size:11pt"><DD><b>&diams; Intermittent outages 24 - 26 FEB 2015 system software upgrade.
+
+<br/>
+
+<font style="font-size:11pt"><DD><b>&diams; Saturday, 28 FEB 2015 at 0800 - 1700 CST for Operating Systems Patch and Upgrade.
+<br/>	
+
+
+	</h2>
+-->
+	
+<!-- Shane,
+
+Do you have the ability to remove the "File My Loss/Damage Report" button from claims.jag.af.mil?  
+
+If you don't have the ability to do so, please let me know.  Thanks!
+
+v/r
+
+J.D. REESE
+Chief, Claims Service Center
+Air Force Legal Operations Agency
+DSN 986-8351 comm: 937 656-8351 fax x-8307
+
+		<form method ="link" action="1840r0.php">
+		<input style="width:210;height:25" type="submit" value="File My Loss/Damage Report" /> 
+		Put your carrier on notice that you have additional loss/damage after delivery.</form> -->
+
+	<form method="link" action="./claims">
+		<input style="width:210;height:25" type="submit" value="Continue Existing Claim">
+		Forgot password? <a href="claims_help.php">contact us</a>
+	</form>
+	<form method="link" action="FRVprocessing.php">
+		<input style="width:210;height:25" type="submit" value="File Household Goods Claim">
+		Includes hold baggage, shipped motorcycles and shipped vehicles.
+	</form>
+	<form method="link" action="claimant.htm">
+		<input style="width:210;height:25" type="submit" value="File Non Household Goods Claim">
+		Includes disaster claims, food spoilage, thefts, vandalism, etc.
+	</form>
+	<form method="link" action="legalassistance/index.php">
+		<input style="width:210;height:25" type="submit" value="Go To the User's Guide">
+		All the background you need to file a claim with us.
+	</form>
+	
+	<h1>Key Dates to Remember</h1> 
+
+<!--  
+If so, please remove the button and change the language on the same page under "Key Dates to Remember" from "Not Later Than 75 DAYS FROM DELIVERY - File your Loss/Damage Report directly with the carrier (or file it online with us)" to "Not Later Than 75 DAYS FROM DELIVERY - File your Loss/Damage Report directly with the carrier or in the DPS Claims Module at www.move.mil (you must log into your DPS account to do so.)"
+
+If you don't have the ability to do so, please let me know.  Thanks!
+
+v/r
+
+J.D. REESE
+Chief, Claims Service Center
+Air Force Legal Operations Agency
+DSN 986-8351 comm: 937 656-8351 fax x-8307
+ 
+	<p><b>Not Later Than 75 DAYS FROM DELIVERY</b> - File your Loss/Damage Report directly with the carrier (or file it online with us).</p> -->
+
+	<p><b>Not Later Than 75 DAYS FROM DELIVERY</b> - File your Loss/Damage Report directly with the carrier or in the DPS Claims Module at www.move.mil (you must log into your DPS account to do so.).</p>
+	    
+	<p><b>Not Later Than 9 MONTHS FROM DELIVERY</b> - File your claim directly with the carrier for Full Replacement Value protection.</p>
+	    
+	<p><b>Not Later Than 2 YEARS FROM DELIVERY</b> (but after 9 months) - File your claim directly with the Claims Center under the standard depreciation rules.</p>
+	    
+	
+
+	<p><b>Not later than 30 DAYS FROM THE DATE OF PICKUP AT THE VEHICLE PROCESSING CENTER - </b> Contact the base legal office if you find additional vehicle damage and
+ it was NOT annotated on the Vehicle Inspection and Shipping Form.  They will inspect your vehicle and document the later discovered damage.</p>
+	    
+	<br>
+	  
+	If you have questions, <a href="claims_help.php">contact us</a>
+	  
+</div>
+<table width="800" border="0" cellpadding="0" cellspacing="0" id="table1" style="border-left-width: 1px; border-right-width: 1px; border-top-style: solid; border-top-width: 1px; border-bottom-width: 1px; position:absolute; bottom:-100px; left:0px; width: 1119px;">
+<tbody><tr>
+<td width="549"><font size="3"> 
+          &nbsp;Claims Service Center at 1-877-754-1212,&nbsp; or email:&nbsp;&nbsp; 
+<a href="mailto:afcsc.ja@wpafb.af.mil">AFCSC.JA@us.af.mil&nbsp;</a>  
+        </font></td><td width="1">
+<!--<td width="399" align="right"  class="footerlink"><font size=3> -->
+</td><td width="559" align="right" class="footerlink"><font size="3">
+|<a href="/template_footer_contactus.html" class="footerlink" target="_blank">Contact Us</a> 
+|<a href="legalassistance/index.php" class="footerlink" target="_blank">User's Guide</a>
+|<a href="/faq.html" class="footerlink" target="_blank">FAQ</a> 
+|<a href="/template_footer_privacyact.html" class="footerlink" target="_blank">Privacy Act</a>
+|<a href="/508stmt.html" class="footerlink" target="_blank">Accessibility/Sec 508 and Government Links</a>
+</font></td>
+</tr>
+</tbody></table>
+
+
+</div></div></body></html>

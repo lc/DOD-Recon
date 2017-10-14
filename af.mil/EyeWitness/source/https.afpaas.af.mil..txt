@@ -1,0 +1,334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd"><!--c27afpsspsc04w_AFPAAS--><html><head><title>Air Force Personnel Accountability and Assessment System (AFPAAS)</title>
+<!--<meta http-equiv="ExpiresAbsolute" content=Now()-1>-->
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-cache">
+	<link href="themes/AFPAAS/css/login.css" rel="stylesheet" type="text/css">
+	<link href="themes/AFPAAS/css/public.css" rel="stylesheet" type="text/css">
+	<link href="themes/AFPAAS/css/privacy-act.css" rel="stylesheet" type="text/css">
+	<link href="themes/AFPAAS/css/sticky.css" rel="stylesheet" type="text/css">
+	<style style="text/css">
+	body {
+		margin: 0px; 
+	}
+	#login {
+		display: none;
+	}
+	</style>
+<script language="javascript" type="text/javascript">
+try {
+  document.execCommand("BackgroundImageCache", false, true);
+}
+catch(e) {};
+// bust out of nested frames...
+
+  function init()
+  {
+	  if (top.location != location)
+		{
+			top.location.href = document.location.href;
+		}
+    /*if((window.parent.length == 0) && (window.top.frames.length == 0))
+    {
+      if(window.opener)
+      {
+        var oParent = window.opener;
+        //oParent.location.reload();
+        oParent.top.mainFrame.location.href = document.location.href;
+        deleteCookie("NEPWindowFrames", "/");
+        window.close();
+      }
+    }*/
+    dodConfirm();
+
+		  //Resize only if the session timeout is not in the public page.
+			if(opener)
+			{
+				//JavaScript automatically resizes the browser window
+					//when the window is loaded within a Web page. 
+				if(document.all)
+				{
+					window.moveTo(0,0);
+					var x = (screen.availWidth/2) + 250;
+					var y = (screen.availHeight/2) + 200;
+					top.window.resizeTo(x,y); //IE7+
+				}
+				else if(document.layers||document.getElementById)
+				{
+					if(top.window.outerHeight<screen.availHeight||top.window.outerWidth<screen.availWidth)
+					{
+						window.moveTo(0,0);
+						top.window.outerHeight = (screen.availHeight/2) + 250;
+						top.window.outerWidth = (screen.availWidth/2) + 200;
+					}
+				}
+			}
+	
+  }
+  function dodConfirm()
+  {
+    alert(
+			  'You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only. \n'
+			+ 'By using this IS (which includes any device attached to this IS), you consent to the following conditions:\n\n' 
+			+ '  - The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to,\n'
+			+ '      penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), law\n'
+			+ '      enforcement (LE), and counterintelligence (CI) investigations.\n\n' 
+			+ '  - At any time, the USG may inspect and seize data stored on this IS. \n\n'
+			+ '  - Communications using, or data stored on, this IS are not private, are subject to routine monitoring, interception,\n'
+			+ '      and search, and may be disclosed or used for any USG-authorized purpose.\n\n' 
+			+ '  - This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your\n'
+			+ '      personal benefit or privacy. \n\n'
+			+ '  - Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching or \n'
+			+ '      monitoring of the content of privileged communications, or work product, related to personal representation or\n'
+			+ '      services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product \n'
+			+ '      are private and confidential.' 
+			  );
+  }
+  
+	var loginButtonIds = ["loginBtn1", "loginBtn2"];
+	function disableLoginOnclickHandler()
+	{
+		for (var i=0; i<loginButtonIds.length; i++)
+		{
+			document.getElementById(loginButtonIds[i]).onclick='';
+		}
+	}
+</script>
+</head>
+<body onload="init();" class="bg-img">
+	
+		<div style="background:#00AA00; font-family: sans-serif; font-size:1.4em; font-weight:bold; color:white; text-align:center">***** Unclassified//For Official Use Only *****</div>
+	
+
+
+<div id="bodyTag">
+<form id="login" method="post" action="login?service=https%3A%2F%2Fafpaas.af.mil%2F" autocomplete="off">
+
+	  <input type="hidden" name="lt" value="LT-376010-DcPXwaDfx3APLHkHLO11AgfyYUaaXO-paas">
+      <input type="hidden" name="execution" value="bfb3336b-e145-48dc-8cfb-2e42db538178_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">
+      <input type="hidden" name="_eventId" value="submit" alt="Submit">
+
+</form>
+<!-- form id="loginlb" method="post" action="publicView.jsp">
+	<input type="hidden" name="nopublic" value="true" />
+	<input type="hidden" name="ciaclb" value="true" />
+	<input type="hidden" name="lt" value="bfb3336b-e145-48dc-8cfb-2e42db538178_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" />
+	<input type="hidden" name="_eventId" value="submit" />
+	<input type="hidden" name="actionStr" value="login?service=https%3A%2F%2Fafpaas.af.mil%2F" />
+</form -->
+
+<div id="include-hdr"><div id="include-hdr-image"></div></div>
+<div id="tile-bg-sml" style="margin:0; padding:0;">
+<div id="body-width">
+<div id="side-bar">
+<div id="side-bar-top"></div>
+<div id="side-bar-inner" style="width: 282px; padding: 0; margin: 0;">
+<div style="padding: 1.5em; padding-top: 1em;" id="side-content">
+<p>Air Force Personnel Accountability and Assessment System (AFPAAS) standardizes a method for the Air Force to account, assess, manage, and monitor the recovery and reconstitution process for personnel and their families affected and/or scattered by a wide-spread catastrophic event. AFPAAS provides valuable information to all levels of the Air Force chain of command, allowing commanders to make strategic decisions which facilitate a return to stability.</p>
+<p class="fieldset-title"><strong> AFPAAS allows Air Force Personnel to do the following: </strong></p>
+<div class="ul-side-bar" style="clear:both;">
+<p>
+</p><ul>
+
+<li style="margin-top:0; margin-bottom:0;">Report Accounting Status</li>
+<li style="margin-top:0; margin-bottom:0;">Update Contact/Location Information</li>
+<li style="margin-top:0; margin-bottom:0;">Complete Needs Assessment</li>
+<li style="margin-top:0; margin-bottom:0;">View Reference Information</li>
+
+</ul>
+<p></p>
+</div>
+</div>
+</div>
+<div id="side-bar-bot"></div></div>
+<table border="0" cellpadding="0" cellspacing="0" id="content-tbl">
+<tbody><tr valign="bottom">
+<td colspan="3"><div style="clear:both;" id="content-hdr"></div></td>
+</tr>
+<tr>
+<td width="15" id="content-rim-l"><div id="content-rim-l-inner"></div></td>
+<td align="center" valign="top" id="content-top">
+	<div class="montage" alt="montage image of people"></div>
+<div id="content-mid" style="clear:both;">
+  <div>
+    
+		<!-- END STICKY COMMENT -->
+			
+		
+<!-- FULL CLICK HERE TABLE BEGIN -->
+    <table width="100%" border="0" cellspacing="0" cellpadding="2" class="bg-grade">
+  <tbody>
+    <tr>
+      <td valign="top" width="50%">
+		<div class="hdr-txt"><span class="lgn-cats">Airmen / Civilians
+</span><br>
+			<div class="sponsor-lgn-cats-desc" style="font-size:90%;">To update your family and contact information</div>
+		</div>	  
+      </td>
+	  <td width="3" valign="top" rowspan="3" style="background-color:white;">&nbsp;</td>
+      <td valign="top" width="50%">
+		<div class="hdr-txt"><span class="lgn-cats">All Air Force Support,<br> Authorized Personnel and Staff</span>
+			
+		</div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="btn-login">
+		<div align="center">
+
+	<!-- btn1 start -->	  
+		<div id="login-fm">
+		<a href="javascript:;" id="loginBtn1" onclick="javascript:forms['login'].submit(); disableLoginOnclickHandler();" tabindex="2">
+			<div class="btn2">
+				<div class="btn2-text">
+						<span style="position: absolute !important; clip: rect(1px 1px 1px 1px);">U.S Air Force Employees and Contractors to update your contact information and accountability status,</span> Click Here
+				</div>
+			</div>
+		</a>
+		</div>
+	<!-- btn1 end -->	
+
+	</div>
+
+	<p id="pki-mems1">
+		Includes Active Duty, Air National Guard, Reservists, Air Force Civilian Employees, NAF Employees, and their Family Members, as well as OCONUS Contractors affected by an event.
+		
+			<br>
+			</p><div class="sticky-small">
+				<div class="text-pad">
+					<span class="alert">Note:PIRR(Cat E) / IRR Reservists and contractors in the Continental U.S. can NOT login at this time.</span>
+				</div>
+				<div class="sticky-small-bottom" align="left"><img src="themes/AFPAAS/images/sticky-corner-left.png"></div>
+			</div>
+		
+	<p></p>
+      </td>
+      <td valign="top">
+	  
+		<div align="center" class="btn-login">
+					
+						<a href="https://afpaassupport.af.mil?nopublic=true" tabindex="3">
+						  <div class="btn2">
+						    <div class="btn2-text">
+						           <span style="position: absolute !important; clip: rect(1px 1px 1px 1px);">U.S Air Force Support, Authorized Personnel and Staff</span> Click Here
+						   </div>
+						 </div>
+						</a>
+
+
+			  
+        </div>
+
+
+        <div align="center" class="btn-txt">(CAC Required for Access)</div>
+			<p align="center" id="pki-mems2">To perform duties for COR, MPF, MAJCOM, Personnel Accountability, Analysis &amp; Reporting, Case Management and other related tasks.</p>
+
+      </td>
+    </tr>
+       <tr>
+        <td colspan="3" valign="top">
+			<div style="padding: 1.5em 1.5em .5em 1.5em; clear:both;">
+				<fieldset>
+				<legend style="margin-bottom:0; clear:both;">Login Problems</legend>
+
+				<div style="font-size: .85em; margin-top:0; padding-top:0;">
+				If you have problems accessing AFPAAS, <a tabindex="4" title="mailto:afpaas@spawar.navy.mil" href="mailto:afpaas@spawar.navy.mil?Subject=AFPAAS Access Problems from Public Page"><strong><u>click here</u></strong></a> to send an email for assistance.&nbsp; Please include your name, phone number and PAS Code (if possible) in order for us to contact you.&nbsp; <strong>Please do <u>NOT</u> include SSN/DOB.</strong>
+				</div>
+
+				</fieldset>
+			</div>
+		</td>
+      </tr>
+  </tbody>
+    </table>
+	<!-- FULL "CLICK HERE" TABLE END -->
+  </div>
+</div></td>
+<td width="15" id="content-rim-r"><div id="content-rim-r-inner"></div></td>
+</tr>
+
+<tr valign="top">
+<td colspan="3"><div id="content-ftr"></div></td>
+</tr>
+</tbody></table>
+<!--table was here -->
+        <div id="include" align="center">
+		<p>
+		  <br>
+        	<!--cas/includes/ Footer Code: Start-->
+
+<!-- include does not inherit this width="960" I need a class-->
+
+</p><p>
+</p><div id="ftr-div">
+<table height="40" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td valign="middle" align="right"><div id="ftr-div-end-lft"></div></td>
+    <td class="ftr-bg-lft" align="left" valign="middle">Contact <a title="mailto:afpaas@spawar.navy.mil" href="mailto:afpaas@spawar.navy.mil?Subject=AFPAAS">AFPAAS Support</a></td>
+    <td class="ftr-bg-cntr" align="center" valign="middle">This is an Official U.S Air Force Web Site</td>
+    <td class="ftr-bg-rgt" align="right" valign="middle"><a title="Privacy &amp; Security Notice" onclick="popPriv = window.open('', 'tellPrivacy', 'toolbar=no,directories=no,resizable=yes,menubar=no,status=yes,scrollbars=yes,width=1000,height=450,top=40,left=50');popPriv.focus();" href="/cas/privacy_notice.jsp" target="tellPrivacy">Privacy &amp; Security Notice</a></td>
+      <td valign="middle" align="left"><div id="ftr-div-end-rgt"></div></td>
+    </tr>
+</tbody></table></div>
+<p></p>
+
+
+
+<p style="text-align:justify;" id="ftr" align="justify">
+<font size="-2">SSN and DOB are used by AFPAAS for user login and authentication only. They are sent to AFPAAS in encrypted format. SSN and DOB information already resides in AFPAAS and is not captured and stored from login. They are not displayed in AFPAAS in any form and is not used for any purpose other than U.S Air Force-approved personnel accountability. Users can change their password from DOB after login by going to the "My Info" page.</font>
+</p>
+
+<!--Footer Code: End-->
+
+			<!-- Privacy Act Statement Begin-->
+
+	<p>
+		</p><div class="privy-shadow">
+			<div class="alert">
+				<p class="privy-title" align="center">Privacy Act Statement</p>
+				<table border="0" class="privy-table" cellpadding="2" cellspacing="0" width="100%">
+					<tbody><tr>
+						<td class="privy-cat">Authority:</td>
+						<td class="privy-def">Title 10 U.S.C. 8013; Air Force Instruction 36-3803; DoDI 3001.02; and E.O. 9397 (SSN), as amended</td>
+					</tr>
+					<tr>
+						<td class="privy-cat">Purpose:</td>
+						<td class="privy-def">To provide a means of positive identification for the purpose of processing applications or retrieving data.</td>
+					</tr>
+					<tr>
+						<td class="privy-cat">Routine Uses:</td>
+						<td class="privy-def">None</td>
+					</tr>
+					<tr>
+						<td class="privy-cat">Disclosure:</td>
+						<td class="privy-def">Voluntary. Failure to provide the requested information may result in a delay or termination of your request.</td>
+					</tr>
+					<tr>
+						<td class="privy-disclaimer" colspan="2">
+							Privacy Act Information is not shared from this system to any other system or user. 
+							SSN and DOB information entered into AFPAAS is encrypted and compared with SSN and DOB information residing in Defense Manpower Data Center (DMDC),
+							an Authoritative Data Source for the Department of Defense. 
+							SSN and DOB are not displayed in AFPAAS in any form and are not used for any other purpose than U.S Air Force-approved personnel accountability.
+						</td>
+					</tr>
+				</tbody></table>
+			</div>
+		</div>
+	<p></p>
+<!-- Privacy Act Statement End-->
+
+			
+		  <br>
+			<span style="font-size:7.5pt;padding-bottom:20px;">
+				<span style="color:#000;">Please read our</span> <a style="text-decoration:none;" target="_blank" href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx">Section 508/Accessibility Statement</a>
+			</span>
+		  <br><br>
+			
+
+		<p></p>
+        </div>
+<!-- table was here -->
+</div></div></div>
+	
+
+</body></html>

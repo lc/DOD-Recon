@@ -1,0 +1,347 @@
+<!DOCTYPE html><html class="html js" lang="en" style=""><head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8" style="">
+  <meta name="description" content="WingTips provides a secure and easy-to-use online site for hosting discussion boards, sharing documents, and highlighting references in a non-attributional environment exclusively for US Air Force wing (and joint base) commanders" style="">
+  <meta name="keywords" content="US Air Force,Air Force,WingTips,WingCC, Wing Commanders,helpful tips,milBook Group,Wing Forums,AF Forums,collaboration,milSuite" style="">
+  <meta name="generator" content="7.2.232.244" style="">
+  <link rel="shortcut icon" href="images/wingtips-favicon.ico?4165041977" style="">
+  <title>WingTips (Wing CC and Vice Forum)</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?3970498369" style="">
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?3800535068" style="">
+  <link rel="stylesheet" type="text/css" href="css/index.css?530844764" id="pagesheet" style="">
+  <!-- Other scripts -->
+  <script type="text/javascript" style="">
+   document.documentElement.className += ' js';
+</script>
+    <!--custom head HTML-->
+   
+ </head>
+ <body>
+
+  <div class="shadow clearfix" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <div class="clearfix colelem" id="pu170"><!-- group -->
+     <div class="museBGSize browser_width grpelem" id="u170" style="width: 1200px; margin-left: -20px; left: 0px; margin-right: -1220px; padding-right: 0px;"><!-- group -->
+      <div class="clearfix" id="u170_align_to_page">
+       <div class="clip_frame grpelem" id="u1724"><!-- image -->
+        <img class="block" id="u1724_img" src="images/coc.png" alt="Image Wing Commander Change of Command" width="305" height="219">
+       </div>
+       <a class="nonblock nontext shadow gradient rounded-corners clearfix grpelem" id="u546-4" href="https://www.milsuite.mil/book/groups/afwcc"><!-- content --><p id="u546-2">LOGIN</p></a>
+      </div>
+     </div>
+     <a class="nonblock nontext MuseLinkActive clip_frame grpelem" id="u1774" href="index.html"><!-- image --><img class="block" id="u1774_img" src="images/title.png" alt="Title WingTips" width="437" height="95"></a>
+     <img class="grpelem" id="u2073-4" src="images/u2073-4.png" alt="United States Air Force Wing &amp; Vice-Wing Commanders' Toolkit" width="497" height="40"><!-- rasterized frame -->
+     <div class="PamphletWidget clearfix grpelem wp-slideshow-playing" id="pamphletu122"><!-- none box -->
+      <div class="ThumbGroup clearfix grpelem" id="u123"><!-- none box -->
+       <div class="popup_anchor">
+        <div class="sbg popup_element Thumb clearfix" id="pu124"><!-- group -->
+         <div class="popup_anchor">
+          <div class="popup_element gradient rounded-corners clearfix" id="u124"><!-- group -->
+           <div class="clearfix grpelem" id="u125-4"><!-- content -->
+            <p>About</p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="popup_anchor">
+        <div class="sbg popup_element Thumb clearfix wp-tab-active PamphletThumbSelected" id="pu126"><!-- group -->
+         <div class="popup_anchor">
+          <div class="popup_element gradient rounded-corners clearfix" id="u126"><!-- group -->
+           <div class="clearfix grpelem" id="u127-4"><!-- content -->
+            <p>Benefits</p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="popup_anchor">
+        <div class="sbg popup_element Thumb clearfix" id="pu128"><!-- group -->
+         <div class="popup_anchor">
+          <div class="popup_element gradient rounded-corners clearfix" id="u128"><!-- group -->
+           <div class="clearfix grpelem" id="u129-4"><!-- content -->
+            <p>What's Inside</p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u139popup">
+       <div class="ContainerGroup clearfix" id="u139" style="width: 0px; height: 0px;"><!-- stack box -->
+        <div class="Container rounded-corners clearfix grpelem wp-panel" id="u140" style="opacity: 1;"><!-- group -->
+         <div class="clearfix grpelem" id="u1533"><!-- group -->
+          <div class="clip_frame grpelem" id="u1682"><!-- image -->
+           <img class="block" id="u1682_img" src="images/colonel.jpg" alt="Air Force Colonel Insignia" width="117" height="66">
+          </div>
+          <div class="clearfix grpelem" id="u141-6"><!-- content -->
+           <p id="u141-2"></p><h1>Welcome to WingTips</h1><p></p>
+           <p id="u141-4">Provides a secure and easy-to-use on-line site for hosting discussion boards, sharing documents, and highlighting references in a non-attributional environment exclusively for US Air Force wing and vice-wing commanders.</p>
+          </div>
+         </div>
+        </div>
+        <div class="sbg Container clearfix grpelem wp-panel wp-panel-active" id="pu145" style="opacity: 0;"><!-- group -->
+         <div class="rounded-corners clearfix grpelem rgba-background" id="u145"><!-- group -->
+          <div class="clearfix grpelem" id="u1538"><!-- group -->
+           <div class="clearfix grpelem" id="u146-8"><!-- content -->
+            <p id="u146-2"><span>Benefits of WingTips</span></p>
+            <p id="u146-4">The premier collaborative environment exclusively for US Air Force wing and vice-wing commanders to share and retrieve lessons learned, success stories, and innovative ideas in a non-attributional setting.</p>
+            <p id="u146-6">“None of us is as smart as all of us” – Ken Blanchard</p>
+           </div>
+           <div class="rounded-corners clip_frame grpelem" id="u563"><!-- image -->
+            <div class="clip_frame" style="border-top-left-radius: 18px; border-top-right-radius: 18px; border-bottom-right-radius: 18px; border-bottom-left-radius: 18px;"><img class="block" id="u563_img" src="images/secaf-u563.jpg" alt="Air Force Chief of Staff" width="79" height="118"></div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="sbg Container clearfix grpelem wp-panel" id="pu150" style="display: none;"><!-- group -->
+         <div class="rounded-corners clearfix grpelem" id="u150"><!-- group -->
+          <div class="clearfix grpelem" id="u1619"><!-- group -->
+           <div class="clearfix grpelem" id="u151-4"><!-- content -->
+            <p id="u151-2">“Ramp-up to Command, Best Practices, Lessons Learned, Discussions with Peers, Need to Know Information, Inspection Gouge, Helpful Websites, Phone Numbers, and more!"</p>
+           </div>
+          </div>
+          <div class="clip_frame grpelem" id="u1649"><!-- image -->
+           <img class="block" id="u1649_img" src="images/eakerimg10.png" alt="" width="108" height="109">
+          </div>
+          <div class="clip_frame grpelem" id="u1933"><!-- image -->
+           <img class="block" id="u1933_img" src="images/eakerimg102.png" alt="Commanders' Professional Development School Shield" width="100" height="101">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="clearfix grpelem" id="u1932-4"><!-- content -->
+      <p>CAC REQUIRED</p>
+     </div>
+     <div class="clearfix grpelem" id="u2015-4"><!-- content -->
+      <p>WingTips Members</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pppslideshowu848"><!-- group -->
+     <div class="clearfix grpelem" id="ppslideshowu848"><!-- column -->
+      <div class="clearfix colelem" id="pslideshowu848"><!-- group -->
+       <div class="SlideShowWidget clearfix grpelem wp-slideshow-playing" id="slideshowu848"><!-- none box -->
+        <div class="popup_anchor" id="u866popup">
+         <div class="SlideShowContentPanel clearfix" id="u866" style="width: 0px; height: 0px;"><!-- stack box -->
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel" id="u921" style="opacity: 1;"><!-- image -->
+           <div id="u921_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="position_content" id="u921_img" data-src="images/csaf.jpg" src="images/csaf.jpg" alt="" data-width="641" data-height="428" width="641" height="428" style=""></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel wp-panel-active" id="u2948" style="opacity: 0;"><!-- image -->
+           <div id="u2948_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="position_content" id="u2948_img" data-src="images/060202-f-6809h-100.jpg" src="images/060202-f-6809h-100.jpg" alt="" data-width="642" data-height="429" width="642" height="429" style=""></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel" id="u2957" style="display: none;"><!-- image -->
+           <div id="u2957_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="position_content" id="u2957_img" data-src="images/100325-f-0000k-018.jpg" src="images/100325-f-0000k-018.jpg" alt="" data-width="642" data-height="459" width="642" height="459" style=""></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel" id="u2966" style="display: none;"><!-- image -->
+           <div id="u2966_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="position_content" id="u2966_img" data-src="images/100515-f-3495a-012.jpg" src="images/100515-f-3495a-012.jpg" alt="" data-width="642" data-height="802" width="642" height="802" style=""></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel" id="u2975" style="display: none;"><!-- image -->
+           <div id="u2975_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="position_content" id="u2975_img" data-src="images/100913-f-s4746-051-x1.jpg" src="images/100913-f-s4746-051-x1.jpg" alt="" data-width="642" data-height="437" width="642" height="437" style=""></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel" id="u2984" style="display: none;"><!-- image -->
+           <div id="u2984_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="position_content" id="u2984_img" data-src="images/aircraft_sr71_blackbird.jpg" src="images/aircraft_sr71_blackbird.jpg" alt="Multiple images of Air Force Planes" data-width="642" data-height="482" width="642" height="482" style=""></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel SSSlideLoading" id="u3002" style="display: none;"><!-- image -->
+           <div id="u3002_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="ImageInclude position_content" id="u3002_img" data-src="images/f-22%20raptor.jpg" src="images/blank.gif" alt="" data-width="642" data-height="428" style="visibility: hidden;"></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel SSSlideLoading" id="u3011" style="display: none;"><!-- image -->
+           <div id="u3011_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="ImageInclude position_content" id="u3011_img" data-src="images/f22_raptor_midair_refueling%2c_us_air_force.jpg" src="images/blank.gif" alt="" data-width="642" data-height="482" style="visibility: hidden;"></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame grpelem wp-panel SSSlideLoading" id="u3038" style="display: none;"><!-- image -->
+           <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="block ImageInclude" id="u3038_img" data-src="images/northrop-grumman-global-hawk-us-air-force2.jpg" src="images/blank.gif" alt="" data-width="642" data-height="361" style="visibility: hidden;"></div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel SSSlideLoading" id="u3047" style="display: none;"><!-- image -->
+           <div id="u3047_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="ImageInclude position_content" id="u3047_img" data-src="images/us%20air%20force%20f-15e%20strike%20eagle.jpg" src="images/blank.gif" alt="" data-width="641" data-height="724" style="visibility: hidden;"></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel SSSlideLoading" id="u3056" style="display: none;"><!-- image -->
+           <div id="u3056_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="ImageInclude position_content" id="u3056_img" data-src="images/us%20air%20force%20kc-135%20stratotanker.jpg" src="images/blank.gif" alt="" data-width="642" data-height="418" style="visibility: hidden;"></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel SSSlideLoading" id="u3065" style="display: none;"><!-- image -->
+           <div id="u3065_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="ImageInclude position_content" id="u3065_img" data-src="images/usaf_mh_53m.jpg" src="images/blank.gif" alt="" data-width="642" data-height="401" style="visibility: hidden;"></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel SSSlideLoading" id="u3074" style="display: none;"><!-- image -->
+           <div id="u3074_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="ImageInclude position_content" id="u3074_img" data-src="images/usaf-osprey-tilt-rotor-aircraft-wallpaper.jpg" src="images/blank.gif" alt="" data-width="642" data-height="473" style="visibility: hidden;"></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel SSSlideLoading" id="u867" style="display: none;"><!-- image -->
+           <div id="u867_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="ImageInclude position_content" id="u867_img" data-src="images/131016-f-wu507-913.jpg" src="images/blank.gif" alt="" data-width="641" data-height="445" style="visibility: hidden;"></div>
+           </div>
+          </div>
+          <div class="SSSlide rounded-corners clip_frame clearfix grpelem wp-panel SSSlideLoading" id="u899" style="display: none;"><!-- image -->
+           <div id="u899_clip">
+            <div class="clip_frame" style="border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 10px;"><img class="ImageInclude position_content" id="u899_img" data-src="images/csafwingcc.jpg" src="images/blank.gif" alt="" data-width="641" data-height="418" style="visibility: hidden;"></div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="clip_frame grpelem" id="u474"><!-- image -->
+        <img class="block" id="u474_img" src="images/raise.png" alt="" width="644" height="18">
+       </div>
+      </div>
+      <div class="clearfix colelem" id="u1982-4"><!-- content -->
+       <p></p><h2>Ever wonder what other CCs are doing to address a similar issue?</h2><p></p>
+      </div>
+      <img class="colelem" id="u1983" src="images/u1983.png" alt="" width="601" height="2"><!-- rasterized frame -->
+      <div class="clearfix colelem" id="u886-10"><!-- content -->
+       <p>Ever wonder if there are some hidden traps maybe someone should have told you about because they learned the hard way?</p>
+       <p>&nbsp;</p>
+       <p>Your USAF Commanders' School developed this site based on demand and input from numerous commanders in the field.&nbsp; The communications are only seen by fellow wing and vice-wing commanders and a select few trusted agents on the Commanders’ School Staff who will maintain the page (i.e., control access, content addition and removal, post questions on your behalf to maintain your anonymity, etc.)</p>
+       <p>&nbsp;</p>
+       <p>We want to ensure our courses and the new website are the best products possible for the leaders in the field. Thanks for your support of this effort!</p>
+      </div>
+     </div>
+     <div class="shadow gradient rounded-corners clearfix grpelem" id="u588"><!-- column -->
+      <div class="shadow gradient rounded-corners clearfix colelem" id="u791"><!-- column -->
+       <div class="clearfix colelem" id="u589-4"><!-- content -->
+        <p>Create An Account</p>
+       </div>
+       <div class="shadow gradient rounded-corners clearfix colelem" id="u761-4"><!-- content -->
+        <p id="u761-2">SIGN UP</p>
+       </div>
+       <div class="clearfix colelem" id="u760-4"><!-- content -->
+        <p>CAC REQUIRED</p>
+       </div>
+      </div>
+      <div class="clip_frame colelem" id="u2201"><!-- image -->
+       <img class="block" id="u2201_img" src="images/usaf_logo.png" alt="Air Force Logo" width="149" height="125">
+      </div>
+     </div>
+     <div class="PamphletWidget clearfix grpelem" id="pamphletu2498"><!-- none box -->
+      <div class="ThumbGroup clearfix grpelem" id="u2499"><!-- none box -->
+       <div class="popup_anchor">
+        <div class="Thumb popup_element wp-tab-active PamphletThumbSelected" id="u2502"><!-- simple frame --></div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u2510popup">
+       
+      </div>
+      <div class="popup_anchor">
+       
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="u936-8"><!-- content -->
+     <p id="u936-2">“The whole is greater than the sum of its parts”</p>
+     <p>-Aristotle</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+    </div>
+    <div class="verticalspacer" style="min-height: 1px;"></div>
+    <div class="shadow browser_width colelem" id="u465" style="width: 1200px; margin-left: -120px; left: 0px; margin-right: -1320px; padding-right: 0px;"><!-- group -->
+     <div class="clearfix" id="u465_align_to_page">
+      <div class="clearfix grpelem" id="u3139-19"><!-- content -->
+       <p id="u3139-12"><a class="nonblock" href="http://www.au.af.mil/au/privacy.asp">Privacy and Security Notice</a>&nbsp;| <a class="nonblock" href="http://www.maxwell.af.mil/library/foia.asp" target="_blank">Freedom of Information Act Program</a>&nbsp;| <a class="nonblock" href="http://www.af.mil/" target="_blank">US Air Force</a>&nbsp;| <a class="nonblock" href="http://www.au.af.mil/au/" target="_blank">Air University</a></p>
+       <p id="u3139-16"><a class="nonblock" href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx">Accessibilty/Section 508</a>&nbsp;| <a href="mailto:cpd.webmasters@us.af.mil">AU/Eaker Center/MST</a> | 334-953-3306 | Last Updated: April 2014</p>
+       <p>&nbsp;</p>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--[if lt IE 9]>
+  <div class="preload_images">
+   <img class="preload" src="images/u546-r-grad.png" alt=""/>
+   <img class="preload" src="images/u546-m-grad.png" alt=""/>
+   <img class="preload" src="images/u124-r-grad.png" alt=""/>
+   <img class="preload" src="images/u124-m-grad.png" alt=""/>
+   <img class="preload" src="images/u124-a-grad.png" alt=""/>
+   <img class="preload" src="images/u126-r-grad.png" alt=""/>
+   <img class="preload" src="images/u126-a-grad.png" alt=""/>
+   <img class="preload" src="images/u128-r-grad.png" alt=""/>
+   <img class="preload" src="images/u128-a-grad.png" alt=""/>
+   <img class="preload" src="images/u761-r-grad.png" alt=""/>
+   <img class="preload" src="images/u2730-r-grad.png" alt=""/>
+  </div>
+  <![endif]-->
+  <!-- JS includes -->
+  <script type="text/javascript" style="">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script><script src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript" style=""></script>
+  <script type="text/javascript" style="">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script src="scripts/museutils.js?4291592202" type="text/javascript" style=""></script>
+  <script src="scripts/jquery.musepolyfill.bgsize.js?291134478" type="text/javascript" style=""></script>
+  <script src="scripts/jquery.tobrowserwidth.js?3842421675" type="text/javascript" style=""></script>
+  <script src="scripts/webpro.js?3903299128" type="text/javascript" style=""></script>
+  <script src="scripts/musewpslideshow.js?138381373" type="text/javascript" style=""></script>
+  <script src="scripts/jquery.museoverlay.js?4250894771" type="text/javascript" style=""></script>
+  <script src="scripts/touchswipe.js?4156838003" type="text/javascript" style=""></script>
+  <script src="scripts/jquery.watch.js?4068933136" type="text/javascript" style=""></script>
+  <!-- Other scripts -->
+  <script type="text/javascript" style="">
+   $(document).ready(function() { try {
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+$('.browser_width').toBrowserWidth();/* browser width elements */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.initWidget('#pamphletu122', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'mouseover',deactivationEvent:'',autoPlay:true,displayInterval:6000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true}); });/* #pamphletu122 */
+Muse.Utils.initWidget('#slideshowu848', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:4000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,fullScreen:false})); });/* #slideshowu848 */
+Muse.Utils.initWidget('#pamphletu2498', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true}); });/* #pamphletu2498 */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+} catch(e) { Muse.Assert.fail('Error calling selector function:' + e); }});
+</script>
+   
+
+<div style="position: absolute; top: 0px; left: 0px; z-index: 100001; display: none;"><div style="position: absolute; top: 0px; left: 0px;"><div id="u2510" style="left: 0px; top: 0px; width: auto; height: auto; padding: 0px; margin: 0px; z-index: auto;"><div class="overlayWedge"></div></div></div><div class="LightboxContent" style="position: absolute; left: 0px; top: 0px;"><div class="ContainerGroup rgba-background clearfix" style="width: 880px; height: 682px; position: absolute; padding: 0px; left: 0px; top: 0px; border-width: 0px; background-image: none; background-position: initial initial; background-repeat: initial initial;"><!-- stack box -->
+        
+       <div class="Container rounded-corners clearfix grpelem wp-panel wp-panel-active" id="u2511" style="position: absolute; left: 0px; top: 0px;"><!-- column -->
+         <div class="clearfix colelem" id="u2711-4"><!-- content -->
+          <p>*Please Read All Instructions Before Proceeding*</p>
+         </div>
+         <div class="clearfix colelem" id="u2527-51"><!-- content -->
+          <p id="u2527-2">WingTips is to be used exclusively for non-attributional collaboration among USAF Wing and Vice Commanders.</p>
+          <p id="u2527-3">&nbsp;</p>
+          <p id="u2527-10"><span>(</span><span id="u2527-5">"</span><span id="u2527-6">Do Not Close</span><span id="u2527-7">" </span><span id="u2527-8">WingTips</span><span id="u2527-9">&nbsp;splash page while signing up, you will need to login from there)</span></p>
+          <p id="u2527-11">&nbsp;</p>
+          <p id="u2527-13">How to become a Member:</p>
+          <p id="u2527-14">&nbsp;</p>
+          <p id="u2527-21"><span id="u2527-15">1)</span>&nbsp; Start by becoming a <span id="u2527-17">"</span><span id="u2527-18">milSuite</span><span id="u2527-19">" </span>member; select the start button at the buttom of this window.&nbsp; You will be redirected to the milSuite secure sign-up page, where your CAC credentials will be</p>
+          <p id="u2527-23">verified.</p>
+          <p id="u2527-29"><span id="u2527-24">2)</span><span id="u2527-25">&nbsp; After verification, the milsuite website will open. </span><span id="u2527-26">&nbsp;</span><span id="u2527-27"><span class="actAsInlineDiv normal_text" id="u2729"><!-- content --><span class="actAsDiv rounded-corners clip_frame excludeFromNormalFlow" id="u2726"><!-- image --><div class="clip_frame" style="border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px;"><img id="u2726_img" src="images/pasted%20image%20873x613-u2726.jpg" alt="" width="115" height="81"></div></span></span></span><span id="u2527-28"></span></p>
+          <p id="u2527-30">&nbsp;</p>
+          <p id="u2527-31">&nbsp;</p>
+          <p id="u2527-32">&nbsp;</p>
+          <p id="u2527-39">3)&nbsp; <span id="u2527-34">Close the milSuite site and return to </span><span id="u2527-35">WingTips</span><span id="u2527-36">; request access to the MilBook site by selecting "LOGIN" button at the top of the page.&nbsp; You will be directed to the </span><span id="u2527-37">WingTips</span><span id="u2527-38">&nbsp;MilBook forum; where you must request access.</span></p>
+          <p id="u2527-40">&nbsp;</p>
+          <p id="u2527-41">&nbsp;</p>
+          <p id="u2527-42">&nbsp;</p>
+          <p id="u2527-47">4)<span id="u2527-44">&nbsp; All WingTips members are verified as Wing&nbsp; or Vice Commanders prior gaining access.&nbsp; After member verification you will receive a </span><span id="u2527-45">WingTips</span><span id="u2527-46">&nbsp;welcome message through your official email.</span></p>
+          <p id="u2527-48">&nbsp;</p>
+          <p id="u2527-49">&nbsp;</p>
+         </div>
+         <a class="nonblock nontext gradient rounded-corners clearfix colelem" id="u2730-4" href="https://login.milsuite.mil" target="_blank"><!-- content --><p id="u2730-2">START</p></a>
+        </div></div><div class="PamphletCloseButton PamphletLightboxPart popup_element rounded-corners clearfix" id="u2503" style="left: 842px; top: 14px;"><!-- group -->
+        <div class="clearfix grpelem" id="u2504-4"><!-- content -->
+         <p>X</p>
+        </div>
+       </div></div></div></body></html>

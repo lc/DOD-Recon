@@ -1,0 +1,133 @@
+<!-- Copyright 2001-2016, Northrop Grumman IS  --><!-- $Header: http://10.22.200.150/code/tags/ecp317b16_20160822/web/webjedmicsEar/webjedmicsWebApp/index.jsp 4605 2016-06-29 22:03:24Z eglinka $ --><!DOCTYPE html><!--%@ page errorPage="/error/jmx_err.jsp" language="java" %--><html><head>
+
+<!-- Copyright 2001-2016, Northrop Grumman IS  -->
+<!-- $Header: http://10.22.200.150/code/tags/ecp317b16_20160822/web/webjedmicsEar/webjedmicsWebApp/error/DisplayException.jsp 4207 2016-05-04 07:10:52Z estepp $ -->
+
+
+
+
+
+
+
+<script>
+var mRootFrame = null;
+function getRootFrame()
+{
+	try
+	{
+		if (mRootFrame == null) mRootFrame = window.top.document.getElementById("rootFrame").contentWindow;
+	} catch (e) {}
+	return mRootFrame;
+}
+	function statusLine(message)
+	{
+		window.status = message;
+	}
+	function stripComPrc(newmsg)
+	{
+            var index1;
+            var index2;
+            index1 = newmsg.indexOf("com.prc.");
+            if (index1 > -1)
+            {
+                index2 = newmsg.indexOf(":",index1);
+                if (index2 > -1)
+                {
+                	part1 = newmsg.substring(0, index1) + "\n";
+                	part2 = newmsg.substring(index2+1) + "\n";
+                	finalmsg = part1 + part2;
+                    return finalmsg;
+                }
+                else
+                {
+                    return -1;
+                }
+            }
+            else
+            {
+                return -1;
+            }
+	}
+
+	function stripAllComPrc(newmsg)
+	{
+		var finishedstrip = false;
+		var finalValue = newmsg;
+		while (!finishedstrip)
+	   {
+		 stripresult = stripComPrc(finalValue);
+		 if (stripresult == -1)
+		 {
+			finishedstrip = true;
+		 }
+		 else
+		 {
+			finalValue = stripresult;
+		 }
+	   }
+           if ( (finalValue == null)||(finalValue=="") )
+           {
+            finalValue = "An Unknown Exception Has Occurred";
+           }
+           try {
+           getRootFrame().alertMe(finalValue.replace(/ +/g, ' '));
+           } catch (e) {
+           	alert(finalValue.replace(/ +/g, ' '));
+           }
+	   return finalValue;
+	}
+</script>
+
+
+
+
+
+<script type="text/javascript" src="/webjedmics/csjs/cookie.js"></script>
+<title>WebJPC</title>
+<script>
+
+top.proxyId = "";
+top.errMsg = "";
+function fresh()
+{
+if ("no" == "yes" && (top.proxyId == null || top.proxyId.length < 1))
+{
+	alert("Proxy Id is not set.\n\n"+top.errMsg);
+}
+else if ("no" == "yes" && top.proxyId != null && top.proxyId.length > 2000)
+{
+	alert("Proxy Id is too long.");
+}
+else
+{
+top.siteHeader.location.reload();
+top.center.location.reload();
+}
+}
+
+</script>
+</head>
+
+
+<frameset id="theFrameSet" rows="20%,65%,15%,0%,0%" onload="fresh()">
+  <frame name="siteHeader" src="/webjedmics/splash/siteHeader.html" title="JEDMICS Homepage Site Header">
+  <frameset id="columnFrameset" cols="30%,50%">
+    <frame name="navBar" src="/webjedmics/splash/testingConnection.html" title="JEDMICS Homepage navigation bar">
+    <frame name="center" src="/webjedmics/splash/motd.html" title="JEDMICS Homepage Message of the Day">
+  </frameset>
+  <frame name="privacy" src="/webjedmics/splash/privacy.html" title="JEDMICS Homepage privacy statement">
+  <frame name="targetFrame" src="/webjedmics/splash/jmx_tst.jsp">
+  <frame name="activeX" src="/webjedmics/activecomponents/componentActivationCheck.jsp">    
+  
+  <noframes>
+  &lt;body&gt;
+
+  &lt;p&gt;This page uses frames, but your browser doesn't support them.&lt;/p&gt;
+
+&lt;/body&gt;
+  </noframes>
+</frameset>
+
+
+
+</html>

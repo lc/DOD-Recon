@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd"><!-- saved from url=(0018)http://www.af.mil/ --><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><title>Air Force Personnel Services - Web Applications</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<meta http-equiv="Refresh" content="1800;">
+<meta content="MSHTML 6.00.6002.18255" name="GENERATOR"><link href="css/AF.css" type="text/css" rel="stylesheet"><link href="css/nav_bar.css" type="text/css" rel="stylesheet"><link media="screen" href="css/lightbox.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
+<table class="bg_nav_blue" cellspacing="0" cellpadding="0" width="100%" border="0">
+  <tbody>
+  <tr>
+    <td valign="top" align="left" width="410"><a href="http://www.afpc.af.mil/index.asp"><img alt="Air Force Personnel Center" src="images/AFPC_banner.jpg" border="0"></a> </td>
+    <td>&nbsp;</td>
+<td valign="top" align="right" width="187"><a href="http://www.af.mil/index.asp"><img src="images/nav_04.jpg" alt="Air Force News" width="221" height="64" border="0"></a></td></tr></tbody></table>
+<table class="bg_nav_white" width="100%">
+  <tbody>
+  <tr>
+    <td style="WIDTH: 100px">
+      <ul id="topnav">
+        <li class="nav_1"><a class="nav_item" href="index.htm">&nbsp;&nbsp;&nbsp;&nbsp;HOME</a> 
+</li>
+      
+        </ul>
+      </td><td align="right"><a class="nav_headerlink" target="_blank" href="http://www.airforce.com">Join the Air Force</a></td>
+          
+    </tr></tbody></table><br>
+<div align="center">
+<table cellspacing="0" cellpadding="0" width="100%" height="400" border="0">
+  <tbody>
+  <tr align="top">
+    <td class="table_outline" bgcolor="white">
+      <table cellspacing="0" cellpadding="0" width="100%" height="400" border="0">
+        <tbody>
+        <tr>
+        
+        
+        <!-- Main Body -->
+          <td>
+            <table cellspacing="0" cellpadding="0" width="975" height="400" border="0">
+              <tbody>
+              <tr>
+                <td width="10"><img height="1" alt="" src="images/transparent.gif" width="10"></td>
+                  
+                  <!-- Content Starts Here -->
+                <td valign="top" align="left" width="100%">
+                  <table cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tbody>
+                    <tr valign="top">
+                    <td>
+                   
+                    
+                                
+                                
+                                <br>
+                                <p class="blue_tab_headline">Welcome to the Air Force Personnel Public Web Services</p>
+                                <p class="maintext">Welcome to the Air Force Personnel Center Web Applications site. This website was created to host publicly-accessible web applications for the general public as well as Air Force active duty, Guard, Reserve, and civilian members. For news and information, please visit the AFPC Public Website at <a href="http://www.afpc.af.mil" target="_blank">http://www.afpc.af.mil</a>. For total force personnel services information, visit <a href="http://mypers.af.mil" target="_blank">http://mypers.af.mil</a>.</p>
+                                <hr width="90%" color="#CCCCCC" align="center">
+                                
+                                
+                               <div align="center">
+
+<table border="0&quot;" align="left">
+
+<tbody><tr>
+<td>
+<a href="AwardsDMZNET40/Default.aspx" target="_blank"><img src="images/awards.png" alt="Information on service medals, campaign medals, and service ribbons" border="0" id="Image1"></a>
+</td>
+<td align="left">Service medals, campaign medals, and service ribbons denote participation by a service member in a campaign, war, national
+ emergency,expedition, or the fulfillment of specified Service requirements in a creditable manner. Those awards take precedence immediately after 
+ nonmilitary decorations and are normally worn in the order earned. However, actual precedence varies depending on the Service member’s branch of 
+ Military Service. Policies and procedures for non-Defense service awards and their appurtenances are determined by the Secretary concerned and, as such, 
+ appropriate Military Service regulations should be consulted in determining a Service member’s entitlement to a particular award.</td>
+<!-- <tr>
+    <td></td>
+    <td></td>
+ </tr>
+ <tr>
+    <td></td>
+    <td></td>
+ </tr>
+
+<tr>
+<td><img src="images/ideas.png" alt="The purpose of IDEAS application is to provide accurate personnel demographics for United States Air Force members" border="0" id="Image3"/></a></td>
+<td align="left" valign="bottom">
+Due to a system deactivation, the Interactive Demographic Analysis System (IDEAS) page and the Air Force Static Demographics page are not available on the public webpage at this time. These applications are accessible via myPers, then choose AFPC Secure, then choose RAW (accessible from .mil/.gov domains).  We will be migrating to a new public web site in the future. For student requests for Air Force personnel demographic information, we recommend you contact your servicing personnel office. We apologize for the inconvenience.</td>
+</tr>
+<tr>-->
+    <td></td>
+    <td></td>
+ </tr>
+ <tr>
+    <td></td>
+    <td></td>
+ </tr>
+ <tr>
+    <td></td>
+    <td></td>
+ </tr>
+<!--<tr>
+<td><img src="images/static_demographic_reports.png" alt="Static Demographic Reports" border="0" id="Image2"/></a></td>
+<td align="left" valign="middle">
+Due to a system deactivation, the Interactive Demographic Analysis System (IDEAS) page and the Air Force Static Demographics page are not available on the public webpage at this time. These applications are accessible via myPers, then choose AFPC Secure, then choose RAW (accessible from .mil/.gov domains).  We will be migrating to a new public web site in the future. For student requests for Air Force personnel demographic information, we recommend you contact your servicing personnel office. We apologize for the inconvenience.</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+ </tr>
+ <tr>
+    <td></td>
+    <td></td>
+ </tr>
+ <tr>
+    <td></td>
+    <td></td>
+ </tr>
+<tr>
+    <td></td>
+    <td></td>
+ </tr>
+ <tr>-->
+    <tr><td></td>
+    <td></td>
+ </tr>
+ <tr>
+    <td></td>
+    <td></td>
+ </tr>
+<tr>
+<td><a href="pcsmdmz/index.html"><img src="images/pcsm.jpg" alt="Pilot Candidate
+Selection Method" border="0" id="Image2"></a></td>
+<td align="left" valign="middle">
+The Test of Basic Aviation Skills (TBAS) is a computerized psychomotor test battery.  It is used as a tool for the 	selection of
+the United States Air Force pilot candidates.  The Pilot Candidate Selection Method (PCSM) score provides a measure of a candidate's aptitude for pilot
+training.</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+ </tr>
+ 
+</tbody></table>
+</div>
+     </td></tr></tbody></table></td>
+                                
+                                
+                <td width="5"><img height="1" alt="" src="images/transparent.gif" width="5"></td></tr></tbody></table></td></tr></tbody></table>
+				</td></tr></tbody></table></div><br>
+             
+<div align="center">
+<table cellspacing="0" cellpadding="0" width="980" border="0">
+  <tbody>
+  <tr>
+    <td class="table_outline">
+      <table height="39" cellspacing="0" cellpadding="0" width="100%" bgcolor="white" border="0">
+        <tbody>
+        <tr>
+          <td style="BACKGROUND-IMAGE: url(images/footer.jpg); BACKGROUND-REPEAT: no-repeat" align="left">
+            <div class="footer_row">The Official Web site of the Air Force Personnel Services </div></td>
+          <td valign="center">
+            <table cellspacing="0" cellpadding="0" width="100%" border="0">
+              <tbody>
+              <tr>
+                <td align="right" class="bluetext"><a class="nav_link" href="http://www.af.mil/">AF News</a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+                <a class="nav_link" href="http://www.afpc.af.mil/">AFPC</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    
+                    <a class="nav_link" href="mailto:afpc.pa.task@us.af.mil">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   
+                    
+		    <a class="nav_link" href="privacy.htm">Security and Privacy Notice</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                     <em>Last Reviewed: 26 Sept 2017</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   
+</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div>
+</body></html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <title>Trusted End Node Security</title>
+  <link rel="shortcut icon" href="/images/favicon.ico">
+  <link rel="stylesheet" type="text/css" href="tensstyles.css?201708271706">
+  <!--[if IE]><script type="text/javascript" src="html5shiv-3.7.3.min.js"></script><![endif]-->
+  <script src="tensweb.js" defer=""></script>
+  <meta name="verify-v1" content="422c5MEoOD6xnDj2M6fuFoqtgW5CJRE9rxR7iaQTBEI="><!-- included for google indexing -->
+  <meta name="y_key" content="1318ba825e87de97"><!-- included for yahoo indexing -->
+</head>
+<body>
+<div id="header"></div>
+<div id="container">
+<main id="mainbody" class="column" role="main">
+  <div class="bt" style="display: table; margin: 0 auto;">
+    <img src="/images/TENS_500x500.png" width="500" height="500" alt="alt text for logo">
+  </div>
+
+  <p>Trusted End Node Security (TENS) technology is developed and managed by the
+  Air Force Research Laboratory (AFRL) Information Directorate.  This program
+  began as the Anti-Tamper Software Protection Initiative in 2001 with its
+  flagship products Lightweight Portable Security and Encryption Wizard.  The
+  TENS program office offers products that provide network security from the
+  end node perspective while providing user capabilities of remote access,
+  secure web browsing, and file/folder encryption, in addition to other
+  initiatives.  The core products sustained by the TENS program are TENS-Public,
+  TENS-Professional, Bootable Media, and various forms of Encryption Wizard.
+  These products are intended to be used by the U.S. Department of Defense and
+  the rest of the Federal government, while also providing Public versions of
+  the software to the open source community, when possible.  The Public versions
+  are available for download on our website and are not customized.  AFRL has
+  a strong legacy of providing secure end node technology, with a supported
+  user base in the hundreds of thousands.  Please navigate the sidebar to
+  learn more about the products managed by the TENS program office.</p>
+
+  <div id="compatwarning" class="bt"></div>
+</main>  <!-- #mainbody -->
+
+<div id="leftside" class="column"> <!--@SIDEBAR BEGIN@-->
+ <div class="hovercat">
+  <a href="https://www.tens.af.mil/index.htm"><img src="/images/TENSweblogo.png" width="170" height="170" alt="TENS logo"></a>
+
+  <nav id="leftsidelinklist"><span class="sidebartitle">On&nbsp;This&nbsp;Site:</span><ul>
+    <li class="here"><a href="index.htm">Home</a></li>
+    <li><a href="threat.htm">Threat</a></li>
+    <li><a href="lipose.htm">Trusted&nbsp;End&nbsp;Node Security</a></li>
+    <ul>
+      <li><a href="bootme.htm">Bootable Media (BootMe)</a></li>
+      <li><a href="liposeFAQ.htm">FAQ</a></li>
+    </ul>
+    <li><a href="ewizard.htm">Encryption Wizard</a></li>
+    <ul>
+      <li><a href="ewizardFAQ.htm">FAQ</a></li>
+    </ul>
+    <li><a href="download.htm">Downloads</a></li>
+    <li><a href="https://cac.at.dod.afrl.hpc.mil/FEW/dodonly.htm">DoD&nbsp;Portal (<span class="highlightIfNotIE" style="color: red;">CAC required</span>)</a></li>
+    <li><a href="contactinfo.htm">Contact Us</a></li>
+  </ul></nav>
+
+  <noscript>You have disabled JavaScript in your browser.  Be aware that
+  certain pages on this site will not display correctly.</noscript>
+ </div>
+</div>  <!-- #leftside --><!--@SIDEBAR END@-->
+
+<div id="rightside" class="column">
+</div>  <!-- #rightside -->
+</div>  <!-- #container -->
+<div id="footer-wrapper"><div id="footer">
+  <a href="privacy.htm">Privacy and Security Notice</a>
+</div></div>
+<script>
+var tens = window.tens || {};
+tens.onload = tens.onload || [];
+tens.onload.push(function() {
+	warnAboutIE('compatwarning');
+});
+</script>
+
+
+
+</body></html>

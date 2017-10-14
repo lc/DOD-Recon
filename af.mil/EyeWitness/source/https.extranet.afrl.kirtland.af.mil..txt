@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>AFRL PRS Extranet</title>
+</head>
+
+<body>
+
+<table border="3" bordercolor="#000099" cellpadding="15" cellspacing="0" align="center" width="800">
+<tbody><tr><td>
+<h1>AFRL PRS Extranet</h1>
+
+<h2>Please enter the entire address of the PRS Extranet site<br>you are trying to access.<br> <br> 
+Please double check the URL and try again.</h2>
+</td></tr>
+</tbody></table>
+<br>
+
+
+<table border="3" bordercolor="#000099" cellpadding="15" cellspacing="0" align="center" width="800">
+<tbody><tr><td>
+<h2 align="center">*** GOVERNMENT WARNING *** </h2>
+
+
+<p align="justify">You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only. By using this IS (which includes any device attached to this IS), you consent to the following conditions: </p>
+<ul>
+<li>The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence (CI) investigations.  At any time, the USG may inspect and seize data stored on this IS.</li>
+<li>Communications using, or data stored on, this IS are not private, are subject to routine monitoring, interception, and search, and may be disclosed or used for any USG authorized purpose.</li>
+<li>This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your personal benefit or privacy.</li>
+<li>Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching or monitoring of the content of privileged communications, or work product, related to personal representation or services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product are private and confidential. See User Agreement for details.</li>
+</ul>
+<p align="Justify">This site is intended for the use of the Air Force Research Laboratory only. Do not reproduce or distribute the content of this site to a wider audience without coordination with the information owner and your unit public affairs office.</p>
+<p align="Justify">The security accreditation level of this Department of Defense system allows for handling of data that is Unclassified For Official Use Only and below. Do not use this web site to process, store, or transmit any information classified above the accreditation level of this system.</p>
+<p align="Justify">The appearance of hyperlinks to other sites does not constitute endorsement by the U.S. Air Force of this Web site or the information, products, or services contained therein. For other than authorized activities such as military exchanges and morale, welfare and recreation sites, the U.S. Air Force does not exercise any editorial control over the information you may find at these locations. Such links are provided consistent with the stated purpose of this DoD Web site.</p>
+<p align="Justify">Please contact <a href="mailto:afrl.vs.webmaster@kirtland.af.mil">AFRL/RD-RV WebMaster</a> if you find any portion of this website that are not viewable, unclear, or hazardous to you, due to a physical disability, so we may correct the problem as soon as possible.</p>
+
+</td></tr>
+</tbody></table>
+<br>
+<!--Footer --> <style typte="text/css">
+<!--
+.RequiredLinks
+{
+	FONT-WEIGHT: 500;
+	FONT-SIZE: 10px;
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+}
+-->
+</style>
+
+<div class="RequiredLinks" align="center">
+<a href="http://prs.afrl.kirtland.af.mil/Contact.aspx" class="RequiredLinks" target="_blank">Contact Info and Links</a>&nbsp;&nbsp;&nbsp;
+<a href="http://prs.afrl.kirtland.af.mil/Disclaimer.aspx" class="RequiredLinks" target="_blank">Privacy and Security</a>&nbsp;&nbsp;&nbsp;
+<a href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" class="RequiredLinks" target="_blank">508 Accessibility</a>&nbsp;&nbsp;&nbsp;
+<a href="http://www.afms.af.mil/suicideprevention/index.asp" class="RequiredLinks" target="_blank">AFSPP</a>&nbsp;&nbsp;&nbsp;
+<a href="http://www.af.mil/EqualOpportunity.aspx" class="RequiredLinks" target="_blank">EEO</a>&nbsp;&nbsp;&nbsp;
+<a href="http://www.foia.af.mil/" class="RequiredLinks" target="_blank">FOIA</a>&nbsp;&nbsp;&nbsp;
+<a href="http://www.af.mil/InspectorGeneralComplaints.aspx" class="RequiredLinks" target="_blank">IG</a>&nbsp;&nbsp;&nbsp;
+
+<a href="http://prhome.defense.gov/nofear" class="RequiredLinks" target="_blank">No Fear Act</a>&nbsp;&nbsp;&nbsp;
+
+<a href="http://www.afpc.af.mil/library/sapr/index.asp" class="RequiredLinks" target="_blank">SAPR</a>&nbsp;&nbsp;&nbsp;
+<a href="http://dcmo.defense.gov/publications/annual-performance-plan-annual-peformance-report.html" class="RequiredLinks" target="_blank">Strategic APR</a>&nbsp;&nbsp;&nbsp;
+<a href="http://www.usa.gov" class="RequiredLinks" target="_blank">USA.gov</a>&nbsp;&nbsp;&nbsp;
+</div>
+
+
+
+</body></html>

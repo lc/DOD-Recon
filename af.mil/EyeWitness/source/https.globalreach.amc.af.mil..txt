@@ -1,0 +1,351 @@
+<!DOCTYPE html><html><head>
+	<meta charset="utf-8">
+	<meta name="description" content="GLOBAL REACH provides online access to functions, processes and documents necessary to aid in the timely execution of the Air Mobility Command mission. This system validates authorized users through Air Force issued Common Access Cards.">
+
+	<title>Global Reach</title>
+
+	<link rel="stylesheet" type="text/css" href="/Media/StyleSheet/GlobalReach.css">
+
+	<style type="text/css">
+		DIV.container HEADER {
+			border-radius: 15px 15px 15px 15px !important;
+			-moz-border-radius: 15px 15px 15px 15px !important;
+			-webkit-border-radius: 15px 15px 15px 15px !important;
+			-o-border-radius: 15px 15px 15px 15px !important;}
+	</style>
+<link rel="shortcut icon" type="image/x-icon" href="/globalfavicon.ico">
+<script type="text/javascript" src="/Media/jquery-3.1.0.min.js"></script>
+<script type="text/javascript" src="/Media/jquery-ui-1.12.0.min.js"></script>
+<script type="text/javascript" src="/Media/jquery.jqGrid.min.js"></script>
+<script type="text/javascript" src="/Media/grid.locale-en.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/Media/ui.jqgrid.css">
+
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("BODY").append('<style type="text/css"> .ui-dialog-buttonpane{padding:0 !important;}.ui-dialog-content{padding:0 !important;overflow:hidden !important;}.ui-dialog-buttonpane{margin:0 !important;}.ui-dialog-buttonset{float:none !important;text-align:center !important;}DIV.ui-dialog-buttonset > .ui-button{width:160px !important;}.ui-widget-overlay{filter:alpha(Opacity=80) !important;background:black !important;opacity:.80 !important;}.ui-dialog-titlebar-close{display:none !important;}.ui-dialog{position:fixed;padding:.1em;width:300px;overflow:hidden;}</style> <div id="ModalRemark" title="USER POLICY STATEMENT NOTIFICATION" style="display:none;background-color:Gainsboro !important;"> <img src="/Media/ImagePolicyPrivate.gif?NoCache=20171013131751#" alt="Privacy Policy" width="600" height="300"> </div>');
+				$("BODY").append('<style type="text/css"> .ui-dialog-buttonpane{padding:0 !important;}.ui-dialog-content{padding:0 !important;overflow:hidden !important;}.ui-dialog-buttonpane{margin:0 !important;}.ui-dialog-buttonset{float:none !important;text-align:center !important;}DIV.ui-dialog-buttonset > .ui-button{width:160px !important;}.ui-widget-overlay{filter:alpha(Opacity=80) !important;background:black !important;opacity:.80 !important;}.ui-dialog-titlebar-close{display:none !important;}.ui-dialog{position:fixed;padding:.1em;width:300px;overflow:hidden;}</style> <div id="ModalUpload" title="UPLOAD POLICY STATEMENT NOTIFICATION" style="display:none;background-color:Gainsboro !important;"> <img src="/Media/ImagePolicyUpload.gif?NoCache=20171013131751" alt="" width="600" height="300"> </div>');
+				$(window).resize(function() {
+					$("DIV[id=ModalRemark]").dialog({autoOpen: false});
+					$("DIV[id=ModalRemark]").dialog("option", "position", "center");
+					$("DIV[id=ModalUpload]").dialog({autoOpen: false});
+					$("DIV[id=ModalUpload]").dialog("option", "position", "center");});});
+
+			fnRemarkPolicy=function(obj) {
+				setTimeout(function() { $("DIV.ui-widget-overlay").css("height", $(document).height()); }, 100);
+				fnModalRemarkPolicy(obj);}
+			fnUploadPolicy=function(obj) {
+				setTimeout(function() { $("DIV.ui-widget-overlay").css("height", $(document).height()); }, 100);
+				fnModalUploadPolicy(obj);}
+
+			fnModalRemarkPolicy=function(obj) {
+				$("DIV[id=ModalRemark]").dialog({
+					autoOpen: true,
+					height: 375,
+					width: 600,
+					resizable: false,
+					modal: true,
+					draggable: false,
+					buttons: [{
+						text: "I CERTIFY THE ABOVE",
+						click: function() {
+							eval(obj);
+							$(this).dialog("close");
+							}},{
+						text: "CANCEL",
+						click: function() {
+							$(this).dialog("close");}}]})}
+			fnModalUploadPolicy=function(obj) {
+				$("DIV[id=ModalUpload]").dialog({
+					autoOpen: true,
+					height: 375,
+					width: 600,
+					resizable: false,
+					modal: true,
+					draggable: false,
+					buttons: [{
+						text: "I CERTIFY THE ABOVE",
+						click: function() {
+							eval(obj);
+							$(this).dialog("close");
+							}},{
+						text: "CANCEL",
+						click: function() {
+							$(this).dialog("close");}}]})}
+		</script>
+</head>
+
+<body>
+	<div class="container">
+
+		<!-- HEADER START -->
+		<header><!-- GLOBAL REACH BANNER --></header>
+		<!-- HEADER END -->
+
+		<div style="overflow: hidden; background-color: transparent; padding: 0 5px 5px 5px;">
+			<!-- APPLICATION FRAME -->
+			<div class="ApplicationFrame">
+
+				<!-- ASIDE (SIDEBAR) START -->
+				<aside>
+					<div class="GlossContent">
+						<div class="GlossTop">DEPARTMENT OF DEFENSE COMMON ACCESS CARD (CAC) REQUIRED</div>
+
+						<br>
+						<img src="/Media/ImageCommonAccessCard.png" alt="CAC" width="191" height="128" style="float: left; margin: 10px 10px 10px 0;">
+
+						PKI certificates are required to access critical AF/DoD information gateways, including Outlook Web Access (OWA) for email, the AF Portal, AF networks and 
+						systems, and DoD Web sites. To enable a personal or non-government computer to access these official resources please go  
+						<a href="http://iase.disa.mil/pki-pke/getting_started" target="_blank">HERE</a>. You will find information needed to 
+						activate your CAC and access DOD websites at home and at work.<br>
+
+						<h2>PRIVACY ACT INFORMATION</h2>
+
+						The information accessed through this system is FOR OFFICIAL USE ONLY 
+						The security accreditation level of this site is UNCLASSIFIED//FOUO and below. Do not process, store, or transmit information classified above the 
+						accreditation level of this system. Privacy Act Information: Information accessed through this system must be protected in accordance with the Privacy Act 
+						of 1974, as amended, and Air Force Instruction 33-332.<br>
+
+						<div style="margin: 10px 2px 10px 2px; border-top: 1px dotted Black;"><!--DIVIDER--></div>
+
+						By logging on and agreeing to the Consent to Monitor notification that follows, you are digitally acknowledging your agreement with GLOBAL REACH in 
+						accordance with the information within the Consent to Monitor, and User Agreement.
+
+						<br><br>
+
+						All user accounts are placed into INACTIVE status after one calendar year without use. Once an account has been INACTIVE for six months the account will be 
+						automatically deleted from GLOBAL REACH. If you do not wish to have an account created for you, please do not press the LOGON button.
+
+						<br><br>
+
+						<a href="https://amclg.csd.disa.mil/" target="_blank">
+							The AMC G081 Global Reach webpage is NOT on this site, click here to redirect.
+						</a>
+					</div>
+				</aside>
+				<!-- ASIDE (SIDEBAR) END -->
+
+				<!-- ARTICLE START -->
+				<article>
+					<!-- SECION START -->
+					<section>
+						
+							<h1>WELCOME TO GLOBAL REACH</h1>
+
+							<br><br>
+
+							GLOBAL REACH provides online access to functions, processes and documents necessary to aid in the timely execution of the Air Mobility Command
+							mission. This system validates authorized users through Air Force issued Common Access Cards, Active Directory Domain Affiliation, and Global 
+							Address Listing.
+
+							<br>
+							<h2>INSERT YOUR COMMON ACCESS CARD TO LOGON</h2>
+
+							<div class="UserLogon" title="LOGON to GLOBAL REACH">
+								<img src="/Media/ImagePixelClear.gif" alt="PRESS HERE TO LOGON" width="1" height="1">&nbsp;
+							</div>
+						
+					</section>
+					<!-- SECION END -->
+
+					<!-- SECION START -->
+					<section>
+						<div class="GlossContent">
+							<div class="GlossTop">YOU ARE ACCESSING A U.S. GOVERNMENT (USG) INFORMATION SYSTEM (IS) PROVIDED FOR USG-AUTHORIZED USE ONLY</div>
+							<br>
+
+							<div class="Notice" style="font-size: 10px; color: Gray;">
+								The GLOBAL REACH information portal is only compatible with Microsoft Internet Explorer and is not intended for use with Mozilla-based browsers. 
+								This website is optimized for 1280 by 800 pixels and Microsoft Internet Explorer 11. JavaScript must be enabled for all areas. Client browsers 
+								must accept cookies. Session information is stored on the server, not on the client machine.
+
+								<br><br>
+
+								GLOBAL REACH Operations may delete user uploaded content without warning if the files violate PII, FOUO, or HIPAA requirements/guidance.
+
+								<br><br>
+
+								Individuals utilizing this information portal system from a civilian Internet Service Provider will not be permitted to upload files to GLOBAL 
+								REACH. All activity is closely monitored and recorded, any unauthorized or suspicious activity will be immediately reported to the Air Force Office 
+								of Special Investigations.
+							</div>
+						</div>
+					</section>
+					<!-- SECION END -->
+				</article>
+				<!-- ARTICLE END -->
+			</div>
+
+			<div style="padding: 5px 5px 0 15px; text-align: left; color: #57A2FF">
+				98
+			</div>
+		</div>
+	</div>
+
+	<!-- FOOTER START -->
+	<footer>
+		<p class="left">GLOBAL REACH Hours of Operation 0700 - 1600 US ET (Mon - Fri)</p>
+		<p class="right">Professionally Maintained At Joint Base Charleston <a href="https://globalreach.amc.af.mil">https://globalreach.amc.af.mil</a></p>
+		<p class="mid">Please use the online HELP DESK to request technical assistance</p>
+	</footer>
+	<!-- FOOTER END -->
+
+	
+	<form action="/User/GlobalReach/Content/UserValidation.cfm" method="post" name="FORM">
+		<input type="hidden" name="UserLogon" value="true">
+
+		
+		
+	</form>
+
+	
+	<div class="Dimmer">
+		<div class="LogonModal">
+			<div class="LogonNotice">IMPORTANT USER NOTICE:</div>
+			<div style="background-color: white; padding: 10px 30px 10px 30px;">
+				<div style="font-size: 17px; text-transform: uppercase;">
+					<img src="/Media/ImageIconAlert.png" alt="Alert" width="32" height="32" style="position: absolute; top: 16px; left: 4px;">
+					You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only.
+
+					<br><br>
+				</div>
+				<span id="LogonStatement">
+					<div style="font-size: 14px;">By using this IS (which includes any device attached to this IS), you consent to the following conditions:</div>
+					<ul>
+						<li>
+							The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, penetration testing, COMSEC 
+							monitoring, network operations and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence (CI) investigations.
+						</li>
+						<li>
+							At any time, the USG may inspect and seize data stored on this IS.
+						</li>
+						<li>
+							Communications using, or data stored on, this IS are not private, are subject to routine monitoring, interception, and search, and may be disclosed 
+							or used for any USG authorized purpose.
+						</li>
+						<li>
+							This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your personal benefit or privacy.
+						</li>
+						<li>
+							Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching or monitoring of the content of 
+							privileged communications, or work product, related to personal representation or services by attorneys, psychotherapists, or clergy, and their 
+							assistants. Such communications and work product are private and confidential.
+						</li>
+					</ul>
+				</span>
+				<div id="LogonAgreement">
+					<div style="font-size: 14px;">Global Reach User Agreement:</div>
+					<ul>
+						<li>
+							Nothing in this User Agreement shall be interpreted to limit the user's consent to, or in any other way restrict or affect, any U.S. Government 
+							actions for purposes of network administration, operation, protection, or defense, or for communications security. This includes all communications 
+							and data on an information system, regardless of any applicable privilege or confidentiality.
+						</li>
+						<li>
+							The user consents to interception/capture and seizure of ALL communications and data for any authorized purpose (including personnel misconduct, 
+							law enforcement, or counterintelligence investigation).
+						</li>
+						<li>
+							However, consent to interception/capture or seizure of communications and data is not consent to the use of privileged communications or data for 
+							personnel misconduct, law enforcement, or counterintelligence investigation against any party and does not negate any applicable privilege or 
+							confidentiality that otherwise applies.
+						</li>
+						<li>
+							Whether any particular communication or data qualifies for the protection of a privilege, or is covered by a duty of confidentiality, is determined 
+							in accordance with established legal standards and DoD policy. Users are strongly encouraged to seek personal legal counsel on such matters prior to 
+							using an information system if the user intends to rely on the protections of a privilege or confidentiality.
+						</li>
+						<li>
+							Users should take reasonable steps to identify such communications or data that the user asserts are protected by any such privilege or 
+							confidentiality. However, the user's identification or assertion of a privilege or confidentiality is not sufficient to create such protection where 
+							none exists under established legal standards and DoD policy.
+						</li>
+						<li>
+							A user's failure to take reasonable steps to identify such communications or data as privileged or confidential does not waive the privilege or 
+							confidentiality if such protections otherwise exist under established legal standards and DoD policy. However, in such cases the U.S. Government is 
+							authorized to take reasonable actions to identify such communication or data as being subject to a privilege or confidentiality, and such actions do 
+							not negate any applicable privilege or confidentiality.
+						</li>
+						<li>
+							These conditions preserve the confidentiality of the communication or data, and the legal protections regarding the use and disclosure of privileged 
+							information, and thus such communications and data are private and confidential. Further, the U.S. Government shall take all reasonable measures to 
+							protect the content of captured/seized privileged communications and data to ensure they are appropriately protected.
+						</li>
+						<li>
+							In cases when the user has consented to content searching or monitoring of communications or data for personnel misconduct, law enforcement, or 
+							counterintelligence investigative searching, (i.e., for all communications and data other than privileged communications or data that are related to 
+							personal representation or services by attorneys, psychotherapists, or clergy, and their assistants), the U.S. Government may, solely at its 
+							discretion and in accordance with DoD policy, elect to apply a privilege or other restriction on the U.S. Government's otherwise-authorized use or 
+							disclosure of such information.
+						</li>
+						<li>
+							All of the above conditions apply regardless of whether the access or use of an information system includes the display of a Notice and Consent 
+							Banner ("banner"). When a banner is used, the banner functions to remind the user of the conditions that are set forth in this User 
+							Agreement, regardless of whether the banner describes these conditions in full detail or provides a summary of such conditions, and regardless of 
+							whether the banner expressly references this User Agreement.
+						</li>
+					</ul>
+				</div>
+				<div style="padding-top: 20px; text-align: center;">
+					<button type="button" class="MainMenu">I AGREE</button>
+				</div>
+				<br>
+				<a href="javascript:;" name="LinkAgreement">See User Agreement for details.</a>
+				<a href="javascript:;" name="LinkStatement" style="display: none;">Return to Logon Notice.</a>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		if (window!=top) {
+			//PREVENT PAGE FROM BEING OPENED INSIDE A FRAME
+			top.location.replace("./");}
+
+		$(document).ready(function() {
+			//PREVENT HIGHLIGHT OR SELECTING ITEMS
+			$(document).on("dragstart", function() {return false});
+			$(document).on("selectstart", function() {return false});
+			$(document).on("contextmenu", function() {return false});
+
+			//LISTENER: MONITORS WHEN LinkAgreement LINK CLICKED
+			$(document).on("click", "A[name=LinkAgreement]", function() {
+				$("DIV[id=LogonAgreement]").show();
+				$("SPAN[id=LogonStatement]").hide();
+				$("A[name=LinkAgreement]").hide();
+				$("A[name=LinkStatement]").show();})
+
+			//LISTENER: MONITORS WHEN LinkStatement LINK CLICKED
+			$(document).on("click", "A[name=LinkStatement]", function() {
+				$("SPAN[id=LogonStatement]").show();
+				$("DIV[id=LogonAgreement]").hide();
+				$("A[name=LinkAgreement]").show();
+				$("A[name=LinkStatement]").hide();})
+
+			//LISTENER: MONITORS WHEN MainMenu BUTTON PRESSED
+			$(document).on("click", "BUTTON[class=MainMenu]", function() {
+				$(".ui-dialog-titlebar-close").click();
+				$("FORM[name=FORM]").submit();})
+
+			//LISTENER: MONITORS WHEN UserLogon IMAGE PRESSED
+			$(document).on("click", "DIV[class=UserLogon]", function() {
+				$("DIV[class=Dimmer]").css("height", "10000px").css("width", "100%").css("overflow", "hidden");
+				$("DIV[class=Dimmer], DIV[class=LogonModal]").on("contextmenu", function() {
+					return false;});
+				$("DIV[class=Dimmer], DIV[class=LogonModal]").on("dragstart, selectstart", function() {
+					return false;});
+				$("HTML, BODY").css("overflow", "hidden");
+				$("DIV[class=Dimmer]").show();
+				$(function() {
+					$("DIV[class=LogonModal]").dialog(
+						{height: 535,
+						width: 650,
+						resizable: false,
+						closeOnEscape: false,
+						open: function (event, ui) {
+							$(this).parent().children().children(".ui-dialog-titlebar-close").hide();},
+						modal: true});
+					return false;});})
+		})
+	</script>
+
+
+<style type="text/css"> .ui-dialog-buttonpane{padding:0 !important;}.ui-dialog-content{padding:0 !important;overflow:hidden !important;}.ui-dialog-buttonpane{margin:0 !important;}.ui-dialog-buttonset{float:none !important;text-align:center !important;}DIV.ui-dialog-buttonset > .ui-button{width:160px !important;}.ui-widget-overlay{filter:alpha(Opacity=80) !important;background:black !important;opacity:.80 !important;}.ui-dialog-titlebar-close{display:none !important;}.ui-dialog{position:fixed;padding:.1em;width:300px;overflow:hidden;}</style> <style type="text/css"> .ui-dialog-buttonpane{padding:0 !important;}.ui-dialog-content{padding:0 !important;overflow:hidden !important;}.ui-dialog-buttonpane{margin:0 !important;}.ui-dialog-buttonset{float:none !important;text-align:center !important;}DIV.ui-dialog-buttonset > .ui-button{width:160px !important;}.ui-widget-overlay{filter:alpha(Opacity=80) !important;background:black !important;opacity:.80 !important;}.ui-dialog-titlebar-close{display:none !important;}.ui-dialog{position:fixed;padding:.1em;width:300px;overflow:hidden;}</style> <div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-draggable ui-resizable" aria-describedby="ModalRemark" aria-labelledby="ui-id-1" style="position: fixed; display: none;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-1" class="ui-dialog-title">USER POLICY STATEMENT NOTIFICATION</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="ModalRemark" style="background-color: rgb(220, 220, 220) !important;" class="ui-dialog-content ui-widget-content"> <img src="/Media/ImagePolicyPrivate.gif?NoCache=20171013131751#" alt="Privacy Policy" width="600" height="300"> </div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div><div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-draggable ui-resizable" aria-describedby="ModalUpload" aria-labelledby="ui-id-2" style="position: fixed; display: none;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-2" class="ui-dialog-title">UPLOAD POLICY STATEMENT NOTIFICATION</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="ModalUpload" style="background-color: rgb(220, 220, 220) !important;" class="ui-dialog-content ui-widget-content"> <img src="/Media/ImagePolicyUpload.gif?NoCache=20171013131751" alt="" width="600" height="300"> </div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div></body></html>

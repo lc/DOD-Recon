@@ -1,0 +1,117 @@
+<html><head>
+<title>Homeland Security, Homeland Defense, WMD Counterproliferation, US Northern Command, NORTHCOM, Future Conflict Studies, </title>
+</head><body background="graphics/menuback.jpg">
+
+<table cellpadding="2" cellspacing="0" width="100%" height="100%">
+<tbody><tr>
+<td align="right" valign="top" width="150" background="graphics/menuback.jpg">
+<font face="arial" size="-1" color="brown">
+<a href="mission.htm"><font color="brown">MISSION</font></a> <br>
+<a href="organztn.htm"><font color="brown">ORGANIZATION</font></a> <br>
+<a href="news.htm"><font color="brown">NEWS &amp; PUBS</font></a> <br>
+<a href="inits.htm"><font color="brown">INITIATIVES</font></a> <br>
+<a href="educate.htm"><font color="brown">EDUCATION</font></a> <br>
+<a href="research.htm"><font color="brown">RESEARCH</font></a> <br>
+<a href="gallery.htm"><font color="brown">PHOTO GALLERY </font></a> <br>
+<a href="contact.htm"><font color="brown">CONTACT US </font></a> <br>
+<a href="resource.htm"><font color="brown">RESOURCES</font></a> <br>
+<a href="refrence.htm"><font color="brown">REFERENCE</font></a> <br>
+<a href="othrlinx.htm"><font color="brown">OTHER LINKS </font></a> <br>
+<a href="search.htm"><font color="brown">SEARCH </font></a> <br>
+<p>
+<a href="iraq.htm"><font color="brown">IRAQ</font></a> <br>
+</p><p>
+<a href="http://www.au.af.mil/au/awc/awcgate/awc-ndex.htm#katrina"><font color="red"><strong>Katrina Links</strong></font></a> <br>
+</p><p>
+<a href="totforce.htm"><font color="brown">TOTAL FORCE</font></a> <br>
+<a href="wmd-cst.htm#stateguard"><font color="brown">STATE GUARDs</font></a> <br>
+<a href="http://www.northcom.mil"><font color="brown">NORTHCOM</font></a> <br>
+</p></font><p><font face="arial" size="-1" color="brown">
+<!--<a href="http://www.dhs.gov/"><font size="-2" color=brown>CLICK TO VIEW</font></a><br>-->
+<a href="http://www.dhs.gov/dhspublic/"><font size="-2" color="brown">CURRENT NATIONAL</font></a><br>
+<a href="http://www.dhs.gov/dhspublic/"><font size="-2" color="brown">THREAT LEVEL</font></a><br>
+<a href="http://www.dhs.gov/dhspublic/"><img border="0" src="http://www.dhs.gov/dhspublic/getAdvisoryImage?size=small" alt="current national threat level - click to go to Dept of Homeland Security" height="20"></a><br>
+<!--<a href="http://www.dhs.gov/"><IMG border="0" src="graphics/hs_colors_small.jpg" alt="current national threat level"></a><br>-->
+
+</font>
+</p></td>
+<td valign="top" align="center" width="1" height="332" background="graphics/white.gif">
+<img src="graphics/rule10.gif" width="1" align="center" height="332" alt="">
+</td>        
+<td rowspan="2" align="center" valign="top" <!--background="graphics/c21-bkgd.gif" --=""> 
+
+<!--begin page content-->
+
+<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td align="right" valign="top" width="18%">
+<br>
+<!--<a href="http://www.au.af.mil/au/awc/awcgate/awc-cps.htm"><img src="graphics/cpccrest.gif" alt="USAF Counterproliferation Center (CPC) crest" border=0></a>-->
+</td>
+<td width="64%" align="center" valign="top">
+<!--
+<a href="http://www.au.af.mil/au/awc/awcgate/awc-cps.htm"><font color=red face="arial"><strong>USAF COUNTERPROLIFERATION CENTER</strong></font></a> 
+<br><font color=red face=arial size="-2">PRESENTS</font> <br>
+-->
+<!--<img src="graphics/ang-text.gif" border=0 alt="Air National Guard text"><br>-->
+<!--<a href="http://www.ang.af.mil"><font face="times roman" size="+2" color=blue><strong>Air National Guard</strong></font></a><br>-->
+<!--<font face="times roman" size="+3" color=blue><strong>Center for Future Conflict Studies</strong></font><br>-->
+<a href="http://c21.au.af.mil"><img src="graphics/c21-main.gif" border="0" alt="Conflict 21 emblem" width="274" height="278"></a>
+<br>
+<a href="cts-home.htm"><font face="arial" color="red" size="-1"><strong>C21 Terrorism Studies</strong></font></a><br> 
+<a href="homeland.htm"><font face="arial" color="brown" size="-1">Homeland Security</font></a> - 
+<a href="refrence.htm#wmd"><font face="arial" color="brown" size="-1">WMD Counterproliferation</font></a> - 
+<a href="conops.htm"><font face="arial" color="brown" size="-1">CONOPS</font></a><br>
+<a href="wmd-cst.htm"><font face="arial" color="brown" size="-1">WMD-CST</font></a> - 
+<a href="frstresp.htm"><font face="arial" color="brown" size="-1">First Response</font></a> - 
+<a href="terrorsm.htm"><font face="arial" color="brown" size="-1">Terrorism</font></a> - 
+<a href="protect.htm"><font face="arial" color="brown" size="-1">Force Protection</font></a><br>
+<a href="refrence.htm#counterdrug"><font face="arial" color="brown" size="-1">Counterdrug</font></a> - 
+<a href="homeland.htm#anthrax"><font face="arial" color="brown" size="-1">Anthrax</font></a> - 
+<a href="homeland.htm#smallpox"><font face="arial" color="brown" size="-1">Smallpox</font></a> - 
+<a href="homeland.htm#sars"><font face="arial" color="brown" size="-1">SARS</font></a><br>
+<br>
+<a href="http://www.au.af.mil/au/awc/awcgate/awc-port.htm"><font face="arial" color="red" size="-1"><strong>Quick Portal to Key Military Resources</strong></font></a><br>
+<a href="http://leadership.au.af.mil/"><font face="arial" color="blue" size="-1"><strong>Strategic Leadership Studies</strong></font></a><br>
+<a href="http://www.au.af.mil/au/awc/awcgate/awcgate.htm"><font face="arial" color="red" size="-1"><strong>Air War College Gateway to the Internet</strong></font></a><br>
+<a href="http://space.au.af.mil/"><font face="arial" color="blue" size="-1"><strong>Center for Space Studies</strong></font></a><br>
+ </td>
+<td align="left" valign="top" width="18%">
+<br>
+<!--<a href="http://www.ang.af.mil"><img src="graphics/angcl_small.jpg" alt="ANG logo" border=0></a>-->
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center" valign="bottom">
+<center>
+<font size="-2" face="arial">
+<br>
+<br>
+<a href="http://www.af.mil">U.S. Air Force (USAF) home page</a> &gt; 
+<a href="http://www.au.af.mil/au/awc/awcgate/awc-cps.htm">USAF Counterproliferation Center</a> &gt; 
+Conflict 21
+<br>
+<br>
+
+<center>
+<font face="Arial" size="-2">
+<a href="http://www.au.af.mil/au/awc/awcgate/awc-read.htm" target="_blank">please see disclaimer about links, and privacy and security notice</a> ... <a href="http://www.au.af.mil/au/awc/awcgate/awc-read.htm#poc" target="_blank">contact us</a>
+<br>
+
+updated/reviewed 21 Feb 09
+
+<br><a href="http://www.au.af.mil/au/awc/awcgate/awc-read.htm#foia" target="_blank">FOIA</a></font>
+</center>
+
+</font>
+</center>
+</td>
+</tr>
+</tbody></table>
+
+<!--end page content-->
+</td>
+</tr>
+</tbody></table>
+
+</body></html>

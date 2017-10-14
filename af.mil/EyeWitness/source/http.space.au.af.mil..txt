@@ -1,0 +1,199 @@
+<html><head><title>Military Space, Joint, DoD, Air Force, Army, Navy, and International Space Operations, Issues &amp; Resources</title></head>
+<body bgcolor="#FFFFFF" background="graphics/bkgd.jpg" bgproperties="fixed">
+
+<center>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="top" width="50%" align="right">
+<a href="http://www.au.af.mil/au/"><img src="graphics/wright.gif" alt="Air University, the intellectural and leadership center of the Air Force" border="0"></a>
+</td>
+<td valign="top" width="50%" align="left">
+<a href="http://space.au.af.mil/"><img src="graphics/banner2.gif" alt="banner" border="0"></a><br>
+<br>
+</td>
+</tr>
+</tbody></table>
+</center>
+
+<table width="100%" bgcolor="#00FFFF" cellpadding="0" cellspacing="0" border="2">
+<tbody><tr bgcolor="#0000FF" valign="middle"> 
+  <td height="22" align="center" colspan="3" bgcolor="black"> 
+    <font size="-1" face="Arial" color="white">
+     <a href="index.htm"><font color="white">home</font></a>
+     | <a href="http://www.au.af.mil/au/awc/awchome.htm"><font color="white">Air War College</font></a>
+     | <a href="http://www.au.af.mil/au/aul/aul.htm" target="_blank"><font color="white">Air University Library</font></a>
+     | <a href="http://www.au.af.mil/au/awc/awcgate/awc-port.htm"><font color="white">military portal</font></a>
+    </font>
+  </td>
+</tr>
+<tr bgcolor="#0000FF" valign="middle"> 
+  <td height="22" align="center" colspan="3" bgcolor="blue"> 
+    <font size="-1" face="Arial" color="white">
+     <a href="http://www.au.af.mil/au/awc/awcgate/awcgate.htm"><font color="white">AWC gateway to internet</font></a>
+     | <a href="links.htm"><font color="white">links</font></a>
+     | <a href="refrence.htm"><font color="white">reference</font></a>
+     | <a href="http://www.google.com/custom?hl=en&amp;lr=&amp;ie=ISO-8859-1&amp;cof=L%3Ahttp%3A%2F%2Fspace.au.af.mil%2Fgraphics%2Fsearchtitle.gif%3BLH%3A55%3BLW%3A263%3BAH%3Acenter%3B&amp;domains=au.af.mil&amp;q=space&amp;sitesearch=au.af.mil"><font color="white">search</font></a>
+     | <a href="spc-ndex.htm"><font color="white">index</font></a>
+    </font>
+  </td>
+</tr>
+</tbody></table>
+
+<center>
+<table width="90%" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="1">
+<tbody><tr>
+<td>
+<table width="100%" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td>
+<font face="times">
+<blockquote>
+<!-- start contect section -->
+
+<center>
+
+<!--<a href="https://maxlogin.maxwell.af.mil/DNN/Default.aspx?alias=maxlogin.maxwell.af.mil/DNN/spaceed"><font color=red><strong>
+Space Education Symposium 2007<br>
+25-27 September 2007 - click for website
+</strong></font></a>-->
+<br>
+<table width="95%">
+<tbody><tr>
+<td width="35%" align="right" valign="top">
+<font face="arial" size="-1">
+
+<p>
+<!--<a href="symposium/index.htm"><font size="+1" color="red">Space Symposium<br>14-15 Jan 2010</font></a>
+<p>-->
+
+<br>
+<a href="about.htm"><img src="graphics/about.gif" alt="about this center" border="0"></a><br>
+<a href="about.htm#mission"><font color="black" face="arial" size="-1">Mission</font></a> ..
+<a href="workwith.htm"><font color="black" face="arial" size="-1">Working with Us</font></a>
+<br>
+<!--<a href="about.htm#lab"><font color=black face="arial" size="-1">AU Space Lab</font></a> ..-->
+  <a href="about.htm#contacts"><font color="black" face="arial" size="-1">Contacts</font></a>
+<br>
+
+
+<a href="products.htm"><img src="graphics/products.gif" alt="products" border="0"></a><br>
+<!--
+.. <a href="au-18-2009/index.htm"><font color=black face="arial" size="-1">Primer</font></a> .. 
+<a href="products.htm#curriculum"><font color=black face="arial" size="-1">Curriculum</font></a>
+<br>
+<a href="http://csat.au.af.mil/2020/"><font color=black face="arial" size="-1">SpaceCast 2020</font></a>
+<br>
+-->
+
+<br>
+
+<a href="teaching.htm"><img src="graphics/teachingspace.gif" alt="teaching space" border="0" vspace="0"></a>
+<br>
+
+<a href="doctrine.htm"><img src="graphics/doctrinepolicy.gif" alt="doctrine and policy" border="0"></a>
+<br>
+
+<a href="research.htm"><img src="graphics/theoryresearch.gif" alt="theory and research" border="0"></a>
+<br>
+
+<a href="refrence.htm"><img src="graphics/newsreference.gif" alt="reference" border="0"></a>
+<br>
+
+<a href="media.htm"><img src="graphics/multimedia.gif" alt="multimedia" border="0"></a>
+<br>
+
+<a href="links.htm"><img src="graphics/links.gif" alt="links" border="0"></a>
+<br>
+</p><p>
+<a href="au-18-2009/index.htm"><font size="-1"><strong>AU-18 Space Primer</strong></font></a>
+</p><p>
+<a href="http://www.au.af.mil/au/awc/awcgate/nssc/op-ed/"><font size="-1">Op-Eds from our staff</font></a>
+</p></font><p><font face="arial" size="-1">
+
+</font>
+</p></td>
+<td width="25%" align="center" valign="top">
+<img src="graphics/centerpiece.gif" alt="images of space systems"><br><br>
+
+</td>
+<td width="40%" align="left" valign="top">
+<font face="arial" size="-2">
+<br>
+
+<a href="enhance.htm"><img src="graphics/enhancement1.gif" alt="force enhancement" border="0"></a>
+<br>
+
+<a href="applic.htm"><img src="graphics/application1.gif" alt="force application" border="0"></a>
+<br>
+
+<a href="support.htm"><img src="graphics/support1.gif" alt="space support" border="0"></a>
+<br>
+
+<a href="control.htm"><img src="graphics/control1.gif" alt="space control" border="0"></a>
+<br>
+
+<a href="develop.htm"><img src="graphics/development1.gif" alt="force development" border="0"></a>
+<br>
+
+<a href="orgs.htm"><img src="graphics/organizations1.gif" alt="organizations" border="0"></a>
+<br>
+
+<a href="cadre.htm"><img src="graphics/spacecadre.gif" alt="space cadre" border="0"></a>
+<br>
+
+<a href="spc-ndex.htm"><img src="graphics/indexforspace.gif" alt="index" border="0"></a>
+</font><p><font face="arial" size="-2">
+<!--<a href="http://spacewonk.com/"><font size="-1">click here for our <br><strong>Unofficial Space Blog</strong><br>SpaceWonk.com</font></a>-->
+
+</font>
+</p></td>
+</tr>
+</tbody></table>
+
+<br>
+
+</center>
+<p>
+
+
+
+
+
+<!-- end contect section -->
+<br>
+</p></blockquote>
+</font>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<center>
+<font face="Arial" size="-2">
+<a href="http://www.au.af.mil/au/awc/awcgate/awc-read.htm" target="_blank">please see disclaimer about links, and privacy and security notice</a> ... <a href="http://www.au.af.mil/au/awc/awcgate/awc-read.htm#poc" target="_blank">contact us</a>
+<br>
+
+updated/reviewed 10 Aug 2011
+
+
+<br><a href="http://www.au.af.mil/au/awc/awcgate/awc-read.htm#foia" target="_blank">FOIA</a></font>
+<p>
+<font face="arial" size="-2">
+<a href="http://www.af.mil">U.S. Air Force</a> &gt;&gt; 
+<a href="http://www.au.af.mil/au/">Air University</a> &gt;&gt; 
+<a href="http://www.au.af.mil/au/spaatz/">Spaatz Center</a> &gt;&gt; 
+this center
+<br>
+<a href="http://www.au.af.mil/au/awc/508.htm">Accessibility/Section 508</a>
+
+</font>
+
+</p></center>
+
+</center>
+
+
+
+</body></html>

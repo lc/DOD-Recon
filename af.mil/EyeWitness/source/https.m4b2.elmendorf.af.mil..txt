@@ -1,0 +1,76 @@
+<!DOCTYPE html><html style="overflow: hidden;"><head>
+        <title>MARK IV-B Web Animation</title>
+
+        <!-- Style Sheets -->
+        <link rel="stylesheet" type="text/css" href="css/jquery-ui.min.css">
+        <link rel="stylesheet" type="text/css" href="css/common.min.css">
+        <link rel="stylesheet" type="text/css" href="css/full_earth.min.css">
+        <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+
+        <!--[if lt IE 9]>
+            <script>
+                var message = 
+                    "This application contains elements that are not supported by this " +
+                    "version of Internet Explorer.\n\n" +
+                    "If you continue, certain features may be missing or nonfunctional. " +
+                    "To use all of the features provided by this application, upgrade to " +
+                    "Internet Explorer 9, Mozilla Firefox, or Google Chrome.\n\n" +
+                    "Click OK to continue. To return to the previous page, click Cancel.";
+
+                if (!confirm(message))
+                {
+                    history.back();
+                }
+            </script>
+        <![endif]-->
+    </head>
+
+    <body style="">
+        <!-- Page Header -->
+        <div id="_header">
+            <img id="_headerLogoLink" src="img/app.png" alt="Icon" width="64" height="64">
+            <div id="_headerContent" class="header-single-line-block">
+                <h2 class="header-content-text">MARK IV-B Web Animation</h2>
+            </div>
+        </div>
+
+        <!-- Map -->
+        <div id="_viewport">
+            <div id="_map" class="drag-cursor-off" style="left: -424px; top: -176.5px;"><a href="region.htm?id=6732ee29-8a5f-451e-ac91-611b506b57c8" class="region-link" id="6732ee29-8a5f-451e-ac91-611b506b57c8" style="left: 1772.0133333333333px; top: 504.5px; position: absolute;"><img src="img/sat_mtsat.png" alt="HIMAWARI" width="98" height="98" style="margin-left: 0px;"></a><a href="region.htm?id=3b2b8f5e-1faf-4e9b-a33d-27132556c315" class="region-link" id="3b2b8f5e-1faf-4e9b-a33d-27132556c315" style="left: 1704.3155555555554px; top: 504.5px; position: absolute;"><img src="img/sat_coms.png" alt="COMS 1" width="98" height="98" style="margin-left: 0px;"></a><a href="region.htm?id=4fb3454d-c37f-4582-836c-a0ca3dbcda64" class="region-link" id="4fb3454d-c37f-4582-836c-a0ca3dbcda64" style="left: 1211.088888888889px; top: 504.5px; position: absolute;"><img src="img/sat_meteosat.png" alt="MET IODC" width="98" height="98" style="margin-left: 0px;"></a><a href="region.htm?id=7ee9e773-1d66-4b91-8193-753948d8e52a" class="region-link" id="7ee9e773-1d66-4b91-8193-753948d8e52a" style="left: 997.1866666666667px; top: 504.5px; position: absolute;"><img src="img/sat_meteosat.png" alt="MET PRIME" width="98" height="98" style="margin-left: 0px;"></a><a href="region.htm?id=eab1a102-ea94-471e-9a5a-4a154558d589" class="region-link" id="eab1a102-ea94-471e-9a5a-4a154558d589" style="left: 545.4888888888889px; top: 504.5px; position: absolute;"><img src="img/sat_goes.png" alt="GOES 13" width="98" height="98" style="margin-left: 0px;"></a><a href="region.htm?id=e3384ff5-3ce9-4700-b8df-0ced61fad3c0" class="region-link" id="e3384ff5-3ce9-4700-b8df-0ced61fad3c0" style="left: 205.2933333333333px; top: 504.5px; position: absolute;"><img src="img/sat_goes.png" alt="GOES WEST" width="98" height="98" style="margin-left: 0px;"></a>
+                <img id="_earthImage" src="img/map.jpg" alt="" width="2048" height="1024">
+                <div id="_highlightBox"></div>
+            </div>
+        </div>
+
+        <!-- Instructions -->
+        <span id="_statusLabel" class="small-overlay-text">Select a region to view</span>
+
+        <!-- Image Owner Notice -->
+        <span class="small-overlay-text" style="right: 0;">Image: NASA</span>
+
+        <!-- No Script Warning -->
+        <noscript>
+            &lt;div class="noscript-error-content"&gt;
+                &lt;h3 class="error-section-header"&gt;JavaScript Not Found&lt;/h3&gt;
+                &lt;p&gt;
+                    This is an interactive Web application that requires JavaScript in order to function properly.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    Please verify that JavaScript is enabled in your browser and then try reloading the page.
+                    &lt;br /&gt;
+                    If you are unable to turn on JavaScript and/or need additional assistance, contact your
+                    local systems administrator or the MARK IV-B Help Desk.
+                &lt;/p&gt;
+                &lt;p&gt;&lt;a href="/" class="standard-link"&gt;Return to the home page&lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        </noscript>
+
+        <!-- External Scripts -->
+        <script src="script/jquery.min.js"></script>
+        <script src="script/jquery-ui.min.js"></script>
+        <script src="script/common.min.js"></script>
+        <script src="script/StaticMapInfo.min.js"></script>
+        <script src="script/full_earth.min.js"></script>
+    
+
+<div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div></body></html>

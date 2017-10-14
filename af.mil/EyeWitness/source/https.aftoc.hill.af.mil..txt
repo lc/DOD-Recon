@@ -1,0 +1,247 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="Generator" content="Microsoft FrontPage 6.0">
+<meta name="Originator" content="Microsoft Word 9">
+<link rel="Edit-Time-Data" href="./index_files/editdata.mso">
+<title>Welcome to AFTOC</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>tyrone.moore</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>tyrone.moore</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>2</o:TotalTime>
+  <o:Created>2003-03-09T19:36:00Z</o:Created>
+  <o:LastSaved>2003-03-09T19:36:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>196</o:Words>
+  <o:Characters>1119</o:Characters>
+  <o:Company>TISMD</o:Company>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1374</o:CharactersWithSpaces>
+  <o:Version>9.4402</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+
+
+<style>
+<!--
+A:hover {color:"#3399ff";}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<meta name="Author" content="Ray Scheuring">
+</head>
+
+<body lang="EN-US" link="blue" vlink="blue" style="tab-interval:.5in">
+
+<div class="Section1">
+
+
+<!--CAC VALIDATION SESSION/Cookie VARIABLE Creation-->
+
+
+<!-- AFTOC Logo -->
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="950" style="mso-cellspacing: 0in; mso-padding-alt: 0in 0in 0in 0in; margin-left: 15.0pt">
+<tbody><tr>
+    <td width="180" align="center" valign="top">
+        <img id="Img4" src="aftoclogo.jpg" alt="AFTOC" width="175" height="175">
+    </td>
+
+    <!-- AFTOC Title and Home Page URL -->
+    <td style="padding:0in" width="659">
+        <p align="center" style="text-align:center">
+
+        <!--COMMENT OUT USER GROUP MEETING
+            <b><span style='font-size:20.0pt; font-family:Arial;color:red'>***<A HREF='https://aftoc.hill.af.mil/ugm_2016_webpages/ugm_default.htm'>Register</A> for the FY2016 AFTOC Users Group Meeting.***</span></b>
+        -->
+    
+            <b><span style="font-size:20.0pt; font-family:Arial;color:black">Air Force Total Ownership Cost (AFTOC)</span></b><br>
+            <b><span style="font-size:20.0pt; font-family:Arial;color:black">
+            <span style="font-size:10.0pt;font-family:Arial"> &nbsp;&nbsp;</span>
+        </span></b></p><b>
+
+        <p align="center" style="text-align:left">
+            <span style="font-family:Arial; font-weight:700"><font size="2">
+        </font></span></p><p align="center" style="text-align:center"><font size="2">
+            <font face="Arial"><font size="5"><a href="https://aftoc2.hill.af.mil/sites/aftoc">
+            <span style="color:blue; font-weight:700">ENTER AFTOC SYSTEM</span></a></font><br><br>
+            (***CAC / Valid DoD Approved Certificate AND password required***) &nbsp;</font>
+        </font></p><font size="2">
+    
+        <!-- Request AFTOC User account-->
+        <p align="center" style="text-align:center" nowrap=""><b> 
+            <span style="color:black; font-size:10.0pt; font-family:Arial" nowrap="">If you do not have an AFTOC account, request access with the <a href="registration.asp" style="color: blue; text-decoration:
+			underline; text-underline: single">
+                <b>User Account Request Form</b></a></span><font color="#FF0000">
+              
+            <span style="font-size:10.0pt;font-family:Arial"> <br> &nbsp;</span>
+        </font></b></p><b><font color="#FF0000">
+    </font></b></font></b></td>
+    <td width="180" align="center" valign="top">
+        <img id="CEGimg" src="/images/CEG_Logos_v3-1.png" border="0" width="165" height="190" orgwidth="165" orgheight="190" usemap="#CEGmap" alt="">
+        <map name="CEGmap" id="CEGmap">
+        <area alt="OSMIS" title="OSMIS" href="https://www.osmisweb.army.mil/" shape="rect" coords="20,30,76,85" style="outline:none;" target="_blank">
+        <area alt="VAMOSC" title="VAMOSC" href="https://www.vamosc.navy.mil/" shape="rect" coords="92,31,149,83" style="outline:none;" target="_blank">
+        <area alt="AFTOC" title="AFTOC" href="https://aftoc.hill.af.mil/" shape="rect" coords="23,90,76,143" style="outline:none;" target="_blank">
+        <area alt="CADE" title="CADE" href="http://cade.osd.mil/" shape="rect" coords="84,91,152,135" style="outline:none;" target="_blank">
+        </map>
+    </td>
+</tr>
+
+<!-- Why AFTOC-->
+</tbody></table><legend align="center"> <font face="Arial" font="" size="4">Why AFTOC?</font></legend><div style="margin-left:1em"><font face="Arial" font="" size="4"> <font size="3">
+AFTOC is designed to significantly reduce the need for analysts and DoD staff to
+acquire, normalize, aggregate, allocate, and organize financial and logistic data on AF systems and 
+infrastructure and to provide analytical capability that would otherwise not exist.
+</font></font></div><font face="Arial" font="" size="4"><font size="3"><br>
+
+<div style="margin-left:1em"> <font size="3">
+AFTOC satisfies the need to provide a single source of authoritative, processed financial and logistics data organized by system or infrastructure (DoDD 5000.4-M - satisfying Congressional requirements).
+</font></div></font></font><font face="Arial" font="" size="4"><font size="3"><font size="3"><br>
+</font>
+</font></font><table border="0" width="95%" bordercolordark="#000000" bordercolorlight="#000000" bgcolor="#FFFFFF">
+
+<tbody><tr>
+</tr></tbody></table><font face="Arial" font="" size="4"><font size="3">
+
+
+<span style="color:red; font-size:15.0pt; font-family:Arial">PRIVACY ACT INFORMATION - The information accessed through this system is FOR OFFICIAL
+USE ONLY and must be protected in accordance with AFI 33-332. Any data extracted from AFTOC and distributed must be labeled FOR OFFICIAL USE ONLY.  </span><font color="#FF0000"> &nbsp;<p></p>
+
+
+
+
+<!--
+<span style='color:red; font-size:15.0pt; font-family:Arial'>PRIVACY ACT INFORMATION - The information accessed through this system is FOR OFFICIAL
+USE ONLY and must be protected in accordance with the Privacy Act and AFI 33-332</span><font color="#FF0000"> &nbsp;</span>-->
+
+
+<!-- Privacy and Securty Notice -->
+<span font-family:arial'=""> </span>
+<div align="center">
+<table border="1" cellspacing="2" cellpadding="2" width="95%&quot;">
+<tbody><tr>
+<td> <br\>
+<h1 align="center"><font face="arial" style="font-size:18.0pt">PRIVACY AND SECURITY NOTICE</font></h1>
+<ul style="margin-left:1em"><font face="arial" size="2">
+<b>
+You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only. 
+By using this IS (including any device attached to this IS), you consent to the following conditions:</b><br>
+
+<li>The USG may inspect and seize data stored on this IS at any time.</li>
+
+<li>This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not
+your personal benefit or privacy.</li>
+
+<li>Communications using, or data stored on this IS are not private, are subject to routine monitoring,
+interception and searching, and may be used or disclosed for any USG authorized purpose.</li>
+
+<li>The USG intercepts and monitors communications on this IS for purposes including but not limited to
+penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM),
+law enforcement (LE), and counterintelligence (CI) investigations.</li>
+
+<li>This IS does not use persistent cookies.</li>
+
+<li>Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching
+or monitoring of the content of privileged communications or work product related to personal representation or
+services by attorneys, psychotherapists, or clergy and their assistants. Such communications and work product
+are private and confidential. See User Agreement for details.</li>
+</font></ul></br\></td></tr>
+
+</tbody></table>
+
+<br><br>
+
+<!-- 508 Notice -->
+<span font-family:arial'=""> </span>
+<div align="center">
+<table border="1" cellspacing="2" cellpadding="2" width="95%&quot;">
+<tbody><tr>
+<td> <br\>
+<h1 align="center"><font face="arial" style="font-size:18.0pt">Section 508 of the Rehabilitation Act of 1973 Accessibility
+Commitment Statement</font></h1>
+<ul style="margin-left:1em"><font face="arial" size="2">
+
+"The U.S. Department of Defense is committed to making its electronic and information
+technologies accessible to individuals with disabilities in accordance with Section 508 of
+the Rehabilitation Act (29 U.S.C. ' 794d), as amended in 1999. Send feedback or
+concerns related to the accessibility ofthis website to: DoDSection508@osd.mil. For
+more information about Section 508, please visit the DoD Section 508 website. Last
+Updated: 2/6/2014"
+</font></ul></br\></td></tr>
+
+</tbody></table>
+
+<p align="center" style="text-align:center"><span style="font-size:10.0pt; font-family:Arial">
+<b><span style="color:red">
+NOTE: This is an unclassified Department of Defense (DOD) computer system intended only for the use of Department of
+Defense personnel, DOD support contractors, and manufacturing contractors with a need to know.
+Do not reproduce or distribute content from this site to a wider audience without coordinating with the
+information owner and your unit public affairs office.</span></b> <o:p></o:p></span></p>
+
+<p align="center" style="text-align:center"><b><span style="font-size:10.0pt; font-family:Arial">
+For assistance, questions or comments contact the AFTOC helpdesk at DSN: 586-5526, commercial (801) 586-5526, or
+<a href="mailto:smxg.aftoc.helpdesk@us.af.mil">smxg.aftoc.helpdesk@us.af.mil</a></span></b>
+<span style="font-size:10.0pt;font-family:Arial"> <o:p></o:p></span></p>
+
+<!-- Internet Explorer support -->
+<p align="center" style="text-align:center"><b>
+<span style="color:red; font-size:10.0pt; font-family:Arial">This site supports Internet Explorer® 8, and may not
+display correctly on mobile devices or other browsers. </span><font color="#FF0000"> &nbsp; </font></b></p><font color="#FF0000">
+
+
+<span style="color:black; font-size:12.0pt;font-family:Arial">
+
+    Wednesday, July 19, 2017 10:01:59 AM 
+
+</span><span style="font-size:10.0pt;font-family:Arial"><o:p></o:p></span><p></p>
+
+<p align="center" style="text-align:center"><span style="font-size:10.0pt; font-family:Arial">&nbsp; <o:p></o:p></span></p>
+
+
+
+
+
+</font></div><font color="#FF0000">
+
+<p class="MsoNormal"><!--[if !supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></p>
+
+</font></div><font color="#FF0000">
+
+
+
+
+
+</font></font></font></font></div></div></body></html>

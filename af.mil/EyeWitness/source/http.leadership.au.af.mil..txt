@@ -1,0 +1,144 @@
+<html><head><title>Strategic Leadership Studies and Development, Military Leadership</title></head>
+<body bgcolor="#FFFFFF" background="graphics/sls-bkgd.jpg" bgproperties="fixed">
+
+<table width="100%">
+<tbody><tr>
+<td align="left" valign="top" width="50%">
+<a href="http://www.au.af.mil/au/"><img src="graphics/wright.gif" alt="Air University, the intellectural and leadership center of the Air Force" border="0"></a>
+</td>
+<td align="center" valign="middle" width="49%">
+<!--<a href="http://www.au.af.mil/au/awc/awchome.htm"><img src="graphics/awc-main.gif" alt="air war college" border=0></a><br>-->
+<a href="http://leadership.au.af.mil/"><img src="graphics/sls-main.gif" alt="csls title" border="0"></a>
+<br>
+<font face="arial" size="-2">
+<a href="http://www.af.mil">U.S. Air Force</a> &gt;&gt; 
+<a href="http://www.au.af.mil/au/">Air University</a> &gt;&gt; 
+<a href="http://www.au.af.mil/au/awc/awcgate/awcgate.htm">Air War College</a> &gt;&gt; 
+this page
+</font>
+</td>
+<td align="right" valign="top" width="1%">
+<!--<a href="http://www.au.af.mil/au/awc/awchome.htm"><img src="graphics/awc_shield.gif" alt="awc shield" border=0></a>
+</a>-->
+</td>
+</tr>
+</tbody></table>
+
+<table width="100%" bgcolor="#00FFFF" cellpadding="0" cellspacing="0" border="2">
+<tbody><tr bgcolor="#0000FF" valign="middle"> 
+  <td height="22" align="center" colspan="3" bgcolor="blue"> 
+    <font size="-1" face="Arial" color="white">
+    <a href="http://www.au.af.mil/au/awc/awchome.htm"><font color="white">Air War College home</font></a>
+     | <a href="http://www.au.af.mil/au/aul/aul.htm" target="_blank"><font color="white">Air University Library</font></a>
+     | <a href="sls-ref.htm"><font color="white">reference</font></a>
+     | <a href="http://www.au.af.mil/au/awc/awcgate/awc-port.htm"><font color="white">military portal</font></a>
+    </font>
+  </td>
+</tr>
+<tr bgcolor="#0000FF" valign="middle"> 
+  <td height="22" align="center" colspan="3" bgcolor="cyan"> 
+    <font size="-1" face="Arial" color="black">
+    <a href="http://www.au.af.mil/au/cpd/cpds/"><font color="black">Commanders' School</font></a>
+     | <a href="sls-link.htm"><font color="black">links</font></a>
+     | <a href="sls-ndex.htm"><font color="black">index</font></a>
+     | <a href="http://www.au.af.mil/au/awc/awcgate/awc-ldr.htm"><font color="black">AWC Gateway to Leadership &amp; Ethics</font></a>
+    </font>
+  </td>
+</tr>
+</tbody></table>
+
+<center>
+<table width="90%" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="1">
+<tbody><tr>
+<td>
+<table width="100%" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td>
+<font face="times">
+<blockquote>
+<p>
+<br>
+<!-- start contect section -->
+
+</p><center>
+<table width="95%">
+<tbody><tr>
+<td width="35%" align="left" valign="top">
+<font face="arial" size="-1">
+
+<a href="sls-doc.htm"><img src="graphics/doctrine1.gif" alt="doctrine and policy" border="0"></a><br>
+
+<a href="sls-book.htm"><img src="graphics/books.gif" alt="recommended books" border="0"></a>
+<br>
+
+<a href="sls-ref.htm"><img src="graphics/reference1.gif" alt="reference" border="0"></a>
+<br>
+
+<a href="sls-link.htm"><img src="graphics/links1.gif" alt="links" border="0"></a>
+<br>
+<br>
+<a href="https://www.facebook.com/UpfrontLeadership?" target="_blank"><img src="graphics/facebook.jpg" border="0" alt="Upfront Leadership - AWC Joint Strategic Leadership on Facebook"></a><br>
+<a href="https://www.facebook.com/UpfrontLeadership?" target="_blank"><font face="arial" size="+1"><strong>Upfront Leadership<br>Facebook page,<br>resources &amp; discussion</strong></font></a>
+
+</font>
+</td>
+<td width="118" align="left" valign="middle">
+<img src="graphics/group.gif" alt="photos of various leaders"><br><br>
+
+</td>
+<td width="40%" align="left" valign="top">
+<font face="arial" size="-2">
+
+<a href="sls-skil.htm"><img src="graphics/skills.gif" alt="competency and skill areas" border="0"></a>
+<br>
+
+<a href="sls-rese.htm"><img src="graphics/research.gif" alt="research" border="0"></a>
+<br>
+
+<a href="sls-tool.htm"><img src="graphics/teaching1.gif" alt="teaching tools" border="0" vspace="0"></a>
+<br>
+
+<a href="sls-ndex.htm"><img src="graphics/index1.gif" alt="index" border="0"></a>
+</font>
+</td>
+</tr>
+</tbody></table>
+</center>
+<p>
+
+
+
+
+
+<!-- end contect section -->
+<br>
+
+</p><center>
+<font face="Arial" size="-2">
+<a href="http://www.au.af.mil/au/awc/awcgate/awc-read.htm" target="_blank">please see disclaimer about links, and privacy and security notice</a> ... <a href="http://www.au.af.mil/au/awc/awcgate/awc-read.htm#poc" target="_blank">contact us</a>
+<br>
+
+
+updated/reviewed 11 Feb 2014
+
+
+<br><a href="http://www.au.af.mil/au/awc/awcgate/awc-read.htm#foia" target="_blank">FOIA</a>
+<br>
+<a href="http://www.au.af.mil/au/awc/508.htm">Accessibility/Section 508</a>
+</font>
+</center>
+
+
+</blockquote>
+</font>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</center>
+
+
+
+</body></html>

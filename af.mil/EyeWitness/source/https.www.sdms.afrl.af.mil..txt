@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
+<title>SDMS Public Web Site</title>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
+<meta name="google-site-verification" content="5SmuLMXu4E0eUEaoacz3i6IsP6Y7i4v9qXPrBtDlM4Y">
+
+<link href="/css/sdms_reset.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/css/layout.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/css/nav.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/css/content.css" rel="stylesheet" type="text/css">
+<link href="/css/tables.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
+
+<!--[if IE]>
+    <link href="/css/ie-fix.css" rel="stylesheet" type="text/css" media="screen">
+<![endif]-->
+
+</head>
+<body>
+
+<div id="header">
+
+	<a id="sdmslogo" href="index.php" title="SDMS Public Web Site">
+	<img src="/images/sdms_logo.png" width="238" height="75" alt="SDMS Logo">
+</a>
+<a id="aflogo" href="http://www.airforce.com/" title="USAF Recruiting Site">
+	<img src="/images/af_logo.jpg" width="187" height="60" alt="Air Force Logo">
+</a>
+<div id="navbar">
+    <ul class="main-nav">
+        <li class="submenu widemenu"><a href="">Available Data</a>
+            <div>
+                <ul>
+                    <li><a href="index.php?collection=3d_challenge">3D Challenge 2003</a></li>
+                    <li><a href="index.php?collection=adaptsaps">AdaptSAPS</a></li>
+                    <li><a href="index.php?collection=adts">ADTS</a></li>
+                    <li><a href="index.php?collection=ccd_challenge">CCD Challenge Problem</a></li>
+                    <li><a href="index.php?collection=clif2006">CLIF 2006</a></li>
+                    <li><a href="index.php?collection=clif2007">CLIF 2007</a></li>
+                    <li><a href="index.php?collection=csuav">CSUAV</a></li>
+                    <li><a href="index.php?collection=cv_dome">CV Data Domes</a></li>
+                    <li><a href="index.php?collection=fthood">Ft. Hood</a></li>
+                    <li><a href="index.php?collection=gotcha">Gotcha</a></li>
+                    <li><a href="index.php?collection=gtri">GTRI</a></li>
+                    <li><a href="index.php?collection=greene07">Greene 07</a></li>
+                    <li><a href="index.php?collection=mami2013">MAMI 2013</a></li>
+                    <li><a href="index.php?collection=mstar">MSTAR</a></li>
+                    <li><a href="index.php?collection=gmti">SAR GMTI Challenge</a></li>
+                    <li><a href="index.php?collection=vhf_change_detection">VHF Change Detection</a></li>
+                    <li><a href="index.php?collection=video_sample_set_1">Video Sample Set #1</a></li>
+                    <li><a href="index.php?collection=video_sample_set_2">Video Sample Set #2</a></li>
+                    <li><a href="index.php?collection=wide_angle_sar">Wide Angle SAR</a></li>
+                    <li><a href="index.php?collection=wpafb2009">WPAFB 2009</a></li>
+                </ul>
+            </div>
+        </li>
+        <li class="submenu"><a href="">Software Tools</a>
+            <div>
+                <ul>
+                    <li><a href="index.php?collection=tools">Tools Overview</a></li>
+                    <li><a href="index.php?collection=tools_adts">ADTS</a></li>
+                    <li><a href="index.php?collection=tools_ddb">DDB Jumpstart</a></li>
+                    <li><a href="index.php?collection=tools_mstar">MSTAR</a></li>
+                    <li><a href="index.php?collection=tools_nitf">NITF</a></li>
+                    <li><a href="index.php?collection=tools_phoenix">Phoenix</a></li>
+                </ul>
+            </div>
+        </li>
+        <li class="submenu"><a>Data Request &amp; Download</a>
+            <div>
+                <ul>
+                    <!--<li><a href="index.php?collection=request" >Request Data</a></li>-->
+                    <li><a href="index.php?collection=registration">Public Data Downloads</a></li>
+                    <li><a href="index.php?collection=request&amp;page=datastat">Check Your Order Status</a></li>
+                </ul>
+            </div>
+        </li>
+        <!--
+        <li class="submenu"><a>Data Downloads</a>
+            <div>
+                <ul>
+                    <li><a href="index.php?collection=registration" >Public Data Downloads</a></li>
+                </ul>
+            </div>
+        </li>
+        -->
+        <li class="submenu"><a>Challenge Areas</a>
+            <div>
+                <ul>
+                    <li><a href="index.php?collection=challenge_areas">Challenge Areas Overview</a></li>
+                </ul>
+            </div>
+        </li>
+        <li id="joinaflink"><a href="http://www.airforce.com/">Join the Air Force</a></li>
+    </ul>    
+</div>
+
+</div>
+
+<div class="colmask fullpage">
+    <div class="col1">
+        <!-- Column 1 start -->
+		<h1>SDMS Public Web Site Home Page</h1>
+
+<p>
+Welcome to the Sensor Data Management System (SDMS) Public web site.
+</p>
+
+                
+        <!-- Column 1 end -->
+    </div>
+</div>
+<div id="footer">
+	<div id="footercontent">
+    <a href="index.php?collection=sitemap&amp;page=sitemap">Site Map</a> 
+    <a href="mailto:sdms_help@vdl.afrl.af.mil">Contact SDMS</a> 
+</div>
+<div id="footerAppendage">
+    <a href="index.php?collection=notice&amp;page=security">Privacy &amp; Security Notice</a> 
+    <a href="index.php?collection=notice&amp;page=hyperlink">External Link Disclaimer</a>
+    <a href="index.php?collection=notice&amp;page=contact">Contact Us</a>
+    <a href="http://prhome.defense.gov/nofear" title="No Fear Act" target="_new">No Fear Act</a>
+    <a href="http://www.usa.gov/" title="USA.gov" target="_new">USA.gov</a>
+    
+</div>    <div class="publicReviewDate">Current as of 24 February 2017</div>
+</div>
+
+
+</body></html>

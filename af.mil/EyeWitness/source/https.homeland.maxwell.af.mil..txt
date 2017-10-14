@@ -1,0 +1,179 @@
+<html><head><title>Homeland Security Studies, Homeland Defense Studies, Domestic Preparedness</title></head>
+<body bgcolor="#FFFFFF" background="graphics/c21-bkgd.gif" bgproperties="fixed">
+
+<table width="100%">
+<tbody><tr>
+<td align="center" valign="middle" width="298">
+<a href="http://www.defenselink.mil/specials/homeland/"><img src="graphics/dod_seal.jpg" alt="DoD seal, click to go to DoD Homeland Defense site" border="0"></a>
+</td>
+<td align="center" valign="middle">
+<a href="http://homeland.au.af.mil/index.htm"><img src="graphics/title-main.gif" alt="center for homeland defense &amp; homeland security studies" border="0"></a>
+<br>
+<font face="arial" size="-2">
+</font><p><font face="arial" size="-2">
+<a href="http://www.defenselink.mil/specials/homeland/">DoD</a> &gt; 
+<a href="http://www.af.mil">Air Force</a> &gt; 
+<a href="http://www.au.af.mil/au/">Air University</a> &gt; 
+<a href="http://www.au.af.mil/au/awc/awcgate/awcgate.htm">Air War College</a> &gt; 
+this center
+</font>
+</p></td>
+<td align="right" valign="top" width="298">
+<a href="http://www.au.af.mil/au/"><img src="graphics/au_prop_right.gif" alt="Air University emblem, click to go to AU" border="0"></a>
+</td>
+</tr>
+</tbody></table>
+
+<table width="100%" bgcolor="#00FFFF" cellpadding="0" cellspacing="0" border="2">
+<tbody><tr bgcolor="#0000FF" valign="middle"> 
+  <td height="22" align="center" colspan="3" bgcolor="#FF0033"> 
+    <font size="-1" face="Arial" color="white">
+<!--     <a href="cts-home.htm"><font color="white">home</font></a>-->
+     <a href="http://c21.maxwell.af.mil/"><font color="white">Conflict 21</font></a>
+     | <a href="http://c21.maxwell.af.mil/cts-home.htm"><font color="white">terrorism ctr</font></a>
+     | <a href="http://www.au.af.mil/au/aul/aul.htm" target="_blank"><font color="white">Air University Library</font></a>
+     | <a href="http://www.au.af.mil/au/awc/awcgate/awc-port.htm"><font color="white">military portal</font></a>
+    </font>
+  </td>
+</tr>
+<tr bgcolor="blue" valign="middle"> 
+  <td height="22" align="center" colspan="3" bgcolor="blue"> 
+    <font size="-1" face="Arial" color="white">
+     <a href="http://www.au.af.mil/au/awc/awcgate/awcgate.htm"><font color="white">AWC gateway to internet</font></a>
+     | <a href="links.htm"><font color="white">links</font></a>
+     | <a href="reference.htm"><font color="white">reference</font></a>
+     | <a href="http://www.google.com/custom?hl=en&amp;lr=&amp;ie=ISO-8859-1&amp;cof=L%3Ahttp%3A%2F%2Fhomeland.au.af.mil%2Fgraphics%2Fsearch-header.gif%3BLH%3A88%3BLW%3A278%3BAH%3Acenter%3B&amp;domains=maxwell.af.mil&amp;q=homeland+defense&amp;sitesearch=maxwell.af.mil"><font color="white">search</font></a>
+<!--     | <a href="hmldndex.htm"><font color="white">index</font></a>-->
+    </font>
+  </td>
+</tr>
+</tbody></table>
+
+<center>
+<table width="90%" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="1">
+<tbody><tr>
+<td>
+<table width="100%" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td>
+<font face="times">
+<blockquote>
+<!-- start contect section -->
+
+<center>
+<table width="95%">
+<tbody><tr>
+<td width="40%" align="right" valign="top">
+<font face="arial" size="-1">
+<b>
+<br>
+<br>
+<!--<a href="general.htm">general intro</a><br>-->
+
+<a href="about.htm">about us</a><br>
+
+<a href="local.htm">local resources</a><br>
+
+<a href="threat.htm">threats &amp; warnings</a><br>
+
+<a href="federal.htm">federal resources</a><br>
+
+<a href="state.htm">state &amp; local</a><br>
+
+<a href="military.htm">military resources</a><br>
+
+<a href="international.htm">international</a><br>
+
+<a href="tools.htm">technology &amp; tools</a><br>
+
+<!--<a href="research.htm">theory & research</a><br>-->
+
+<a href="law.htm">law and policy</a><br>
+
+<a href="doctrine.htm">doctrine and plans</a><br>
+
+<a href="education.htm">education &amp; training</a><br>
+
+</b>
+</font>
+</td>
+<td width="150" align="center" valign="top">
+<a href="http://www.dhs.gov/dhspublic/"><img border="0" src="http://www.dhs.gov/dhspublic/getAdvisoryImage?size=small" alt="current national threat level - click to go to Dept of Homeland Security" height="20"></a>
+<br>
+<img src="graphics/cbirf_suits.jpg" alt="CBIRF response team"><br>
+<img src="graphics/f15_nyc.jpg" alt="F-15 over New York"><br>
+<img src="graphics/link_to_comm_sat.jpg" alt="linking to communications satellite"><br>
+<img src="graphics/uscg_rescue.jpg" alt="U.S. Coast Guard rescue"><br>
+
+</td>
+<td width="45%" align="left" valign="top">
+<font face="arial" size="-1">
+<b>
+<br>
+<br>
+
+<a href="preparedness.htm">preparedness</a><br>
+
+<a href="transportation.htm">transportation &amp; ports</a><br>
+
+<a href="communications.htm">communications</a><br>
+
+<a href="information.htm">information &amp; cyber</a><br>
+
+<a href="lawenforce.htm">law enforcement</a><br>
+
+<a href="immigration.htm">immigration &amp; borders</a><br>
+
+<a href="utilities.htm">utilities</a><br>
+
+<a href="health.htm">health &amp; food</a><br>
+
+<a href="financial.htm">financial &amp; fraud</a><br>
+
+<a href="reference.htm">news &amp; reference</a><br>
+
+<a href="links.htm">links</a><br>
+
+<!--<a href="ndex.htm">index</a><br>-->
+
+</b>
+</font>
+</td>
+</tr>
+</tbody></table>
+</center>
+<p>
+
+
+
+
+
+<!-- end contect section -->
+<br>
+</p></blockquote>
+</font>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<center>
+<font face="Arial" size="-2">
+<a href="http://www.au.af.mil/au/awc/awcgate/awc-read.htm" target="_blank">please see disclaimer about links, and privacy and security notice</a> ... <a href="http://www.au.af.mil/au/awc/awcgate/awc-read.htm#poc" target="_blank">contact us</a>
+<br>
+
+updated/reviewed 11 Jan 07
+
+<br><a href="http://www.au.af.mil/au/awc/awcgate/awc-read.htm#foia" target="_blank">FOIA</a>
+<br>
+<a href="http://www.au.af.mil/au/awc/508.htm">Accessibility/Section 508</a>
+</font>
+</center>
+
+</center>
+
+
+
+</body></html>

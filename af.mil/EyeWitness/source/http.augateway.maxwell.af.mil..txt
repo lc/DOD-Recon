@@ -1,0 +1,158 @@
+<!-- BEGIN UNEDITABLE CODE --><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>USAF Air University: Gateway Learning</title>
+<link href="styles/blue/style.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<table cellpadding="0" cellspacing="0" class="containerTable">	
+	<tbody><tr>
+		<td>
+<!-- END UNEDITABLE CODE -->
+
+<!-- BEGIN PAGE HEADER -->
+
+
+			<table cellpadding="0" cellspacing="0" class="headerTable">
+    <tbody><tr>
+     	<td height="58" width="680"></td>
+     	<td width="90"><!-- <IMG src="styles/default/images/au_shield.gif" width="90" height="90"> --></td>
+    </tr>
+    <tr>
+     	<td height="15" colspan="2">
+      		<table cellpadding="0" cellspacing="0" class="headerUSAF">
+	       		<tbody><tr>
+    	    		<td width="200"></td>
+        			<td>United States Air Force</td>
+       			</tr>
+	      	</tbody></table>  
+    	 </td>
+	</tr>
+	<tr>
+		<td height="30" colspan="2">
+			<table cellpadding="0" cellspacing="0" class="headerMainTitle">
+				<tbody><tr>
+					<td width="275"></td>
+					<td>Air University Gateway</td>
+				</tr>
+			</tbody></table> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table cellpadding="0" cellspacing="0" class="headerMaxwell">
+				<tbody><tr>
+					<td width="220"></td>
+					<td>Maxwell-Gunter Air Force Base Montgomery, Alabama</td>
+				</tr>
+			</tbody></table> 
+		</td>
+	</tr>
+</tbody></table>
+		
+<!-- END PAGE HEADER -->
+
+<!-- BEGIN UNEDITABLE CODE -->
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table cellpadding="0" cellspacing="0" width="780" bgcolor="#FFFFFF">
+				<tbody><tr>
+					<td width="131" height="100%" valign="top" class="leftMain">
+						<table cellpadding="0" cellspacing="0" width="131" class="leftMenuTable">
+	<tbody><tr>
+		<td valign="top" height="200">
+			<br>
+			
+			<div><a href="http://www.au.af.mil/au">Air Universty Home</a></div>                  
+			<div><a href="affor.asp">AFFOR</a></div>         
+			<div><a href="http://www.au.af.mil/au/barnes/ccaf/index.asp">CCAF</a></div>                 
+			<br>         
+		</td>
+	</tr>
+	<tr>
+		<td align="center" height="200" valign="top"> 
+			<a href="http://www.af.mil/"><img src="styles/blue/images/af_logo.gif" border="0" width="87" height="79" alt="Air Force Link"></a>
+		</td>
+	</tr>
+</tbody></table>
+
+					</td>
+					<td valign="top" height="100%">
+						<table class="mainContentTable">							
+							<tbody><tr>
+								<td height="100%" width="640" valign="top">									
+<!-- END UNEDITABLE CODE -->
+
+<!-- BEGIN PAGE CONTENT -->
+
+<table width="600" cellspacing="0" cellpadding="5" align="center">
+	<tbody><tr>
+		<td width="200" height="100" align="center" valign="middle">&nbsp;</td>
+		<td width="200" height="100" align="center" valign="middle">&nbsp;</td>
+		<td width="200" height="100" align="center" valign="middle">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="200" height="100" align="center" valign="middle"><a href="affor.asp"><img src="images/affor_badge.gif" border="0" alt="AFFOR Badge"></a></td>
+		<td width="200" height="100" align="center" valign="middle"><a href="http://www.au.af.mil/au"><img src="images/AU.gif" border="0" alt="Air University Shield"></a></td>
+		<td width="200" height="100" align="center" valign="middle"><a href="http://www.au.af.mil/au/barnes/ccaf/index.asp"><img src="images/ccaf.gif" border="0" alt="JSAMTCC Badge"></a></td>
+	</tr>
+	<tr>
+		<td width="200" height="100" align="center" valign="middle">&nbsp;</td>
+		<td width="200" height="100" align="center" valign="middle">&nbsp;</td>
+		<td width="200" height="100" align="center" valign="middle">&nbsp;</td>
+	</tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+<!-- END PAGE CONTENT -->
+
+<!-- BEGIN UNEDITABLE CODE -->									
+								</td>								
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>		
+		</td>
+	</tr>	
+</tbody></table>
+<div id="footer">
+<a href="http://www.au.af.mil/au/contact.asp" target="_blank">Contact Us</a> |
+<a href="http://www.au.af.mil/au/AUfaqs.asp" target="_blank">AU FAQs</a> |
+<a href="http://www.au.af.mil/au/privacy.asp" target="_blank">Privacy and Security Notice</a> |
+<a href="http://www.afms.af.mil/suicideprevention/index.asp" target="_blank">Suicide Prevention</a> |
+<a href="http://www.afpc.af.mil/library/sapr/index.asp" target="_blank">Sexual Assault Awareness &amp; Prevention</a> |
+<a href="http://prhome.defense.gov/nofear" target="_blank">No Fear Act</a> |
+<a href="http://www.af.mil/EqualOpportunity.aspx" target="_blank">EEO</a> |
+<a href="http://www.af.mil/InspectorGeneralComplaints.aspx" target="_blank">IG</a> |
+<a href="http://www.usa.gov" target="_blank">USA.gov</a>
+<br>
+<a href="http://dcmo.defense.gov/publications/annual-performance-plan-annual-peformance-report.html" target="_blank">Strategic Annual Performance Report</a> |
+<a href="http://www.maxwell.af.mil/library/foia.asp">FOIA Program</a> |
+<a href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" target="_blank">Accessibility/Section 508</a> | 
+<a href="http://www.e-publishing.af.mil" target="_blank">E-Publishing</a> |
+<a href="http://www.af.mil/">US Air Force</a> | 
+<a href="http://afreserve.com">AFRC Recruiting</a> |
+<a href="http://www.au.af.mil/au/">Air University</a> | 
+<a href="http://www.maxwell.af.mil/library/biographies/index.asp">AU/HQ</a>
+<br>
+<br>
+<a href="mailto:maxwell.webmaster@us.af.mil">42CS/SCOV</a> | 334-953-1110
+<br>
+<br>
+Updated/Reviewed 02-20-2014 <br><br>
+</div>
+		
+
+
+<!-- END UNEDITABLE CODE --></body></html>

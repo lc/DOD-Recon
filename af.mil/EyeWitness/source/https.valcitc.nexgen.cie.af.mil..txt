@@ -1,0 +1,125 @@
+<html><head>
+    <meta name="robots" content="noindex,nofollow">
+    <title>BIG-IP logout page</title>
+    <link rel="stylesheet" type="text/css" href="/public/include/css/apm.css">
+    <script src="/public/include/js/common.js" language="javascript"></script>
+    <script src="/public/include/js/u_plugin.js" language="javascript"></script>
+	
+    <script language="javascript">
+      function InsertActivexControl(clsid, params)
+      {
+          var container = document.getElementById("logoutActivexContainer");
+          
+          if (navigator.appName == "Microsoft Internet Explorer") {
+              var paramsCode = "";
+              for (var item in params) {
+                  paramsCode += "<param name='" + item + "' value='" + params[item] + "'>";
+              }
+              
+              container.innerHTML = 
+                  "<center><object classId=CLSID:" + clsid + " border=0 width=1 height=1>" +
+                  paramsCode + "</object></center>";
+          }
+          else {
+              var pluginHost = new UPluginHost("", container);
+              var control = {"clsid": clsid, "width": 1, "height": 1};
+              pluginHost.hostControl(control, params);
+          }
+      }
+	  
+      function OnLoad()
+      {
+
+        var display_session = get_cookie("LastMRH_Session");
+        if(null != display_session) {
+          document.getElementById("sessionDIV").innerHTML = '<BR>The session reference number: &nbsp;' + display_session + '<BR><BR>';
+          document.getElementById("sessionDIV").style.visibility = "visible";
+        }
+
+        try
+        {	
+          if (("undefined" != typeof(window.external))
+              && ("unknown" != typeof(window.external))
+              && ("undefined" != typeof(window.external.WebLogonNotifyUser))
+              && ("unknown" != typeof(window.external.WebLogonNotifyUser)))
+          {
+            window.external.WebLogonNotifyUser();
+          }
+        }
+        catch(e) {};
+        try
+        {
+            if (get_cookie("F5_PWS") == "1")
+            {
+                document.cookie = "F5_PWS=0; path=/; expires=Fri, 01-Jan-1970 00:00:01 GMT";
+                var pwsClassId = "7E73BE8F-FD87-44EC-8E22-023D5FF960FF";
+                InsertActivexControl(pwsClassId, {"command": "exit"} );
+            }
+        }catch (e) {};
+      }
+    </script>
+  </head>
+
+<body onload="OnLoad();">
+<script>
+try{
+
+    if(window.external && window.external.WebLogonOnAuthFailure) {
+        window.external.WebLogonOnAuthFailure();
+    }
+}catch(e){};
+    try {
+        window.external.OnHostClose();
+    } catch(e) { }
+</script>
+<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0">       
+<meta name="robots" context="noindex,nofollow">
+<script language="javascript">
+//orientation toolbox
+function setViewport(){
+    document.getElementById("viewport").setAttribute('content', Math.abs(window.orientation) == 90 ? 'width=device-height, initial-scale=1' : 'width=device-width, initial-scale=1.0' );
+}
+setViewport();
+window.onorientationchange = function() {
+    setViewport();
+}    
+</script>
+<table id="page_header">
+  <tbody><tr>
+    <td id="header_leftcell"><img src="/public/images/customization/Common/NEXGEN_VALCITC_AGS_ReverseProxy_JITC_AND_DoD_1-NEXGEN_VALCITC_AGS_ReverseProxy_general_ui/logo_image_en.bmp"></td>             
+    <td id="header_rightcell"></td>
+  </tr>
+  <tr>
+     <td></td>
+     <td id="maxTimeoutTd"><span id="maxTimeoutTag" title=""></span></td>
+  </tr>
+</tbody></table>
+<noscript>
+&lt;div id="noscript_warning_red"&gt;JavaScript is not enabled. Please enable JavaScript in your browser or contact your system administrator for assistance.&lt;/div&gt;
+&lt;div id="noscript_warning_newsession"&gt;To open a new session, please  &lt;A href="/"&gt;click here.&lt;/A&gt;&lt;/div&gt;
+</noscript>
+<table id="main_table" class="logout_page">
+<tbody><tr>
+        <td id="main_table_info_cell">
+        <table id="interaction_table">
+            <tbody><tr>
+                <td id="interaction_table_header">Your session could not be established.</td>
+            </tr>
+            <tr>
+                <td class="interaction_table_option_cell"><br><div id="sessionDIV" style="visibility:hidden" align="left"></div>
+                    Access was denied by the access policy. This may be due to a failure to meet access policy requirements.<p></p><p>If you are an administrator, please go to Access Policy &gt;&gt; Reports : All Sessions page and look up the session reference number displayed above.<br>                    <br>
+                    To open a new session, please  <a href="/">click here.</a>                </p></td>
+            </tr>
+            <tr>
+                <td class="interaction_table_footer"></td>
+            </tr>
+        </tbody></table>
+    </td>
+    <td id="main_table_image_cell"><img src="/public/images/my/tr.gif"></td></tr>
+</tbody></table>
+<div id="page_footer"><div>If support is required, customers should contact the NexGen Service Desk:<br><b>Email: </b>FAS.Team1@us.af.mil<br><b>Phone: </b>DSN 596-5771 Commercial (334) 416-5771 option 1,1,4 or call Toll free (877) 596-5771 option 1,1,4<br></div></div>
+<div id="logoutActivexContainer" class="inspectionHostDIVSmall"></div>
+
+
+
+</body></html>

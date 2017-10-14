@@ -1,0 +1,173 @@
+<!DOCTYPE html><html lang="en-US" class="yui3-js-enabled"><head>
+    <meta charset="utf-8">
+    <title>myPers</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <!--[if lt IE 9]><script src="/euf/core/static/html5.js"></script><![endif]-->
+        
+    
+<style type="text/css">
+ <!-- 
+.rn_ScreenReaderOnly{position:absolute; height:1px; left:-10000px; overflow:hidden; top:auto; width:1px;}
+.rn_Hidden{display:none !important;}
+ --></style>
+<script charset="utf-8" id="yui_3_17_2_1_1507915138431_2" src="//gum.widget.cx.usd.oraclecloud.com/ci/cache/yuiCombo/3.17.2/anim-base/anim-base-min.js&amp;3.17.2/anim-color/anim-color-min.js&amp;3.17.2/anim-xy/anim-xy-min.js&amp;3.17.2/anim-curve/anim-curve-min.js&amp;3.17.2/anim-easing/anim-easing-min.js&amp;3.17.2/anim-node-plugin/anim-node-plugin-min.js&amp;3.17.2/anim-scroll/anim-scroll-min.js" async=""></script><base href="https://mypers.af.mil/euf/generated/optimized/1507047905/themes/afpers/">
+<link href="/euf/generated/optimized/1507047905/templates/afpers_loggedout.themes.afpers.SITE.css" rel="stylesheet" type="text/css" media="all">
+<style type="text/css">
+<!--
+.rn_HighContrastMode .rn_OracleLogo a:before{content: "Powered By Oracle";}
+.rn_OracleLogo a{background:url(/euf/core/static/PoweredByOracle.png) no-repeat scroll right 0 !important;display:block !important;height:29px !important;width:134px !important;}
+.rn_OracleLogo a:focus, .rn_OracleLogo a:hover{background-position:right -37px !important;}
+.rn_NotificationBox{background-color:#CCCCCC;background-position:24px 1.125em;background-repeat:no-repeat;border:1px solid #AAAAAA;clear:both;margin-bottom:1em;padding:1em 20px 1em 60px;}
+.rn_NotificationBox p{font-size:1.0em;line-height:1.5em;margin:0;}
+.rn_NotificationBox p + p{margin-top:1em;}
+.rn_NotificationBox.condensed{background-position:8px 10px;padding:10px 10px 10px 30px;}
+.rn_NotificationBox.condensed p{font-size:0.917em;}
+.rn_NotificationBox .close{display:block;display:none;float:right;width:20px;height:20px;cursor:pointer;background-image:url(../images/icons/close.gif);background-position:center center;background-repeat:no-repeat;text-indent:-99999px;}
+.error{background-color:#FFCCCC;background-image:url(../images/icons/error.png);border-color:#FF0000;}
+.error a{color:#990000;}
+.notify{background-color:#FFFFCC;background-image:url(../images/icons/notify.png);border-color:#FFDD00;}
+.success{background-color:#CCFFCC;background-image:url(../images/icons/tick.png);border-color:#00FF00;}
+.info{background-color:#BFD0EB;background-image:url(../images/icons/information.png);border-color:#4472B7;}
+.rn_NotificationBox{background-color:#CCCCCC;background-position:24px 1.125em;background-repeat:no-repeat;border:1px solid #AAAAAA;clear:both;margin-bottom:1em;padding:1em 20px 1em 60px;}
+.rn_NotificationBox p{font-size:1.0em;line-height:1.5em;margin:0;}
+.rn_NotificationBox p + p{margin-top:1em;}
+.rn_NotificationBox.condensed{background-position:8px 10px;padding:10px 10px 10px 30px;}
+.rn_NotificationBox.condensed p{font-size:0.917em;}
+.rn_NotificationBox .close{display:block;display:none;float:right;width:20px;height:20px;cursor:pointer;background-image:url(/euf/generated/optimized/1507047905/themes/afpers/images/icons/close.gif);background-position:center center;background-repeat:no-repeat;text-indent:-99999px;}
+.error{background-color:#FFCCCC;background-image:url(/euf/generated/optimized/1507047905/themes/afpers/images/icons/error.png);border-color:#FF0000;}
+.error a{color:#990000;}
+.notify{background-color:#FFFFCC;background-image:url(/euf/generated/optimized/1507047905/themes/afpers/images/icons/notify.png);border-color:#FFDD00;}
+.success{background-color:#CCFFCC;background-image:url(/euf/generated/optimized/1507047905/themes/afpers/images/icons/tick.png);border-color:#00FF00;}
+.info{background-color:#BFD0EB;background-image:url(/euf/generated/optimized/1507047905/themes/afpers/images/icons/information.png);border-color:#4472B7;}
+.rn_SystemStatus{}
+.rn_CacAuthButton{}
+.cac-button{background: #2552A3 url(../images/buttonBackgroundCAC.png) no-repeat scroll -8px -5px;color: #FFFFFF !important;display: block;font-size: 18px;height: 60px;line-height: 60px;margin-bottom: 10px;padding: 0;text-align: center;text-decoration: none;width: 250px;}
+.cac-button:hover, .cac-button:focus{background-position: -8px -75px;}
+.cac-button:active{background-position: -8px -145px;}
+.cac-button{background: #2552A3 url(/euf/generated/optimized/1507047905/themes/afpers/images/buttonBackgroundCAC.png) no-repeat scroll -8px -5px;color: #FFFFFF !important;display: block;font-size: 18px;height: 60px;line-height: 60px;margin-bottom: 10px;padding: 0;text-align: center;text-decoration: none;width: 250px;}
+.cac-button:hover, .cac-button:focus{background-position: -8px -75px;}
+.cac-button:active{background-position: -8px -145px;}
+.rn_LoginForm.rn_LoginForm{}
+.rn_LoginForm.rn_ContentLoading{background-image: url("/euf/assets/themes/afpers/images/loading.gif");background-position-x: center;background-position-y: center;background-repeat: no-repeat;}
+.rn_SplashModal{}
+.rn_SplashModal_Content{border: none !important;}
+.rn_SplashModal_Content_Mask{opacity: 0.85 !important;filter:alpha(opacity=85) !important;}
+-->
+</style>
+
+    <link rel="icon" href="/euf/assets/images/favicon.png" type="image/png">
+    <script type="text/javascript">
+    <!--
+    if (parent !== self) {
+        top.location.href = location.href;
+    }
+    else if (top !== self) {
+        top.location.href = self.document.location;
+    }
+    //-->
+    </script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body class="yui-skin-sam yui3-skin-sam logged-out" itemscope="" itemtype="http://schema.org/WebPage" id="yui_3_17_2_6_1507915138431_6"><div></div><p style="display:inline"><input type="hidden" id="rn_VirtualBufferUpdateTrigger" name="rn_VirtualBufferUpdateTrigger" value="1"></p>
+    <div id="rn_Header" role="banner">
+        <div class="rn_Container">
+            <div id="rn_Logo">
+                <a href="/app/home"><span class="rn_LogoTitle">myPers</span></a>
+            </div>
+        </div>
+    </div>
+    <div id="rn_Body">
+        <div class="rn_Container">
+<!--div id="" /-->
+<div id="rn_PageContent" class="rn_Account rn_LoginForm">
+    <div class="rn_Padding">
+				    
+    <div id="rn_NotificationBox_5" class="rn_NotificationBox " style="display: none;">
+    </div>
+        <div class="rn_Column rn_LeftColumn rn_CACLogin">
+            <h2>CAC Available? Select CAC Login</h2>
+            <div class="rn_Padding">
+                <span id="rn_CacAuthButton_6" class="rn_CacAuthButton">
+    <a href="https://rightnow1.cx.usd.oraclecloud.com/cc/CAC/auth/site/bXlwZXJzLmFmLm1pbA==/redirect/home" class="cac-button">CAC Login</a>
+</span>
+                <div id="rn_NotificationBox_7" class="rn_NotificationBox info condensed" style="">
+    Please select your CAC E-Mail certificate to ensure proper logon to the myPers website.</div>
+            </div>
+        </div>
+        <div class="rn_Column rn_RightColumn">
+            <h2>Log in with an existing account</h2>
+            <div class="rn_Padding">
+                <div id="rn_LoginForm_8" class="rn_LoginForm rn_LoginForm">
+    <div id="rn_LoginForm_8_Content">
+        <div id="rn_LoginForm_8_ErrorMessage"></div>
+        <form id="rn_LoginForm_8_Form" onsubmit="return false;">
+            <label for="rn_LoginForm_8_Username">User ID</label>
+            <input id="rn_LoginForm_8_Username" type="text" maxlength="80" name="Contact.Login" autocorrect="off" autocapitalize="off" value="">
+                    <label for="rn_LoginForm_8_Password">Password</label>
+            <input id="rn_LoginForm_8_Password" type="password" maxlength="20" name="Contact.Password" autocomplete="off">
+                    <br>
+            <input id="rn_LoginForm_8_Submit" type="submit" value="LOG-IN">
+            <br>
+        </form>
+        <a href="/app/forgot">Forgot your username or password?</a>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="rn_ClearBoth">
+        <br>
+        <h3>No DOD-issued CAC and no User ID/Password available?<br>Use this link: <a href="/app/create1">Create Account</a>.</h3>
+        <br>
+    </div>
+    <div id="rn_NotificationBox_9" class="rn_NotificationBox info" style="">
+    <p><b>General Information:</b></p>
+<p>Airmen accessing the information from some personal use web browsers may need to download <a href="http://iase.disa.mil/pki-pke/getting_started/">Department of Defense root certificates</a> if they are having difficulties accessing the personnel services website from home.</p>
+<p>If you are experiencing errors logging in or with this web site please contact 1-800-525-0102 or DSN 665-5004.</p>
+<p>This site is intended for government audiences only. Do not reproduce or distribute the contents of this site to a wider audience without coordination with the information owner, unit legal and public affairs offices.</p></div>
+</div>
+        </div>
+    </div>
+    <div id="rn_Footer" role="contentinfo">
+        <div class="rn_Container">
+            <p style="font-size:11pt;">You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-Authorized use only. By using this IS (which includes any device attached to this IS), you consent to the following conditions:</p>
+   <p>- The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence (CI) investigations.</p>
+            <p>- At any time, the USG may inspect and seize data stored on this IS.</p>
+            <p>- Communications using, or data stored on, this IS are not private, are subject to routine monitoring, interception, and search, and may be disclosed or used for any USG authorized purpose.</p>
+            <p>- This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your personal benefit or privacy.</p>
+            <p>- Notwithstanding the above, using this IS does not  constitute consent to PM, LE or CI investigative searching or monitoring of the  content of privileged communications, or work product, related to personal  representation or services by attorneys, psychotherapists, or clergy, and their  assistants. Such communications and work product are private and confidential.  See User Agreement for details.</p>
+<div id="rn_RightNowCredit"><span id="rn_OracleLogo_10" class="rn_OracleLogo">
+    <a href="https://cloud.oracle.com/service" target="_blank" title="Powered By Oracle"><span class="rn_ScreenReaderOnly">Powered By Oracle</span></a>
+</span>
+</div>
+        </div>
+    </div>
+<script>var YUI_config={"fetchCSS":false,"modules":{"RightNowTreeView":"/euf/core/3.4/js/6.232/min/modules/ui/treeview.js","RightNowTreeViewDialog":"/euf/core/3.4/js/6.232/min/modules/ui/treeviewdialog.js","RightNowTreeViewDropdown":"/euf/core/3.4/js/6.232/min/modules/ui/treeviewdropdown.js"},"lang":["en-US","en-US"],"injected":true,"comboBase":"//gum.widget.cx.usd.oraclecloud.com/ci/cache/yuiCombo/","groups":{"gallery-treeview":{"base":"/rnt/rnw/yui_3.17/gallery-treeview/","modules":{"gallery-treeview":{"path":"gallery-treeview-min.js"}}}}};</script>
+<script type="text/javascript" src="/euf/core/3.4/js/6.232/min/RightNow.js"></script><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div>
+<script type="text/javascript" src="/euf/generated/optimized/1507047905/pages/login.4c2c533949e55d2719373e6451db1b9a.js"></script>
+<script>
+/* <![CDATA[ */
+RightNow.Env=(function(){var _props={module:'standard',coreAssets:'/euf/core/3.4/',yuiCore:'/rnt/rnw/yui_3.17/',profileData:{"isLoggedIn":false,"previouslySeenEmail":null}};return function(prop){return _props[prop];};})();RightNow.Interface.setMessagebase(function(){return {"WARNING_LBL":"Warning","INFORMATION_LBL":"Information","HELP_LBL":"Help","ERROR_REQUEST_ACTION_COMPLETED_MSG":"There was an error with the request and the action could not be completed.","OK_LBL":"OK","DIALOG_LBL":"dialog","DIALOG_PLEASE_READ_TEXT_DIALOG_MSG_MSG":"dialog, please read above text for dialog message","BEG_DIALOG_PLS_DISMISS_DIALOG_BEF_MSG":"Beginning of dialog, please dismiss dialog before continuing","END_DIALOG_PLS_DISMISS_DIALOG_BEF_MSG":"End of dialog, please dismiss dialog before continuing","ERR_SUBMITTING_FORM_DUE_INV_INPUT_LBL":"There was an error submitting the form due to invalid input","ERR_SUBMITTING_SEARCH_MSG":"There was a problem with your request.  Please change your search terms and try again.","CLOSE_CMD":"Close","BACK_LBL":"Back","PLS_CLCK_HREF_EQS_PCT_S_THAN_S_MSG":"Please click <a href=\"%s\">here<\/a> to download your file.","PCT_S_MUST_NOT_CONTAIN_SPACES_MSG":"%s must not contain spaces.","USERNAME_LBL":"Username","PCT_S_CONTAIN_DOUBLE_QUOTES_MSG":"%s must not contain double quotes.","PCT_S_CNT_THAN_MSG":"%s must not contain either '<' or '>'"};});
+RightNow.Interface.setConfigbase(function(){return {"DE_VALID_EMAIL_PATTERN":"^(([-!#$%&'*+\/=?^~`{|}\\w]+(\\.[-!#$%&'*+\/=?^~`{|}\\w]+)*)|(\"[^\"]+\"))@[0-9A-Za-z]+(-[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+(-[0-9A-Za-z]+)*)+$","CP_HOME_URL":"home","CP_FILE_UPLOAD_MAX_TIME":300,"OE_WEB_SERVER":"mypers.af.mil","SUBMIT_TOKEN_EXP":120};});
+RightNow.Url.setParameterSegment(4);
+RightNow.Interface.Constants = 
+{"API_VALIDATION_REGEX_EMAIL":"((([-_!#$%&'*+\/=?^~`{|}\\w]+([.][-_!#$%&'*+\/=?^~`{|}\\w]*)*)|(\"[^\"]+\"))@[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*)+[;, ]*)+"};
+YUI().use('event-base',function(Y){Y.on('domready',function(){var n=RightNow.namespace,W=RightNow.Widgets,c='createWidgetInstance';
+n('Custom.Widgets.utils.NotificationBox').requires=["anim","anim-easing","event-custom"];
+W.setInitialWidgetCount(4);
+W[c]({"i":{"c":"NotificationBox","n":"NotificationBox","w":5},"a":{"label_heading":"","file_path":"","text":"","type":"","visible":false,"static":false},"j":[]},'W10=','fUI5s7wIfe_as2zq_wDyKj7SWRhPAbzeEqScNJRN3fMCc4VoFLvw~7xTj4FVTgcp1ebtnxpubucY4OnyF5vueV_jb1Ovz3n7GNZW1Q5DxiPqpA8a1~~PuSnAvl3d5WHD6uovE71iD1eZA!',1507915137,'NotificationBox_5','custom/utils/NotificationBox','Custom.Widgets.utils.NotificationBox','5','ZlVCdHdzUFM3XzlNdW44bUdReWZBVjhrTklkan5EbnlHdTFOTGhNSjQwM2h6Mk94WWFrVVVQc1NPZXJzS2o4aEh1UVlsTU1xWTIzT2RES2J0N0QxSU9WVFZSVGxpU2huOVhCUno5fjZzcW5CVlAzYXh5bDlTeWpJblBiVlI4TzA3RXRCVE1TcVZRVnFBIQ!!');
+W[c]({"i":{"c":"NotificationBox","n":"NotificationBox","w":7},"a":{"label_heading":"","file_path":"","text":"Please select your CAC E-Mail certificate to ensure proper logon to the myPers website.","type":"info condensed","visible":false,"static":true},"j":[]},'W10=','fUVoE~qtUDnp56tZIRwYz2SgEAmUdJAV7UeRFTqQVhlueP6nkte1QQH29KvkiZAPxsw0Et4IjO_wLGGXI9qxYIXgvxhfg4IJAq35CZPAhq_jYstjoK3OwmNHD9fA3g_rAydAwGoCHrm6k!',1507915137,'NotificationBox_7','custom/utils/NotificationBox','Custom.Widgets.utils.NotificationBox','7','ZlVhYXE0RjRtc2FKTWNRR3FPNWdRempKUGw1eEpOSFVWdGlFOTlEbWpPWlZiMjFJd2k0WmJlQjNkM3JTMUlWakl5NVBSYmxmVn5BaHZXUmRTNU1JaHlwTUhSYXA2cDFGaHlrMG1pa01HdXBhR3hNVWYzRlpGY3g3TW03cEhZclloQV9iWWF3MVhpWlBrIQ!!');
+W[c]({"i":{"c":"LoginForm","n":"LoginForm","w":8},"a":{"label_username":"User ID","label_password":"Password","label_login_button":"LOG-IN","redirect_url":"\/app\/home","append_to_url":"","disable_password":false,"initial_focus":false,"login_ajax":"\/ci\/ajaxRequest\/doLogin","disable_password_autocomplete":true},"j":{"f_tok":"ZlVoU1pnQnA1N1BVNUVXV21HZjdqeDZDRzRVbnRDaE9vOWxZcWJ3X2l5WGdXM2k4SGl3ODFxTm1rN2xPUFRfdDhFRldLVWtMd0RMRXVpfkZ_SnZDM34wbHZqaW45dHZ0U3BURjBFWFJVMmVtTVltNU5DbGdRMmhtNjcyZzFVcEJ6WkJSbXM0bVNYZUFNIQ!!","redirectOverride":"\/app\/home"}},'W10=','fUv2cToNbgq7fPAQS3Uzh_Ok~0CSUIrZfpbugT~2ZawvkP7sxTAONNFvWwR3J6M56S8mVTQOqCBwCnJnok0yAi7UtF3qlVTl1kSU5R5GTSN5h_2Bl9GksIft2rMaM3kfQHMqPBLwobUfg!',1507915137,'LoginForm_8','custom/login/LoginForm','Custom.Widgets.login.LoginForm','8','ZlVKSEdLQX55NmxUaHl3aFNDQ2VMTUkwYjBCSzJTZV9Pem5LZWlBRmZCN091SDY5WGo0fnNfU2pNM35IeW83N3ozQXNPWWhYaGpwTHRXN3dxRDYxNkY5MDJLcmYwR1huUEk2ZlFfMEpVMlN2RlBPWGRpWG9RWTlHWExwdHByRWZ4M2RCdnpPMVpKbnFzIQ!!');
+W[c]({"i":{"c":"NotificationBox","n":"NotificationBox","w":9},"a":{"label_heading":"","file_path":"\/euf\/assets\/announcements\/login-notification.html","text":"","type":"info","visible":false,"static":true},"j":[]},'W10=','fUHkawg6xKdrOd9Zv4E0CBBzCcrlCdOFyzEinnHUP0py_Rw6TMKAcVQ3RpXnFhkHMfAIbXkvVOWya3afBS7T0tDNa2dMt3AAHnug2UJQwtI3A21xSKqenoRq45Emli_n09boiSfDewR8A!',1507915137,'NotificationBox_9','custom/utils/NotificationBox','Custom.Widgets.utils.NotificationBox','9','ZlVtYnowemc1SHRHMGI1ZnNpcTB3Tm5CMHdnQXp4YUlTWTZ_YlNxZTNUWElBQ21lZmVzc3RUbFo2TnY5Y25xdHBKbEx_NkI1bGVZakRPRHpUOVpHcFN1MDlRZEl_VFVwTzRVdXdkd2ZTMlVFYTd3Rko1MFJ3QW1YcnNzZHZ3eDNWQkhxOU5tMTVsdUFJIQ!!');
+})});
+/* ]]> */
+</script>
+<iframe src="javascript:false" title="" style="position: absolute; width: 0px; height: 0px; border: 0px;"></iframe><script type="text/javascript">
+var _rnq=_rnq||[];_rnq.push({"s":"HmlxS4vn","uh":"c9462bb3","uc":"mypers.af.mil\/app\/login","b":"dd94691","i":"afpc:gum","f":"rnw","p":"Customer Portal","v":"16.5.0.1-b232-sp6","th":"www.rnengage.com"});
+(function(f){var b,d,a=document.createElement("iframe"),c=document.getElementsByTagName("script");a.src="javascript:false";a.title="";a.role="presentation";(a.frameElement||a).style.cssText="position:absolute;width:0;height:0;border:0";c=c[c.length-1];c.parentNode.insertBefore(a,c);try{b=a.contentWindow.document}catch(g){d=document.domain,a.src="javascript:var d=document.open();d.domain='"+d+"';void(0);",b=a.contentWindow.document}b.open()._l=function(){for(var a;f.length;)a=this.createElement("script"),d&&(this.domain=
+d),a.src=f.pop(),this.body.appendChild(a)};b.write('<body onload="document._l();">');b.close()})(["https://www.rnengage.com/api/e/dd94691/e.js","//www.rnengage.com/api/1/javascript/acs.js"]);
+</script>
+
+
+</body></html>

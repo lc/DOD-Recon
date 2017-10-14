@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>AF Portal: Login Page</title>
+    <!--    <link href="https://www2.my.af.mil/afp/netstorage/login_page_files/styles/logincss_lbp.css" rel="stylesheet" type="text/css"> -->
+    <link href="https://www2.my.af.mil/afp/netstorage/login_page_files/styles/logincss_lbp.css" rel="stylesheet" type="text/css">
+    <script src="https://www2.my.af.mil/afp/netstorage/login_page_files/js/login.js" language="JavaScript" type="text/javascript"></script>
+    <script language="JavaScript" type="text/javascript">
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            }
+            else var expires = "";
+            document.cookie = name+"="+value+expires+"; path=/";
+        }
+
+        function readCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for(var i=0;i < ca.length;i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            }
+            return null;
+        }
+
+        function toggleBasedOnCookieValue() {
+            var val = readCookie('AFPORTAL_LOGIN_TAB');
+            if (val == 'PASSWORD')
+                toggle('CAC','PASSWORD');
+            val = readCookie('AFPORTAL_LOGIN_AGREEMENT');
+            if (val == null || val == 'null'){
+
+                document.getElementById('lightbox').style.display = '';
+
+            }
+        }
+    </script>
+    <!--[if lt IE 9]>
+    <script>
+        document.createElement('header');
+        document.createElement('nav');
+        document.createElement('section');
+        document.createElement('aside');
+        document.createElement('footer');
+    </script>
+    <![endif]-->
+</head>
+
+<body onload="toggleError();">
+<!--- DO NOT TRANSLATE OR MODIFY any part of the hidden parameter(s) --->
+<!---
+  The following block of code provides users with a warning message
+  if they do not have cookies configured on their browsers.
+  If this environment does not use cookies to maintain login sessions,
+  simply remove or comment out the block below.
+--->
+<!--- BEGIN Cookie check block --->
+<!---
+DO NOT TRANSLATE anything inside the SCRIPT tag except the quoted
+string warningString.  i.e. var warningString = "Translate this string";
+--->
+<script language="JavaScript">
+    var warningString = "<B>WARNING:</B> To maintain your login session, make sure that your browser is configured to accept Cookies.";
+    document.cookie = 'acceptsCookies=yes';
+    if(document.cookie == ''){
+        document.write(warningString);
+    }
+    else{
+        document.cookie = 'acceptsCookies=yes; expires=Fri, 13-Apr-1970 00:00:00 GMT';
+    }
+</script></body></html>

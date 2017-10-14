@@ -1,0 +1,26 @@
+<html><head><title>Common Access Card Did Not Logon Sucessfully</title>
+</head><body style="margin=0;">
+<table width="100%" style="background-color:#003366;">
+<tbody><tr>
+<td>
+<img src="http://hqja.jag.af.mil/img/header.jpg" alt="The Judge Advocate General's Corps USAF" height="78" width="310">
+</td>
+</tr>
+</tbody></table>
+<div style="border-bottom:2px solid #336699; background:#003366;"></div>
+<br><br>
+<style="font-family=arial,verdana;">
+<h3>Your CAC logon has failed.</h3>
+<br><br><br>
+<center style="font-family=arial,verdana;">
+<h3>Claims or Out-Processing Briefings</h3>
+Contact:
+<br><br>
+<table><tbody><tr><td>Air Force Claims Service Center</td></tr><tr><td>DSN: 986-8044</td></tr><tr><td>Commercial: 1-877-754-1212</td></tr><tr><td>Email: <a href="mailto:AFCSC.JA@us.af.mil">AFCSC.JA@us.af.mil</a></td></tr></tbody></table><br><br><br>
+<center style="font-family=arial,verdana;">
+<h3>All Other Customers</h3>
+Contact:
+<br><br>
+<table><tbody><tr><td>Air Force Legal Operation Agency</td></tr><tr><td>DSN: 493-4179</td></tr><tr><td>Commercial: 1-334-953-4179</td></tr><tr><td>Email: <a href="mailto:afloa.helpdesk@us.af.mil">afloa.helpdesk@us.af.mil</a></td></tr></tbody></table><br><br><br>
+
+</center></center></style="font-family=arial,verdana;"></body></html>

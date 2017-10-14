@@ -1,0 +1,255 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="TMIP-AF, MEDXS, Air Force Medical Expeditionary Systems, Air Force Medical Service, EMEDS, Air Mobility Command, AMC, Theater Medical Information Program, healthcare, Electronic Health Records, Helpdesk, aeromedical evacuation">
+<meta name="description" content="The Air Force Medical Service (AFMS) Expeditionary Medical Systems (MEDXS) Portal contains support for the Theater Medical Information Program Air Force (TMIP AF) and all of its related software used in the air and on the ground. We support the Air Force Medical Service (EMEDS) and automated en route care systems from war readiness material through deployment. Our air and ground capability currently extends throughout South West Asia and is moving rapidly towards global support. We support automation  for health care related administration, Electronic Health Records, ancillary services, logistics, digital imaging, dental, public health, decision support and many other areas related to deployed Air Force healthcare.">
+<link href="/public/css/index.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="/public/css/slimbox2.css" type="text/css" media="screen">
+<link rel="icon" href="/public/_assets/img/favicon.ico">
+
+<!--[if IE 6]>
+    <link href="/public/css/ie6.css" type="text/css" rel="stylesheet" />
+
+    <script src="/public/js/dd_belated_png.js"></script>
+    <script>DD_belatedPNG.fix('#logo a, .h-box-1 img, .h-box-2 img, .brochure img, .slide-txt');</script>  
+<![endif]-->
+<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="/public/_assets/css/medxs-iehacks.css" rel="stylesheet" />
+<![endif]-->
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/public/_assets/js/jquery-1.10.2.min.js'>\x3C/script>")</script> 
+<script type="text/javascript">
+$.noConflict();
+jQuery(document).ready(function($) {
+	//Creates an array to retrieve cookie names and values, then it checks if the specified cookie exists, and returns the cookie value.
+	function getCookie(c_name) {
+		var i,x,y,ARRcookies=document.cookie.split(";");
+		for (i=0;i<ARRcookies.length;i++) {
+			x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+			y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+			x=x.replace(/^\s+|\s+$/g,"");
+			if (x==c_name) {
+				return unescape(y);
+			}
+		}
+	}
+	
+	//Creates the cookie and inserts it's value
+	function setCookie(c_name,value) {
+		document.cookie=c_name + "=" + escape(value) + "; path=/;secure";
+	}
+	
+	//Looks for Cookie and creates random BG image
+	function checkCookie() {
+		
+		var randomBG=getCookie("af-randomBG");
+		if (randomBG!=null && randomBG!="") {
+			setBackground(randomBG);
+		}
+		else {
+		// Set these up at global variables for init?  
+		// dislike hardcoding direct links/images/etc in the JS.
+			var images = [
+				'bg-random-1.jpg', 
+				'bg-random-2.jpg', 
+				'bg-random-3.jpg', 
+				'bg-random-4.jpg', 
+				'bg-random-5.jpg', 
+				'bg-random-6.jpg', 
+				'bg-random-7.jpg', 
+				'bg-random-8.jpg', 
+				'bg-random-9.jpg', 
+				'bg-random-10.jpg',
+				'bg-random-11.jpg',
+				'bg-random-12.jpg',
+			];
+			randomBG = images[Math.floor(Math.random() * images.length)];
+	
+			if (randomBG!=null && randomBG!="") {
+				setCookie("af-randomBG",randomBG);
+				setBackground(randomBG);
+			}
+		}
+	}
+	function setBackground(randomBG, path){
+		var fullPath = location.pathname;
+		var path = fullPath.substring(0,fullPath.lastIndexOf('/'));	
+		
+		$('body').css({'background-image': 'url(/public/_assets/img/' + randomBG + ')'});
+	}
+	checkCookie();
+});
+</script>
+
+
+    <title>MEDXS - Home</title>
+        <meta name="description" content="">
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-23623591-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script></head>
+<body style="background-image: url(https://www.uat.medxs.af.mil/public/_assets/img/bg-random-10.jpg);">
+<!-- Header and Navigation -->
+<div id="header" class="header">
+	<div id="header-wrapper">
+		<a href="/public" id="logo"><img src="/public/images/logo-medxs-navbar-small.png" alt="MEDXS"></a>
+
+		
+		<div class="share-navigation">
+			<div class="share-nav-wrapper">
+				<div class="share-nav link-menu">
+					<span class="yui-button yui-link-button">
+					   <span class="first-child">
+							<a href="/public">Home</a>
+						</span>
+					</span>
+					<span class="yui-button yui-link-button">
+					   <span class="first-child">
+							<a href="/public/en/news/">News &amp; Events</a>
+						</span>
+					</span>
+					<span class="yui-button yui-link-button">
+					   <span class="first-child">
+							<a href="/opensso/UI/Login">Login</a>
+						</span>
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- body-wrapper puts a position:relative that we don't need on nav; thus it's oddly placed. -->
+<div id="body-wrapper">
+	
+	<!-- Body Content Include -->
+
+			<div id="content-features-welcome">
+					<img src="/public/asset/a7a27f6b-df37-4c97-a6ca-46560cd95fdL/MEDXS-Red-Cross.png" alt="What is TMIP-AF?" class="feature-img-prime">
+				<h1>What is TMIP-AF?</h1>
+				<p>
+					The Air Force Medical Expeditionary Systems (AF MEDXS) Portal contains support for the Theater Medical Information Program Air Force (TMIP AF) and all of its related software used in the air and on the ground. We support the Air Force Medical Service ground based (EMEDS) units and automated Enroute care systems from war readiness through deployment. Our air and ground capability currently extends throughout the South West Asia and is moving rapidly towards global support. The automation that we support includes health care related administration, Electronic Health Records, ancillary services, logistics, digital imaging, dental, public health, decision support, waiver management, training, technical support, helpdesk and many others areas related to deployed Air Force healthcare.
+				</p>
+			</div>
+				<div id="content-features-banner-wrapper">
+					<span id="features-banner-left"></span>
+					<div id="content-features-banner">
+			
+			<div class="content-feature-sub">
+				<h2>Welcome</h2>
+				<p>	
+					This site provides program information and supports engineers, users and program management. It’s intended to streamline the management and support of the TMIP AF Program and its software applications for the Air Force Medical Service and to those that it provides support.
+				</p>
+				<p id="content"></p>
+		<p class="readmore"><a class="links" href="about/medxs.htm">Read more...</a></p>
+			</div>
+			
+			
+			
+			<div class="content-feature-sub">
+				<h2>MEDXS Helpdesk</h2>
+				<p>	
+					Do you have a technical or functional issue with one the TMIP AF deployed applications? Inquiries such as AHLTA-T Electronic Health Record, digital imaging to logistics systems. Sign in to use our automated help desk system to open a ticket.
+				</p>
+				<p id="content"></p>
+			</div>
+			
+			
+			
+			<div class="content-feature-sub">
+				<h2>Sign Up and Forgot Password</h2>
+				<p>	
+					User login and password to access this site is required. Your government email address and other information about you will be requested for validation of access to this site.
+				</p>
+				<p id="content"></p>
+			</div>
+			
+					</div>
+					<span id="features-banner-right"></span>
+				</div>
+			
+
+	<div id="content-main">	
+    	<div class="clearfix">
+    	    <a href="/public/en/news/"><h2 class="homepage-news-header">News and Events</h2></a>
+    	    <p class="header-desc"></p>
+    	</div>
+    
+    <div class="interior-content homepage-news-section">
+		
+    		<ul class="newslist-wrapper">
+			<div class="link-news-archive"><a href="/public/en/news/">View News Archive</a></div>
+    		        <li>
+						<a href="/public/en/news/6jul2017-waivers-management-update.htm"><h4>Waiver Form Consolidation</h4></a>
+						<p>
+							<span class="newslist-date">Jul 11 2017</span>
+							Latest updates (July 2017)
+						</p>
+						<div class="body-rm"><a href="/public/en/news/6jul2017-waivers-management-update.htm">Read More...</a></div>
+    		        </li>
+    		        <li>
+						<a href="/public/en/news/12062012-waivers-management-update.htm"><h4>Waivers Management Update</h4></a>
+						<p>
+							<span class="newslist-date">Jul 9 2014</span>
+							Submit medical waivers using downloadable, electronic PDF Forms.
+						</p>
+						<div class="body-rm"><a href="/public/en/news/12062012-waivers-management-update.htm">Read More...</a></div>
+    		        </li>
+    		        <li>
+						<a href="/public/en/news/02272012-waiver-system.htm"><h4>Waiver System</h4></a>
+						<p>
+							<span class="newslist-date">Jan 18 2013</span>
+							The AFCENT Surgeon General’s office is activating two milestone systems early in 2012.
+						</p>
+						<div class="body-rm"><a href="/public/en/news/02272012-waiver-system.htm">Read More...</a></div>
+    		        </li>
+				
+    		</ul>
+    </div>
+
+
+
+<!-- Start of Missing Component Binding -->
+<!--
+unbound-region-main2
+-->
+<!-- End of Missing Component Binding -->
+
+
+
+
+<!-- Start of Missing Component Binding -->
+<!--
+unbound-region-main3
+-->
+<!-- End of Missing Component Binding -->
+
+
+	</div>
+  	
+	<div id="footer" class="footer">
+		<img src="/public/images/footer-logo-af.png" id="logo-af">
+		<ul> 
+			<li><a href="/public">HOME</a></li>
+	    <li>|</li>
+			<li><a href="mailto:support@medxs.af.mil">EMAIL US</a></li>
+	    <li>|</li>
+			<li><a href="/public/en/disclaimer/disclaimer.htm">DOD DISCLAIMER</a></li>
+			<li class="build-number">|</li>
+			<li class="build-number">build 3.0.330#8043 / Dec 17, 2014</li>
+		</ul>
+	</div>
+	<input type="hidden" class="search-input" value="" name="phrase" id="search-phrase" maxlength="100">
+</div>
+
+
+
+</body></html>

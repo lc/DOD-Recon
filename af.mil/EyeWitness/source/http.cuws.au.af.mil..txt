@@ -1,0 +1,799 @@
+<!DOCTYPE html><html class="js html wf-industry-n6-active wf-industry-n7-active wf-industry-n4-active wf-roboto-i3-active wf-roboto-n4-active wf-roboto-n7-active wf-roboto-n3-active wf-opensans-n6-active wf-opensans-n4-active wf-industryincbase-n4-active wf-active" lang="en-US"><head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+  <meta name="generator" content="2017.1.0.379">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script src="http://use.typekit.net/ik/3HUESpEkdx9Rn5zMauZOIPDn6o--ZoLr-Bagt-lcYz6fent2f5zH8bbPH26aF2JkFQBLwDicjRSDwewojA9tjAIhwR9ajhFyZQSh5AZRFhjtF2S-abI7OcBuOcBcOcuTdf37OcBuSYmKde8RZemhOcuypYi8de30jAj0dA8COfG0jagROcBuOcBcOcuTdf37OcFuiaw0jW90jAj0dA8COeBuOcBcOcuTdfUyiWgujcUTjhs8iKoljWyaZAUCOcBcOcuTdfURSew0jW90jAj0dA8COeFuiaw0jW90jAj0dA8COYiaikoyiPoyZKol-A3CiaiaOcBuSYmKde8RZemhOcuypYi8de30jAj0dA8COYiaikoRSew0jW90jAj0dA8COYiaikoRiWiDOcBuOcBcOcuTdfJJ-AoqiWFXS1qKg14zjcNXdkJ4dag8dKuDjAoDJyBTdcsuSaskpPuTdcwljcBDZPGHf5OBMsMMeMj6MPGHfF_BMsMMeMS6MPGHf52BMsMMeMb6MPG4f4FoIMIj2PMgH6qJ81qbMs6IJMI7fbKHpsMgeMS6MPG4f44oIMIjMkMgH6qJuWIbMy6eJMI7fbR9SsMfeMb6MPGHfF2BMsM2eMb6M9GIQWmDZZMgcxYND69.js" async=""></script><script type="text/javascript">
+   // Update the 'nojs'/'js' class on the html node
+document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+
+// Check that all required assets are uploaded and up-to-date
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "musewpdisclosure.js", "jquery.watch.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
+</script>
+  
+  <link rel="shortcut icon" href="images/favicon.ico?crc=3923997866">
+  <title>Air Force Center for Unconventional Weapons Studies | Home</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=479411801">
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=4107453751">
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3856573090" id="pagesheet">
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_b-master.css?crc=409644211"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=141386548" id="nomq_pagesheet"/>
+  <![endif]-->
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   (function(a){var b={src:(a.location.protocol=="https:"?"https:":"http:")+"//use.typekit.net/ik/3HUESpEkdx9Rn5zMauZOIPDn6o--ZoLr-Bagt-lcYz6fent2f5zH8bbPH26aF2JkFQBLwDicjRSDwewojA9tjAIhwR9ajhFyZQSh5AZRFhjtF2S-abI7OcBuOcBcOcuTdf37OcBuSYmKde8RZemhOcuypYi8de30jAj0dA8COfG0jagROcBuOcBcOcuTdf37OcFuiaw0jW90jAj0dA8COeBuOcBcOcuTdfUyiWgujcUTjhs8iKoljWyaZAUCOcBcOcuTdfURSew0jW90jAj0dA8COeFuiaw0jW90jAj0dA8COYiaikoyiPoyZKol-A3CiaiaOcBuSYmKde8RZemhOcuypYi8de30jAj0dA8COYiaikoRSew0jW90jAj0dA8COYiaikoRiWiDOcBuOcBcOcuTdfJJ-AoqiWFXS1qKg14zjcNXdkJ4dag8dKuDjAoDJyBTdcsuSaskpPuTdcwljcBDZPGHf5OBMsMMeMj6MPGHfF_BMsMMeMS6MPGHf52BMsMMeMb6MPG4f4FoIMIj2PMgH6qJ81qbMs6IJMI7fbKHpsMgeMS6MPG4f44oIMIjMkMgH6qJuWIbMy6eJMI7fbR9SsMfeMb6MPGHfF2BMsM2eMb6M9GIQWmDZZMgcxYND69.js",scriptTimeout:3000,async:!0},c=a.documentElement,d=setTimeout(function(){c.className=c.className.replace(/\bwf-loading\b/g,"")+" wf-inactive"},b.scriptTimeout),g=a.createElement("script"),a=a.getElementsByTagName("script")[0],f=!1,j=null;c.className+=" wf-loading";g.src=b.src;g.async=!0;g.onload=g.onreadystatechange=function(){j=this.readyState;if(!(f||j&&j!="complete"&&j!="loaded")){f=!0;clearTimeout(d);
+try{Typekit.load(b)}catch(a){}}};a.parentNode.insertBefore(g,a)})(document);
+
+</script>
+    <!--HTML Widget code--><style type="text/css">@font-face{font-family:tk-industry-n6;src:url(https://use.typekit.net/af/a288ae/00000000000000003b9adf56/27/l?subset_id=1&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/a288ae/00000000000000003b9adf56/27/d?subset_id=1&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/a288ae/00000000000000003b9adf56/27/a?subset_id=1&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;}@font-face{font-family:tk-industry-n7;src:url(https://use.typekit.net/af/476e1e/00000000000000003b9adf58/27/l?subset_id=1&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/476e1e/00000000000000003b9adf58/27/d?subset_id=1&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/476e1e/00000000000000003b9adf58/27/a?subset_id=1&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:tk-industry-n4;src:url(https://use.typekit.net/af/da1b49/00000000000000003b9adf53/27/l?subset_id=1&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/da1b49/00000000000000003b9adf53/27/d?subset_id=1&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/da1b49/00000000000000003b9adf53/27/a?subset_id=1&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:tk-roboto-i3;src:url(https://use.typekit.net/af/695efb/00000000000000003b9ad057/27/l?subset_id=1&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/695efb/00000000000000003b9ad057/27/d?subset_id=1&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/695efb/00000000000000003b9ad057/27/a?subset_id=1&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;}@font-face{font-family:tk-roboto-n4;src:url(https://use.typekit.net/af/60d027/00000000000000003b9ad05b/27/l?subset_id=1&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/60d027/00000000000000003b9ad05b/27/d?subset_id=1&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/60d027/00000000000000003b9ad05b/27/a?subset_id=1&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:tk-roboto-n7;src:url(https://use.typekit.net/af/9769fd/00000000000000003b9ad05f/27/l?subset_id=1&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/9769fd/00000000000000003b9ad05f/27/d?subset_id=1&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/9769fd/00000000000000003b9ad05f/27/a?subset_id=1&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:tk-roboto-n3;src:url(https://use.typekit.net/af/e48f19/00000000000000003b9ad055/27/l?subset_id=1&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/e48f19/00000000000000003b9ad055/27/d?subset_id=1&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/e48f19/00000000000000003b9ad055/27/a?subset_id=1&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;}@font-face{font-family:tk-open-sans-n6;src:url(https://use.typekit.net/af/9cd8a9/000000000000000000011c3c/27/l?subset_id=1&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/9cd8a9/000000000000000000011c3c/27/d?subset_id=1&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/9cd8a9/000000000000000000011c3c/27/a?subset_id=1&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;}@font-face{font-family:tk-open-sans-n4;src:url(https://use.typekit.net/af/21f561/000000000000000000011c3b/27/l?subset_id=1&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/21f561/000000000000000000011c3b/27/d?subset_id=1&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/21f561/000000000000000000011c3b/27/a?subset_id=1&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:tk-industry-inc-base-n4;src:url(https://use.typekit.net/af/458d25/0000000000000000000171e2/27/l?subset_id=1&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/458d25/0000000000000000000171e2/27/d?subset_id=1&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/458d25/0000000000000000000171e2/27/a?subset_id=1&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}</style><style type="text/css">@font-face{font-family:industry;src:url(https://use.typekit.net/af/a288ae/00000000000000003b9adf56/27/l?subset_id=1&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/a288ae/00000000000000003b9adf56/27/d?subset_id=1&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/a288ae/00000000000000003b9adf56/27/a?subset_id=1&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;}@font-face{font-family:industry;src:url(https://use.typekit.net/af/476e1e/00000000000000003b9adf58/27/l?subset_id=1&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/476e1e/00000000000000003b9adf58/27/d?subset_id=1&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/476e1e/00000000000000003b9adf58/27/a?subset_id=1&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:industry;src:url(https://use.typekit.net/af/da1b49/00000000000000003b9adf53/27/l?subset_id=1&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/da1b49/00000000000000003b9adf53/27/d?subset_id=1&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/da1b49/00000000000000003b9adf53/27/a?subset_id=1&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:roboto;src:url(https://use.typekit.net/af/695efb/00000000000000003b9ad057/27/l?subset_id=1&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/695efb/00000000000000003b9ad057/27/d?subset_id=1&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/695efb/00000000000000003b9ad057/27/a?subset_id=1&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;}@font-face{font-family:roboto;src:url(https://use.typekit.net/af/60d027/00000000000000003b9ad05b/27/l?subset_id=1&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/60d027/00000000000000003b9ad05b/27/d?subset_id=1&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/60d027/00000000000000003b9ad05b/27/a?subset_id=1&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:roboto;src:url(https://use.typekit.net/af/9769fd/00000000000000003b9ad05f/27/l?subset_id=1&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/9769fd/00000000000000003b9ad05f/27/d?subset_id=1&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/9769fd/00000000000000003b9ad05f/27/a?subset_id=1&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:roboto;src:url(https://use.typekit.net/af/e48f19/00000000000000003b9ad055/27/l?subset_id=1&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/e48f19/00000000000000003b9ad055/27/d?subset_id=1&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/e48f19/00000000000000003b9ad055/27/a?subset_id=1&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/9cd8a9/000000000000000000011c3c/27/l?subset_id=1&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/9cd8a9/000000000000000000011c3c/27/d?subset_id=1&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/9cd8a9/000000000000000000011c3c/27/a?subset_id=1&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/21f561/000000000000000000011c3b/27/l?subset_id=1&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/21f561/000000000000000000011c3b/27/d?subset_id=1&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/21f561/000000000000000000011c3b/27/a?subset_id=1&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:industry-inc-base;src:url(https://use.typekit.net/af/458d25/0000000000000000000171e2/27/l?subset_id=1&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/458d25/0000000000000000000171e2/27/d?subset_id=1&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/458d25/0000000000000000000171e2/27/a?subset_id=1&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}</style>
+  
+		
+ <script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/timeline.b9527ff316b6f1e4fedb7da6c9170e0b.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="scripts/museconfig.js?crc=278381782" src="scripts/museconfig.js?crc=278381782"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="museutils" src="scripts/museutils.js?crc=420836567"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="whatinput" src="scripts/whatinput.js?crc=86476730"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.musepolyfill.bgsize" src="scripts/jquery.musepolyfill.bgsize.js?crc=4045269973"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="webpro" src="scripts/webpro.js?crc=57448180"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="musewpdisclosure" src="scripts/musewpdisclosure.js?crc=403040780"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.watch" src="scripts/jquery.watch.js?crc=399457859"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="musewpslideshow" src="scripts/musewpslideshow.js?crc=4267795568"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.museoverlay" src="scripts/jquery.museoverlay.js?crc=255055991"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="touchswipe" src="scripts/touchswipe.js?crc=4065839998"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.museresponsive" src="scripts/jquery.museresponsive.js?crc=3991588253"></script></head>
+ <body class="initialized">
+
+  <div class="breakpoint active" id="bp_infinity" data-min-width="887"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox" id="page" style=""><!-- column -->
+    <div class="clearfix colelem" id="pu36173"><!-- group -->
+     <div class="browser_width shared_content" id="u36173-bw" data-content-guid="u36173-bw_content" style="height: auto;">
+      <div id="u36173"><!-- simple frame --></div>
+     </div>
+     <div class="clearfix shared_content" id="u205447" data-content-guid="u205447_content"><!-- group -->
+      <a class="nonblock nontext MuseLinkActive clip_frame" id="u33979" href="index.html"><!-- image --><img class="block" id="u33979_img" alt="" width="345" height="52" src="images/cuws_logo-02b.png?crc=4242670472"></a>
+     </div>
+    </div>
+    <div class="clearfix pinned-colelem" id="u101221"><!-- group -->
+     <ul class="AccordionWidget clearfix" id="accordionu101223" role="tablist" style="min-width: 400px;"><!-- vertical box -->
+      <li class="AccordionPanel clearfix colelem" id="u101224"><!-- vertical box --><div class="AccordionPanelTab transition museBGSize clearfix colelem" id="u101225-3" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" role="button" tabindex="0" aria-haspopup="true"><!-- content --><p class="shared_content" data-content-guid="u101225-3_0_content">&nbsp;</p></div><div class="AccordionPanelContent colelem" role="tabpanel" aria-labelledby="u101225-3" style="width: 100%; height: 0px; position: relative; left: 0px; overflow: hidden;"><div class="AccordionPanelContentClip"><div class="shadow clearfix" id="u101226" style=""><!-- group --><ul class="AccordionWidget clearfix grpelem" id="accordionu101229" data-sizepolicy="fluidWidth" data-pintopage="page_fixedCenter" role="tablist" style="min-width: 354px;"><!-- vertical box --><li class="AccordionPanel clearfix colelem" id="u101245"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u101248-4" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" role="tab" tabindex="0"><!-- content --><div id="u101248-3" class="shared_content" data-content-guid="u101248-3_content"><p>About</p></div></div><div class="AccordionPanelContent colelem" role="tabpanel" aria-labelledby="u101248-4" style="width: 100%; height: 0px; position: relative; left: 0px; overflow: hidden;"><div class="AccordionPanelContentClip"><div class="borderbox clearfix" id="u101246" style=""><!-- group --><div class="accordion-menu clearfix grpelem shared_content" id="u101247-14" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u101247-14_content"><!-- content --><p id="u101247-3"><a class="nonblock" href="story.html">Our Story</a></p><p id="u101247-6"><a class="nonblock" href="faculty.html"><span id="u101247-4">Our Faculty</span></a></p><p id="u101247-9"><a class="nonblock" href="strategic-plan.html"><span id="u101247-7">Strategic Plan</span></a></p><p id="u101247-12"><a class="nonblock" href="strategic-plan.html"><span id="u101247-10">Annual Report</span></a></p></div></div></div></div></li><li class="AccordionPanel clearfix colelem" id="u101241"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u101242-4" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" role="tab" tabindex="-1" aria-selected="false"><!-- content --><div id="u101242-3" class="shared_content" data-content-guid="u101242-3_content"><p>Education &amp; Research</p></div></div><div class="AccordionPanelContent colelem" role="tabpanel" aria-labelledby="u101242-4" style="width: 100%; height: 0px; position: relative; left: 0px; overflow: hidden;"><div class="AccordionPanelContentClip"><div class="borderbox clearfix" id="u101243" style=""><!-- group --><div class="accordion-menu clearfix grpelem shared_content" id="u101244-11" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u101244-11_content"><!-- content --><p><a class="nonblock" href="awc-courses.html">AWC Courses</a></p><p><a class="nonblock" href="acsc-courses.html">ACSC Courses</a></p><p><a class="nonblock" href="professional-reading.html">Professional Reading</a></p></div></div></div></div></li><li class="AccordionPanel clearfix colelem" id="u101230"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u101231-4" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" role="tab" tabindex="-1" aria-selected="false"><!-- content --><div id="u101231-3" class="shared_content" data-content-guid="u101231-3_content"><p>Publications</p></div></div><div class="AccordionPanelContent colelem" role="tabpanel" aria-labelledby="u101231-4" style="width: 100%; height: 0px; position: relative; left: 0px; overflow: hidden;"><div class="AccordionPanelContentClip"><div class="borderbox clearfix" id="u101232" style=""><!-- group --><div class="accordion-menu clearfix grpelem shared_content" id="u101233-17" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u101233-17_content"><!-- content --><p><a class="nonblock" href="trinity-site-papers.html">Trinity Site Papers</a></p><p><a class="nonblock" href="books.html">Books</a></p><p><a class="nonblock" href="http://cuws.au.af.mil/pub/pub_monographs.aspx" target="_blank">Monographs</a></p><p><a class="nonblock" href="writing.html">Writing for CUWS</a></p><p><a class="nonblock" href="awards.html">Awards</a></p></div></div></div></div></li><li class="AccordionPanel clearfix colelem" id="u101249"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u101250-4" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" role="tab" tabindex="-1" aria-selected="false"><!-- content --><div id="u101250-3" class="shared_content" data-content-guid="u101250-3_content"><p>Resources</p></div></div><div class="AccordionPanelContent colelem" role="tabpanel" aria-labelledby="u101250-4" style="width: 100%; height: 0px; position: relative; left: 0px; overflow: hidden;"><div class="AccordionPanelContentClip"><div class="borderbox clearfix" id="u101251" style=""><!-- group --><div class="accordion-menu clearfix grpelem shared_content" id="u101252-14" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u101252-14_content"><!-- content --><p><a class="nonblock" href="http://cuws.au.af.mil/pub/au_outreach.aspx" target="_blank">Outreach Journal</a></p><p><a class="nonblock" href="government.html">US Government Sites</a></p><p><a class="nonblock" href="arms-control.html">International Arms Control Sites</a></p><p><a class="nonblock" href="ngo.html">Think Tank/NGO Sites</a></p></div></div></div></div></li><li class="AccordionPanel clearfix colelem" id="u101238"><!-- vertical box --><a class="nonblock nontext AccordionPanelTab borderbox transition museBGSize clearfix colelem" id="u101239-4" href="contact.html" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" role="tab" tabindex="-1" aria-selected="false"><!-- content --><div id="u101239-3" class="shared_content" data-content-guid="u101239-3_content"><p>Contact Us</p></div></a><div class="AccordionPanelContent colelem" role="tabpanel" aria-labelledby="u101239-4" style="width: 100%; height: 0px; position: relative; left: 0px; overflow: hidden;"><div class="AccordionPanelContentClip"><div class="borderbox" id="u101240"><!-- simple frame --></div></div></div></li></ul><a class="nonblock nontext MuseLinkActive grpelem shared_content" id="u101227" href="index.html" data-content-guid="u101227_content"><!-- rasterized frame --><img class="" id="u101227_img" alt="" data-image-width="35" src="images/house204-u101227-u101227-u101227-u101227.png?crc=110879040" data-widget-id="accordionu101223"></a></div></div></div></li>
+     </ul>
+     <div class="clearfix shared_content" id="u101222-4" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-content-guid="u101222-4_content"><!-- content -->
+      <p>Menu</p>
+     </div>
+    </div><div class="colelem"></div>
+    <div class="clearfix colelem" id="pu72612"><!-- column -->
+     <div class="browser_width colelem" id="u72612-bw" style="height: 540px;">
+      <div class="museBGSize" id="u72612"><!-- group -->
+       <div class="clearfix" id="u72612_align_to_page">
+        <div class="PamphletWidget clearfix allow_click_through grpelem" id="pamphletu86418" style="" data-contentlayout="stack" data-transitionstyle="fading"><!-- none box -->
+         <div class="clearfix grpelem" id="pu86429"><!-- group -->
+          <div class="popup_anchor allow_click_through grpelem" data-col-pos="0" id="u86429popup" style="height: 540px;">
+           <div class="ContainerGroup clearfix horizontalSlideShow" data-col-pos="0" id="u86429" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" style="height: 540px;"><!-- stack box -->
+            <div class="Container clearfix grpelem wp-panel wp-panel-active" data-col-pos="0" id="u86431" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" role="tabpanel" aria-labelledby="u86424" style="height: 370px;"><!-- group -->
+             <div class="clearfix grpelem shared_content" id="u86523-7" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-content-guid="u86523-7_content"><!-- content -->
+              <p id="u86523-2">MISSION</p>
+              <p id="u86523-3">&nbsp;</p>
+              <p id="u86523-5">“Develop Air Force, DoD, and other USG leaders to advance the state of knowledge, policy, and practices within strategic defense issues involving nuclear, biological, and chemical weapons."</p>
+             </div>
+            </div>
+            <div class="Container clearfix grpelem wp-panel" data-col-pos="1" id="u86432" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" role="tabpanel" aria-labelledby="u86422" style="height: 474px; display: none;"><!-- group -->
+             <div class="clearfix grpelem shared_content" id="pu101110-16" data-content-guid="pu101110-16_content"><!-- group -->
+              <div class="clearfix grpelem" id="u101110-16" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true"><!-- content -->
+               <p id="u101110-2">Strategic Studies Quarterly Special Deterrence Issue</p>
+               <p id="u101110-3">&nbsp;</p>
+               <p id="u101110-4">&nbsp;</p>
+               <p id="u101110-5">&nbsp;</p>
+               <p id="u101110-6">&nbsp;</p>
+               <p id="u101110-8">The Air University's Strategic Studies Quarterly developed a special issue for the 2016 USSTRACOM Deterrence Symposium. This issue includes ten articles from past journals that illustrate critical insights on deterrence theory.</p>
+               <p id="u101110-9">&nbsp;</p>
+               <p id="u101110-13">For more deterrence education and research information, visit our <a class="nonblock" href="http://www.au.af.mil/au/deterrence/"><span id="u101110-11">Air University deterrence site.</span></a></p>
+               <p id="u101110-14">&nbsp;</p>
+              </div>
+              <a class="nonblock nontext Button Books-Button clearfix grpelem" id="buttonu143349" href="assets/ssq-2016-usstratcom-essays.pdf" target="_blank" style="" data-sizepolicy="fixed" data-pintopage="page_fluidx"><!-- container box --><div class="clearfix grpelem" id="u143350-4" data-sizepolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Button-1-Text" id="u143350-2">View the Issue</p></div></a>
+             </div>
+            </div>
+            <div class="Container clearfix grpelem wp-panel" data-col-pos="2" id="u86430" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" role="tabpanel" aria-labelledby="u86423" style="height: 426px; display: none;"><!-- group -->
+             <div class="clearfix grpelem shared_content" id="u143334" data-content-guid="u143334_content"><!-- group -->
+              <div class="clearfix grpelem" id="pu100963-4"><!-- column -->
+               <div class="clearfix colelem shared_content" id="u100963-4" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-content-guid="u100963-4_content"><!-- content -->
+                <p>UNCONVENTIONAL WEAPONS</p>
+               </div>
+               <div class="clearfix colelem" id="pbuttonu100966"><!-- group -->
+                <a class="nonblock nontext Button Books-Button clearfix grpelem shared_content" id="buttonu100966" href="cooperative-security.html" style="" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-content-guid="buttonu100966_content"><!-- container box --><div class="clearfix grpelem" id="u100967-4" data-sizepolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Button-1-Text">COOPERATIVE SECURITY</p></div></a>
+                <a class="nonblock nontext Button Books-Button clearfix grpelem shared_content" id="buttonu100964" href="deterrence-operations.html" style="" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-content-guid="buttonu100964_content"><!-- container box --><div class="clearfix grpelem" id="u100965-4" data-sizepolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Button-1-Text">DETERRENCE OPERATIONS</p></div></a>
+                <a class="nonblock nontext Button Books-Button clearfix grpelem shared_content" id="buttonu100968" href="major-combat-operations.html" style="" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-content-guid="buttonu100968_content"><!-- container box --><div class="clearfix grpelem" id="u100969-4" data-sizepolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Button-1-Text">MAJOR COMBAT OPERATIONS</p></div></a>
+               </div>
+               <div class="clearfix colelem" id="pbuttonu100972"><!-- group -->
+                <a class="nonblock nontext Button Books-Button clearfix grpelem shared_content" id="buttonu100972" href="stability-operations.html" style="" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-content-guid="buttonu100972_content"><!-- container box --><div class="clearfix grpelem" id="u100973-6" data-sizepolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Button-1-Text">STABILITY</p><p class="Button-1-Text">OPERATIONS</p></div></a>
+                <a class="nonblock nontext Button Books-Button clearfix grpelem shared_content" id="buttonu100970" href="irregular-warfare.html" style="" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-content-guid="buttonu100970_content"><!-- container box --><div class="clearfix grpelem" id="u100971-6" data-sizepolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Button-1-Text">IRREGULAR</p><p class="Button-1-Text">WARFARE</p></div></a>
+                <a class="nonblock nontext Button Books-Button clearfix grpelem shared_content" id="buttonu100974" href="homeland-defense-civil-support.html" style="" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-content-guid="buttonu100974_content"><!-- container box --><div class="clearfix grpelem" id="u100975-6" data-sizepolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Button-1-Text">HOMELAND DEFENSE/</p><p class="Button-1-Text">CIVIL SUPPORT</p></div></a>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="ThumbGroup clearfix grpelem" data-col-pos="1" id="u86421" data-sizepolicy="fluidWidth" data-pintopage="page_fixedLeft" role="tablist" style="height: 3px;"><!-- none box -->
+           <div class="popup_anchor allow_click_through grpelem" data-col-pos="0" id="u86424popup" style="height: 3px;">
+            <div class="Thumb popup_element wp-tab-active PamphletThumbSelected" data-col-pos="0" id="u86424" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" role="tab" tabindex="0" aria-selected="true" aria-controls="u86431" style="height: 3px;"><!-- simple frame --></div>
+           </div>
+           <div class="popup_anchor allow_click_through grpelem" data-col-pos="1" id="u86422popup" style="height: 3px;">
+            <div class="Thumb popup_element" data-col-pos="1" id="u86422" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" role="tab" tabindex="-1" aria-selected="false" aria-controls="u86432" style="height: 3px;"><!-- simple frame --></div>
+           </div>
+           <div class="popup_anchor allow_click_through grpelem" data-col-pos="2" id="u86423popup" style="height: 3px;">
+            <div class="Thumb popup_element" data-col-pos="2" id="u86423" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" role="tab" tabindex="-1" aria-selected="false" aria-controls="u86430" style="height: 3px;"><!-- simple frame --></div>
+           </div>
+          </div>
+          <div class="popup_anchor allow_click_through grpelem" data-col-pos="2" id="u86427popup" style="height: 46px;">
+           <div class="PamphletPrevButton PamphletLightboxPart popup_element clearfix" data-col-pos="2" id="u86427" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" tabindex="0" role="button" aria-label="previous"><!-- group -->
+            <div class="clearfix grpelem shared_content" id="u86428-4" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-content-guid="u86428-4_content"><!-- content -->
+             <p>&lt;</p>
+            </div>
+           </div>
+          </div>
+          <div class="popup_anchor allow_click_through grpelem" data-col-pos="3" id="u86425popup" style="height: 46px;">
+           <div class="PamphletNextButton PamphletLightboxPart popup_element clearfix" data-col-pos="3" id="u86425" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" tabindex="0" role="button" aria-label="next"><!-- group -->
+            <div class="clearfix grpelem shared_content" id="u86426-4" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-content-guid="u86426-4_content"><!-- content -->
+             <p>&gt;</p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="browser_width colelem shared_content" id="u92655-bw" data-content-guid="u92655-bw_content" style="height: 83px;">
+      <div id="u92655"><!-- group -->
+       <div class="clearfix" id="u92655_align_to_page">
+        <div class="pointer_cursor Button Books-Button clearfix grpelem" id="buttonu92821" style="" data-sizepolicy="fixed" data-pintopage="page_fixedCenter"><!-- container box -->
+         <a class="block" href="http://cuws.au.af.mil/pub/au_outreach.aspx"><!-- Block link tag --></a>
+         <a class="nonblock nontext clearfix grpelem" id="u92822-4" href="http://cuws.au.af.mil/pub/au_outreach.aspx" data-sizepolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Button-1-Text" id="u92822-2">VIEW OUR LATEST OUTREACH JOURNAL</p></a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu86858-26"><!-- group -->
+     <div class="clearfix grpelem" id="u86858-26" data-sizepolicy="fixed" data-pintopage="page_fixedCenter"><!-- content -->
+      <p class="main_header_gold shared_content" id="u86858-2" data-content-guid="u86858-2_content">IN THE SPOTLIGHT</p>
+      <p class="main_body_gray shared_content" data-content-guid="u86858-26_1_content">&nbsp;</p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86858-26_2_content"><span id="u86858-4">New Monograph - </span><a class="nonblock" href="http://cuws.au.af.mil/pub/pdfs/monographs/58MauroniElimSyriaCW.pdf" target="_blank">Eliminating Syria's Chemical Weapons</a></p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86858-26_3_content">&nbsp;</p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86858-26_4_content"><span id="u86858-9">New Book - </span><a class="nonblock" href="assets/strategic-deterrence-ay16-student-papers.pdf" target="_blank">Strategic Deterrence Research Papers</a></p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86858-26_5_content">&nbsp;</p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86858-26_6_content"><a class="nonblock" href="assets/cbw-primer-2015.pdf">CUWS Chemical and Biological Warfare Overview</a></p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86858-26_7_content">&nbsp;</p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86858-26_8_content"><a class="nonblock" href="assets/cbdp-2017.pdf">DoD Annual Report to Congress on CB Defense</a></p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86858-26_9_content">&nbsp;</p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86858-26_10_content"><a class="nonblock" href="http://www.nipp.org/wp-content/uplaods/2017/06/A-Nuclear-Review-final.pdf">NIPP - A Nuclear Review for a New Age</a></p>
+     </div>
+     <div class="clearfix grpelem shared_content" id="u86896-35" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u86896-35_content"><!-- content -->
+      <p class="main_header_gold document-links shared_content" id="u86896-2" data-content-guid="u86896-2_content">C-WMD IN THE NEWS</p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86896-35_1_content">&nbsp;</p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86896-35_2_content"><span id="u86896-4">10/5: </span><a class="nonblock" href="http://www.af.mil/News/Article-Display/Article/1335057/af-awards-contracts-for-next-generation-icbm-airborne-launch-control-system/" target="_blank">AF awards contracts for next-generation ICBM airborne launch control system</a></p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86896-35_3_content">&nbsp;</p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86896-35_4_content"><span id="u86896-9">9/29: </span><a class="nonblock" href="http://www.afgsc.af.mil/News/Article-Display/Article/1332509/boosting-the-brain/" target="_blank">Boosting The Brain</a></p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86896-35_5_content">&nbsp;</p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86896-35_6_content"><span id="u86896-14">9/20: </span><a class="nonblock" href="https://www.defense.gov/News/Article/Article/1318700/hyten-discusses-21st-century-strategic-deterrence/" target="_blank">Hyten Discusses 21st Century Strategic Deterrence</a></p>
+      <p class="main_body_gray document-links shared_content" id="u86896-18" data-content-guid="u86896-18_content">&nbsp;</p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86896-35_8_content"><span id="u86896-19">9/19: </span><a class="nonblock" href="http://www.afgsc.af.mil/News/Article-Display/Article/1316452/nuclear-modernization-critical-to-nations-defense/">Nuclear modernization critical to nation's defense</a></p>
+      <p class="main_body_gray document-links shared_content" id="u86896-23" data-content-guid="u86896-23_content">&nbsp;</p>
+      <p class="main_body_gray document-links shared_content" data-content-guid="u86896-35_10_content"><span id="u86896-24">9/15: </span><a class="nonblock" href="https://www.army.mil/article/193969/partnership_between_oregon_and_vietnamese_cbrne_teams_increase_interoperability_through_training">Partnership between Oregon and Vietnamese CBRNE teams increase interoperability through training</a></p>
+      <p class="main_body_gray document-links shared_content" id="u86896-28" data-content-guid="u86896-28_content">&nbsp;</p>
+      <p class="main_body_gray document-links shared_content" id="u86896-32" data-content-guid="u86896-32_content">9/13: <a class="nonblock" href="https://www.defense.gov/News/Transcripts/Transcript-View/Article/1309807/en-route-media-availability-with-secretary-mattis/"><span id="u86896-30">Mattis Discusses Nuclear Issues with Press</span></a></p>
+      <p class="main_body_gray document-links shared_content" id="u86896-33" data-content-guid="u86896-33_content">&nbsp;</p>
+     </div>
+     <div class="clearfix grpelem" id="pu189499-4"><!-- column -->
+      <div class="main_header_gold document-links clearfix colelem shared_content" id="u189499-4" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" data-leftadjustmentdoneby="pu189499-4" data-content-guid="u189499-4_content"><!-- content -->
+       <p class="shared_content" data-content-guid="u189499-4_0_content">LATEST TWEETS</p>
+      </div>
+      <div class="size_fixed colelem" id="u198927" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" data-leftadjustmentdoneby="pu189499-4"><!-- custom html -->
+       <span class="shared_content" data-content-guid="u198927_0_content">
+<div style="overflow:auto;" height="381" width="340">
+	<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 100%; height: 515.3125px; padding: 0px; border: none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px;" data-widget-id="459737550559522816" title="Twitter Timeline"></iframe><div class="twitter-timeline" width="100%" height="100%" href="https://twitter.com/USAF_CUWS" data-theme="light" data-widget-id="459737550559522816" data-screen-name="USAF_CUWS" data-tweet-limit="1" data-link-color="#F0F0F0" data-chrome="transparent noheader nofooter" data-twitter-extracted-i1507913734275237115="true">Tweets by @USAF_CUWS</div>
+	
+	
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+	</span>
+      </div>
+     </div>
+    </div>
+    <div class="verticalspacer" data-offset-top="1167" data-content-above-spacer="1167" data-content-below-spacer="418" data-sizepolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="browser_width colelem" id="u9663-bw" style="height: 418px;">
+     <div id="u9663"><!-- group -->
+      <div class="clearfix" id="u9663_align_to_page">
+       <div class="clearfix grpelem" id="pu61786"><!-- column -->
+        <div class="clearfix colelem" id="u61786"><!-- group -->
+         <div class="clearfix grpelem" id="u9660-17" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true"><!-- content -->
+          <p class="footer_header_white shared_content" id="u9660-2" data-content-guid="u9660-2_content">Featured Items</p>
+          <p class="cuws-footer shared_content" id="u9660-3" data-content-guid="u9660-3_content">&nbsp;</p>
+          <p class="footer_link_gray cuws-footer-2 shared_content" id="u9660-6" data-content-guid="u9660-6_content"><a class="nonblock" href="http://cuws.au.af.mil/pub/au_outreach.aspx"><span id="u9660-4">Outreach Journal</span></a></p>
+          <p class="footer_link_gray cuws-footer-2 shared_content" id="u9660-9" data-content-guid="u9660-9_content"><a class="nonblock" href="nuclear-college.html"><span id="u9660-7">Nuclear College</span></a></p>
+          <p class="footer_link_gray cuws-footer-2 shared_content" id="u9660-12" data-content-guid="u9660-12_content"><a class="nonblock" href="books.html"><span id="u9660-10">Books</span></a></p>
+          <p class="footer_link_gray cuws-footer-2 shared_content" id="u9660-15" data-content-guid="u9660-15_content"><a class="nonblock" href="http://cuws.au.af.mil/pub/pub_monographs.aspx"><span id="u9660-13">Monographs</span></a></p>
+         </div>
+         <div class="clearfix grpelem" id="u9657-18" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true"><!-- content -->
+          <p class="footer_header_white shared_content" id="u9657-2" data-content-guid="u9657-2_content">About CUWS</p>
+          <p class="cuws-footer shared_content" id="u9657-3" data-content-guid="u9657-3_content">&nbsp;</p>
+          <p class="footer_link_gray cuws-footer-2 shared_content" id="u9657-6" data-content-guid="u9657-6_content"><a class="nonblock" href="story.html"><span id="u9657-4">Our Story</span></a></p>
+          <p class="footer_link_gray cuws-footer-2 shared_content" id="u9657-9" data-content-guid="u9657-9_content"><a class="nonblock" href="faculty.html"><span id="u9657-7">Our Faculty</span></a></p>
+          <p class="footer_link_gray cuws-footer-2 shared_content" id="u9657-12" data-content-guid="u9657-12_content"><a class="nonblock" href="strategic-plan.html"><span id="u9657-10">Strategic Plan</span></a></p>
+          <p class="footer_link_gray cuws-footer-2 shared_content" id="u9657-15" data-content-guid="u9657-15_content"><a class="nonblock" href="contact.html"><span id="u9657-13">Contact Us</span></a></p>
+          <p class="cuws-footer shared_content" id="u9657-16" data-content-guid="u9657-16_content">&nbsp;</p>
+         </div>
+        </div>
+        <div class="clearfix colelem" id="u63007"><!-- group -->
+         <div class="clearfix grpelem" id="pu24391-35"><!-- column -->
+          <div class="footer_afi_link cuws-footer-2 clearfix colelem shared_content" id="u24391-35" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-content-guid="u24391-35_content"><!-- content -->
+           <p class="shared_content" data-content-guid="u24391-35_0_content"><a class="nonblock" href="http://www.au.af.mil/au/privacy.asp#link">External Link Disclaimer</a> | <a class="nonblock" href="http://www.au.af.mil/au/privacy.asp">Privacy and Security Notice</a> | <a class="nonblock" href="http://www.afms.af.mil/suicideprevention/index.asp">Suicide Prevention</a> | <a class="nonblock" href="http://prhome.defense.gov/nofear">No Fear Act</a> | <a class="nonblock" href="http://www.sexualassaultpreventionresponse.af.mil/index.asp">Sexual Assault Awareness &amp; Prevention</a> | <a class="nonblock" href="http://www.af.mil/EqualOpportunity.aspx">EEO</a> | <a class="nonblock" href="http://www.af.mil/InspectorGeneralComplaints.aspx">IG</a> | <a class="nonblock" href="http://www.usa.gov/">USA.gov</a> | <a class="nonblock" href="http://www.maxwell.af.mil/library/foia.asp">FOIA Program</a> | <a class="nonblock" href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx">Accessibility/Section 508</a> | <a class="nonblock" href="http://www.af.mil/">USAF</a></p>
+          </div>
+          <div class="footer_link_gray clearfix colelem" id="u9654-4" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true"><!-- content -->
+           <p class="shared_content" data-content-guid="u9654-4_0_content">Last Updated: October 4, 2017</p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <a class="nonblock nontext clip_frame grpelem" id="u62976" href="http://twitter.com/USAF_CUWS" data-sizepolicy="fixed" data-pintopage="page_fixedRight"><!-- svg --><img class="svg" id="u62974" width="32" height="25" alt="" data-mu-svgfallback="images/pasted%20svg%2049263x40_poster_.png?crc=81336333" src="images/pasted-svg-49263x40.svg?crc=3981171473"></a>
+       <a class="nonblock nontext clip_frame grpelem" id="u62926" href="http://www.af.mil" data-sizepolicy="fixed" data-pintopage="page_fixedRight"><!-- svg --><img class="svg" id="u62924" width="86" height="67" alt="" data-mu-svgfallback="images/pasted%20svg%20138644x107_poster_.png?crc=3920604249" src="images/pasted-svg-138644x107.svg?crc=530852562"></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload" alt="" src="images/menu%20icons%20white-01.png?crc=3884884989">
+    <img class="preload" alt="" src="images/menu%20icons%20white-02.png?crc=519294974">
+    <img class="preload" alt="" src="images/menu%20arrow-02.png?crc=3926577464">
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_886" data-min-width="769" data-max-width="886"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu72612"><!-- column -->
+     <div class="browser_width colelem temp_no_id" data-orig-id="u72612-bw">
+      <div class="museBGSize temp_no_id" data-orig-id="u72612"><!-- group -->
+       <div class="clearfix temp_no_id" data-orig-id="u72612_align_to_page">
+        <div class="PamphletWidget clearfix allow_click_through grpelem temp_no_id" data-visibility="changed" style="visibility:hidden" data-orig-id="pamphletu86418"><!-- none box -->
+         <div class="clearfix grpelem temp_no_id" data-orig-id="pu86429"><!-- group -->
+          <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u86429popup">
+           <div class="ContainerGroup clearfix temp_no_id" data-col-pos="0" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86429"><!-- stack box -->
+            <div class="Container clearfix grpelem temp_no_id" data-col-pos="0" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86431"><!-- group -->
+             <span class="clearfix grpelem placeholder" data-placeholder-for="u86523-7_content"><!-- placeholder node --></span>
+            </div>
+            <div class="Container invi clearfix grpelem temp_no_id" data-col-pos="1" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86432"><!-- group -->
+             <span class="clearfix grpelem placeholder" data-placeholder-for="pu101110-16_content"><!-- placeholder node --></span>
+            </div>
+            <div class="Container invi clearfix grpelem temp_no_id" data-col-pos="2" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86430"><!-- group -->
+             <span class="clearfix grpelem placeholder" data-placeholder-for="u143334_content"><!-- placeholder node --></span>
+            </div>
+           </div>
+          </div>
+          <div class="ThumbGroup clearfix grpelem temp_no_id" data-col-pos="1" data-sizepolicy="fluidWidth" data-pintopage="page_fixedLeft" data-orig-id="u86421"><!-- none box -->
+           <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u86424popup">
+            <div class="Thumb popup_element temp_no_id" data-col-pos="0" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86424"><!-- simple frame --></div>
+           </div>
+           <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="1" data-orig-id="u86422popup">
+            <div class="Thumb popup_element temp_no_id" data-col-pos="1" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86422"><!-- simple frame --></div>
+           </div>
+           <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="2" data-orig-id="u86423popup">
+            <div class="Thumb popup_element temp_no_id" data-col-pos="2" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86423"><!-- simple frame --></div>
+           </div>
+          </div>
+          <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="2" data-orig-id="u86427popup">
+           <div class="PamphletPrevButton PamphletLightboxPart popup_element clearfix temp_no_id" data-col-pos="2" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86427"><!-- group -->
+            <span class="clearfix grpelem placeholder" data-placeholder-for="u86428-4_content"><!-- placeholder node --></span>
+           </div>
+          </div>
+          <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="3" data-orig-id="u86425popup">
+           <div class="PamphletNextButton PamphletLightboxPart popup_element clearfix temp_no_id" data-col-pos="3" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86425"><!-- group -->
+            <span class="clearfix grpelem placeholder" data-placeholder-for="u86426-4_content"><!-- placeholder node --></span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <span class="browser_width colelem placeholder" data-placeholder-for="u92655-bw_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" data-leftadjustmentdoneby="pu72612" data-orig-id="u86858-26"><!-- content -->
+      <span class="main_header_gold placeholder" data-placeholder-for="u86858-2_content"><!-- placeholder node --></span>
+      <span class="main_body_gray placeholder" data-placeholder-for="u86858-26_1_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_2_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_3_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_4_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_5_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_6_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_7_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_8_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_9_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_10_content"><!-- placeholder node --></span>
+     </div>
+    </div>
+    <span class="browser_width placeholder" data-placeholder-for="u36173-bw_content"><!-- placeholder node --></span>
+    <span class="clearfix placeholder" data-placeholder-for="u205447_content"><!-- placeholder node --></span>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="u86896-35_content"><!-- placeholder node --></span>
+    <div class="clearfix temp_no_id" data-orig-id="u101221"><!-- group -->
+     <ul class="AccordionWidget clearfix temp_no_id" data-orig-id="accordionu101223"><!-- vertical box -->
+      <li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101224"><!-- vertical box --><div class="AccordionPanelTab transition museBGSize clearfix colelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u101225-3"><!-- content --><span class="placeholder" data-placeholder-for="u101225-3_0_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn shadow clearfix colelem temp_no_id" data-orig-id="u101226"><!-- group --><ul class="AccordionWidget clearfix grpelem temp_no_id" data-sizepolicy="fluidWidth" data-pintopage="page_fixedCenter" data-orig-id="accordionu101229"><!-- vertical box --><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101245"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101248-4"><!-- content --><span class="placeholder" data-placeholder-for="u101248-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u101246"><!-- group --><span class="accordion-menu clearfix grpelem placeholder" data-placeholder-for="u101247-14_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101241"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101242-4"><!-- content --><span class="placeholder" data-placeholder-for="u101242-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u101243"><!-- group --><span class="accordion-menu clearfix grpelem placeholder" data-placeholder-for="u101244-11_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101230"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101231-4"><!-- content --><span class="placeholder" data-placeholder-for="u101231-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u101232"><!-- group --><span class="accordion-menu clearfix grpelem placeholder" data-placeholder-for="u101233-17_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101249"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101250-4"><!-- content --><span class="placeholder" data-placeholder-for="u101250-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u101251"><!-- group --><span class="accordion-menu clearfix grpelem placeholder" data-placeholder-for="u101252-14_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101238"><!-- vertical box --><a class="nonblock nontext AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" href="contact.html" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101239-4"><!-- content --><span class="placeholder" data-placeholder-for="u101239-3_content"><!-- placeholder node --></span></a><div class="AccordionPanelContent disn borderbox colelem temp_no_id" data-orig-id="u101240"><!-- simple frame --></div></li></ul><span class="nonblock nontext MuseLinkActive grpelem placeholder" data-placeholder-for="u101227_content"><!-- placeholder node --></span></div></li>
+     </ul>
+     <span class="clearfix placeholder" data-placeholder-for="u101222-4_content"><!-- placeholder node --></span>
+    </div>
+    <div class="clearfix grpelem temp_no_id shared_content" data-orig-id="pu189499-4" data-content-guid="pu189499-4_content"><!-- column -->
+     <span class="main_header_gold document-links clearfix colelem placeholder" data-placeholder-for="u189499-4_content"><!-- placeholder node --></span>
+     <div class="size_fixed colelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" data-leftadjustmentdoneby="pu189499-4" data-orig-id="u198927"><!-- custom html -->
+      
+<div style="overflow:auto;" height="381" width="340">
+	<iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" data-widget-id="459737550559522816" title="Twitter Timeline" style="position: static; visibility: visible; display: inline-block; width: 100%; height: 2436.40625px; padding: 0px; border: none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px;"></iframe><div class="twitter-timeline" width="100%" height="100%" href="https://twitter.com/USAF_CUWS" data-theme="light" data-widget-id="459737550559522816" data-screen-name="USAF_CUWS" data-tweet-limit="1" data-link-color="#F0F0F0" data-chrome="transparent noheader nofooter" data-twitter-extracted-i1507913734275237115="true">Tweets by @USAF_CUWS</div>
+	
+	
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+	
+     </div>
+    </div>
+    <div class="verticalspacer shared_content" data-offset-top="1167" data-content-above-spacer="1167" data-content-below-spacer="432" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-content-guid="page_6_content"></div>
+    <div class="browser_width grpelem temp_no_id shared_content" data-orig-id="u9663-bw" data-content-guid="u9663-bw_content">
+     <div class="temp_no_id" data-orig-id="u9663"><!-- column -->
+      <div class="clearfix temp_no_id" data-orig-id="u9663_align_to_page">
+       <div class="clearfix colelem" id="ppu61786"><!-- column -->
+        <div class="clearfix colelem temp_no_id" data-orig-id="pu61786"><!-- group -->
+         <div class="clearfix grpelem temp_no_id" data-orig-id="u61786"><!-- group -->
+          <div class="clearfix grpelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u9660-17"><!-- content -->
+           <span class="footer_header_white placeholder" data-placeholder-for="u9660-2_content"><!-- placeholder node --></span>
+           <span class="cuws-footer placeholder" data-placeholder-for="u9660-3_content"><!-- placeholder node --></span>
+           <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9660-6_content"><!-- placeholder node --></span>
+           <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9660-9_content"><!-- placeholder node --></span>
+           <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9660-12_content"><!-- placeholder node --></span>
+           <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9660-15_content"><!-- placeholder node --></span>
+          </div>
+          <div class="clearfix grpelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u9657-18"><!-- content -->
+           <span class="footer_header_white placeholder" data-placeholder-for="u9657-2_content"><!-- placeholder node --></span>
+           <span class="cuws-footer placeholder" data-placeholder-for="u9657-3_content"><!-- placeholder node --></span>
+           <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9657-6_content"><!-- placeholder node --></span>
+           <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9657-9_content"><!-- placeholder node --></span>
+           <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9657-12_content"><!-- placeholder node --></span>
+           <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9657-15_content"><!-- placeholder node --></span>
+           <span class="cuws-footer placeholder" data-placeholder-for="u9657-16_content"><!-- placeholder node --></span>
+          </div>
+         </div>
+         <a class="nonblock nontext clip_frame grpelem temp_no_id shared_content" href="http://twitter.com/USAF_CUWS" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u62976" data-content-guid="u62976_content"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-49263x40.svg?crc=3981171473" width="24" height="18" alt="" data-mu-svgfallback="images/pasted%20svg%2049263x40_poster_.png?crc=81336333" data-orig-id="u62974" src="images/blank.gif?crc=4208392903"></a>
+         <a class="nonblock nontext clip_frame grpelem temp_no_id shared_content" href="http://www.af.mil" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u62926" data-content-guid="u62926_content"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-138644x107.svg?crc=530852562" width="63" height="49" alt="" data-mu-svgfallback="images/pasted%20svg%20138644x107_poster_.png?crc=3920604249" data-orig-id="u62924" src="images/blank.gif?crc=4208392903"></a>
+        </div>
+        <div class="clearfix colelem temp_no_id" data-orig-id="u63007"><!-- group -->
+         <div class="clearfix grpelem temp_no_id" data-orig-id="pu24391-35"><!-- column -->
+          <div class="footer_afi_link cuws-footer-2 clearfix colelem temp_no_id" data-sizepolicy="fluidWidth" data-pintopage="page_fixedLeft" data-orig-id="u24391-35"><!-- content -->
+           <span class="placeholder" data-placeholder-for="u24391-35_0_content"><!-- placeholder node --></span>
+          </div>
+          <div class="footer_link_gray clearfix colelem temp_no_id" data-sizepolicy="fluidWidth" data-pintopage="page_fixedLeft" data-orig-id="u9654-4"><!-- content -->
+           <span class="placeholder" data-placeholder-for="u9654-4_0_content"><!-- placeholder node --></span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20icons%20white-01.png?crc=3884884989" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20icons%20white-02.png?crc=519294974" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20arrow-02.png?crc=3926577464" alt="" src="images/blank.gif?crc=4208392903">
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_768" data-min-width="381" data-max-width="768"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu72612"><!-- column -->
+     <div class="browser_width colelem temp_no_id" data-orig-id="u72612-bw">
+      <div class="museBGSize temp_no_id" data-orig-id="u72612"><!-- group -->
+       <div class="clearfix temp_no_id" data-orig-id="u72612_align_to_page">
+        <div class="PamphletWidget clearfix allow_click_through grpelem temp_no_id" data-visibility="changed" style="visibility:hidden" data-orig-id="pamphletu86418"><!-- none box -->
+         <div class="clearfix grpelem temp_no_id" data-orig-id="pu86429"><!-- group -->
+          <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u86429popup">
+           <div class="ContainerGroup clearfix temp_no_id" data-col-pos="0" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86429"><!-- stack box -->
+            <div class="Container clearfix grpelem temp_no_id" data-col-pos="0" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86431"><!-- group -->
+             <span class="clearfix grpelem placeholder" data-placeholder-for="u86523-7_content"><!-- placeholder node --></span>
+            </div>
+            <div class="Container invi clearfix grpelem temp_no_id" data-col-pos="1" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86432"><!-- group -->
+             <span class="clearfix grpelem placeholder" data-placeholder-for="pu101110-16_content"><!-- placeholder node --></span>
+            </div>
+            <div class="Container invi clearfix grpelem temp_no_id" data-col-pos="2" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86430"><!-- group -->
+             <span class="clearfix grpelem placeholder" data-placeholder-for="u143334_content"><!-- placeholder node --></span>
+            </div>
+           </div>
+          </div>
+          <div class="ThumbGroup clearfix grpelem temp_no_id" data-col-pos="1" data-sizepolicy="fluidWidth" data-pintopage="page_fixedLeft" data-orig-id="u86421"><!-- none box -->
+           <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u86424popup">
+            <div class="Thumb popup_element temp_no_id" data-col-pos="0" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86424"><!-- simple frame --></div>
+           </div>
+           <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="1" data-orig-id="u86422popup">
+            <div class="Thumb popup_element temp_no_id" data-col-pos="1" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86422"><!-- simple frame --></div>
+           </div>
+           <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="2" data-orig-id="u86423popup">
+            <div class="Thumb popup_element temp_no_id" data-col-pos="2" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86423"><!-- simple frame --></div>
+           </div>
+          </div>
+          <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="2" data-orig-id="u86427popup">
+           <div class="PamphletPrevButton PamphletLightboxPart popup_element clearfix temp_no_id" data-col-pos="2" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86427"><!-- group -->
+            <span class="clearfix grpelem placeholder" data-placeholder-for="u86428-4_content"><!-- placeholder node --></span>
+           </div>
+          </div>
+          <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="3" data-orig-id="u86425popup">
+           <div class="PamphletNextButton PamphletLightboxPart popup_element clearfix temp_no_id" data-col-pos="3" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86425"><!-- group -->
+            <span class="clearfix grpelem placeholder" data-placeholder-for="u86426-4_content"><!-- placeholder node --></span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <span class="browser_width colelem placeholder" data-placeholder-for="u92655-bw_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" data-leftadjustmentdoneby="pu72612" data-orig-id="u86858-26"><!-- content -->
+      <span class="main_header_gold placeholder" data-placeholder-for="u86858-2_content"><!-- placeholder node --></span>
+      <span class="main_body_gray placeholder" data-placeholder-for="u86858-26_1_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_2_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_3_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_4_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_5_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_6_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_7_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_8_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_9_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_10_content"><!-- placeholder node --></span>
+     </div>
+    </div>
+    <span class="browser_width placeholder" data-placeholder-for="u36173-bw_content"><!-- placeholder node --></span>
+    <span class="clearfix placeholder" data-placeholder-for="u205447_content"><!-- placeholder node --></span>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="u86896-35_content"><!-- placeholder node --></span>
+    <div class="clearfix temp_no_id" data-orig-id="u101221"><!-- group -->
+     <ul class="AccordionWidget clearfix temp_no_id" data-orig-id="accordionu101223"><!-- vertical box -->
+      <li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101224"><!-- vertical box --><div class="AccordionPanelTab transition museBGSize clearfix colelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u101225-3"><!-- content --><span class="placeholder" data-placeholder-for="u101225-3_0_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn shadow clearfix colelem temp_no_id" data-orig-id="u101226"><!-- group --><ul class="AccordionWidget clearfix grpelem temp_no_id" data-sizepolicy="fluidWidth" data-pintopage="page_fixedCenter" data-orig-id="accordionu101229"><!-- vertical box --><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101245"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101248-4"><!-- content --><span class="placeholder" data-placeholder-for="u101248-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u101246"><!-- group --><span class="accordion-menu clearfix grpelem placeholder" data-placeholder-for="u101247-14_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101241"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101242-4"><!-- content --><span class="placeholder" data-placeholder-for="u101242-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u101243"><!-- group --><span class="accordion-menu clearfix grpelem placeholder" data-placeholder-for="u101244-11_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101230"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101231-4"><!-- content --><span class="placeholder" data-placeholder-for="u101231-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u101232"><!-- group --><span class="accordion-menu clearfix grpelem placeholder" data-placeholder-for="u101233-17_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101249"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101250-4"><!-- content --><span class="placeholder" data-placeholder-for="u101250-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u101251"><!-- group --><span class="accordion-menu clearfix grpelem placeholder" data-placeholder-for="u101252-14_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101238"><!-- vertical box --><a class="nonblock nontext AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" href="contact.html" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101239-4"><!-- content --><span class="placeholder" data-placeholder-for="u101239-3_content"><!-- placeholder node --></span></a><div class="AccordionPanelContent disn borderbox colelem temp_no_id" data-orig-id="u101240"><!-- simple frame --></div></li></ul><span class="nonblock nontext MuseLinkActive grpelem placeholder" data-placeholder-for="u101227_content"><!-- placeholder node --></span></div></li>
+     </ul>
+     <span class="clearfix placeholder" data-placeholder-for="u101222-4_content"><!-- placeholder node --></span>
+    </div>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu189499-4_content"><!-- placeholder node --></span>
+    <span class="verticalspacer placeholder" data-placeholder-for="page_6_content"><!-- placeholder node --></span>
+    <span class="browser_width grpelem placeholder" data-placeholder-for="u9663-bw_content"><!-- placeholder node --></span>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20icons%20white-01.png?crc=3884884989" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20icons%20white-02.png?crc=519294974" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20arrow-02.png?crc=3926577464" alt="" src="images/blank.gif?crc=4208392903">
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_380" data-min-width="321" data-max-width="380"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="position_content" id="page_position_content">
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu36173"><!-- group -->
+      <span class="browser_width placeholder" data-placeholder-for="u36173-bw_content"><!-- placeholder node --></span>
+      <div class="clearfix temp_no_id" data-orig-id="u101221"><!-- group -->
+       <ul class="AccordionWidget clearfix temp_no_id" data-orig-id="accordionu101223"><!-- vertical box -->
+        <li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101224"><!-- vertical box --><div class="AccordionPanelTab transition museBGSize clearfix colelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u101225-3"><!-- content --><span class="placeholder" data-placeholder-for="u101225-3_0_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn shadow clearfix colelem temp_no_id" data-orig-id="u101226"><!-- group --><ul class="AccordionWidget clearfix grpelem temp_no_id" data-sizepolicy="fluidWidth" data-pintopage="page_fixedCenter" data-orig-id="accordionu101229"><!-- vertical box --><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101245"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101248-4"><!-- content --><span class="placeholder" data-placeholder-for="u101248-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u101246"><!-- group --><span class="accordion-menu clearfix grpelem placeholder" data-placeholder-for="u101247-14_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101241"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101242-4"><!-- content --><span class="placeholder" data-placeholder-for="u101242-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u101243"><!-- group --><span class="accordion-menu clearfix grpelem placeholder" data-placeholder-for="u101244-11_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101230"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101231-4"><!-- content --><span class="placeholder" data-placeholder-for="u101231-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u101232"><!-- group --><span class="accordion-menu clearfix grpelem placeholder" data-placeholder-for="u101233-17_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101249"><!-- vertical box --><div class="AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101250-4"><!-- content --><span class="placeholder" data-placeholder-for="u101250-3_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u101251"><!-- group --><span class="accordion-menu clearfix grpelem placeholder" data-placeholder-for="u101252-14_content"><!-- placeholder node --></span></div></li><li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u101238"><!-- vertical box --><a class="nonblock nontext AccordionPanelTab borderbox transition museBGSize clearfix colelem temp_no_id" href="contact.html" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u101239-4"><!-- content --><span class="placeholder" data-placeholder-for="u101239-3_content"><!-- placeholder node --></span></a><div class="AccordionPanelContent disn borderbox colelem temp_no_id" data-orig-id="u101240"><!-- simple frame --></div></li></ul><span class="nonblock nontext MuseLinkActive grpelem placeholder" data-placeholder-for="u101227_content"><!-- placeholder node --></span></div></li>
+       </ul>
+       <span class="clearfix placeholder" data-placeholder-for="u101222-4_content"><!-- placeholder node --></span>
+      </div>
+     </div>
+     <a class="nonblock nontext MuseLinkActive clip_frame pinned-colelem" id="u52646" href="index.html"><!-- svg --><img class="svg temp_no_img_src" id="u52644" data-orig-src="images/pasted-svg-696992x198.svg?crc=4082475322" width="155" height="44" alt="" data-mu-svgfallback="images/pasted%20svg%20696992x198_poster_.png?crc=4028781973" src="images/blank.gif?crc=4208392903"></a><div class="colelem"></div>
+     <div class="clearfix colelem" id="ppu72612"><!-- group -->
+      <div class="clearfix grpelem temp_no_id" data-orig-id="pu72612"><!-- column -->
+       <div class="browser_width colelem temp_no_id shared_content" data-orig-id="u72612-bw" data-content-guid="u72612-bw_content">
+        <div class="museBGSize temp_no_id" data-orig-id="u72612"><!-- simple frame --></div>
+       </div>
+       <span class="browser_width colelem placeholder" data-placeholder-for="u92655-bw_content"><!-- placeholder node --></span>
+      </div>
+      <div class="PamphletWidget clearfix allow_click_through grpelem temp_no_id" data-visibility="changed" style="visibility:hidden" data-orig-id="pamphletu86418"><!-- none box -->
+       <div class="clearfix grpelem temp_no_id" data-orig-id="pu86429"><!-- group -->
+        <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u86429popup">
+         <div class="ContainerGroup clearfix temp_no_id" data-col-pos="0" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86429"><!-- stack box -->
+          <div class="Container clearfix grpelem temp_no_id" data-col-pos="0" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86431"><!-- group -->
+           <span class="clearfix grpelem placeholder" data-placeholder-for="u86523-7_content"><!-- placeholder node --></span>
+          </div>
+          <div class="Container invi clearfix grpelem temp_no_id" data-col-pos="1" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86432"><!-- group -->
+           <span class="clearfix grpelem placeholder" data-placeholder-for="pu101110-16_content"><!-- placeholder node --></span>
+          </div>
+          <div class="Container invi clearfix grpelem temp_no_id" data-col-pos="2" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86430"><!-- group -->
+           <div class="clearfix grpelem temp_no_id" data-orig-id="u143334"><!-- group -->
+            <div class="clearfix grpelem temp_no_id" data-orig-id="pu100963-4"><!-- column -->
+             <span class="clearfix colelem placeholder" data-placeholder-for="u100963-4_content"><!-- placeholder node --></span>
+             <div class="clearfix colelem temp_no_id" data-orig-id="pbuttonu100966"><!-- group -->
+              <span class="nonblock nontext Button Books-Button clearfix grpelem placeholder" data-placeholder-for="buttonu100966_content"><!-- placeholder node --></span>
+              <span class="nonblock nontext Button Books-Button clearfix grpelem placeholder" data-placeholder-for="buttonu100968_content"><!-- placeholder node --></span>
+             </div>
+             <div class="clearfix colelem" id="pbuttonu100964"><!-- group -->
+              <span class="nonblock nontext Button Books-Button clearfix grpelem placeholder" data-placeholder-for="buttonu100964_content"><!-- placeholder node --></span>
+              <span class="nonblock nontext Button Books-Button clearfix grpelem placeholder" data-placeholder-for="buttonu100972_content"><!-- placeholder node --></span>
+             </div>
+             <div class="clearfix colelem" id="pbuttonu100970"><!-- group -->
+              <span class="nonblock nontext Button Books-Button clearfix grpelem placeholder" data-placeholder-for="buttonu100970_content"><!-- placeholder node --></span>
+              <span class="nonblock nontext Button Books-Button clearfix grpelem placeholder" data-placeholder-for="buttonu100974_content"><!-- placeholder node --></span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="ThumbGroup clearfix grpelem temp_no_id" data-col-pos="1" data-sizepolicy="fluidWidth" data-pintopage="page_fixedLeft" data-orig-id="u86421"><!-- none box -->
+         <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u86424popup">
+          <div class="Thumb popup_element temp_no_id" data-col-pos="0" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86424"><!-- simple frame --></div>
+         </div>
+         <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="1" data-orig-id="u86422popup">
+          <div class="Thumb popup_element temp_no_id" data-col-pos="1" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86422"><!-- simple frame --></div>
+         </div>
+         <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="2" data-orig-id="u86423popup">
+          <div class="Thumb popup_element temp_no_id" data-col-pos="2" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86423"><!-- simple frame --></div>
+         </div>
+        </div>
+        <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="2" data-orig-id="u86427popup">
+         <div class="PamphletPrevButton PamphletLightboxPart popup_element clearfix temp_no_id" data-col-pos="2" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86427"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u86428-4_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+        <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="3" data-orig-id="u86425popup">
+         <div class="PamphletNextButton PamphletLightboxPart popup_element clearfix temp_no_id" data-col-pos="3" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86425"><!-- group -->
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u86426-4_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="clearfix colelem" id="ppu86858-26"><!-- group -->
+      <div class="clearfix grpelem temp_no_id" data-orig-id="pu86858-26"><!-- column -->
+       <div class="clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u86858-26"><!-- content -->
+        <span class="main_header_gold placeholder" data-placeholder-for="u86858-2_content"><!-- placeholder node --></span>
+        <span class="main_body_gray placeholder" data-placeholder-for="u86858-26_1_content"><!-- placeholder node --></span>
+        <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_2_content"><!-- placeholder node --></span>
+        <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_3_content"><!-- placeholder node --></span>
+        <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_4_content"><!-- placeholder node --></span>
+        <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_5_content"><!-- placeholder node --></span>
+        <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_6_content"><!-- placeholder node --></span>
+        <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_7_content"><!-- placeholder node --></span>
+        <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_8_content"><!-- placeholder node --></span>
+        <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_9_content"><!-- placeholder node --></span>
+        <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_10_content"><!-- placeholder node --></span>
+       </div>
+       <div class="clearfix colelem" id="pu86896-35"><!-- group -->
+        <div class="clearfix grpelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u86896-35"><!-- content -->
+         <span class="main_header_gold document-links placeholder" data-placeholder-for="u86896-2_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_1_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_2_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_3_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_4_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_5_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_6_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-18_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_8_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-23_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_10_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-28_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-32_content"><!-- placeholder node --></span>
+         <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-33_content"><!-- placeholder node --></span>
+        </div>
+        <div class="main_header_gold document-links clearfix grpelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u189499-4"><!-- content -->
+         <span class="placeholder" data-placeholder-for="u189499-4_0_content"><!-- placeholder node --></span>
+        </div>
+       </div>
+      </div>
+      <div class="size_fixed grpelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u198927"><!-- custom html -->
+       <span class="placeholder" data-placeholder-for="u198927_0_content"><!-- placeholder node --></span>
+      </div>
+     </div>
+     <div class="verticalspacer" data-offset-top="2426" data-content-above-spacer="2425" data-content-below-spacer="462" data-sizepolicy="fixed" data-pintopage="page_fixedLeft"></div>
+     <div class="browser_width colelem temp_no_id" data-orig-id="u9663-bw">
+      <div class="temp_no_id" data-orig-id="u9663"><!-- column -->
+       <div class="clearfix temp_no_id" data-orig-id="u9663_align_to_page">
+        <div class="clearfix colelem temp_no_id" data-orig-id="u61786"><!-- group -->
+         <div class="clearfix grpelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u9660-17"><!-- content -->
+          <span class="footer_header_white placeholder" data-placeholder-for="u9660-2_content"><!-- placeholder node --></span>
+          <span class="cuws-footer placeholder" data-placeholder-for="u9660-3_content"><!-- placeholder node --></span>
+          <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9660-6_content"><!-- placeholder node --></span>
+          <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9660-9_content"><!-- placeholder node --></span>
+          <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9660-12_content"><!-- placeholder node --></span>
+          <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9660-15_content"><!-- placeholder node --></span>
+         </div>
+         <div class="clearfix grpelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u9657-18"><!-- content -->
+          <span class="footer_header_white placeholder" data-placeholder-for="u9657-2_content"><!-- placeholder node --></span>
+          <span class="cuws-footer placeholder" data-placeholder-for="u9657-3_content"><!-- placeholder node --></span>
+          <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9657-6_content"><!-- placeholder node --></span>
+          <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9657-9_content"><!-- placeholder node --></span>
+          <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9657-12_content"><!-- placeholder node --></span>
+          <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9657-15_content"><!-- placeholder node --></span>
+          <span class="cuws-footer placeholder" data-placeholder-for="u9657-16_content"><!-- placeholder node --></span>
+         </div>
+        </div>
+        <div class="clearfix colelem" id="pu62976"><!-- group -->
+         <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u62976_content"><!-- placeholder node --></span>
+         <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u62926_content"><!-- placeholder node --></span>
+        </div>
+        <div class="clearfix colelem temp_no_id" data-orig-id="u63007"><!-- group -->
+         <div class="clearfix grpelem temp_no_id" data-orig-id="pu24391-35"><!-- column -->
+          <div class="footer_afi_link cuws-footer-2 clearfix colelem temp_no_id" data-sizepolicy="fluidWidth" data-pintopage="page_fixedLeft" data-orig-id="u24391-35"><!-- content -->
+           <span class="placeholder" data-placeholder-for="u24391-35_0_content"><!-- placeholder node --></span>
+          </div>
+          <div class="footer_link_gray clearfix colelem temp_no_id" data-sizepolicy="fluidWidth" data-pintopage="page_fixedLeft" data-orig-id="u9654-4"><!-- content -->
+           <span class="placeholder" data-placeholder-for="u9654-4_0_content"><!-- placeholder node --></span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20icons%20white-01.png?crc=3884884989" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20icons%20white-02.png?crc=519294974" alt="" src="images/blank.gif?crc=4208392903">
+    <img class="preload temp_no_img_src" data-orig-src="images/menu%20arrow-02.png?crc=3926577464" alt="" src="images/blank.gif?crc=4208392903">
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_320" data-max-width="320"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu72612"><!-- column -->
+     <span class="browser_width colelem placeholder" data-placeholder-for="u72612-bw_content"><!-- placeholder node --></span>
+     <span class="browser_width colelem placeholder" data-placeholder-for="u92655-bw_content"><!-- placeholder node --></span>
+     <div class="size_fixed colelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u198927"><!-- custom html -->
+      <span class="placeholder" data-placeholder-for="u198927_0_content"><!-- placeholder node --></span>
+     </div>
+    </div>
+    <span class="browser_width placeholder" data-placeholder-for="u36173-bw_content"><!-- placeholder node --></span>
+    <div class="PamphletWidget clearfix allow_click_through grpelem temp_no_id" data-visibility="changed" style="visibility:hidden" data-orig-id="pamphletu86418"><!-- none box -->
+     <div class="clearfix grpelem temp_no_id" data-orig-id="pu86429"><!-- group -->
+      <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u86429popup">
+       <div class="ContainerGroup clearfix temp_no_id" data-col-pos="0" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86429"><!-- stack box -->
+        <div class="Container clearfix grpelem temp_no_id" data-col-pos="0" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86431"><!-- group -->
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u86523-7_content"><!-- placeholder node --></span>
+        </div>
+        <div class="Container invi clearfix grpelem temp_no_id" data-col-pos="1" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86432"><!-- group -->
+         <span class="clearfix grpelem placeholder" data-placeholder-for="pu101110-16_content"><!-- placeholder node --></span>
+        </div>
+        <div class="Container invi clearfix grpelem temp_no_id" data-col-pos="2" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86430"><!-- group -->
+         <div class="clearfix grpelem temp_no_id" data-orig-id="u143334"><!-- group -->
+          <div class="clearfix grpelem temp_no_id" data-orig-id="pu100963-4"><!-- column -->
+           <span class="clearfix colelem placeholder" data-placeholder-for="u100963-4_content"><!-- placeholder node --></span>
+           <div class="clearfix colelem temp_no_id" data-orig-id="pbuttonu100966"><!-- group -->
+            <span class="nonblock nontext Button Books-Button clearfix grpelem placeholder" data-placeholder-for="buttonu100966_content"><!-- placeholder node --></span>
+            <span class="nonblock nontext Button Books-Button clearfix grpelem placeholder" data-placeholder-for="buttonu100968_content"><!-- placeholder node --></span>
+           </div>
+           <div class="clearfix colelem temp_no_id" data-orig-id="pbuttonu100964"><!-- group -->
+            <span class="nonblock nontext Button Books-Button clearfix grpelem placeholder" data-placeholder-for="buttonu100964_content"><!-- placeholder node --></span>
+            <span class="nonblock nontext Button Books-Button clearfix grpelem placeholder" data-placeholder-for="buttonu100972_content"><!-- placeholder node --></span>
+           </div>
+           <div class="clearfix colelem temp_no_id" data-orig-id="pbuttonu100970"><!-- group -->
+            <span class="nonblock nontext Button Books-Button clearfix grpelem placeholder" data-placeholder-for="buttonu100970_content"><!-- placeholder node --></span>
+            <span class="nonblock nontext Button Books-Button clearfix grpelem placeholder" data-placeholder-for="buttonu100974_content"><!-- placeholder node --></span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="ThumbGroup clearfix grpelem temp_no_id" data-col-pos="1" data-sizepolicy="fluidWidth" data-pintopage="page_fixedLeft" data-orig-id="u86421"><!-- none box -->
+       <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="0" data-orig-id="u86424popup">
+        <div class="Thumb popup_element temp_no_id" data-col-pos="0" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86424"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="1" data-orig-id="u86422popup">
+        <div class="Thumb popup_element temp_no_id" data-col-pos="1" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86422"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="2" data-orig-id="u86423popup">
+        <div class="Thumb popup_element temp_no_id" data-col-pos="2" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86423"><!-- simple frame --></div>
+       </div>
+      </div>
+      <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="2" data-orig-id="u86427popup">
+       <div class="PamphletPrevButton PamphletLightboxPart popup_element clearfix temp_no_id" data-col-pos="2" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86427"><!-- group -->
+        <span class="clearfix grpelem placeholder" data-placeholder-for="u86428-4_content"><!-- placeholder node --></span>
+       </div>
+      </div>
+      <div class="popup_anchor allow_click_through grpelem temp_no_id" data-col-pos="3" data-orig-id="u86425popup">
+       <div class="PamphletNextButton PamphletLightboxPart popup_element clearfix temp_no_id" data-col-pos="3" data-sizepolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u86425"><!-- group -->
+        <span class="clearfix grpelem placeholder" data-placeholder-for="u86426-4_content"><!-- placeholder node --></span>
+       </div>
+      </div>
+     </div>
+    </div>
+    <a class="nonblock nontext MuseLinkActive clip_frame temp_no_id" href="index.html" data-orig-id="u52646"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-696992x198.svg?crc=4082475322" width="135" height="38" alt="" data-mu-svgfallback="images/pasted%20svg%20696992x198_poster_.png?crc=4028781973" data-orig-id="u52644" src="images/blank.gif?crc=4208392903"></a>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu86858-26"><!-- column -->
+     <div class="clearfix colelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u86858-26"><!-- content -->
+      <span class="main_header_gold placeholder" data-placeholder-for="u86858-2_content"><!-- placeholder node --></span>
+      <span class="main_body_gray placeholder" data-placeholder-for="u86858-26_1_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_2_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_3_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_4_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_5_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_6_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_7_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_8_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_9_content"><!-- placeholder node --></span>
+      <span class="main_body_gray document-links placeholder" data-placeholder-for="u86858-26_10_content"><!-- placeholder node --></span>
+     </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu86896-35"><!-- group -->
+      <div class="clearfix grpelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u86896-35"><!-- content -->
+       <span class="main_header_gold document-links placeholder" data-placeholder-for="u86896-2_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_1_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_2_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_3_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_4_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_5_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_6_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-18_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_8_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-23_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-35_10_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-28_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-32_content"><!-- placeholder node --></span>
+       <span class="main_body_gray document-links placeholder" data-placeholder-for="u86896-33_content"><!-- placeholder node --></span>
+      </div>
+      <div class="main_header_gold document-links clearfix grpelem temp_no_id" data-muse-temp-textcontainer-sizepolicy="true" data-muse-temp-textcontainer-pinning="true" data-orig-id="u189499-4"><!-- content -->
+       <span class="placeholder" data-placeholder-for="u189499-4_0_content"><!-- placeholder node --></span>
+      </div>
+     </div>
+    </div>
+    <div class="verticalspacer" data-offset-top="2426" data-content-above-spacer="2425" data-content-below-spacer="592" data-sizepolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="browser_width grpelem temp_no_id" data-orig-id="u9663-bw">
+     <div class="temp_no_id" data-orig-id="u9663"><!-- group -->
+      <div class="clearfix temp_no_id" data-orig-id="u9663_align_to_page">
+       <div class="clearfix grpelem" id="ppu62926"><!-- column -->
+        <div class="clearfix colelem" id="pu62926"><!-- group -->
+         <a class="nonblock nontext clip_frame grpelem temp_no_id" href="http://www.af.mil" data-orig-id="u62926"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-138644x107.svg?crc=530852562" alt="" data-mu-svgfallback="images/pasted%20svg%20138644x107_poster_.png?crc=3920604249" data-heightwidthratio="0.7671232876712328" data-image-width="73" data-image-height="56" data-orig-id="u62924" src="images/blank.gif?crc=4208392903"></a>
+         <a class="nonblock nontext clip_frame grpelem temp_no_id" href="http://twitter.com/USAF_CUWS" data-orig-id="u62976"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-49263x40.svg?crc=3981171473" alt="" data-mu-svgfallback="images/pasted%20svg%2049263x40_poster_.png?crc=81336333" data-heightwidthratio="0.7777777777777778" data-image-width="27" data-image-height="21" data-orig-id="u62974" src="images/blank.gif?crc=4208392903"></a>
+         <div class="clearfix grpelem temp_no_id" data-orig-id="u61786"><!-- group -->
+          <div class="clearfix grpelem" id="pu9660-17"><!-- column -->
+           <div class="clearfix colelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u9660-17"><!-- content -->
+            <span class="footer_header_white placeholder" data-placeholder-for="u9660-2_content"><!-- placeholder node --></span>
+            <span class="cuws-footer placeholder" data-placeholder-for="u9660-3_content"><!-- placeholder node --></span>
+            <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9660-6_content"><!-- placeholder node --></span>
+            <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9660-9_content"><!-- placeholder node --></span>
+            <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9660-12_content"><!-- placeholder node --></span>
+            <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9660-15_content"><!-- placeholder node --></span>
+           </div>
+           <div class="clearfix colelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u9657-18"><!-- content -->
+            <span class="footer_header_white placeholder" data-placeholder-for="u9657-2_content"><!-- placeholder node --></span>
+            <span class="cuws-footer placeholder" data-placeholder-for="u9657-3_content"><!-- placeholder node --></span>
+            <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9657-6_content"><!-- placeholder node --></span>
+            <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9657-9_content"><!-- placeholder node --></span>
+            <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9657-12_content"><!-- placeholder node --></span>
+            <span class="footer_link_gray cuws-footer-2 placeholder" data-placeholder-for="u9657-15_content"><!-- placeholder node --></span>
+            <span class="cuws-footer placeholder" data-placeholder-for="u9657-16_content"><!-- placeholder node --></span>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="clearfix colelem temp_no_id" data-orig-id="u63007"><!-- group -->
+         <div class="clearfix grpelem temp_no_id" data-orig-id="pu24391-35"><!-- column -->
+          <span class="footer_afi_link cuws-footer-2 clearfix colelem placeholder" data-placeholder-for="u24391-35_content"><!-- placeholder node --></span>
+          <div class="footer_link_gray clearfix colelem temp_no_id" data-sizepolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u9654-4"><!-- content -->
+           <span class="placeholder" data-placeholder-for="u9654-4_0_content"><!-- placeholder node --></span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   // Decide weather to suppress missing file error or not based on preference setting
+var suppressMissingFileError = false
+</script>
+  <script type="text/javascript">
+   window.Muse.assets.check=function(d){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},c=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
+16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
+l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
+f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
+setTimeout(function(){g(!0)},5E3):g()}};
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","webpro","musewpdisclosure","jquery.watch","musewpslideshow","jquery.museoverlay","touchswipe","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
+window.Muse.assets.check($);/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.popup_anchor.allow_click_through');/* resize height */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
+Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.initWidget('#accordionu101229', ['#bp_infinity', '#bp_886', '#bp_768', '#bp_380'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu101229 */
+Muse.Utils.initWidget('#accordionu101223', ['#bp_infinity', '#bp_886', '#bp_768', '#bp_380'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu101223 */
+Muse.Utils.initWidget('#pamphletu86418', ['#bp_infinity', '#bp_886', '#bp_768', '#bp_380', '#bp_320'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:true}); });/* #pamphletu86418 */
+Muse.Utils.fullPage('#page');/* 100% height page */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+}catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
+
+</script>
+  <!-- RequireJS script -->
+  <script src="scripts/require.js?crc=3861931657" type="text/javascript" async="" data-main="scripts/museconfig.js?crc=278381782" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType &amp;&amp; requireType.toString &amp;&amp; requireType.toString().indexOf &amp;&amp; 0 &lt;= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+   
+
+<div class="muse_check_css" style="height: 100vh;"></div><div id="muse_css_mq"></div><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe></body></html>

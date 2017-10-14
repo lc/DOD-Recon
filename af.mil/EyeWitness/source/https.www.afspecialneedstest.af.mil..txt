@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
+<title>IIS 7.5 Detailed Error - 403.7 - Forbidden</title> 
+<style type="text/css"> 
+<!-- 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;background:#CBE1EF;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 40px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;padding:4px 15px 4px 10px;margin:4px 0 8px -12px;_margin-top:0px; 
+ border-top:1px solid #EDEDED;border-left:1px solid #EDEDED;border-right:1px solid #969696; 
+ border-bottom:1px solid #969696;background:#E7ECF0;font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.config_source{background:#fff5c4;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:bold;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:normal;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{background-color:#ebebeb;} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+--> 
+</style> 
+ 
+</head> 
+<body> 
+<div id="header"><h1>Server Error in Application "UAT_SNIAC01_WEB-SNIAC"</h1></div> 
+<div id="server_version"><p>Internet Information Services 7.5</p></div> 
+<div id="content"> 
+<div class="content-container"> 
+ <fieldset><legend>Error Summary</legend> 
+  <h2>HTTP Error 403.7 - Forbidden</h2> 
+  <h3>The page you are attempting to access requires your browser to have a Secure Sockets Layer (SSL) client certificate that the Web server recognizes.</h3> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Detailed Error Information</legend> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tbody><tr class="alt"><th>Module</th><td>IIS Web Core</td></tr> 
+    <tr><th>Notification</th><td>BeginRequest</td></tr> 
+    <tr class="alt"><th>Handler</th><td>StaticFile</td></tr> 
+    <tr><th>Error Code</th><td>0x80070005</td></tr> 
+     
+   </tbody></table> 
+  </div> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tbody><tr class="alt"><th>Requested URL</th><td>https://www.afspecialneedstest.af.mil:443/</td></tr> 
+    <tr><th>Physical Path</th><td>D:\Webs\V4\uat_sniac01_web\SNIAC</td></tr> 
+    <tr class="alt"><th>Logon Method</th><td>Not yet determined</td></tr> 
+    <tr><th>Logon User</th><td>Not yet determined</td></tr> 
+    <tr class="alt"><th>Failed Request Tracing Log Directory</th><td><a href="file://C:\inetpub\logs\FailedReqLogFiles">C:\inetpub\logs\FailedReqLogFiles</a></td></tr> 
+   </tbody></table> 
+   <div class="clear"></div> 
+  </div> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Most likely causes:</legend> 
+  <ul> 	<li>The page you are attempting to access requires an SSL client certificate.</li> 	<li>You are browsing to the page using HTTP.</li> 	<li>The client certificate has expired or the effective time has not been reached.</li> 	<li>The root certificate (the Certificate Authority certificate) of the client certificate issuing server is not installed on the Web server.</li> </ul> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Things you can try:</legend> 
+  <ul> 	<li>Contact the site administrator to obtain a valid client certificate for the Web site.</li> 	<li>Try browsing to the page using HTTPS.</li> 	<li>If you have a client certificate installed, check if it has expired or if the effective time has not been reached.</li> 	<li>Verify that the root certificate is installed on the Web server.</li> </ul> 
+ </fieldset> 
+</div> 
+ 
+ 
+<div class="content-container"> 
+ <fieldset><legend>Links and More Information</legend> 
+  This error means that the requested URL requires client certificates. The client certificate is used for identifying you as a valid user of the resource. Contact the site administrator for information about how to acquire the correct certificate to use for the Web site. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=403,7,0x80070005,7601">View more information »</a></p> 
+   
+ </fieldset> 
+</div> 
+</div> 
+ 
+ 
+</body></html>

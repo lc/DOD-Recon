@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>:: ASOpS - Welcome ::</title>
+<meta name="Description" content="This is the public site for the United States Air Force Advanced Space Operations School (ASOpS)">
+<meta name="Keywords" content="Space Training, Space Tactics, Tactics, Space, Space Operations, Training, Operations, School, TTP, TIP, Tactics Techniques and Procedures, Tactics Improvement Procedures Processes, Space Operations Training,  Space Environment, Satellites, Orbital Mechanics, GPS, NAVWAR, DGPS, SATCOM, Satellite Communications,  SWC, Space Warfare Center, Air Force Space Command Unit, Orbit, Advanced Space Operations Course,  Space in the Air Operations Center Course, Weapons School Preparation Course,  Space Operations 3 Day Course, Space Operations 4 Day Course, Space Operations 5 Day Course, Space Operations Executive Level Course, Senior Space Operator in Theater Course,  Advanced Space Training, NATO Training Course, Space Professional, Space 200, Space 100, Space 300,  Navigation Warfare, Global Positioning System, Space, Sun, Solar Flare, Space Links, Geo-Synchronous, Sun-Synchronous, Polar Orbit, Course Information, Course Schedule, 595 Group, Tactics, Air Tactics, Space Tactics Bullettin, SOC, ASOC, SOCE, SSOITC, AST, SAOCC, WSPC, Weapons School">
+<meta name="summary" content="Space Training, Space Tactics, Tactics, Space, Space Operations, Training, Operations, School, TTP, TIP, Tactics Techniques and Procedures, Tactics Improvement Procedures Processes, Space Operations Training,  Space Environment, Satellites, Orbital Mechanics, GPS, NAVWAR, DGPS, SATCOM, Satellite Communications,  SWC, Space Warfare Center, Air Force Space Command Unit, Orbit, Advanced Space Operations Course,  Space in the Air Operations Center Course, Weapons School Preparation Course,  Space Operations 3 Day Course, Space Operations 4 Day Course, Space Operations 5 Day Course, Space Operations Executive Level Course, Senior Space Operator in Theater Course,  Advanced Space Training, NATO Training Course, Space Professional, Space 200, Space 100, Space 300,  Navigation Warfare, Global Positioning System, Space, Sun, Solar Flare, Space Links, Geo-Synchronous, Sun-Synchronous, Polar Orbit, Course Information, Course Schedule, 595 Group, Tactics, Air Tactics, Space Tactics Bullettin, SOC, ASOC, SOCE, SSOITC, AST, SAOCC, WSPC, Weapons School">
+<meta name="classification" content="Space Training, Space Tactics, Tactics, Space, Space Operations, Training, Operations, School, TTP, TIP, Tactics Techniques and Procedures, Tactics Improvement Procedures Processes, Space Operations Training,  Space Environment, Satellites, Orbital Mechanics, GPS, NAVWAR, DGPS, SATCOM, Satellite Communications,  SWC, Space Warfare Center, Air Force Space Command Unit, Orbit, Advanced Space Operations Course,  Space in the Air Operations Center Course, Weapons School Preparation Course,  Space Operations 3 Day Course, Space Operations 4 Day Course, Space Operations 5 Day Course, Space Operations Executive Level Course, Senior Space Operator in Theater Course,  Advanced Space Training, NATO Training Course, Space Professional, Space 200, Space 100, Space 300,  Navigation Warfare, Global Positioning System, Space, Sun, Solar Flare, Space Links, Geo-Synchronous, Sun-Synchronous, Polar Orbit, Course Information, Course Schedule, 595 Group, Tactics, Air Tactics, Space Tactics Bullettin, SOC, ASOC, SOCE, SSOITC, AST, SAOCC, WSPC, Weapons School">
+<script src="scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="scripts/globalScript.js"></script>
+<script language="javascript" type="application/javascript">
+	MM_preloadImages('images/vision.jpg','images/history.jpg','images/mission.jpg')
+</script>
+	<link href="styles/globalLayout.css" rel="stylesheet" type="text/css">
+    <link href="styles/pgLayout-home.css" media="all" rel="stylesheet" type="text/css">
+</head>
+<body style="background-color:black;" onload="MM_preloadImages('images/vision2.jpg','images/history2.jpg','images/mission2.jpg')">
+<!--<body style="background-image:url(images/pattern.jpg); background-position:center">-->
+<div align="center">
+<div align="left" style="width:1190px; position:relative; top:0px; left:0px;">
+<!-- background layout -->
+<div class="leftImg"><img src="images/layout_image_1.jpg" width="287" height="700"></div>
+<div class="topImg"><img src="images/layout_image_2.jpg" width="616" height="17"></div>
+<div class="rightImg">
+	<div class="rightImgB">
+    	<!-- right side navigation -->
+		<div class="rightTabs">
+        	<table border="0" cellpadding="5" cellspacing="5">
+            	
+                <tbody><tr>
+                	<td class="rightTabCol" align="center" valign="middle">
+                    	<a href="javascript:show_confirm()" class="rightTabLinkOff">L<br>O<br>G<br>I<br>N<br></a>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        <!-- /right side navigation -->
+
+        <div class="rightImgC"><img src="images/layout_image_3.jpg" width="287" height="739"></div>
+    </div>
+</div>
+
+<!-- /background layout -->
+<!-- content layout -->
+
+<div class="contentLayout">
+    <!-- navigation -->
+    <div class="navLayout">
+    	<ul class="navLinkPad">
+        	<li><a href="index.htm" class="CrsesLinkOn">Home</a> <img src="images/navSpacers.jpg" class="navSpacers"></li>
+            <li><a href="courses.htm" class="CrsesLink">Courses</a> <img src="images/navSpacers.jpg" class="navSpacers"></li>
+            <li><a href="schedule.htm" class="CrsesLink">Schedule</a> <img src="images/navSpacers.jpg" class="navSpacers"></li>
+            <li><a href="registration.htm" class="CrsesLink">Registration</a> <img src="images/navSpacers.jpg" class="navSpacers"></li>
+            <li><a href="administration.htm" class="CrsesLink">Administration</a> <img src="images/navSpacers.jpg" class="navSpacers"></li>
+            <li><a href="aboutus.htm" class="CrsesLink">About Us</a></li>
+        </ul>
+    </div>
+    <div class="siteMapArea">
+    	<!--<a href="" class="siteMapLink">Home</a> &nbsp;>&nbsp; <a href="" class="siteMapLink">Test</a>--> &nbsp;
+    </div>
+    <!-- /navigation -->
+    <!-- main content area -->
+    <div class="mainArea">
+    	<!-- flash movie -->
+    	<div class="flashArea">
+    	<script type="text/javascript">
+			AC_FL_RunContent( 'width','564','height','168','title','Flash Movie','src','content/home/home_movie','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','content/home/home_movie' ); //end AC code
+		</script><embed width="564" height="168" title="Flash Movie" src="content/home/home_movie.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> 
+        <noscript>
+        &lt;object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"  width="564" height="168" title="Flash Movie"&gt;
+            &lt;param name="movie" value="content/home/home_movie.swf" /&gt;
+            &lt;param name="quality" value="high" /&gt;
+            &lt;embed src="content/home/home_movie.swf" quality="high" type="application/x-shockwave-flash" width="564" height="168"&gt;&lt;/embed&gt;
+  	    &lt;/object&gt;
+    	</noscript>
+        </div>
+        <!-- /flash movie -->
+        <br>
+        <br>
+        <span class="title">Welcome to the Advanced Space Operations School</span><br>
+        <br>
+        The Advanced Space Operations School expands space system understanding by providing world-class, in-depth instruction of space systems, capabilities, requirements, acquisition, strategies and policies to support Joint military operations and U.S. National Security.<br>
+        <br>
+        <br>
+        <!-- vision mission history -->
+        <div align="center">
+        <table width="100%" cellpadding="10" border="0" class="vmhArea">
+        <tbody><tr>
+        	<td align="center" class="vmhAreaCol" width="167">
+            	<div>
+                    <a href="javascript:switchHome('dropdown1',3)" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('OurVision','','images/vision2.jpg',1);" title="Our Vision">
+                        <img src="images/vision.jpg" name="OurVision" width="147" height="152" border="0">
+                    </a>
+                </div>
+            </td>
+        	<td align="center" class="vmhAreaCol" width="166">
+            	<div>
+                    <a href="javascript:switchHome('dropdown2',3)" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('OurMission','','images/mission2.jpg',1);" title="Our Mission">
+                        <img src="images/mission.jpg" width="147" name="OurMission" height="152" border="0">
+                    </a>
+                </div>
+            </td>
+            <td align="center" width="166">
+            	<div>
+                	<a href="javascript:switchHome('dropdown3',3)" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('OurHistory','','images/history2.jpg',1);" title="Our History">
+                    	<img src="images/history.jpg" name="OurHistory" width="147" height="152" border="0">
+                    </a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+        <td colspan="3" align="center" valign="middle" class="vmhAreaRow">
+        	<div style="display:none;" class="displayArea" id="dropdown1">
+                <span class="title">Vision Statement</span><br>
+                The knowledge we impart enables innovation &amp; maximizes system effectiveness in the space domain.
+
+            </div>
+            <div style="display:none;" class="displayArea" id="dropdown2">
+            	<span class="title">Mission Statement</span><br>
+               Provide responsive training in support of tactical, operational and strategic joint and coalition space operations. 
+
+            </div>
+            <div style="display:none;" class="displayArea" id="dropdown3">
+                <span class="title">History</span> <br>
+                The Advanced Space Operations School evolved as a direct descendant of several world-class space training and education centers:<br>
+				<br>
+				The Space Tactics School (STS) which existed from 1994-1996 (and was later absorbed by the U.S. Air Force Weapons School in 1996), grew from lessons learned in Operation Desert Storm which found that campaign planning had not fully leveraged the nation's space capabilities. Initially the STS filled the void, but in 2002 the Space Operations School  (SOPSC)  was stood up to extended beyond the objectives of the STS and filled the breach by teaching broader space concepts and systems. The schools conducted a thorough examination of how to educationally prepare and train its warfighters, and instituted programs that addressed recognized shortfalls.<br>
+				<br>
+				The Space Commission Report of January 2001 amplified the need for more space education and training, noting the shortfall in growing space professionals at senior leadership echelons. The Commission's report served as a catalyst to help transform the SOPSC into the HQ NSSI, which officially activated in October of 2004.  The NSSI had two main schools, the Space Professional School, which was responsible for the Space Professional continuing education courses such as Space 200 and Space 300, and the Space Operations School, dedicated to teaching advanced space concepts, deployment training and instruction to non-space professionals.  In 2007, HQ AFSPC decided to reorganize the NSSI into two school; the Space Professional School would remain the NSSI and be relocated under Air University and the Space Operations School would be renamed the Advanced Space Operations School (ASOpS) and align under the Space Innovation and Development Center (SIDC).  On 1 April 2009 the ASOpS was activated taking the lineage of the 319 Space Training Squadron.  In April 2013, the Advanced Space Operations School was realigned under Headquarters Air Force Space Command's A3 Directorate.<br>
+				<br>
+ 				Lineage: Designated as 3301 Space Training Squadron, and activated, on 1 Oct 1987. Redesignated as 319 Space Training Squadron on 4 Jan 1993. Inactivated on 1 Jul 1993. Redesignated as Advanced Space Operations School on 20 Mar 2009. Activated on 1 Apr 2009. Assignments: Lowry Technical Training (later, Lowry Training) Center, 1 Oct 1987-1 Jul 1993. Space Innovation and Development Center, 1 Apr 2009-. Stations: Lowry AFB, CO, 1 Oct 1987-1 Jul 1993. Colorado Springs, CO, 1 Apr 2009-. Service Streamers: None. Campaign Streamers: None. Armed Forces Expeditionary Streamers: None. Decorations: Air Force Organizational Excellence Award: 1 Oct 1988-30 Sep 1989. Lineage, Assignments, Stations, and Honors through 3 Apr 2009. Emblem: Approved on 30 Jul 1988.<br>
+
+            </div>
+            &nbsp;
+            <!--<h4><a href="catalog2.pdf" target="_blank">View the  new ASOPS Course Catalog and Informational Booklet</a></h4>--></td>
+        </tr>
+    	</tbody></table>
+    	</div>
+        <!-- /vision mission history -->
+    </div>
+    <!-- /main content area -->
+    <!-- disclaimer -->
+    <div class="disclaim">
+    	<p><strong>PRIVACY AND SECURITY NOTICE</strong><br>
+    	  <br>
+    	  The ASOpS Web site is provided as a public service by the ASOpS Support Division. <br>
+    	  Information presented on the ASOpS Web Site is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested. <br>
+    	  Information concerning visitors, use of this site is collected for analytical and statisticalpurposes, such as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. <br>
+    	  For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage... <br>
+    	  <br>
+    	  <a href="../privacy.htm" class="siteMapLink" target="_blank"><strong>Click here to read the full Privacy and Security notice.</strong></a>
+  	  </p>
+    	<p>&nbsp;</p>
+    </div>
+    <!-- /disclaimer -->
+    <!-- footer -->
+    <div class="footer">
+    	<a href="../privacy.htm" class="IEtested" target="_blank">Please read this Privacy and Security notice</a>.
+        For questions or comments, <a href="mailto:SETC_WebsiteSupport@us.af.mil" class="IEtested">Contact the ASOpS Webmaster</a>. 719.556.3748 or <a href="https://afspc.desire2learndemo.com/">DSN 834.3748</a><br>
+        This Website was Last Reviewed: Jan 2016
+    </div>
+    <!-- /footer -->
+    <div class="btmSpacer">
+    	&nbsp;
+    </div>
+</div>
+<!-- /content layout -->
+</div>
+</div>
+
+
+</body></html>

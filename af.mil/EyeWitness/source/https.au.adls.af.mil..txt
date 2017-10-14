@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<link rel="stylesheet" type="text/css" href="/public/include/css/apm.css">
+<script language="JavaScript" src="/public/include/js/session_check.js?=13"></script>
+<script language="JavaScript" src="/public/include/js/web_host.js"></script>
+<script language="javascript"><!--//
+
+if(self != top) { top.location = self.location; }
+window.onerror=function(){ return function(){ return; } }
+
+/////////////////////////////////////////////////////////////////////////
+// function to return the customized screen when session expiration
+// is detected on the client-side
+/////////////////////////////////////////////////////////////////////////
+function SessionExpired_CustomizedScreenGet()
+{
+  return '<br><h3>Session Expired/Timeout</h3><br>Due to user inactivity, your session expired. Click the following link to start a new session.<br><br><table id="IHoptions"><tr><td><a href="[SESSION_RESTART_URL]" class="option"><img src="/public/images/sq-positive.gif" ></a><a href="[SESSION_RESTART_URL]">Start a new session</a></td></tr></table>';
+}
+function sessionTimedOut()
+{
+    try{
+        if ( externalWebHost.hasWebLogonClearSession() ){
+           externalWebHost.webLogonClearSession();
+        }
+    }catch(e){};
+
+    window.sessionTimeout.showSplashLayer("MessageDIV", SessionExpired_CustomizedScreenGet());
+}
+
+function OnLoad()
+{
+    try{
+        if ( externalWebHost.hasWebLogonNotifyUser() ){
+            externalWebHost.WebLogonNotifyUser();
+        }
+    }catch(e){};
+
+    window.sessionTimeout = new APMSessionTimeout(sessionTimedOut);
+}
+
+function SubmitResult(choice)
+{
+    var f = document.getElementById("hidden_form");
+    f.my_result.value = choice;
+    f.submit();
+}
+
+--></script>
+</head><body onload="OnLoad()">
+<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0">       
+<meta name="robots" context="noindex,nofollow">
+<script language="javascript">
+//orientation toolbox
+function setViewport(){
+    document.getElementById("viewport").setAttribute('content', Math.abs(window.orientation) == 90 ? 'width=device-height, initial-scale=1' : 'width=device-width, initial-scale=1.0' );
+}
+setViewport();
+window.onorientationchange = function() {
+    setViewport();
+}    
+</script>
+<table id="page_header">
+  <tbody><tr>
+    <td id="header_leftcell"><img src="/public/images/customization/Common/AFSAS-AccessPolicy_general_ui/logo_image_en.png"></td>             
+    <td id="header_rightcell"></td>
+  </tr>
+  <tr>
+     <td></td>
+     <td id="maxTimeoutTd"><span id="maxTimeoutTag" title=""></span></td>
+  </tr>
+</tbody></table>
+<noscript>
+&lt;div id="noscript_warning_red"&gt;JavaScript is not enabled. Please enable JavaScript in your browser or contact your system administrator for assistance.&lt;/div&gt;
+&lt;div id="noscript_warning_newsession"&gt;To open a new session, please  &lt;A href="/"&gt;click here.&lt;/A&gt;&lt;/div&gt;
+</noscript>
+
+<table id="main_table" class="decision_box">
+<tbody><tr>
+        <td id="main_table_info_cell">
+        <table id="interaction_table">
+            <tbody><tr>
+                <td id="interaction_table_header"><b>US Department of Defense Warning Statement</b>
+<br>
+You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only.
+By using this IS (which includes any device attached to this IS), you consent to the following conditions:
+<ul>
+<li>The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence (CI) investigations.</li>
+<li>At any time, the USG may inspect and seize data stored on this IS.</li>
+<li>Communications using, or data stored on, this IS are not private, are subject to routine monitoring, interception, and search, and may be disclosed or used for any USG-authorized purpose.</li>
+<li>This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your personal benefit or privacy.</li>
+</ul>
+Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching or monitoring of the content of privileged communications, or work product, related to personal representation or services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product are private and confidential. See User Agreement for details.
+<br>
+<b>Agency Disclosure Notice</b>
+<br>
+The public reporting burden for this collection of information is estimated to average of 4 minutes per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to the Department of Defense, Washington Headquarters Services, Executive Services Directorate, Information Management Division, 4800 Mark Center Drive, East Tower, Suite 02G09, Alexandria, VA 22350-3100 [0701-TBD OMB Control Number]. Respondents should be aware that notwithstanding any other provision of law, no person shall be subject to any penalty for failing to comply with a collection of information if it does not display a currently valid OMB control number.
+<br>
+<b>Accessibility/Section 508</b>
+<br>
+The U.S. Department of Defense is committed to making its electronic and information technologies accessible to individuals with disabilities in accordance with Section 508 of the Rehabilitation Act (29 U.S.C. § 794d), as amended in 1999. Send feedback or concerns related to the accessibility of this website to: the AFSAS Help Desk (COMM: 505-853-8200; DSN: 263-8200; AFSAS.AFSEC@us.af.mil) or DoDSection508@osd.mil.For more information about Section 508, please visit the DoD Section 508 website. </td>
+            </tr>
+            <tr>
+                <td class="interaction_table_option_cell"><a href="#" onclick="javascript:SubmitResult(1); return 0;"><img src="/public/images/sq-positive.gif" border="0"></a> <a href="#" onclick="javascript:SubmitResult(1); return 0;">Accept</a>
+            </td></tr>
+            <tr>
+                <td class="interaction_table_option_cell"><a href="#" onclick="javascript:SubmitResult(0); return 1;"><img src="/public/images/sq-negative.gif" border="0"></a> <a href="#" onclick="javascript:SubmitResult(0); return 1;">Decline</a></td>
+            </tr>
+            <tr>
+                <td class="interaction_table_footer"></td>
+            </tr>
+        </tbody></table>
+        <form method="post" id="hidden_form" name="hidden_form" action="">
+        <input type="hidden" id="my_result" value="0" name="choice">
+        </form>
+    </td>
+    </tr>
+</tbody></table>
+
+<div id="page_footer"><div>You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only.</div></div>
+<div id="MessageDIV" class="inspectionHostDIVSmall"></div>
+
+
+
+</body></html>

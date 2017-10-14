@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+	<title>BMT Login Page</title>
+
+</head>
+
+
+
+<body background="Images/loginBg.gif" topmargin="30px" onload="document.forms[0].j_username.focus();">
+<!-- This checks if the browser doesn't have the Javascript option 
+checked off-->
+<noscript>
+This program requires Javascript.  You are in need of turning the option for
+accepting Javascript on Netscape or install a higher version of the browser.
+You require versions 4 or above of Internet Explorer and Netscape Navigator.&amp;nbsp;
+</noscript>
+
+<center>
+
+<table border="0" width="620px">
+ 	<tbody><tr>
+  	<td bgcolor="Silver">
+   		<table bgcolor="#dbdbdb" border="1" cellpadding="2" width="100%">
+     		<tbody><tr>
+	 			<td align="center" bgcolor="#000080">
+					<font face="arial, helvetica, sans-serif" color="White"><b>BRAC Management Tool</b></font>
+                </td>
+			</tr>
+			<tr>
+				<td>
+                    <form name="aform" method="post" action="secure/wedtmain.cfm">			
+                    <table border="0" cellspacing="3" cellpadding="1" width="100%">
+                        <tbody><tr>
+                        	
+                            	<td colspan="3" height="3" style="color:#000080;"></td>    
+                            
+                        </tr>
+                        <tr>
+                            <td width="34%" align="right"><font size="-1" face="Arial, helvetica, sans-serif" color="#000080"><b>User ID</b></font></td>
+                            <td width="3%"></td>
+                            <td width="64%" align="left"><input name="j_username" type="text" style="width:150" size="21" maxlength="20"></td>
+                        </tr>
+                        <tr>
+                            <td width="34%" align="right"><font size="-1" face="Arial, helvetica, sans-serif" color="#000080"><b>Password</b></font></td>
+                            <td width="3%"></td>
+                            <td width="64%" align="left"><input type="password" name="j_password" size="21" maxlength="20" style="width:150"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" align="center">
+                                <input type="submit" style="FONT: 8pt Arial; FONT-WEIGHT: bold; COLOR: #000080; width: 60px" value="Login">	
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="3"><hr width="95%"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" align="center"><font face="arial, helvetica, sans-serif" color="#000080"><b>BMT NOTICE &amp; CONSENT</b></font></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" align="justify"><font face="arial, helvetica, sans-serif" color="#000080" size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is a Department of Defense Computer System. This computer system, including all related equipment, networks, and network devices (specifically including Internet access) are provided only for authorized United States Government use. Department of Defense computer systems may be monitored for all lawful purposes, including to ensure that their use is authorized, for management of the system, to facilitate protection against unauthorized access, and to verify security procedures, survivability, and operational security. Monitoring includes active attacks by authorized Department of Defense entities to test or verify the security of this system. During monitoring, information may be examined, recorded, copied and used for authorized purposes. All information, including personal information, placed or sent over this system may be monitored. Use of this Department of Defense computer system, authorized or unauthorized, constitutes consent to monitoring of this system. Unauthorized use may subject you to criminal prosecution. Evidence of unauthorized use collected during monitoring may be used for administrative, criminal, or other adverse action. Use of this system constitutes consent to monitoring for these purposes.</font></td>
+                        </tr>
+						<tr>
+                            <td colspan="3" align="center"><font face="arial, helvetica, sans-serif" color="#000080"><b>BMT RESTRICTION</b></font></td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" abbr="justify"><font face="arial, helvetica, sans-serif" color="#000080" size="2"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This site is intended for the use of the Air Force only. Do not reproduce or distribute the content of this site to a wider audience without coordination with the information owner, your unit legal and public affairs offices.</b></font></td>
+                        </tr>
+                    </tbody></table>
+                    </form>
+
+
+				</td>
+       		</tr>
+      	</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<p class="MsoNormal"><span style="font-size:&quot;13&quot;;font-family:&quot;arial&quot;; font-weight:normal;mso-bidi-font-weight:bold;font-style:normal;mso-bidi-font-style:italic"><font align="center"><i>This website is used for submitting Base Realignment and Closure (BRAC) 2005 requirements.<br>The BMT User Access Request Form can be downloaded by clicking on the following link.</i></font><br><a href="index.cfm?openfile=Yes" target="_blank"><u>BMT User Access Request Form</u></a><o:p></o:p></span></p>
+</center>
+
+
+</body></html>

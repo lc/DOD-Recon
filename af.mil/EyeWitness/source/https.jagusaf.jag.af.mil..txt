@@ -1,0 +1,424 @@
+<!DOCTYPE html><html><head>
+<script type="text/javascript" src="/jQuery/jquery-ui-1.12.1.custom/external/jquery/jquery.js"></script>
+<link rel="stylesheet" href="/pcss/jagusafpub.css" type="text/css">
+
+<link rel="stylesheet" href="/jQuery/jquery-ui-1.12.1.custom/jquery-ui.theme.min.css" type="text/css">
+<script type="text/javascript" src="/jQuery/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+
+<script type="text/javascript" src="/pjs/armspub.js"></script>
+
+<script type="text/javascript">
+<!--
+function go () {
+    window.location.href = "/armspublic/arms.home";
+}
+
+function clearBrowserCache() {
+    header("Pragma: no-cache");
+    header("Cache: no-cache");
+    header("Cache-Control: no-cache, must-revalidate");
+    header("Expires: Mon, 26 Jul 1997 05:00:00 GMT");
+}
+
+//-->
+</script>
+
+<script type="text/javascript">
+  $(function() {
+    $( "#accordion" ).accordion({
+       collapsible: true,
+       autoHeight: false,
+	   heightStyle: "content"
+    });
+  }); 
+</script>
+
+<title>Office of the Judge Advocate General</title>
+</head>
+<body><br><br>
+<noscript>&lt;p&gt;JavaScript is disabled.&lt;/p&gt;</noscript>
+
+<table class="pHomeTable">
+ <tbody><tr class="pHomeHeader">
+  <td>Department of the United States Air Force<br>
+      Office of the Judge Advocate General<br>
+      Online Application
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <table class="pHomeMenu">
+    <tbody><tr>
+     <td><a href="#" onclick="showIntro()" title="Introduction to the Judge Advocate General Online Application System">Introduction</a></td>
+     <td><a href="#" onclick="showInstructions()" title="Instructions For Applying Online">Instructions</a></td>
+     <td><a href="#" onclick="go()" title="For Applicants With Approved Login Credentials">Log In</a></td>
+     <td><a href="#" onclick="showResetPassword()" title="Reset Password ">Reset Password</a></td>
+     <td><a href="#" onclick="showChangeLogin()" title="Change Login">Change Login</a></td>
+     <td><a href="http://hqja.jag.af.mil/accessions/" title="Request Account">Request Account</a></td>
+     <td><a href="#" onclick="showContactUs()" title="How To Contact Us">Contact Us</a></td>
+    </tr>
+   </tbody></table>
+
+  </td>
+ </tr>
+ <tr>
+  <td style="border-bottom: solid; border-width:thin; font-weight: bold; background-color: #003366; color: #fff;">Air Force JAG Corps - Login</td> 
+ </tr>
+ <tr>
+  <td>
+   <div id="intro" style="display: inline;">   
+    <table class="pHomeContent"> 
+     <tbody><tr>
+      <td>
+        <div style="font-size:14pt;">Introduction</div>
+</td>
+</tr>
+<tr>
+<td>
+
+<table class="pHomeContent">
+<tbody><tr>
+<td>
+Thank you for your interest in the Air Force JAG Corps! Our more than 1200 active duty military attorneys, called judge advocates, have discovered that service as a commissioned officer in The Judge Advocate General's Corps has much to offer. This online application process allows you to apply for the following programs:
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table><table class="pHomeContent">
+<tbody><tr>
+<td>
+<div id="accordion" class="ui-accordion ui-widget ui-helper-reset" role="tablist">
+<h3 class="ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" role="tab" id="ui-id-2" aria-controls="ui-id-3" aria-selected="false" aria-expanded="false" tabindex="0"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#">Direct Appointment Program (DAP)</a></h3>
+ <div class="ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" id="ui-id-3" aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true" style="display: none; height: 471px;"> 
+   Qualified civilians, enlisted personnel, and Reserve officers may apply for direct appointment for duty as an Air Force judge advocate.  Attorneys and students who have completed their second year of law school or have completed two-thirds of their degree requirements may apply.  Applicants must be citizens of the United States and commissioned by the age of 35.  Selection is contingent upon graduation from an ABA-accredited law school and admission to practice law in the highest court of any state, territory of the United States, or a federal court.
+   <p>
+   Selection boards for DAP are held in April, October, and December.  For all our accession programs, applicants must schedule an appointment for a hiring interview with the Staff Judge Advocate (SJA) at any active duty Air Force base. Applicants must schedule their interview appointment as early as possible, but before the 15th of the month prior to the month of the board that they wish to meet. 
+   </p>
+ </div>
+
+     <h3 class="ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" role="tab" id="ui-id-4" aria-controls="ui-id-5" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#">Air Force Reserve Officer Training Corps (ROTC) Programs</a></h3>
+    <div class="ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" id="ui-id-5" aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="true" style="display: none; height: 471px;">
+        ROTC cadets in the last year of undergraduate studies who will be commissioned through Air Force ROTC may apply to delay their entry on extended active duty to study law.  Applicants in this program are NOT guaranteed positions as Air Force Judge Advocates and must compete for selection both for entry into the program (Ed Delay-In) and for entry into The Judge Advocate General's Corps at the end of the program (Ed Delay-Out).  Students must attend an ABA-accredited law school and maintain good academic standing.
+        <ul>
+            <li><strong>Educational Delay Programs</strong> - 
+            ROTC cadets in the last year of undergraduate studies who will be commissioned through Air Force ROTC may apply to delay their entry on extended active duty to study law.  Applicants in this program are NOT guaranteed positions as Air Force Judge Advocates and must compete for selection both for entry into the program (Ed Delay-In) and for entry into The Judge Advocate General's Corps at the end of the program (Ed Delay-Out).  Students must attend an ABA-accredited law school and maintain good academic standing.
+            </li>
+            <li><strong>Graduate Law Program (GLP)</strong> - 
+            Law students in their first year of law school may apply for this two-year ROTC commissioning program.  Applicants must be attending an ABA-accredited law school that has, or is located near a ROTC detachment; be in good academic standing; and meet ROTC entry standards. Selectees attend an ROTC field training encampment at an Air Force base during the summer before either their second or third year of law school.
+            <br>
+            </li>
+
+            <li><strong>One-Year College Program (OYCP)</strong> - 
+            Law students in their second year of law school may apply to enter the ROTC commissioning program.  Applicants must be attending an ABA-accredited law school, which has or is located near a ROTC detachment; be in good academic standing; and meet ROTC entry standards.  Selectees attend an ROTC field training encampment at an Air Force base during the summer before their third year of law school.
+            </li>            
+        </ul>
+      <p>
+      The ROTC board is held once a year in February.  For all our accession programs, applicants must schedule an appointment for a hiring interview with the Staff Judge Advocate (SJA) at any active duty Air Force base. Applicants must schedule their interview appointment as early as possible, but before the 15th of the month prior to the month of the board that they wish to meet. 
+      </p>  
+     	  <br>
+      <br>
+      <br>
+      <br>	   	  <br>
+      <br>
+      <br>
+      <br>	
+    </div>
+
+     <h3 class="ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" role="tab" id="ui-id-6" aria-controls="ui-id-7" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#">Funded Legal Education Program (FLEP) and Excess Leave Program (ELP)</a></h3>
+    <div class="ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" id="ui-id-7" aria-labelledby="ui-id-6" role="tabpanel" aria-hidden="true" style="display: none; height: 471px;">
+		The Judge Advocate General's Corp selects a limited number of active duty officers each year to attend law school.
+        <ul>
+            <li><strong>FLEP</strong> -
+            Active duty officers in the pay grade of captain or below with more than two years but less than six years of total active military service may apply to attend an ABA-accredited law school at Air Force expense.   Officers participating in this program receive their tuition, fees, and book allowance from the Air Force while continuing to serve on active duty, thus also receiving full pay, allowances, and other benefits while attending law school.  The FLEP tuition limits are set by the Air Force Institute of Technology on an annual basis and vary from year to year based on available funding.
+            </li>
+            
+            <li><strong>ELP</strong> - 
+            Active duty officers in the pay grade of captain or below with more than two years but less than 10 years of total active military service may apply to attend an ABA-accredited law school.  Applicants must have less than three years in the grade of captain as of the first day of classes.  Officers in the ELP do not receive pay and allowances and must personally fund their law school education.  However, ELP participants continue to accrue time for promotion and retirement purposes and remain eligible for other active duty benefits such as Base Exchange, commissary, and medical services.
+            </li>
+        </ul>
+      <p>
+       The FLEP/ELP board is held annually in March.  For all our accession programs, applicants must schedule an appointment for a hiring interview with the Staff Judge Advocate (SJA) at any active duty Air Force base. Applicants must schedule their interview appointment as early as possible, but before the 15th of the month prior to the month of the board that they wish to meet.
+      </p>
+    </div>
+
+<h3 class="ui-accordion-header ui-corner-top ui-accordion-header-collapsed ui-corner-all ui-state-default ui-accordion-icons" role="tab" id="ui-id-8" aria-controls="ui-id-9" aria-selected="false" aria-expanded="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span><a href="#">Air Reserve Component (PART-TIME)</a></h3>
+<div class="ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content" id="ui-id-9" aria-labelledby="ui-id-8" role="tabpanel" aria-hidden="true" style="display: none; height: 471px;">
+In addition to the full-time active duty positions described above, the Air
+Force JAG Corps offers a part-time program for licensed attorneys, in the
+Air Force Reserve and Air National Guard (over 900 ARC attorneys).  Together, these programs are
+called the Air Reserve Component, or "ARC."  Licensed attorneys, even those
+with no prior military experience, may apply for a judge advocate appointment in the ARC.  However, 
+these judge advocate positions, however, are
+intended for attorneys who have amassed significant practical experience as
+licensed attorneys.  Applicants must be graduates of a law school accredited
+by the American Bar Association and be active members of the bar of the
+highest court of any state or territory of the United States, or the
+District of Columbia.  United States citizenship is required.  Applicants
+who have not previously served as commissioned officers must be commissioned
+before their 35th birthday.  Selection for ARC judge advocate positions is
+also conditioned on meeting medical and other qualification criteria for
+appointment in the Air Force Reserve or Air National Guard.
+Applications for ARC judge advocate positions are accepted on a rolling
+basis.  
+<p>There are no application deadlines or selection boards.  Upon
+receipt of an application, HQ USAF/JAR will contact the applicant to arrange for an interview with an active duty SJA.  
+</p>
+</div>
+
+    
+ </div>
+
+
+ </td>
+</tr>  
+      
+     
+    </tbody></table>
+   </div>
+
+   <div id="instructions" style="display: none;">
+    <table class="pHomeContent">
+     <tbody><tr>
+      <td>
+        <div style="font-size:14pt;">Instructions</div>
+</td>
+</tr>
+<tr>
+<td>
+<table class="pHomeContent">
+<tbody><tr>
+<td>Please submit your online application for entry into the U.S. Air Force Judge Advocate General's Corps by completing the steps below:</td>
+</tr>
+<tr>
+<td>1. <strong>Login using your email address as your username</strong> and the password provided when you created your account.  If you do not know or have forgotten your password, click on "Reset Password" and follow instructions provided on the screen.</td>
+</tr>
+<tr>
+<td>2.  Once logged in, enter data into the various application selections.  You may log out and return later to enter or update any section prior to submitting your application. Review your entries to ensure accuracy.</td>
+</tr>
+<tr>
+<td>3.  Upload all required documents.</td>
+</tr>
+<tr>
+<td>4.  Submit your online application.  Once you have submitted your application, you will not be allowed to update your application.</td>
+</tr>
+<tr>
+<td>5.  You will be contacted by a Staff Judge Advocate (SJA) for an interview.</td>
+</tr>
+<tr>
+<td><strong>ONLY COMPLETE APPLICATIONS SUBMITTED BY THE APPLICATION DEADLINE WILL BE CONSIDERED.</strong></td>
+</tr>
+<tr>
+<td>If selected for entry into the Air Force JAG Corps, you must submit an official application.  This application will require you to sign official documents regarding your entry into the Air Force JAG Corps.  Additionally, you will have to be cleared medically for entry into the Air Force JAG Corps.</td>
+</tr>
+<tr>
+<td><strong>The following items will need to be uploaded as part of the online application.  All items can have a maximum size of 3MB and be in PDF format except the photo which can have a maximum size of 1MB and be in jpeg format.
+</strong></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Motivational Statement (limited to 1 page, double-spaced)</li>
+<li>Resume`</li>
+<li>Full-length [Head to Toe] photograph (Maximum File Size:  1 MB) in courtroom attire.  If applying for Ed-Delay or FLEP/ELP, you must be in uniform (service dress) in the full length photograph</li>
+<li>Law School Acceptance Letters (if applying for Ed-Delay In)</li>
+<li>List of Applications to Law Schools (if applying for FLEP/ELP)</li>
+<li>Law School Transcripts</li>
+<li>Undergraduate Transcript</li>
+<li>LSAT Percentile (LSAT Report Score Sheet)</li>
+<li>Bar Certificate or Letter of Good Standing (if licensed)</li>
+<li>DD Form 214 (if prior military)</li>
+<li>Officer Performance Reports or Enlisted Performance Reports (if applicable)</li>
+<li>Officer SURF and Training Reports (if applying for FLEP/ELP)</li>
+<li>Release Letter from AFPC Functional Manager (if applying for FLEP/ELP)</li>
+<li>FLEP/ELP Agreement (if applying for FLEP/ELP)</li>
+<li>Writing Sample (Optional - 10 pages or less)</li>
+<li>Letter(s) of Recommendation (Optional - up to 5)
+<div style="padding-left:8px;">Recommendation letters should be written by someone who can attest to his or her observations of your work ethic, duty performance, leadership potential, etc.</div>  
+<div style="padding-left:8px;">Address all letters to "Selection Board Members" at the address below. <b>DO NOT mail</b> recommendation letters directly to the selection board. </div>
+<div style="padding-left:8px;">The address below is provided for inclusion in letters of recommendation.</div>
+
+ <div style="padding-left:500px;">HQ USAF/JAX</div>
+ <div style="padding-left:500px;">1500 W. Perimeter Rd., Ste. 3330</div>
+ <div style="padding-left:500px;">Joint Base Andrews MD 20762</div>
+</li>
+</ul>
+</td>
+</tr>
+</tbody></table>
+      </td>
+     </tr>
+    </tbody></table>
+   </div>
+   
+
+   <div id="failed" style="display: none;">   
+    <table class="pHomeContent"> 
+     <tbody><tr>
+      <td>
+        Please ensure you have entered the correct credentials. 
+      </td>
+     </tr>
+    </tbody></table>
+   </div>
+
+   <div id="requested" style="display: none;">   
+    <table class="pHomeContent"> 
+     <tbody><tr>
+      <td>
+        Thank you for requesting an account.&nbsp;&nbsp;&nbsp;An email with further instructions will be sent to your email address within 12 hours.
+
+ 
+      </td>
+     </tr>
+    </tbody></table>
+   </div>    
+    
+    
+   <div id="resetPassword" style="display:none;">
+
+
+
+   	
+   	
+    <table class="pHomeContent">
+     <tbody><tr>
+      <td>
+        <form name="ResetPass" action="checkEmailOnReset.php" method="post" autocomplete="off">	
+        To reset your password you must confirm your identity:
+<br>
+Please enter your email address in the input box below.
+         <input type="hidden" name="formIdResetPass" value="8ff2a236ebc053d9650d8217d844325bd959bc4c47a9bc8c3a2c99eef9b47bd8">
+         <input type="text" maxlength="100" size="100" name="myEmail" title="Enter Email">
+         <input type="submit" value="Submit Request" title="Submit Request">
+        </form>
+      </td>
+     </tr>
+    </tbody></table> 
+    </div>
+
+   <div id="changeLogin" style="display:none;">
+    <table class="pHomeContent">
+     <tbody><tr>
+      <td>
+        <form name="ChangeLogin" action="checkEmailOnChangeLogin.php" method="post" autocomplete="off">
+        To change login you must confirm your identity:
+<br>
+Please enter your email address in the input box below.
+         <input type="hidden" name="formIdChangeLogin" value="b316dd5b1afcedb6edfaaa7caab14bddd2ca5c75a06b11c4b0bbc4ca451e2dbe">
+         <input type="text" maxlength="100" size="100" name="myEmail" title="Enter Email">
+         <input type="submit" value="Submit Request" title="Submit Request">
+        </form>
+
+      </td>
+     </tr>
+    </tbody></table>
+   </div>
+
+        
+   <div id="contactUs" style="display: none;">
+    <table class="pHomeContent">
+     <tbody><tr>
+      <td>
+       <div style="font-size:14pt;">Contact Us</div>
+</td>
+</tr>
+<tr>
+<td>
+<p>If you have any questions or need additional information about becoming an active duty Air Force JAG, please click <a href="http://www.airforce.com/jag/contact_JAG" target="_blank">Contact JAG</a> to navigate to the JAG recruiting website.</p>
+ 
+      </td>
+     </tr>
+    </tbody></table>
+   </div>
+
+   <div id="locked" style="display: none;">
+    <table class="pHomeContent">
+     <tbody><tr>
+      <td>
+        Your Account Has Been Locked. You May Reset Your Password To Unlock Your Account.       </td>
+     </tr>
+    </tbody></table>
+   </div>
+  </td>
+ </tr>
+</tbody></table>
+
+<script type="text/javascript"> 
+
+
+    $("#privacy_act_div").dialog({
+       open:  function(event, ui) { $("body").css("overflow","hidden"); $(".ui-widget-overlay").css("width","100%"); },           
+       close: function(event, ui) { $("body").css("overflow", "auto") },              
+       autoOpen: false, modal: true, closeOnEscape: false, resizable: false, width: 600, height: 600 
+    });
+        
+   function showPrivacyActPopup()
+   { $("#privacy_act_div").dialog("open"); }
+
+
+$( "#accordion" ).accordion({autoHeight: false, collapsible: true, active: false});
+
+
+
+
+</script><div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-draggable" aria-describedby="privacy_act_div" aria-labelledby="ui-id-1" style="display: none; position: relative;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-1" class="ui-dialog-title">Privacy &amp; Security Notice</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="privacy_act_div" style="color: rgb(0, 51, 102); text-align: left; font-size: 10pt;" class="ui-dialog-content ui-widget-content">
+ 
+   <div style="font-size: 10pt;">
+       <div style="margin-bottom: 10px; font-weight: normal;">
+<span style="font-weight: bold; margin-right: 10px;">PRIVACY ACT NOTICE:</span>
+</div>
+<div style="margin-bottom: 10px; font-weight: normal;">
+<span style="font-weight: bold; margin-right: 10px;">PRIVACY ACT STATEMENT:</span>
+</div>
+<div style="margin-bottom: 10px; font-weight: normal;">
+<span style="font-weight: bold; margin-right: 10px;">AUTHORITIES:</span>
+</div>
+<div style="margin-bottom: 10px; font-weight: normal;">
+Authority: Primarily 10 U.S.C. 8013; 10 U.S.C. 8037; and E.O. 9397.
+</div>
+<div style="margin-bottom: 10px; font-weight: normal;">
+<span style="font-weight: bold; margin-right: 10px;">PURPOSES:</span>
+To obtain information required for official purposes, to include management of 
+Judge Advocate personnel accessions, assignment, duties, and related matters such as 
+attorney licenses, continuation pay, and deployments.
+</div>
+<div style="margin-bottom: 10px; font-weight: normal;">
+<span style="font-weight: bold; margin-right: 10px;">ROUTINE USES:</span>
+The Privacy Act, 5 U.S.C. 552a,"Routine Uses is applicable as is the DoD "Blanket Routine Uses" 
+published at the beginning of the Air Force's compilation of systems of records notices, 
+located at <a href="http://www.defenselink.mil/privacy/notices/usaf" target="_blank">
+                www.defenselink.mil/privacy/notices/usaf</a> and other Routine Uses listed 
+under the Legal Assistance and Judge Advocate Personnel Records Air Force Judge Advocate 
+Privacy Act System of Record Notices. Such routine uses outside of DoD for other than DoD official 
+purposes include responding to congressional requests and law enforcement requests. 
+These routine uses may also be reviewed at the defense link.
+</div>
+<div style="margin-bottom: 10px; font-weight: normal;">
+<span style="font-weight: bold; margin-right: 10px;">DISCLOSURE:</span>
+Disclosure is non-voluntary with respect to social security numbers requested, for employment eligibility 
+requirements.  Non-disclosure of requested personal information may result in the inability of JAGC 
+personnel to provide consider an application for appointment as an officer in the United States Air 
+Force and as an Air Force Judge Advocate.
+</div>
+<div style="margin-bottom: 10px; font-weight: normal;">
+<span style="font-weight: bold; margin-right: 10px;">SORNs:</span>
+051 AF JA C  (Judge Advocate Personnel Records)
+</div>
+   </div>
+  
+<div style="border-top: 1px solid gray; margin-top: 30px; text-align: center; padding: 15px 0px 10px 0px;"><button id="privacy_act_close" class="savebutton" onclick="$('#privacy_act_div').dialog('close')">Close Popup</button></div>
+</div></div>
+<br>
+<br>
+	<table style="width:100%;" id="footer">
+	 <tbody>
+	  <tr>
+	   <td class="footer_datacell"><a href="#" onclick="showPrivacyActPopup()" title="Show Privacy &amp; Security Notice">Privacy &amp; Security Notice</a></td>
+	  </tr>
+	 </tbody>
+	</table>
+
+
+
+</body></html>

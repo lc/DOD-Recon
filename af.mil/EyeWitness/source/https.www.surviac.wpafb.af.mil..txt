@@ -1,0 +1,146 @@
+<!DOCTYPE html><html lang="en"><head>
+<title>404 Error</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width-device-width, initial-scale=1">
+
+
+<meta name="description" content="Defense Technical Information Center (DTIC) Homepage provides general information about the DTIC organization.  DTIC has DoD-wide responsibility for acquiring, storing and disseminating scientific and technical information to aid in defense research and development.">
+
+<meta name="keywords" content="technical information, defense technical information, federal government, information center, information retrieval, information transfer, scientific and technical information, governing information center, databases, documents, legacy data, technical reports, management summaries, research and development, dod, acquisitions, world war II, dod congressional budget data, r&amp;e gateway, dodtechspace, dodtechipedia, dod iac, dtic strategic plan, defenseinnovationmarketplace, defense innovation marketplace, ured, dod research.">
+
+	<!-- Bootstrap -->
+	<link rel="stylesheet" media="screen,print" href="/cdn/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin="anonymous">
+
+	<!-- font awesome -->
+	<!-- new IE not renndering font awesome version properly -->
+	<link rel="stylesheet" href="/cdn/font/4.7.0/css/font-awesome.min.css" crossorigin="anonymous">
+	<!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" /> -->
+
+	<!-- Styles for search pages -->
+	<link href="/cdn/assets/npr/css/main.css" rel="stylesheet" type="text/css">
+	
+
+	<!--[if lt IE 9]>
+		<script src="/cdn/html5shiv/3.7.3/html5shiv.min.js"></script>
+		<script src="/cdn/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<div id="wrap"> <!-- the wrap id is used to push the footer to the bottom of the page -->
+		
+		<!-- Page top navigation (start) -->
+		<nav class="navbar navbar-default navbar-static-top">
+			<div class="yellowbar"></div>
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>	 
+				</div>				
+				<div id="navbar" class="collapse navbar-collapse">
+					<ul class="nav navbar-nav">
+						<li><a href="https://www.dtic.mil/index.html?dtmp=dt_hm">R&amp;E Gateway Home</a></li>
+						<li><a href="https://www.dtic.mil/dodtechspace/welcome?dtmp=dt_ts">DoDTechSpace</a></li>
+						<li><a href="https://www.dodtechipedia.mil/?dtmp=dt_tp">DoDTechipedia</a></li>
+						<li><a href="https://www.dtic.mil/budget_research.html?dtmp=dt_rp#researchprogress">Research in Progress</a></li>
+						<li><a href="http://iac.dtic.mil/?dtmp=dt_iac" target="_blank">Information Analysis Centers</a></li>
+						<li><a href="https://www.dtic.mil/budget_research.html?dtmp=dt_bf#budgetinfo">Budget</a></li>
+						<li><a href="http://www.defenseinnovationmarketplace.mil/index.html?dtmp=dt_dim" target="_blank">Defense Innovation Marketplace</a></li>
+						<li><a href="https://www.dtic.mil/DTICOnline/home.search?tabId=DoDResearchTab&amp;dtmp=dt_se">Search </a></li>
+						<li><a href="https://www.dtic.mil/DACSconnect/go.html?dtmp=dt_ac">Submit to DTIC </a></li>
+						<li><a href="https://www.dtic.mil/contactus.html?dtmp=dt_cu#contactus">Contact Us</a></li>
+					</ul>
+				</div><!--/.nav-collapse -->
+		</nav>
+		<!-- Top navigation (end) -->
+
+ 
+
+
+
+<div class="container">
+
+	<div class="row">
+		<div class="col-md-12">
+<hr>
+			<img width="100%" class="img-responsive" src="/cdn/assets/npr/img/404Error.png">
+		</div>
+		<div class="col-md-12">
+		<div>&nbsp; </div>
+
+			<h4 class="text-muted">
+			This page does not exist or has been moved. Please check the URL for errors and try again.
+			</h4>
+		</div>
+			
+		<div class="col-md-12">
+			<h4 class="text-muted">
+			Contact <a href="mailto: dtic.belvoir.us.mbx.dtic-access@mail.mil">DTIC <i class="fa fa-envelope-o" aria-hidden="true"></i></a> if this problem persists. </h4>
+			
+			<p>
+		</p></div>
+	
+		<div class="col-md-12">
+		<div>&nbsp; </div>
+	
+		
+			<button type="button" class="btn btn-sm" onclick="goBack()"><i class="fa fa-step-backward" aria-hidden="true"></i> Go Back</button>
+<hr>
+		</div>
+
+	</div> <!-- /row -->
+	
+</div> <!-- /container -->
+
+
+<script>
+function goBack() {
+    history.go(-1);
+}
+</script>
+
+	<div id="push"></div>
+	</div>  <!-- /wrap -->
+	
+	<!-- Page footer (start) -->
+	<footer class="footer">
+		
+			<div class="row">
+				<div class="col-xs-5 col-md-3  col-lg-2 seals" align="center">
+					<a href="http://www.defense.gov/"><img "="" src="/cdn/images/dod_seal_blueberries_75x75.png" width="75" height="75" alt="DoD Seal"></a>&nbsp;&nbsp;				
+					<a href="http://www.dtic.mil/dtic/"><img src="/cdn/images/dtic_seal_white_words_75x75.png" width="75" height="75" alt="DTIC Seal"></a>
+				</div>
+
+				<div class="col-xs-7 col-md-9  col-lg-10">
+					<p class="address"><a target="_blank" href="https://www.google.com/maps/place/8725+John+J+Kingman+Rd,+Fort+Belvoir,+VA+22060/@38.7192107,-77.1652158,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7acedd2cc74e3:0x1888d18869a5e613!8m2!3d38.7192107!4d-77.1630271">8725 John J. Kingman Road, Fort Belvoir, VA 22060-6218<br>1-800-CAL-DTIC (1-800-225-3842)</a></p>
+					<p class="links">
+						<a href="http://www.dtic.mil/dtic/legal/foia_notice.html" target="_blank">FOIA</a> |
+						<a href="http://www.dtic.mil/dtic/legal/privacy_security_and_copyright_notice.html" target="_blank">Privacy, Copyright &amp; Security</a>  |
+						<a href="http://www.dtic.mil/dtic/legal/web_accessibility_notice.html" target="_blank">Accessibility/Section 508</a>  |
+						<a href="http://www.dtic.mil/dtic/legal/no_fear_act_notice.html" target="_blank">No Fear Act</a> |
+						<a href="http://www.dtic.mil/dtic/faqs/dtic_a_to_z.html" target="_blank">DTIC A to Z</a>  |
+						<a href="https://www.dodtechipedia.mil/dodwiki/display/techipedia/Information-Sharing+Guidelines+for+DoDTechipedia" target="_blank">Guidelines</a>  |
+						<a href="https://www.dodtechipedia.mil/dodwiki/display/techipedia/DTIC" target="_blank">About Us</a> |
+						<a href="https://www.usa.gov/" target="_blank">USA.Gov</a>  |
+						<a href="https://www.dodtechipedia.mil/dodwiki/display/techipedia/Link+Disclaimer" target="_blank">Linked Disclaimer</a> 
+					</p>
+				</div>
+			</div>
+	</footer>
+		<div class="yellowbar"></div>
+	<!-- Page footer (end) -->
+	
+
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+        <script src="/cdn/jquery/2.1.3/jquery.min.js" integrity="" crossorigin="anonymous"></script>
+        <script src="/cdn/bootstrap/3.3.7/js/bootstrap.min.js" crossorigin="anonymous"></"></script>	
+
+
+
+ 
+
+</body></html>

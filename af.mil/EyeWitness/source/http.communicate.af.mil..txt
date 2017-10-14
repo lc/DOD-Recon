@@ -1,0 +1,273 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Strategic Leadership Communication</title>
+
+<!--Meta Tags-->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="robots" content="all">
+<meta name="MSSmartTagsPreventParsing" content="true">
+<meta name="Description" content="Strategic Leadership Communication develops communicators who understand and engage in the global information environment. We provide educational, doctrinal and research support to Air University, the Air Force and leaders worldwide.">
+<meta name="Keywords" content="">
+
+<!--AFCSLC CSS Styles-->
+<link rel="stylesheet" type="text/css" href="css/afcslc.css" media="screen">
+
+<!--Google Analytics script-->
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script> 
+ 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+Date();a=s.createElement(o),
+ 
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a
+,m)
+ 
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-33598831-2', 'af.mil');
+  ga('send', 'pageview');
+ 
+</script>
+
+<!--JS Scripts-->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<!--<script>
+  $(function() {
+    
+    var $allVideos = $("iframe[src^='http://player.vimeo.com'], iframe[src^='http://www.youtube.com'], iframe[src^='https://www.youtube.com'], iframe[src^='//www.youtube.com'],object, embed"),
+    $fluidEl = $("figure");
+	    	
+	$allVideos.each(function() {
+	
+	  $(this)
+	    // jQuery .data does not work on object/embed elements
+	    .attr('data-aspectRatio', this.height / this.width)
+	    .removeAttr('height')
+	    .removeAttr('width');
+	
+	});
+	
+	$(window).resize(function() {
+	
+	  var newWidth = $fluidEl.width();
+	  $allVideos.each(function() {
+	  
+	    var $el = $(this);
+	    $el
+	        .width(newWidth)
+	        .height(newWidth * $el.attr('data-aspectRatio'));
+	  
+	  });
+	
+	}).resize();
+
+});</script>-->
+<style>
+.aubox .auoverlay {display:none;}
+</style>
+
+
+</head>
+
+<body>
+<!-- Begin Body Content -->
+<div class="contentmaster" style="background-image:url(images/indeximages/indexBackground03.png); background-color:#000;"> 
+  
+<!-- Navigation  --> 
+
+<div class="nav">
+<!--Google Analytics script-->
+<script> 
+ 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+Date();a=s.createElement(o),
+ 
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a
+,m)
+ 
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-33598831-2', 'af.mil');
+  ga('send', 'pageview');
+ 
+</script>
+
+<!--JS Scripts-->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script>
+  $(function() {
+    
+    var $allVideos = $("iframe[src^='http://player.vimeo.com'], iframe[src^='http://www.youtube.com'], iframe[src^='https://www.youtube.com'], iframe[src^='//www.youtube.com'],object, embed"),
+    $fluidEl = $("figure");
+	    	
+	$allVideos.each(function() {
+	
+	  $(this)
+	    // jQuery .data does not work on object/embed elements
+	    .attr('data-aspectRatio', this.height / this.width)
+	    .removeAttr('height')
+	    .removeAttr('width');
+	
+	});
+	
+	$(window).resize(function() {
+	
+	  var newWidth = $fluidEl.width();
+	  $allVideos.each(function() {
+	  
+	    var $el = $(this);
+	    $el
+	        .width(newWidth)
+	        .height(newWidth * $el.attr('data-aspectRatio'));
+	  
+	  });
+	
+	}).resize();
+
+});</script>
+
+<!--AFCSLC CSS Styles-->
+<link rel="stylesheet" type="text/css" href="css/afcslc.css" media="screen">
+
+<div class="navhome">
+<a href="#"><img src="./images/indeximages/AUSeal40px.png" alt="Air University Website Link" height="30px" hspace="5" vspace="0" align="top" id="activator" class="aupop"></a><a href="./index.aspx" alt="Home">communicate.af.mil</a>
+</div>
+
+<div class="nav">
+<a href="./why.aspx" alt="Why Communicate?">why communicate?</a>&nbsp;&nbsp; <a href="./guide.aspx" alt="The Guide">the guide</a>&nbsp;&nbsp; <a href="./storytelling.aspx" alt="Storytelling">storytelling</a>&nbsp;&nbsp; <a href="./education.aspx" alt="Education">education</a>&nbsp;&nbsp; <a href="./resources.aspx" alt="Resources">resources</a>
+</div>
+
+
+       <!-- AU overlay and box code for AU drop down -->
+        <div class="auoverlay" id="overlay" style="display:none;"></div>
+        <div class="aubox" id="box"> <span><a class="boxclose" id="boxclose" title="Click to close"><img src="images/aupop.png" border="0" alt="Air War College is part of The Air University- click to close"></a></span>
+          <p><a href="http://www.au.af.mil/au/" target="_blank" title="Visit Air University"><img src="images/visitau.png" border="0" alt="Visit The Air University"></a></p>
+        </div>
+
+        <!-- The AU Dropdown JavaScript --> 
+        <script type="text/javascript" src="js/jquery.min.js"></script> 
+        <script type="text/javascript">
+            $(function() {
+                $('#activator').click(function(){
+                    $('#overlay').fadeIn('fast',function(){
+                        $('#box').animate({'top':'160px'},500);
+                    });
+                });
+                $('#boxclose').click(function(){
+                    $('#box').animate({'top':'-500px'},500,function(){
+                        $('#overlay').fadeOut('fast');
+                    });
+                });
+
+            });
+        </script> 
+ 
+<!--<a href="why.aspx" alt="Why Communicate?" >why communicate?</a>&nbsp;&nbsp; <a href="./guide.aspx" alt="The Guide"  >the guide</a>&nbsp;&nbsp; <a href="./storytelling.aspx" alt="Storytelling" >storytelling</a>&nbsp;&nbsp; <a href="./education.aspx" alt="Education" >education</a>&nbsp;&nbsp; <a href="./resources.aspx" alt="Resources" >resources</a>-->
+</div>
+  
+  <!-- Begin Body Content --> 
+  <!-- Inset Transparent Div -->
+  <!--<div class="infobox" style="border-width:0px; font-size:100%; color:#fff; max-width: 500px; margin: 2.5% auto .5% auto; background-image:url(images/logos/bg-50black.png); background-color:transparent; padding:2.5%;">
+  <br />
+  </div>-->
+  <!-- End Inset Transparent Set Div --> 
+  <!-- End Master Header Div --> 
+  
+  <div class="infobox" style="border-width:0px; font-size:100%; color:#fff; max-width: 500px; margin: 2.5% auto .5% auto; background-image:url(images/logos/bg-50black.png); background-color:transparent; padding:2.5%;">
+  <img src="images/indeximages/blockLogo.png" alt="Strategic Leadership Communication" style="width:100%; height:auto;">
+  Empower strategically-agile leadership communication across the Department of Defense through shared vision, education, advice and counsel to inspire leaders who value and leverage multi-domain communication capabilities--always there in the global information environment.<br><br>
+  We provide educational, doctrinal and research support to Air University, the Air Force and leaders worldwide.
+    
+    <hr color="#e7a81c" "="">
+    <img src="./images/indeximages/DoDSeal100px.png" alt="Department of Defense Seal, 100px" width="15%" hspace="20" vspace="20"><br>
+  </div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="photocaption">U.S. Air Force photo by<br>
+Master Sgt. Scott Thompson</div>
+
+
+
+
+
+</div>
+
+<!--Footer.html Contains: Footer Navigation--> 
+<!--AFCSLC CSS Styles-->
+<link rel="stylesheet" type="text/css" href="css/afcslc.css" media="screen">
+
+<div class="footer" align="center"><a href="http://www.airuniversity.af.mil/" title="Air University" target="_blank">Air University</a> | 
+Email: <a href="mailto:communicate@us.af.mil" title="AFCSLC email address">Communicate@us.af.mil</a> | 
+Phone Number: (334) 953-8518 | 
+Maxwell Air Force Base, Montgomery, Alabama | 
+Last Updated: March 30, 2017
+
+<br>
+
+<a href="http://www.airforce.com/" title="U.S. Air Force Recruiting" target="_blank">AF.com</a> | 
+<a href="http://www.af.mil/" title="U.S. Air Force News" target="_blank">AF.mil</a> | 
+<a href="http://www.usa.gov/" title="USA.gov" target="_blank">USA.gov</a> | 
+<a href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" title="Accessibility/Section 508" target="_blank">Accessibility/Section 508</a> | 
+<a href="http://www.af.mil/EqualOpportunity.aspx" title="EEO" target="_blank">EEO</a> | 
+<a href="http://www.foia.af.mil/" title="FOIA Information Link" target="_blank">FOIA</a> | 
+<a href="http://www.af.mil/InspectorGeneralComplaints.aspx" title="IG" target="_blank">IG</a> | 
+<a href="http://prhome.defense.gov/nofear" title="No Fear Act" target="_blank">No Fear Act</a> | 
+<a href="http://www.au.af.mil/au/privacy.asp" title="Privacy Policy" target="_blank">Privacy Policy</a> | 
+<a href="http://www.sexualassaultpreventionresponse.af.mil/index.asp" title="Sexual Assault Awareness &amp; Prevention" target="_blank">Sexual Assault Awareness &amp; Prevention</a> | 
+<a href="http://www.airforcemedicine.af.mil/suicideprevention/" title="Suicide prevention" target="_blank">Suicide Prevention</a>
+</div>
+
+
+</body></html>
